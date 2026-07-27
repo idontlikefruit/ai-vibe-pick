@@ -1,26 +1,24 @@
 # GitHub Trending 今日热榜产品分析
 
-> 采集：2026-07-27 ｜ 项目：17 ｜ AI 相关：7（41%）
+> 采集：2026-07-28 ｜ 项目：15 ｜ AI 相关：6（40%）
 
 | # | 项目 | 今日⭐ | 总⭐ | 语言 | AI | tags |
 | :--: | :--- | ---: | ---: | :--- | :--: | :--- |
-| 1 | [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | +1,166 | 31,312 | Swift | 否 | Swift, Bluetooth Mesh, 聊天 |
-| 2 | [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | +900 | 5,225 | JavaScript | 是 | JavaScript, AI Agent, Web 自动化, 浏览器 |
-| 3 | [block/buzz](https://github.com/block/buzz) | +1,710 | 13,984 | Rust | 否 | Rust, 通信平台 |
-| 4 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | +149 | 15,188 | TypeScript | 否 | TypeScript, 开发工具 |
-| 5 | [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) | +888 | 5,974 | TypeScript | 否 | TypeScript, React, 网站构建 |
-| 6 | [yorukot/superfile](https://github.com/yorukot/superfile) | +131 | 20,486 | Go | 否 | Go, TUI, 文件管理 |
-| 7 | [nodejs/node](https://github.com/nodejs/node) | +36 | 118,543 | JavaScript | 否 | JavaScript, C++, 运行时 |
-| 8 | [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) | +398 | 27,359 | Java | 是 | Java, AI, Text-to-SQL, 数据库 |
-| 9 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | +413 | 51,020 | JavaScript | 是 | JavaScript, AI Harness, 设计 |
-| 10 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | +321 | 34,349 | Python | 是 | Python, Foundation Model, 金融, 时间序列 |
-| 11 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | +832 | 14,292 | Go | 是 | Go, AI, 代码审查 |
-| 12 | [andrewyng/aisuite](https://github.com/andrewyng/aisuite) | +187 | 15,491 | Python | 是 | Python, LLM, 多模型接口 |
-| 13 | [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | +379 | 50,425 | Jupyter Notebook | 是 | Jupyter, Python, Claude, 教程 |
-| 14 | [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) | +338 | 10,150 | Rust | 否 | Rust, Minecraft, 游戏服务器 |
-| 15 | [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android) | +260 | 6,888 | Kotlin | 否 | Kotlin, Android, Bluetooth Mesh |
-| 16 | [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) | +18 | 25,788 | Java | 否 | Java, CI/CD |
-| 17 | [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) | +35 | 13,517 | C++ | 否 | C++, VPN, 网络 |
+| 1 | [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | +2,344 | 32,186 | Swift | 否 | Swift, Bluetooth Mesh, 聊天 |
+| 2 | [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) | +515 | 13,777 | C++ | 否 | C++, VPN, 网络 |
+| 3 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | +554 | 43,994 | TypeScript | 是 | TypeScript, ai-companion, ai-vtuber, airi, digital-life |
+| 4 | [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) | +420 | 2,634 | TypeScript | 否 | TypeScript, data-science, duckdb, geospatial, maplibre |
+| 5 | [yorukot/superfile](https://github.com/yorukot/superfile) | +600 | 20,845 | Go | 否 | Go, TUI, 文件管理 |
+| 6 | [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | +349 | 58,141 | Python | 否 | Python |
+| 7 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | +849 | 51,494 | JavaScript | 是 | JavaScript, AI Harness, 设计 |
+| 8 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | +442 | 34,546 | Python | 是 | Python, Foundation Model, 金融, 时间序列 |
+| 9 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | +980 | 14,741 | Go | 是 | Go, AI, 代码审查 |
+| 10 | [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) | +179 | 25,871 | Java | 否 | Java, CI/CD |
+| 11 | [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | +412 | 11,028 | Python | 是 | Python |
+| 12 | [vudovn/ag-kit](https://github.com/vudovn/ag-kit) | +5 | 7,945 | TypeScript | 否 | TypeScript |
+| 13 | [apache/cassandra](https://github.com/apache/cassandra) | +34 | 9,948 | Java | 否 | Java, cassandra, database |
+| 14 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | +221 | 54,143 | Python | 是 | Python, ai-prompts, ai-skill, bluesky, claude |
+| 15 | [ocornut/imgui](https://github.com/ocornut/imgui) | +64 | 75,191 | C++ | 否 | C++, api, cplusplus, framework, game-development |
 
 ## 新热点
 
