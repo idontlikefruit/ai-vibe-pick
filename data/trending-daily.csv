@@ -1,18 +1,18 @@
 rank,full_name,name,description,language,stars_today,total_stars,ai_related,tags,license,collected_at
-1,permissionlesstech/bitchat,bitchat,"bluetooth mesh chat, IRC vibes",Swift,1166,30518,否,"Swift, Bluetooth Mesh, 聊天",Unlicense,2026-07-27
-2,citrolabs/ego-lite,ego-lite,"The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",JavaScript,900,4702,是,"JavaScript, AI Agent, Web 自动化, 浏览器",MIT,2026-07-27
-3,block/buzz,buzz,A hive mind communication platform,Rust,1710,13422,否,"Rust, 通信平台",Apache-2.0,2026-07-27
-4,pingdotgg/t3code,t3code,,TypeScript,149,15080,否,"TypeScript, 开发工具",MIT,2026-07-27
-5,CoreBunch/Instatic,Instatic,"The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",TypeScript,888,5734,否,"TypeScript, React, 网站构建",MIT,2026-07-27
-6,yorukot/superfile,superfile,Pretty fancy and modern terminal file manager,Go,131,20289,否,"Go, TUI, 文件管理",MIT,2026-07-27
-7,nodejs/node,node,Node.js JavaScript runtime ✨🐢🚀✨,JavaScript,36,118487,否,"JavaScript, C++, 运行时",NOASSERTION,2026-07-27
-8,OtterMind/Chat2DB,Chat2DB,"🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",Java,398,27168,是,"Java, AI, Text-to-SQL, 数据库",NOASSERTION,2026-07-27
-9,pbakaus/impeccable,impeccable,The design language that makes your AI harness better at design.,JavaScript,413,50750,是,"JavaScript, AI Harness, 设计",Apache-2.0,2026-07-27
-10,shiyu-coder/Kronos,Kronos,Kronos: A Foundation Model for the Language of Financial Markets,Python,321,34211,是,"Python, Foundation Model, 金融, 时间序列",MIT,2026-07-27
-11,alibaba/open-code-review,open-code-review,"Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",Go,832,13936,是,"Go, AI, 代码审查",Apache-2.0,2026-07-27
-12,andrewyng/aisuite,aisuite,"Simple, unified interface to multiple Generative AI providers",Python,187,15423,是,"Python, LLM, 多模型接口",MIT,2026-07-27
-13,anthropics/claude-cookbooks,claude-cookbooks,A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.,Jupyter Notebook,379,50263,是,"Jupyter, Python, Claude, 教程",MIT,2026-07-27
-14,Pumpkin-MC/Pumpkin,Pumpkin,Empowering everyone to host fast and efficient Minecraft servers.,Rust,338,10036,否,"Rust, Minecraft, 游戏服务器",GPL-3.0,2026-07-27
-15,permissionlesstech/bitchat-android,bitchat-android,"bluetooth mesh chat, IRC vibes",Kotlin,260,6745,否,"Kotlin, Android, Bluetooth Mesh",GPL-3.0,2026-07-27
-16,jenkinsci/jenkins,jenkins,Jenkins automation server,Java,18,25723,否,"Java, CI/CD",MIT,2026-07-27
-17,amnezia-vpn/amnezia-client,amnezia-client,Amnezia VPN Client (Desktop+Mobile),C++,35,13355,否,"C++, VPN, 网络",GPL-3.0,2026-07-27
+1,permissionlesstech/bitchat,bitchat,"bluetooth mesh chat, IRC vibes",Swift,1166,31312,否,"Swift, Bluetooth Mesh, 聊天",Unlicense,2026-07-27
+2,citrolabs/ego-lite,ego-lite,"The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",JavaScript,900,5225,是,"JavaScript, AI Agent, Web 自动化, 浏览器",MIT,2026-07-27
+3,block/buzz,buzz,A hive mind communication platform,Rust,1710,13984,否,"Rust, 通信平台",Apache-2.0,2026-07-27
+4,pingdotgg/t3code,t3code,,TypeScript,149,15188,否,"TypeScript, 开发工具",MIT,2026-07-27
+5,CoreBunch/Instatic,Instatic,"The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",TypeScript,888,5974,否,"TypeScript, React, 网站构建",MIT,2026-07-27
+6,yorukot/superfile,superfile,Pretty fancy and modern terminal file manager,Go,131,20486,否,"Go, TUI, 文件管理",MIT,2026-07-27
+7,nodejs/node,node,Node.js JavaScript runtime ✨🐢🚀✨,JavaScript,36,118543,否,"JavaScript, C++, 运行时",NOASSERTION,2026-07-27
+8,OtterMind/Chat2DB,Chat2DB,"🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",Java,398,27359,是,"Java, AI, Text-to-SQL, 数据库",NOASSERTION,2026-07-27
+9,pbakaus/impeccable,impeccable,The design language that makes your AI harness better at design.,JavaScript,413,51020,是,"JavaScript, AI Harness, 设计",Apache-2.0,2026-07-27
+10,shiyu-coder/Kronos,Kronos,Kronos: A Foundation Model for the Language of Financial Markets,Python,321,34349,是,"Python, Foundation Model, 金融, 时间序列",MIT,2026-07-27
+11,alibaba/open-code-review,open-code-review,"Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",Go,832,14292,是,"Go, AI, 代码审查",Apache-2.0,2026-07-27
+12,andrewyng/aisuite,aisuite,"Simple, unified interface to multiple Generative AI providers",Python,187,15491,是,"Python, LLM, 多模型接口",MIT,2026-07-27
+13,anthropics/claude-cookbooks,claude-cookbooks,A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.,Jupyter Notebook,379,50425,是,"Jupyter, Python, Claude, 教程",MIT,2026-07-27
+14,Pumpkin-MC/Pumpkin,Pumpkin,Empowering everyone to host fast and efficient Minecraft servers.,Rust,338,10150,否,"Rust, Minecraft, 游戏服务器",GPL-3.0,2026-07-27
+15,permissionlesstech/bitchat-android,bitchat-android,"bluetooth mesh chat, IRC vibes",Kotlin,260,6888,否,"Kotlin, Android, Bluetooth Mesh",GPL-3.0,2026-07-27
+16,jenkinsci/jenkins,jenkins,Jenkins automation server,Java,18,25788,否,"Java, CI/CD",MIT,2026-07-27
+17,amnezia-vpn/amnezia-client,amnezia-client,Amnezia VPN Client (Desktop+Mobile),C++,35,13517,否,"C++, VPN, 网络",GPL-3.0,2026-07-27

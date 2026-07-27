@@ -126,6 +126,33 @@ def refresh_top100() -> tuple[int, list[str], list[str]]:
     return sum(row["ai_related"] == "是" for row in rows), sorted(current - old_names), sorted(old_names - current)
 
 
+# AI 关键词，用于在无人工标注时按 topics/描述自动推断（每日自动跑的兜底）。
+AI_KEYWORDS = [
+    "ai", "llm", "agent", "gpt", "claude", "machine-learning", "machine learning",
+    "neural", "rag", "generative", "openai", "anthropic", "transformer", "diffusion",
+    "copilot", "embedding", "vector", "chatbot", "deep-learning", "deep learning",
+    "nlp", "foundation-model", "foundation model", "multimodal", "gemini", "llama",
+    "inference", "fine-tun", "finetun", "prompt", "mcp", "model-context-protocol",
+]
+
+
+def auto_classify(api, full_name, description, language):
+    """无人工标注时的兜底分类：按 topics + 描述关键词判断 AI 相关，tags 取语言 + 相关 topics。"""
+    topics = api.get("topics", []) or []
+    text = " ".join([full_name, description, " ".join(topics)]).lower()
+    is_ai = any(k in text for k in AI_KEYWORDS)
+    tag_parts = []
+    if language and language != "未标注":
+        tag_parts.append(language)
+    for tp in topics:
+        if len(tag_parts) >= 5:
+            break
+        if tp.lower() not in [t.lower() for t in tag_parts]:
+            tag_parts.append(tp)
+    tags = ", ".join(tag_parts) if tag_parts else language
+    return ("是" if is_ai else "否", tags)
+
+
 def refresh_trending() -> int:
     page = fetch(TRENDING_URL)
     articles = re.findall(r'<article class="Box-row".*?</article>', page, re.S)
@@ -141,7 +168,7 @@ def refresh_trending() -> int:
         language = lang_match.group(1).strip() if lang_match else "未标注"
         today_match = re.search(r"([\d,]+)\s*stars?\s+today", article)
         api = gh_repo(full_name)
-        ai_related, tags = TRENDING_OVERRIDES.get(full_name, ("否", language))
+        ai_related, tags = TRENDING_OVERRIDES.get(full_name) or auto_classify(api, full_name, description, language)
         rows.append({
             "rank": len(rows) + 1,
             "full_name": full_name,
