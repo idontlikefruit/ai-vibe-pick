@@ -1,221 +1,141 @@
 full_name,name,url,stars,rank_top100,trending_today,trending_stars_today,category,ai_related,platform,primary_lang,dev_langs,frontend,backend,database,llm_runtime,tags,license,owner,forks,open_issues,description,sources,last_updated
-codecrafters-io/build-your-own-x,build-your-own-x,https://github.com/codecrafters-io/build-your-own-x,525238,1,,,B-学习资源/Awesome,否,,,,,,,,教程,,,49677,,Master programming by recreating your favorite technologies from scratch.,top100,2026-07-17
-sindresorhus/awesome,awesome,https://github.com/sindresorhus/awesome,485008,2,,,B-学习资源/Awesome,否,,,,,,,,Awesome 清单,,,35862,,😎 Awesome lists about all kinds of interesting topics,top100,2026-07-17
-freeCodeCamp/freeCodeCamp,freeCodeCamp,https://github.com/freeCodeCamp/freeCodeCamp,451902,3,,,B-学习资源/Awesome,否,,,,,,,,"React, Node.js",,,45621,,"freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",top100,2026-07-17
-public-apis/public-apis,public-apis,https://github.com/public-apis/public-apis,450139,4,,,B-学习资源/Awesome,否,,,,,,,,API 清单,,,49494,,A collective list of free APIs,top100,2026-07-17
-EbookFoundation/free-programming-books,free-programming-books,https://github.com/EbookFoundation/free-programming-books,392127,5,,,B-学习资源/Awesome,否,,,,,,,,书籍,,,66526,,:books: Freely available programming books,top100,2026-07-17
-openclaw/openclaw,openclaw,https://github.com/openclaw/openclaw,382957,6,,,A-AI/Agent生态,是,,,,,,,,TypeScript,,,80401,,Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞,top100,2026-07-17
-nilbuild/developer-roadmap,developer-roadmap,https://github.com/nilbuild/developer-roadmap,360964,7,,,B-学习资源/Awesome,否,,,,,,,,"Next.js, React",,,44532,,"Interactive roadmaps, guides and other educational content to help developers grow in their careers.",top100,2026-07-17
-donnemartin/system-design-primer,system-design-primer,https://github.com/donnemartin/system-design-primer,357630,8,,,B-学习资源/Awesome,否,,,,,,,,教程,,,57215,,Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.,top100,2026-07-17
-jwasham/coding-interview-university,coding-interview-university,https://github.com/jwasham/coding-interview-university,356226,9,,,B-学习资源/Awesome,否,,,,,,,,教程,,,84284,,A complete computer science study plan to become a software engineer.,top100,2026-07-17
-vinta/awesome-python,awesome-python,https://github.com/vinta/awesome-python,308221,10,,,B-学习资源/Awesome,否,,,,,,,,Awesome 清单,,,28315,,"An opinionated list of Python frameworks, libraries, tools, and resources",top100,2026-07-17
-awesome-selfhosted/awesome-selfhosted,awesome-selfhosted,https://github.com/awesome-selfhosted/awesome-selfhosted,305529,11,,,B-学习资源/Awesome,否,,,,,,,,Awesome 清单,,,14315,,A list of Free Software network services and web applications which can be hosted on your own servers,top100,2026-07-17
-996icu/996.ICU,996.ICU,https://github.com/996icu/996.ICU,276383,12,,,B-学习资源/Awesome,否,,,,,,,,社会议题,,,20797,,Repo for counting stars and contributing. Press F to pay respect to glorious developers.,top100,2026-07-17
-practical-tutorials/project-based-learning,project-based-learning,https://github.com/practical-tutorials/project-based-learning,273367,13,,,B-学习资源/Awesome,否,,,,,,,,教程,,,35261,,Curated list of project-based tutorials,top100,2026-07-17
-obra/superpowers,superpowers,https://github.com/obra/superpowers,254814,14,,,A-AI/Agent生态,是,,,,,,,,"Shell, Claude Code",,,22775,,An agentic skills framework & software development methodology that works.,top100,2026-07-17
-react/react,react,https://github.com/react/react,246497,15,,,C-前端/UI框架,否,,,,,,,,React,,,51230,,The library for web and native user interfaces.,top100,2026-07-17
-torvalds/linux,linux,https://github.com/torvalds/linux,239508,16,,,D-系统/运行时/语言,否,,,,,,,,"C, Linux 内核",,,63487,,Linux kernel source tree,top100,2026-07-17
-trimstray/the-book-of-secret-knowledge,the-book-of-secret-knowledge,https://github.com/trimstray/the-book-of-secret-knowledge,233302,17,,,B-学习资源/Awesome,否,,,,,,,,清单,,,13906,,"A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",top100,2026-07-17
-affaan-m/ECC,ECC,https://github.com/affaan-m/ECC,229791,18,,,A-AI/Agent生态,是,,,,,,,,"JavaScript, Claude Code, Codex",,,35169,,"The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",top100,2026-07-17
-TheAlgorithms/Python,Python,https://github.com/TheAlgorithms/Python,222696,19,,,B-学习资源/Awesome,否,,,,,,,,"Python, 算法",,,50838,,All Algorithms implemented in Python,top100,2026-07-17
-NousResearch/hermes-agent,hermes-agent,https://github.com/NousResearch/hermes-agent,214956,20,,,A-AI/Agent生态,是,,,,,,,,Python,,,40009,,The agent that grows with you,top100,2026-07-17
-vuejs/vue,vue,https://github.com/vuejs/vue,210158,21,,,C-前端/UI框架,否,,,,,,,,Vue 2,,,33947,,"This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core",top100,2026-07-17
-ossu/computer-science,computer-science,https://github.com/ossu/computer-science,206093,22,,,B-学习资源/Awesome,否,,,,,,,,教程,,,25595,,🎓 Path to a free self-taught education in Computer Science!,top100,2026-07-17
-n8n-io/n8n,n8n,https://github.com/n8n-io/n8n,196516,23,,,工作流/Agent 平台,是,Web(自托管/云),TypeScript,TypeScript,Vue 3 + Vue Flow + PrimeVue,Node.js,SQLite/PostgreSQL/MySQL,OpenAI/Anthropic/LangChain 节点,"TypeScript, Vue 3, Vue Flow, PrimeVue, Node.js, SQLite, PostgreSQL, MySQL",NOASSERTION(Sustainable Use License),n8n GmbH,59327,,可视化工作流自动化平台 原生 AI 能力 400+ 集成,"curated,top100",2026-07-17
-tensorflow/tensorflow,tensorflow,https://github.com/tensorflow/tensorflow,196359,24,,,A-AI/Agent生态,是,,,,,,,,"C, Python",,,75559,,An Open Source Machine Learning Framework for Everyone,top100,2026-07-17
-trekhleb/javascript-algorithms,javascript-algorithms,https://github.com/trekhleb/javascript-algorithms,196236,25,,,D-系统/运行时/语言,否,,,,,,,,"JavaScript, 算法",,,31046,,📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings,top100,2026-07-17
-ultraworkers/claw-code,claw-code,https://github.com/ultraworkers/claw-code,194764,26,,,A-AI/Agent生态,是,,,,,,,,Rust,,,109660,,"An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",top100,2026-07-17
-multica-ai/andrej-karpathy-skills,andrej-karpathy-skills,https://github.com/multica-ai/andrej-karpathy-skills,192359,27,,,A-AI/Agent生态,是,,,,,,,,"未标注, Claude Code",,,19756,,"A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",top100,2026-07-17
-ohmyzsh/ohmyzsh,ohmyzsh,https://github.com/ohmyzsh/ohmyzsh,188725,28,,,E-工具/应用/其他,否,,,,,,,,"Shell, Zsh",,,26566,,"🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",top100,2026-07-17
-microsoft/vscode,vscode,https://github.com/microsoft/vscode,187594,29,,,D-系统/运行时/语言,否,,,,,,,,"TypeScript, Electron",,,41279,,Visual Studio Code,top100,2026-07-17
-anomalyco/opencode,opencode,https://github.com/anomalyco/opencode,185906,30,,,A-AI/Agent生态,是,,,,,,,,"TypeScript, Node.js",,,23248,,The open source coding agent.,top100,2026-07-17
-DigitalPlatDev/FreeDomain,FreeDomain,https://github.com/DigitalPlatDev/FreeDomain,185752,31,,,E-工具/应用/其他,否,,,,,,,,HTML,,,3890,,DigitalPlat FreeDomain: Free Domain For Everyone,top100,2026-07-17
-Significant-Gravitas/AutoGPT,AutoGPT,https://github.com/Significant-Gravitas/AutoGPT,185549,32,,,编程/自主 Agent,是,Web + CLI,Python,Python/TypeScript,Next.js(React),Python(FastAPI),PostgreSQL,多模型,"Python, Next.js, React, FastAPI, PostgreSQL",NOASSERTION,Significant Gravitas,46080,,可访问的自主 AI Agent 平台,"curated,top100",2026-07-17
-CyC2018/CS-Notes,CS-Notes,https://github.com/CyC2018/CS-Notes,184769,33,,,B-学习资源/Awesome,否,,,,,,,,面试,,,50847,,:books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计,top100,2026-07-17
-getify/You-Dont-Know-JS,You-Dont-Know-JS,https://github.com/getify/You-Dont-Know-JS,184598,34,,,B-学习资源/Awesome,否,,,,,,,,书籍,,,33480,,A book series (2 published editions) on the JS language.,top100,2026-07-17
-jackfrued/Python-100-Days,Python-100-Days,https://github.com/jackfrued/Python-100-Days,184158,35,,,B-学习资源/Awesome,否,,,,,,,,"Jupyter, Python",,,55684,,Python - 100天从新手到大师,top100,2026-07-17
-massgravel/Microsoft-Activation-Scripts,Microsoft-Activation-Scripts,https://github.com/massgravel/Microsoft-Activation-Scripts,183170,36,,,E-工具/应用/其他,否,,,,,,,,Batchfile,,,17546,,"Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.",top100,2026-07-17
-avelino/awesome-go,awesome-go,https://github.com/avelino/awesome-go,178192,37,,,B-学习资源/Awesome,否,,,,,,,,Awesome 清单,,,13412,,"A curated list of awesome Go frameworks, libraries and software",top100,2026-07-17
-yt-dlp/yt-dlp,yt-dlp,https://github.com/yt-dlp/yt-dlp,178054,38,,,E-工具/应用/其他,否,,,,,,,,Python,,,15227,,A feature-rich command-line audio/video downloader,top100,2026-07-17
-flutter/flutter,flutter,https://github.com/flutter/flutter,177911,39,,,C-前端/UI框架,否,,,,,,,,"Dart, Flutter",,,30813,,Flutter makes it easy and fast to build beautiful apps for mobile and beyond,top100,2026-07-17
-ollama/ollama,Ollama,https://github.com/ollama/ollama,176144,40,,,本地模型运行时,是,CLI/桌面/API,Go,Go,—(CLI/原生桌面),Go,,llama.cpp,"Go, CLI, llama.cpp",MIT,ollama,16964,,本地运行 LLM 支持 Llama/Qwen/Gemma/DeepSeek 等,"curated,top100",2026-07-17
-github/gitignore,gitignore,https://github.com/github/gitignore,174874,41,,,E-工具/应用/其他,否,,,,,,,,模板,,,82338,,A collection of useful .gitignore templates,top100,2026-07-17
-twbs/bootstrap,bootstrap,https://github.com/twbs/bootstrap,174475,42,,,C-前端/UI框架,否,,,,,,,,"Bootstrap, JavaScript",,,78739,,"The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",top100,2026-07-17
-mattpocock/skills,skills,https://github.com/mattpocock/skills,174452,43,是,"2,130",A-AI/Agent生态,是,,,,,,,,"Shell, Claude Code",,,14682,,Skills for Real Engineers. Straight from my .claude directory.,"top100,trending",2026-07-17
-microsoft/markitdown,markitdown,https://github.com/microsoft/markitdown,166028,44,,,A-AI/Agent生态,是,,,,,,,,Python,,,11886,,Python tool for converting files and office documents to Markdown.,top100,2026-07-17
-f/prompts.chat,prompts.chat,https://github.com/f/prompts.chat,165760,45,,,A-AI/Agent生态,是,,,,,,,,"HTML, ChatGPT",,,21438,,"f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",top100,2026-07-17
-521xueweihan/HelloGitHub,HelloGitHub,https://github.com/521xueweihan/HelloGitHub,165233,46,,,E-工具/应用/其他,否,,,,,,,,Python,,,12314,,":octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",top100,2026-07-17
-AUTOMATIC1111/stable-diffusion-webui,stable-diffusion-webui,https://github.com/AUTOMATIC1111/stable-diffusion-webui,164243,47,,,图像生成 WebUI,是,Web(自托管),Python,Python/JavaScript,Gradio,Python(Gradio + FastAPI),—(本地文件),本地推理,"Python, Gradio, FastAPI, 本地文件, 本地推理",AGPL-3.0,AUTOMATIC1111,30517,,Stable Diffusion 图像生成 Web 界面,"curated,top100",2026-07-17
-huggingface/transformers,transformers,https://github.com/huggingface/transformers,162622,48,,,模型库/框架,是,Library,Python,Python/C++/JavaScript,,Python(库),,,Python,Apache-2.0,Hugging Face,33880,,SOTA 机器学习模型定义与训练框架,"curated,top100",2026-07-17
-jlevy/the-art-of-command-line,the-art-of-command-line,https://github.com/jlevy/the-art-of-command-line,161749,49,,,B-学习资源/Awesome,否,,,,,,,,清单,,,14829,,"Master the command line, in one page",top100,2026-07-17
-anthropics/skills,skills,https://github.com/anthropics/skills,161194,50,,,A-AI/Agent生态,是,,,,,,,,"Python, Claude",,,19041,,Public repository for Agent Skills,top100,2026-07-17
-Snailclimb/JavaGuide,JavaGuide,https://github.com/Snailclimb/JavaGuide,157044,51,,,B-学习资源/Awesome,否,,,,,,,,"Java, 面试",,,46163,,Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发,top100,2026-07-17
-langflow-ai/langflow,Langflow,https://github.com/langflow-ai/langflow,151896,52,,,工作流/Agent 平台,是,Web(自托管/云),Python,Python/TypeScript,React,Python(FastAPI),SQLite/PostgreSQL,多模型,"Python, React, FastAPI, SQLite, PostgreSQL",MIT,Langflow,9674,,可视化构建和部署 AI Agent 与工作流,"curated,top100",2026-07-17
-firecrawl/firecrawl,Firecrawl,https://github.com/firecrawl/firecrawl,151275,53,,,Web 抓取/数据,是,API/云/自托管,TypeScript,TypeScript,Next.js,Node.js,,多模型,"TypeScript, Next.js, Node.js",AGPL-3.0,Mendable,8634,,大规模网页搜索/抓取/交互 API,"curated,top100",2026-07-17
-langgenius/dify,Dify,https://github.com/langgenius/dify,148901,54,,,LLM 应用平台,是,Web(自托管/云),TypeScript,TypeScript/Python,Next.js + React + Tailwind,Python(Flask),PostgreSQL + Redis + 向量库,多模型/兼容 OpenAI,"TypeScript, Next.js, React, Tailwind, Python, Flask, PostgreSQL, Redis",NOASSERTION(Apache-2.0 附加条款),LangGenius,23436,,生产级 agentic 工作流开发平台,"curated,top100",2026-07-17
-airbnb/javascript,javascript,https://github.com/airbnb/javascript,148085,55,,,C-前端/UI框架,否,,,,,,,,"JavaScript, 风格指南",,,26624,,JavaScript Style Guide,top100,2026-07-17
-Genymobile/scrcpy,scrcpy,https://github.com/Genymobile/scrcpy,145736,56,,,E-工具/应用/其他,否,,,,,,,,"C, Android",,,13436,,Display and control your Android device,top100,2026-07-17
-open-webui/open-webui,Open WebUI,https://github.com/open-webui/open-webui,145489,57,,,AI 聊天界面,是,Web(自托管/Docker),Python,Python/Svelte,Svelte(SvelteKit),Python(FastAPI),SQLite/ChromaDB,Ollama/OpenAI 兼容,"Python, SvelteKit, FastAPI, SQLite, ChromaDB, Ollama, OpenAI",NOASSERTION(BSD-3-Clause),Open WebUI,21057,,用户友好的 AI 界面 支持 Ollama/OpenAI,"curated,top100",2026-07-17
-x1xhlol/system-prompts-and-models-of-ai-tools,system-prompts-and-models-of-ai-tools,https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools,141925,58,,,A-AI/Agent生态,是,,,,,,,,,,,34804,,"FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",top100,2026-07-17
-langchain-ai/langchain,LangChain,https://github.com/langchain-ai/langchain,141816,59,,,LLM 应用框架,是,Library,Python,Python/TypeScript,,Python(库 含 LangServe),,多模型/兼容 OpenAI,Python,MIT,LangChain,23553,,Agent 工程平台/LLM 应用开发框架,"curated,top100",2026-07-17
-vercel/next.js,next.js,https://github.com/vercel/next.js,141106,60,,,C-前端/UI框架,否,,,,,,,,"Next.js, React, JavaScript",,,31574,,The React Framework,top100,2026-07-17
-yangshun/tech-interview-handbook,tech-interview-handbook,https://github.com/yangshun/tech-interview-handbook,140900,61,,,E-工具/应用/其他,否,,,,,,,,"React, TypeScript",,,16673,,Curated coding interview preparation materials for busy software engineers,top100,2026-07-17
-ytdl-org/youtube-dl,youtube-dl,https://github.com/ytdl-org/youtube-dl,140711,62,,,E-工具/应用/其他,否,,,,,,,,Python,,,10677,,Command-line program to download videos from YouTube.com and other video sites,top100,2026-07-17
-anthropics/claude-code,claude-code,https://github.com/anthropics/claude-code,137895,63,,,A-AI/Agent生态,是,,,,,,,,"Python, Claude",,,22237,,"Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",top100,2026-07-17
-microsoft/PowerToys,PowerToys,https://github.com/microsoft/PowerToys,136607,64,,,E-工具/应用/其他,否,,,,,,,,"C++, C#",,,8366,,Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows,top100,2026-07-17
-golang/go,go,https://github.com/golang/go,135396,65,,,D-系统/运行时/语言,否,,,,,,,,Go,,,19340,,The Go programming language,top100,2026-07-17
-labuladong/fucking-algorithm,fucking-algorithm,https://github.com/labuladong/fucking-algorithm,134828,66,,,E-工具/应用/其他,否,,,,,,,,算法,,,23599,,"Crack LeetCode, not only how, but also why.",top100,2026-07-17
-iptv-org/iptv,iptv,https://github.com/iptv-org/iptv,133006,67,,,E-工具/应用/其他,否,,,,,,,,TypeScript,,,7588,,Collection of publicly available IPTV channels from all over the world,top100,2026-07-17
-clash-verge-rev/clash-verge-rev,clash-verge-rev,https://github.com/clash-verge-rev/clash-verge-rev,131551,68,,,E-工具/应用/其他,否,,,,,,,,"Tauri, TypeScript",,,9512,,"A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",top100,2026-07-17
-msitarzewski/agency-agents,agency-agents,https://github.com/msitarzewski/agency-agents,131518,69,,,A-AI/Agent生态,是,,,,,,,,Shell,,,21596,,"A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",top100,2026-07-17
-ripienaar/free-for-dev,free-for-dev,https://github.com/ripienaar/free-for-dev,129227,70,,,B-学习资源/Awesome,否,,,,,,,,清单,,,13488,,"A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",top100,2026-07-17
-krahets/hello-algo,hello-algo,https://github.com/krahets/hello-algo,128516,71,,,B-学习资源/Awesome,否,,,,,,,,"Java, 算法",,,15419,,"《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",top100,2026-07-17
-Chalarangelo/30-seconds-of-code,30-seconds-of-code,https://github.com/Chalarangelo/30-seconds-of-code,128386,72,,,C-前端/UI框架,否,,,,,,,,JavaScript,,,12481,,Coding articles to level up your development skills,top100,2026-07-17
-excalidraw/excalidraw,excalidraw,https://github.com/excalidraw/excalidraw,127493,73,,,C-前端/UI框架,否,,,,,,,,"React, TypeScript, Canvas",,,14396,,Virtual whiteboard for sketching hand-drawn like diagrams,top100,2026-07-17
-react/react-native,react-native,https://github.com/react/react-native,126199,74,,,C-前端/UI框架,否,,,,,,,,"React Native, C++",,,25183,,A framework for building native applications using React,top100,2026-07-17
-kubernetes/kubernetes,kubernetes,https://github.com/kubernetes/kubernetes,123793,75,,,D-系统/运行时/语言,否,,,,,,,,Go,,,43756,,Production-Grade Container Scheduling and Management,top100,2026-07-17
-Shubhamsaboo/awesome-llm-apps,awesome-llm-apps,https://github.com/Shubhamsaboo/awesome-llm-apps,123021,79,是,"1,236",A-AI/Agent生态,是,,,,,,,,Python,,,17905,,"100+ AI Agent & RAG apps you can actually run — clone, customize, ship.","top100,trending",2026-07-17
-electron/electron,electron,https://github.com/electron/electron,122000,76,,,D-系统/运行时/语言,否,,,,,,,,"C++, JavaScript, Electron",,,17302,,":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",top100,2026-07-17
-garrytan/gstack,gstack,https://github.com/garrytan/gstack,121936,77,,,A-AI/Agent生态,是,,,,,,,,"TypeScript, Claude Code",,,18227,,"Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",top100,2026-07-17
-github/spec-kit,spec-kit,https://github.com/github/spec-kit,121331,78,,,A-AI/Agent生态,是,,,,,,,,Python,,,10789,,💫 Toolkit to help you get started with Spec-Driven Development,top100,2026-07-17
-Comfy-Org/ComfyUI,ComfyUI,https://github.com/Comfy-Org/ComfyUI,120796,80,,,图像生成节点式 GUI,是,Web(自托管),Python,Python/TypeScript,TypeScript(自定义节点编辑器),Python(aiohttp/Starlette),,本地推理,"Python, TypeScript, 自定义节点编辑器, aiohttp, Starlette, 本地推理",GPL-3.0,Comfy Org,14194,,模块化扩散模型 GUI/API/后端,"curated,top100",2026-07-17
-ggml-org/llama.cpp,llama.cpp,https://github.com/ggerganov/llama.cpp,120441,81,,,LLM 推理引擎,是,CLI/Library/Server,C++,C/C++,,C/C++(内置 HTTP server),,自研 ggml,"C, C++, ggml",MIT,ggml,20586,,C/C++ 高效 LLM 推理,"curated,top100",2026-07-17
-shadcn-ui/ui,ui,https://github.com/shadcn-ui/ui,119124,82,,,C-前端/UI框架,否,,,,,,,,"React, Radix UI, Tailwind",,,9506,,"A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",top100,2026-07-17
-nodejs/node,node,https://github.com/nodejs/node,118368,83,,,D-系统/运行时/语言,否,,,,,,,,"JavaScript, C++, V8",,,36212,,Node.js JavaScript runtime ✨🐢🚀✨,top100,2026-07-17
-rustdesk/rustdesk,rustdesk,https://github.com/rustdesk/rustdesk,118254,84,,,E-工具/应用/其他,否,,,,,,,,"Rust, Flutter",,,17974,,"An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",top100,2026-07-17
-justjavac/free-programming-books-zh_CN,free-programming-books-zh_CN,https://github.com/justjavac/free-programming-books-zh_CN,117349,85,,,B-学习资源/Awesome,否,,,,,,,,书籍,,,28211,,:books: 免费的计算机编程类中文书籍，欢迎投稿,top100,2026-07-17
-farion1231/cc-switch,cc-switch,https://github.com/farion1231/cc-switch,117286,86,,,A-AI/Agent生态,是,,,,,,,,"Rust, Web, Tauri, Claude, Codex, Gemini",,,7851,,"A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io",top100,2026-07-17
-Hack-with-Github/Awesome-Hacking,Awesome-Hacking,https://github.com/Hack-with-Github/Awesome-Hacking,116226,87,,,E-工具/应用/其他,否,,,,,,,,Awesome 清单,,,10526,,"A collection of various awesome lists for hackers, pentesters and security researchers",top100,2026-07-17
-rust-lang/rust,rust,https://github.com/rust-lang/rust,114748,88,,,D-系统/运行时/语言,否,,,,,,,,Rust,,,15422,,Empowering everyone to build reliable and efficient software.,top100,2026-07-17
-godotengine/godot,godot,https://github.com/godotengine/godot,114114,89,,,D-系统/运行时/语言,否,,,,,,,,"C++, Godot",,,25996,,Godot Engine – Multi-platform 2D and 3D game engine,top100,2026-07-17
-mrdoob/three.js,three.js,https://github.com/mrdoob/three.js,113741,90,,,C-前端/UI框架,否,,,,,,,,"WebGL, JavaScript",,,36421,,JavaScript 3D Library.,top100,2026-07-17
-d3/d3,d3,https://github.com/d3/d3,113221,91,,,C-前端/UI框架,否,,,,,,,,"JavaScript, D3",,,22703,,"Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:",top100,2026-07-17
-microsoft/generative-ai-for-beginners,generative-ai-for-beginners,https://github.com/microsoft/generative-ai-for-beginners,113004,92,,,A-AI/Agent生态,是,,,,,,,,"Jupyter Notebook, Jupyter, Azure OpenAI",,,60711,,"21 Lessons, Get Started Building with Generative AI",top100,2026-07-17
-2dust/v2rayN,v2rayN,https://github.com/2dust/v2rayN,111368,93,,,E-工具/应用/其他,否,,,,,,,,C#,,,15523,,"A GUI client for Windows, Linux and macOS, support Xray and sing-box and others",top100,2026-07-17
-microsoft/TypeScript,TypeScript,https://github.com/microsoft/TypeScript,109917,94,,,D-系统/运行时/语言,否,,,,,,,,TypeScript,,,13649,,TypeScript is a superset of JavaScript that compiles to clean JavaScript output.,top100,2026-07-17
-axios/axios,axios,https://github.com/axios/axios,109107,95,,,E-工具/应用/其他,否,,,,,,,,JavaScript,,,11752,,Promise based HTTP client for the browser and node.js,top100,2026-07-17
-tauri-apps/tauri,tauri,https://github.com/tauri-apps/tauri,109064,96,,,D-系统/运行时/语言,否,,,,,,,,"Rust, Web, Tauri",,,3774,,"Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",top100,2026-07-17
-fatedier/frp,frp,https://github.com/fatedier/frp,108045,97,,,E-工具/应用/其他,否,,,,,,,,Go,,,15109,,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,top100,2026-07-17
-jaywcjlove/awesome-mac,awesome-mac,https://github.com/jaywcjlove/awesome-mac,107832,98,,,B-学习资源/Awesome,否,,,,,,,,Awesome 清单,,,8090,, This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.,top100,2026-07-17
-papers-we-love/papers-we-love,papers-we-love,https://github.com/papers-we-love/papers-we-love,107831,99,,,B-学习资源/Awesome,否,,,,,,,,论文,,,6387,,Papers from the computer science community to read and discuss.,top100,2026-07-17
-denoland/deno,deno,https://github.com/denoland/deno,107806,100,,,D-系统/运行时/语言,否,,,,,,,,"Rust, TypeScript, V8",,,6282,,A modern runtime for JavaScript and TypeScript.,top100,2026-07-17
-openai/whisper,Whisper,https://github.com/openai/whisper,104976,,,,语音识别,是,Library/CLI,Python,Python,,Python(库),,,,MIT,OpenAI,,,鲁棒语音识别,curated,2026-07-17
-vllm-project/vllm,vLLM,https://github.com/vllm-project/vllm,86308,,,,LLM 推理服务,是,Library/Server,Python,Python/C++,,Python(FastAPI OpenAI 兼容),,多模型,,Apache-2.0,vLLM Project,,,高吞吐低显存 LLM 推理与服务引擎,curated,2026-07-17
-All-Hands-AI/OpenHands,OpenHands,https://github.com/All-Hands-AI/OpenHands,80849,,,,编程 Agent,是,Web/CLI,Python,Python/TypeScript,React,Python(运行时),,多模型,,NOASSERTION(MIT),All Hands AI,,,AI 驱动软件开发 Agent,curated,2026-07-17
-lobehub/lobe-chat,LobeHub,https://github.com/lobehub/lobe-chat,79865,,,,AI 聊天/Agent 平台,是,Web(自托管),TypeScript,TypeScript,Next.js + React + Zustand + DaisyUI,Next.js Server,IndexedDB/服务端可选,OpenAI/Anthropic/本地,,NOASSERTION(MIT 附加),LobeHub,,,Agent 编排与聊天前端(原 LobeChat),curated,2026-07-17
-OpenCut-app/OpenCut,"
-    
-
-
-      
-        OpenCut-app /
-
-      OpenCut",,74149,1,是,"1,664",,否,,,,,,,,"TypeScript, React, Canvas",,,,,The open-source CapCut alternative,trending,2026-07-17
-hiyouga/LLaMA-Factory,LLaMA-Factory,https://github.com/hiyouga/LLaMA-Factory,73296,,,,模型微调,是,Web/CLI,Python,Python,Gradio,Python,,本地,,Apache-2.0,hiyouga,,,100+ LLM/VLM 统一高效微调,curated,2026-07-17
-binary-husky/gpt_academic,gpt_academic,https://github.com/binary-husky/gpt_academic,71084,,,,学术助手,是,Web(自托管),Python,Python,Gradio,Python,,多模型,,GPL-3.0,binary-husky,,,LLM 实用交互 论文阅读/润色/翻译,curated,2026-07-17
-openinterpreter/openinterpreter,"
-    
-
-
-      
-        openinterpreter /
-
-      openinterpreter",,66031,7,是,299,,是,,,,,,,,Rust,,,,,A coding agent for low-cost models,trending,2026-07-17
-OpenInterpreter/open-interpreter,Open Interpreter,https://github.com/OpenInterpreter/open-interpreter,65088,,,,编程 Agent,是,CLI,Rust,Rust,,Rust,,多模型,,Apache-2.0,Open Interpreter,,,面向低成本模型的编程 Agent,curated,2026-07-17
-mem0ai/mem0,Mem0,https://github.com/mem0ai/mem0,60879,,,,Agent 基础设施(记忆),是,Library/云,TypeScript,TypeScript/Python,,Python + TS SDK,PostgreSQL/Qdrant,多模型,,Apache-2.0,Mem0,,,AI Agent 通用记忆层,curated,2026-07-17
-microsoft/autogen,AutoGen,https://github.com/microsoft/autogen,59741,,,,多 Agent 框架,是,Library,Python,Python/.NET,—(AutoGen Studio: React),Python,,多模型,,CC-BY-4.0,Microsoft,,,多 Agent 协作编程框架,curated,2026-07-17
-crewAIInc/crewAI,CrewAI,https://github.com/crewAIInc/crewAI,55556,,,,Agent 编排框架,是,Library,Python,Python,,Python(库),,多模型,,MIT,CrewAI,,,角色扮演自主 Agent 编排框架,curated,2026-07-17
-FlowiseAI/Flowise,Flowise,https://github.com/FlowiseAI/Flowise,54636,,,,工作流/Agent 平台,是,Web(自托管),TypeScript,TypeScript,React + MUI,Node.js(Express),SQLite/Postgres/MySQL,LangChain/多模型,,NOASSERTION(Apache-2.0 附加),FlowiseAI,,,可视化构建 AI Agent,curated,2026-07-17
-run-llama/llama_index,LlamaIndex,https://github.com/run-llama/llama_index,50865,,,,数据/RAG 框架,是,Library,Python,Python/TypeScript,,Python(库),,多模型,,MIT,LlamaIndex,,,文档 Agent 与 OCR 平台,curated,2026-07-17
-oobabooga/text-generation-webui,text-generation-webui,https://github.com/oobabooga/text-generation-webui,47450,,,,本地 LLM WebUI,是,Web/桌面,Python,Python/JavaScript,Gradio,Python,,本地,,AGPL-3.0,oobabooga,,,本地 LLM 开源桌面应用,curated,2026-07-17
-Aider-AI/aider,Aider,https://github.com/Aider-AI/aider,47398,,,,编程 Agent/结对,是,CLI,Python,Python,,Python(库),,多模型,,Apache-2.0,Aider AI,,,终端 AI 结对编程,curated,2026-07-17
-milvus-io/milvus,Milvus,https://github.com/milvus-io/milvus,45232,,,,向量数据库,是,Server/云,Go,Go/C++,,Go,,,,Apache-2.0,Zilliz,,,高性能云原生向量数据库,curated,2026-07-17
-moeru-ai/airi,"
-    
-
-
-      
-        moeru-ai /
-
-      airi",,42769,4,是,110,,是,,,,,,,,"TypeScript, Grok, 自托管",,,,,"💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",trending,2026-07-17
-microsoft/DeepSpeed,DeepSpeed,https://github.com/microsoft/DeepSpeed,42710,,,,训练优化库,是,Library,Python,Python/C++,,Python(库),,,,Apache-2.0,Microsoft,,,分布式训练/推理优化库,curated,2026-07-17
-coreyhaines31/marketingskills,"
-    
-
-
-      
-        coreyhaines31 /
-
-      marketingskills",,40225,12,是,340,,是,,,,,,,,"JavaScript, Claude Code, 营销",,,,,"Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",trending,2026-07-17
-QuivrHQ/quivr,Quivr,https://github.com/QuivrHQ/quivr,39211,,,,RAG 平台,是,Web(自托管/云),Python,Python/TypeScript,Next.js(React) + Vercel AI SDK,Python(FastAPI) + Celery,PostgreSQL + PgVector,多模型,,NOASSERTION(Apache-2.0 附加),Quivr,,,开箱即用 RAG 集成,curated,2026-07-17
-continuedev/continue,Continue,https://github.com/continuedev/continue,34883,,,,编程助手(IDE 插件),是,IDE 插件(VSCode/JetBrains),TypeScript,TypeScript,React(WebView),TypeScript(Node),,多模型/本地,,Apache-2.0,ContinueDev,,,开源编程 Agent/IDE 助手,curated,2026-07-17
-TabbyML/tabby,Tabby,https://github.com/TabbyML/tabby,33701,,,,编程助手(自托管),是,Web/IDE 插件,Rust,Rust/TypeScript,React,Rust,SQLite/PostgreSQL,自托管模型,,NOASSERTION(Apache-2.0 附加),TabbyML,,,自托管 AI 编程助手,curated,2026-07-17
-qdrant/qdrant,Qdrant,https://github.com/qdrant/qdrant,33292,,,,向量数据库,是,Server/云,Rust,Rust,,Rust,,,,Apache-2.0,Qdrant,,,高性能向量数据库,curated,2026-07-17
-SillyTavern/SillyTavern,SillyTavern,https://github.com/SillyTavern/SillyTavern,30699,,,,LLM 聊天前端,是,Web(自托管),JavaScript,JavaScript,原生 JS/jQuery,Node.js(Express),,OpenAI/本地,,AGPL-3.0,SillyTavern,,,面向高级用户的 LLM 前端,curated,2026-07-17
-stanford-oval/storm,STORM,https://github.com/stanford-oval/storm,30086,,,,知识/报告生成,是,Library/CLI,Python,Python,,Python(库),,多模型,,MIT,Stanford Oval,,,LLM 驱动的知识策展与报告生成,curated,2026-07-17
-labring/FastGPT,FastGPT,https://github.com/labring/FastGPT,28979,,,,知识库/RAG 平台,是,Web(自托管/云),TypeScript,TypeScript,Next.js(React) + Mantine,Node.js(Next.js API),MongoDB + PostgreSQL,多模型,,NOASSERTION(FastGPT 协议),Labring,,,基于 LLM 的知识库平台 RAG + 工作流编排,curated,2026-07-17
-chroma-core/chroma,Chroma,https://github.com/chroma-core/chroma,28793,,,,向量数据库,是,Library/Server,Rust,Rust/Python,,Rust + Python,,,,Apache-2.0,Chroma,,,AI 向量搜索基础设施,curated,2026-07-17
-HKUDS/DeepTutor,"
-    
-
-
-      
-        HKUDS /
-
-      DeepTutor",,26952,8,是,172,,是,,,,,,,,"Python, 教育 Agent",,,,,DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.,trending,2026-07-17
-HKUDS/Vibe-Trading,"
-    
-
-
-      
-        HKUDS /
-
-      Vibe-Trading",,24351,6,是,915,,是,,,,,,,,"Python, 交易 Agent",,,,,"""Vibe-Trading: Your Personal Trading Agent""",trending,2026-07-17
-hasaneyldrm/exercises-dataset,"
-    
-
-
-      
-        hasaneyldrm /
-
-      exercises-dataset",,15116,14,是,949,,否,,,,,,,,"HTML, 数据集",,,,,"1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",trending,2026-07-17
-Nutlope/hallmark,"
-    
-
-
-      
-        Nutlope /
-
-      hallmark",,11086,2,是,"1,277",,是,,,,,,,,"Claude Code, Cursor, 设计技能",,,,,"Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",trending,2026-07-17
-HenryNdubuaku/maths-cs-ai-compendium,"
-    
-
-
-      
-        HenryNdubuaku /
-
-      maths-cs-ai-compendium",,6275,9,是,725,,是,,,,,,,,"TypeScript, AI/ML 资料",,,,,Become a cracked AI/ML Research Engineer,trending,2026-07-17
-Dicklesworthstone/destructive_command_guard,"
-    
-
-
-      
-        Dicklesworthstone /
-
-      destructive_command_guard",,5031,5,是,471,,否,,,,,,,,"Rust, 命令守卫",,,,,The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.,trending,2026-07-17
-YimMenu/YimMenuV2,"
-    
-
-
-      
-        YimMenu /
-
-      YimMenuV2",,1514,13,是,38,,否,,,,,,,,"C++, 游戏模组",,,,,Experimental menu for GTA 5: Enhanced,trending,2026-07-17
-injaneity/pi-computer-use,"
-    
-
-
-      
-        injaneity /
-
-      pi-computer-use",,1414,10,是,103,,是,,,,,,,,"TypeScript, Computer Use, macOS",,,,,Let Pi control your apps on MacOS & Windows,trending,2026-07-17
+codecrafters-io/build-your-own-x,build-your-own-x,https://github.com/codecrafters-io/build-your-own-x,531587,1,否,,B-学习资源/Awesome,否,,Markdown,,,,,,教程,,,50285,267,Master programming by recreating your favorite technologies from scratch.,top100,2026-07-27
+sindresorhus/awesome,awesome,https://github.com/sindresorhus/awesome,489073,2,否,,B-学习资源/Awesome,否,,,,,,,,Awesome 清单,,,36061,16,😎 Awesome lists about all kinds of interesting topics,top100,2026-07-27
+freeCodeCamp/freeCodeCamp,freeCodeCamp,https://github.com/freeCodeCamp/freeCodeCamp,452822,3,否,,B-学习资源/Awesome,否,,TypeScript,,,,,,"React, Node.js",,,45674,129,"freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",top100,2026-07-27
+public-apis/public-apis,public-apis,https://github.com/public-apis/public-apis,452551,4,否,,B-学习资源/Awesome,否,,Python,,,,,,API 清单,,,49837,6,A collective list of free APIs,top100,2026-07-27
+EbookFoundation/free-programming-books,free-programming-books,https://github.com/EbookFoundation/free-programming-books,393014,5,否,,B-学习资源/Awesome,否,,Python,,,,,,书籍,,,66575,38,:books: Freely available programming books,top100,2026-07-27
+openclaw/openclaw,openclaw,https://github.com/openclaw/openclaw,384132,6,否,,A-AI/Agent生态,是,,TypeScript,,,,,,TypeScript,,,80714,4123,Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞,top100,2026-07-27
+nilbuild/developer-roadmap,developer-roadmap,https://github.com/nilbuild/developer-roadmap,362697,7,否,,B-学习资源/Awesome,否,,TypeScript,,,,,,"Next.js, React",,,44671,0,"Interactive roadmaps, guides and other educational content to help developers grow in their careers.",top100,2026-07-27
+donnemartin/system-design-primer,system-design-primer,https://github.com/donnemartin/system-design-primer,359191,8,否,,B-学习资源/Awesome,否,,Python,,,,,,教程,,,57406,263,Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.,top100,2026-07-27
+jwasham/coding-interview-university,coding-interview-university,https://github.com/jwasham/coding-interview-university,357146,9,否,,B-学习资源/Awesome,否,,,,,,,,教程,,,84395,81,A complete computer science study plan to become a software engineer.,top100,2026-07-27
+vinta/awesome-python,awesome-python,https://github.com/vinta/awesome-python,310351,10,否,,B-学习资源/Awesome,否,,Python,,,,,,Awesome 清单,,,28375,0,"An opinionated list of Python frameworks, libraries, tools, and resources",top100,2026-07-27
+awesome-selfhosted/awesome-selfhosted,awesome-selfhosted,https://github.com/awesome-selfhosted/awesome-selfhosted,308308,11,否,,B-学习资源/Awesome,否,,,,,,,,Awesome 清单,,,14453,0,A list of Free Software network services and web applications which can be hosted on your own servers,top100,2026-07-27
+996icu/996.ICU,996.ICU,https://github.com/996icu/996.ICU,276490,12,否,,B-学习资源/Awesome,否,,,,,,,,社会议题,,,20783,0,Repo for counting stars and contributing. Press F to pay respect to glorious developers.,top100,2026-07-27
+practical-tutorials/project-based-learning,project-based-learning,https://github.com/practical-tutorials/project-based-learning,275260,13,否,,B-学习资源/Awesome,否,,Python,,,,,,教程,,,35477,151,Curated list of project-based tutorials,top100,2026-07-27
+obra/superpowers,superpowers,https://github.com/obra/superpowers,261160,14,否,,A-AI/Agent生态,是,,Shell,,,,,,"Shell, Claude Code",,,23304,156,An agentic skills framework & software development methodology that works.,top100,2026-07-27
+react/react,react,https://github.com/react/react,246734,15,否,,C-前端/UI框架,否,,JavaScript,,,,,,React,,,51163,798,The library for web and native user interfaces.,top100,2026-07-27
+torvalds/linux,linux,https://github.com/torvalds/linux,240491,16,否,,D-系统/运行时/语言,否,,C,,,,,,"C, Linux 内核",,,63483,0,Linux kernel source tree,top100,2026-07-27
+trimstray/the-book-of-secret-knowledge,the-book-of-secret-knowledge,https://github.com/trimstray/the-book-of-secret-knowledge,235192,17,否,,B-学习资源/Awesome,否,,,,,,,,清单,,,13985,0,"A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",top100,2026-07-27
+affaan-m/ECC,ECC,https://github.com/affaan-m/ECC,233368,18,否,,A-AI/Agent生态,是,,JavaScript,,,,,,"JavaScript, Claude Code, Codex",,,35580,25,"The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",top100,2026-07-27
+TheAlgorithms/Python,Python,https://github.com/TheAlgorithms/Python,223160,19,否,,B-学习资源/Awesome,否,,Python,,,,,,"Python, 算法",,,50903,144,All Algorithms implemented in Python,top100,2026-07-27
+NousResearch/hermes-agent,hermes-agent,https://github.com/NousResearch/hermes-agent,220534,20,否,,A-AI/Agent生态,是,,Python,,,,,,Python,,,41986,8055,The agent that grows with you,top100,2026-07-27
+vuejs/vue,vue,https://github.com/vuejs/vue,210144,21,否,,C-前端/UI框架,否,,TypeScript,,,,,,Vue 2,,,33704,365,"This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core",top100,2026-07-27
+ossu/computer-science,computer-science,https://github.com/ossu/computer-science,207261,22,否,,B-学习资源/Awesome,否,,HTML,,,,,,教程,,,25694,16,🎓 Path to a free self-taught education in Computer Science!,top100,2026-07-27
+n8n-io/n8n,n8n,https://github.com/n8n-io/n8n,198132,23,否,,工作流/Agent 平台,是,Web(自托管/云),TypeScript,TypeScript,Vue 3 + Vue Flow + PrimeVue,Node.js,SQLite/PostgreSQL/MySQL,OpenAI/Anthropic/LangChain 节点,"TypeScript, Vue 3, Vue Flow, PrimeVue, Node.js, SQLite, PostgreSQL, MySQL",NOASSERTION(Sustainable Use License),n8n-io,59628,326,"Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.","curated,top100",2026-07-27
+tensorflow/tensorflow,tensorflow,https://github.com/tensorflow/tensorflow,196535,24,否,,A-AI/Agent生态,是,,C++,,,,,,"C, Python",,,75570,820,An Open Source Machine Learning Framework for Everyone,top100,2026-07-27
+trekhleb/javascript-algorithms,javascript-algorithms,https://github.com/trekhleb/javascript-algorithms,196333,25,否,,D-系统/运行时/语言,否,,JavaScript,,,,,,"JavaScript, 算法",,,31047,135,📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings,top100,2026-07-27
+multica-ai/andrej-karpathy-skills,andrej-karpathy-skills,https://github.com/multica-ai/andrej-karpathy-skills,196327,26,否,,A-AI/Agent生态,是,,,,,,,,"未标注, Claude Code",,,20212,0,"A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",top100,2026-07-27
+ultraworkers/claw-code,claw-code,https://github.com/ultraworkers/claw-code,194912,27,否,,A-AI/Agent生态,是,,Rust,,,,,,Rust,,,109490,13,"An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",top100,2026-07-27
+anomalyco/opencode,opencode,https://github.com/anomalyco/opencode,189708,28,否,,A-AI/Agent生态,是,,TypeScript,,,,,,"TypeScript, Node.js",,,24025,3685,The open source coding agent.,top100,2026-07-27
+ohmyzsh/ohmyzsh,ohmyzsh,https://github.com/ohmyzsh/ohmyzsh,188827,29,否,,E-工具/应用/其他,否,,Shell,,,,,,"Shell, Zsh",,,26480,154,"🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",top100,2026-07-27
+DigitalPlatDev/FreeDomain,FreeDomain,https://github.com/DigitalPlatDev/FreeDomain,188578,30,否,,E-工具/应用/其他,否,,,,,,,,HTML,,,3990,0,DigitalPlat FreeDomain: Free Domain For Everyone,top100,2026-07-27
+mattpocock/skills,skills,https://github.com/mattpocock/skills,188444,31,否,,A-AI/Agent生态,是,,Shell,,,,,,"Shell, Claude Code",,,16190,227,Skills for Real Engineers. Straight from my .agents directory.,top100,2026-07-27
+microsoft/vscode,vscode,https://github.com/microsoft/vscode,187916,32,否,,D-系统/运行时/语言,否,,TypeScript,,,,,,"TypeScript, Electron",,,41266,17130,Visual Studio Code,top100,2026-07-27
+Significant-Gravitas/AutoGPT,AutoGPT,https://github.com/Significant-Gravitas/AutoGPT,185700,33,否,,A-AI/Agent生态,是,Web + CLI,Python,Python/TypeScript,Next.js(React),Python(FastAPI),PostgreSQL,多模型,"Python, Next.js, React, FastAPI, PostgreSQL",NOASSERTION,Significant-Gravitas,46070,289,"AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.","curated,top100",2026-07-27
+CyC2018/CS-Notes,CS-Notes,https://github.com/CyC2018/CS-Notes,184894,34,否,,B-学习资源/Awesome,否,,,,,,,,面试,,,50828,130,:books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计,top100,2026-07-27
+getify/You-Dont-Know-JS,You-Dont-Know-JS,https://github.com/getify/You-Dont-Know-JS,184631,35,否,,B-学习资源/Awesome,否,,,,,,,,书籍,,,33465,0,A book series (2 published editions) on the JS language.,top100,2026-07-27
+jackfrued/Python-100-Days,Python-100-Days,https://github.com/jackfrued/Python-100-Days,184590,36,否,,B-学习资源/Awesome,否,,Jupyter Notebook,,,,,,"Jupyter, Python",,,55689,536,Python - 100天从新手到大师,top100,2026-07-27
+massgravel/Microsoft-Activation-Scripts,Microsoft-Activation-Scripts,https://github.com/massgravel/Microsoft-Activation-Scripts,184522,37,否,,E-工具/应用/其他,否,,Batchfile,,,,,,Batchfile,,,17680,3,"Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.",top100,2026-07-27
+yt-dlp/yt-dlp,yt-dlp,https://github.com/yt-dlp/yt-dlp,180096,38,否,,E-工具/应用/其他,否,,Python,,,,,,Python,,,15351,1944,A feature-rich command-line audio/video downloader,top100,2026-07-27
+avelino/awesome-go,awesome-go,https://github.com/avelino/awesome-go,179225,39,否,,B-学习资源/Awesome,否,,Go,,,,,,Awesome 清单,,,13427,17,"A curated list of awesome Go frameworks, libraries and software",top100,2026-07-27
+flutter/flutter,flutter,https://github.com/flutter/flutter,177945,40,否,,C-前端/UI框架,否,,Dart,,,,,,"Dart, Flutter",,,30779,12486,Flutter makes it easy and fast to build beautiful apps for mobile and beyond,top100,2026-07-27
+ollama/ollama,Ollama,https://github.com/ollama/ollama,176951,41,否,,A-AI/Agent生态,是,CLI/桌面/API,Go,Go,—(CLI/原生桌面),Go,,llama.cpp,"Go, CLI, llama.cpp",MIT,ollama,17112,2341,"Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.","curated,top100",2026-07-27
+github/gitignore,gitignore,https://github.com/github/gitignore,175027,42,否,,E-工具/应用/其他,否,,,,,,,,模板,,,82327,0,A collection of useful .gitignore templates,top100,2026-07-27
+twbs/bootstrap,bootstrap,https://github.com/twbs/bootstrap,174535,43,否,,C-前端/UI框架,否,,MDX,,,,,,"Bootstrap, JavaScript",,,78717,170,"The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",top100,2026-07-27
+microsoft/markitdown,markitdown,https://github.com/microsoft/markitdown,169026,44,否,,A-AI/Agent生态,是,,Python,,,,,,Python,,,12218,379,Python tool for converting files and office documents to Markdown.,top100,2026-07-27
+521xueweihan/HelloGitHub,HelloGitHub,https://github.com/521xueweihan/HelloGitHub,167270,45,否,,E-工具/应用/其他,否,,Python,,,,,,Python,,,12430,544,":octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",top100,2026-07-27
+f/prompts.chat,prompts.chat,https://github.com/f/prompts.chat,166364,46,否,,A-AI/Agent生态,是,,HTML,,,,,,"HTML, ChatGPT",,,21494,22,"f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",top100,2026-07-27
+AUTOMATIC1111/stable-diffusion-webui,stable-diffusion-webui,https://github.com/AUTOMATIC1111/stable-diffusion-webui,164278,47,否,,A-AI/Agent生态,是,Web(自托管),Python,Python/JavaScript,Gradio,Python(Gradio + FastAPI),—(本地文件),本地推理,"Python, Gradio, FastAPI, 本地文件, 本地推理",AGPL-3.0,AUTOMATIC1111,30442,2422,Stable Diffusion 图像生成 Web 界面,"curated,top100",2026-07-27
+anthropics/skills,skills,https://github.com/anthropics/skills,164178,48,否,,A-AI/Agent生态,是,,Python,,,,,,"Python, Claude",,,19493,304,Public repository for Agent Skills,top100,2026-07-27
+huggingface/transformers,transformers,https://github.com/huggingface/transformers,163010,49,否,,A-AI/Agent生态,是,Library,Python,Python/C++/JavaScript,,Python(库),,,Python,Apache-2.0,huggingface,34015,947,"🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.","curated,top100",2026-07-27
+jlevy/the-art-of-command-line,the-art-of-command-line,https://github.com/jlevy/the-art-of-command-line,161917,50,否,,B-学习资源/Awesome,否,,,,,,,,清单,,,14831,126,"Master the command line, in one page",top100,2026-07-27
+Snailclimb/JavaGuide,JavaGuide,https://github.com/Snailclimb/JavaGuide,157301,51,否,,B-学习资源/Awesome,否,,JavaScript,,,,,,"Java, 面试",,,46185,57,Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发,top100,2026-07-27
+firecrawl/firecrawl,Firecrawl,https://github.com/firecrawl/firecrawl,156506,52,否,,A-AI/Agent生态,是,API/云/自托管,TypeScript,TypeScript,Next.js,Node.js,,多模型,"TypeScript, Next.js, Node.js",AGPL-3.0,firecrawl,8873,50,"The API to search, scrape, and interact with the web at scale. 🔥","curated,top100",2026-07-27
+langflow-ai/langflow,Langflow,https://github.com/langflow-ai/langflow,152449,53,否,,工作流/Agent 平台,是,Web(自托管/云),Python,Python/TypeScript,React,Python(FastAPI),SQLite/PostgreSQL,多模型,"Python, React, FastAPI, SQLite, PostgreSQL",MIT,langflow-ai,9653,226,Langflow is a powerful tool for building and deploying AI-powered agents and workflows.,"curated,top100",2026-07-27
+langgenius/dify,Dify,https://github.com/langgenius/dify,150339,54,否,,A-AI/Agent生态,是,Web(自托管/云),TypeScript,TypeScript/Python,Next.js + React + Tailwind,Python(Flask),PostgreSQL + Redis + 向量库,多模型/兼容 OpenAI,"TypeScript, Next.js, React, Tailwind, Python, Flask, PostgreSQL, Redis",NOASSERTION(Apache-2.0 附加条款),langgenius,23677,313,"Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.","curated,top100",2026-07-27
+airbnb/javascript,javascript,https://github.com/airbnb/javascript,148094,55,否,,C-前端/UI框架,否,,JavaScript,,,,,,"JavaScript, 风格指南",,,26614,100,JavaScript Style Guide,top100,2026-07-27
+open-webui/open-webui,Open WebUI,https://github.com/open-webui/open-webui,146839,56,否,,A-AI/Agent生态,是,Web(自托管/Docker),Python,Python/Svelte,Svelte(SvelteKit),Python(FastAPI),SQLite/ChromaDB,Ollama/OpenAI 兼容,"Python, SvelteKit, FastAPI, SQLite, ChromaDB, Ollama, OpenAI",NOASSERTION(BSD-3-Clause),open-webui,21319,269,"User-friendly AI Interface (Supports Ollama, OpenAI API, ...)","curated,top100",2026-07-27
+Genymobile/scrcpy,scrcpy,https://github.com/Genymobile/scrcpy,146403,57,否,,E-工具/应用/其他,否,,C,,,,,,"C, Android",,,13495,2775,Display and control your Android device,top100,2026-07-27
+langchain-ai/langchain,LangChain,https://github.com/langchain-ai/langchain,142636,58,否,,A-AI/Agent生态,是,Library,Python,Python/TypeScript,,Python(库 含 LangServe),,多模型/兼容 OpenAI,Python,MIT,langchain-ai,23740,377,The agent engineering platform.,"curated,top100",2026-07-27
+x1xhlol/system-prompts-and-models-of-ai-tools,system-prompts-and-models-of-ai-tools,https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools,142286,59,否,,A-AI/Agent生态,是,,,,,,,,,,,34816,93,"FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",top100,2026-07-27
+yangshun/tech-interview-handbook,tech-interview-handbook,https://github.com/yangshun/tech-interview-handbook,141244,60,否,,E-工具/应用/其他,否,,TypeScript,,,,,,"React, TypeScript",,,16700,42,Curated coding interview preparation materials for busy software engineers,top100,2026-07-27
+vercel/next.js,next.js,https://github.com/vercel/next.js,141137,61,否,,C-前端/UI框架,否,,JavaScript,,,,,,"Next.js, React, JavaScript",,,31533,2204,The React Framework,top100,2026-07-27
+ytdl-org/youtube-dl,youtube-dl,https://github.com/ytdl-org/youtube-dl,140801,62,否,,E-工具/应用/其他,否,,Python,,,,,,Python,,,10671,3630,Command-line program to download videos from YouTube.com and other video sites,top100,2026-07-27
+anthropics/claude-code,claude-code,https://github.com/anthropics/claude-code,139098,63,否,,A-AI/Agent生态,是,,Python,,,,,,"Python, Claude",,,22330,12630,"Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",top100,2026-07-27
+microsoft/PowerToys,PowerToys,https://github.com/microsoft/PowerToys,136760,64,否,,E-工具/应用/其他,否,,C,,,,,,"C++, C#",,,8319,7306,Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows,top100,2026-07-27
+msitarzewski/agency-agents,agency-agents,https://github.com/msitarzewski/agency-agents,136683,65,否,,A-AI/Agent生态,是,,Shell,,,,,,Shell,,,22288,49,"A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",top100,2026-07-27
+golang/go,go,https://github.com/golang/go,135376,66,否,,D-系统/运行时/语言,否,,Go,,,,,,Go,,,19136,9672,The Go programming language,top100,2026-07-27
+labuladong/fucking-algorithm,fucking-algorithm,https://github.com/labuladong/fucking-algorithm,134978,67,否,,E-工具/应用/其他,否,,Markdown,,,,,,算法,,,23594,2,"Crack LeetCode, not only how, but also why.",top100,2026-07-27
+iptv-org/iptv,iptv,https://github.com/iptv-org/iptv,134326,68,否,,E-工具/应用/其他,否,,TypeScript,,,,,,TypeScript,,,7651,2,Collection of publicly available IPTV channels from all over the world,top100,2026-07-27
+clash-verge-rev/clash-verge-rev,clash-verge-rev,https://github.com/clash-verge-rev/clash-verge-rev,133746,69,否,,E-工具/应用/其他,否,,TypeScript,,,,,,"Tauri, TypeScript",,,9662,397,"A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",top100,2026-07-27
+ripienaar/free-for-dev,free-for-dev,https://github.com/ripienaar/free-for-dev,130450,70,否,,B-学习资源/Awesome,否,,HTML,,,,,,清单,,,13666,0,"A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",top100,2026-07-27
+krahets/hello-algo,hello-algo,https://github.com/krahets/hello-algo,128796,71,否,,B-学习资源/Awesome,否,,Java,,,,,,"Java, 算法",,,15357,12,"《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",top100,2026-07-27
+Chalarangelo/30-seconds-of-code,30-seconds-of-code,https://github.com/Chalarangelo/30-seconds-of-code,128497,72,否,,C-前端/UI框架,否,,JavaScript,,,,,,JavaScript,,,12477,0,Coding articles to level up your development skills,top100,2026-07-27
+excalidraw/excalidraw,excalidraw,https://github.com/excalidraw/excalidraw,128343,73,否,,C-前端/UI框架,否,,TypeScript,,,,,,"React, TypeScript, Canvas",,,14557,2237,Virtual whiteboard for sketching hand-drawn like diagrams,top100,2026-07-27
+Shubhamsaboo/awesome-llm-apps,awesome-llm-apps,https://github.com/Shubhamsaboo/awesome-llm-apps,127686,74,否,,A-AI/Agent生态,是,,Python,,,,,,Python,,,18825,8,"100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",top100,2026-07-27
+react/react-native,react-native,https://github.com/react/react-native,126264,75,否,,C-前端/UI框架,否,,C++,,,,,,"React Native, C++",,,25192,688,A framework for building native applications using React,top100,2026-07-27
+garrytan/gstack,gstack,https://github.com/garrytan/gstack,124363,76,否,,A-AI/Agent生态,是,,TypeScript,,,,,,"TypeScript, Claude Code",,,18622,346,"Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",top100,2026-07-27
+kubernetes/kubernetes,kubernetes,https://github.com/kubernetes/kubernetes,123962,77,否,,D-系统/运行时/语言,否,,Go,,,,,,Go,,,43591,1758,Production-Grade Container Scheduling and Management,top100,2026-07-27
+github/spec-kit,spec-kit,https://github.com/github/spec-kit,123820,78,否,,A-AI/Agent生态,是,,Python,,,,,,Python,,,11054,166,💫 Toolkit to help you get started with Spec-Driven Development,top100,2026-07-27
+Comfy-Org/ComfyUI,ComfyUI,https://github.com/Comfy-Org/ComfyUI,122396,79,否,,A-AI/Agent生态,是,Web(自托管),Python,Python/TypeScript,TypeScript(自定义节点编辑器),Python(aiohttp/Starlette),,本地推理,"Python, TypeScript, 自定义节点编辑器, aiohttp, Starlette, 本地推理",GPL-3.0,Comfy-Org,14415,3933,"The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.","curated,top100",2026-07-27
+electron/electron,electron,https://github.com/electron/electron,122194,80,否,,D-系统/运行时/语言,否,,C++,,,,,,"C++, JavaScript, Electron",,,17342,736,":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",top100,2026-07-27
+ggml-org/llama.cpp,llama.cpp,https://github.com/ggml-org/llama.cpp,121691,81,否,,A-AI/Agent生态,是,CLI/Library/Server,C++,C/C++,,C/C++(内置 HTTP server),,自研 ggml,"C, C++, ggml",MIT,ggml-org,20990,671,LLM inference in C/C++,"curated,top100",2026-07-27
+farion1231/cc-switch,cc-switch,https://github.com/farion1231/cc-switch,121187,82,否,,A-AI/Agent生态,是,,Rust,,,,,,"Rust, Web, Tauri, Claude, Codex, Gemini",,,8145,1510,"A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",top100,2026-07-27
+shadcn-ui/ui,ui,https://github.com/shadcn-ui/ui,119825,83,否,,C-前端/UI框架,否,,TypeScript,,,,,,"React, Radix UI, Tailwind",,,9541,1038,"A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",top100,2026-07-27
+rustdesk/rustdesk,rustdesk,https://github.com/rustdesk/rustdesk,118862,84,否,,E-工具/应用/其他,否,,Rust,,,,,,"Rust, Flutter",,,18124,75,"An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",top100,2026-07-27
+nodejs/node,node,https://github.com/nodejs/node,118389,85,是,36,D-系统/运行时/语言,否,,JavaScript,,,,,,"JavaScript, C++, 运行时",NOASSERTION,,36140,1191,Node.js JavaScript runtime ✨🐢🚀✨,"top100,trending",2026-07-27
+justjavac/free-programming-books-zh_CN,free-programming-books-zh_CN,https://github.com/justjavac/free-programming-books-zh_CN,117818,86,否,,B-学习资源/Awesome,否,,,,,,,,书籍,,,28227,0,:books: 免费的计算机编程类中文书籍，欢迎投稿,top100,2026-07-27
+Hack-with-Github/Awesome-Hacking,Awesome-Hacking,https://github.com/Hack-with-Github/Awesome-Hacking,116916,87,否,,E-工具/应用/其他,否,,,,,,,,Awesome 清单,,,10555,0,"A collection of various awesome lists for hackers, pentesters and security researchers",top100,2026-07-27
+rust-lang/rust,rust,https://github.com/rust-lang/rust,114844,88,否,,D-系统/运行时/语言,否,,Rust,,,,,,Rust,,,15209,11408,Empowering everyone to build reliable and efficient software.,top100,2026-07-27
+godotengine/godot,godot,https://github.com/godotengine/godot,114613,89,否,,D-系统/运行时/语言,否,,C++,,,,,,"C++, Godot",,,26114,13357,Godot Engine – Multi-platform 2D and 3D game engine,top100,2026-07-27
+mrdoob/three.js,three.js,https://github.com/mrdoob/three.js,114010,90,否,,C-前端/UI框架,否,,JavaScript,,,,,,"WebGL, JavaScript",,,36455,256,JavaScript 3D Library.,top100,2026-07-27
+microsoft/generative-ai-for-beginners,generative-ai-for-beginners,https://github.com/microsoft/generative-ai-for-beginners,113498,91,否,,A-AI/Agent生态,是,,Jupyter Notebook,,,,,,"Jupyter Notebook, Jupyter, Azure OpenAI",,,60929,1,"21 Lessons, Get Started Building with Generative AI",top100,2026-07-27
+d3/d3,d3,https://github.com/d3/d3,113289,92,否,,C-前端/UI框架,否,,Shell,,,,,,"JavaScript, D3",,,22689,5,"Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:",top100,2026-07-27
+2dust/v2rayN,v2rayN,https://github.com/2dust/v2rayN,112215,93,否,,E-工具/应用/其他,否,,C#,,,,,,C#,,,15582,6,"A GUI client for Windows, Linux and macOS, support Xray and sing-box and others",top100,2026-07-27
+nextlevelbuilder/ui-ux-pro-max-skill,ui-ux-pro-max-skill,https://github.com/nextlevelbuilder/ui-ux-pro-max-skill,110134,94,否,,A-AI/Agent生态,是,,Python,,,,,,"Claude Code, UI/UX, 设计技能",,,11747,58,An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms,top100,2026-07-27
+microsoft/TypeScript,TypeScript,https://github.com/microsoft/TypeScript,109955,95,否,,D-系统/运行时/语言,否,,TypeScript,,,,,,TypeScript,,,13570,5039,TypeScript is a superset of JavaScript that compiles to clean JavaScript output.,top100,2026-07-27
+tauri-apps/tauri,tauri,https://github.com/tauri-apps/tauri,109499,96,否,,D-系统/运行时/语言,否,,Rust,,,,,,"Rust, Web, Tauri",,,3805,1280,"Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",top100,2026-07-27
+axios/axios,axios,https://github.com/axios/axios,109164,97,否,,E-工具/应用/其他,否,,JavaScript,,,,,,JavaScript,,,11777,47,Promise based HTTP client for the browser and node.js,top100,2026-07-27
+immich-app/immich,immich,https://github.com/immich-app/immich,108777,98,否,,E-工具/应用/其他,否,,TypeScript,,,,,,"TypeScript, Svelte, PostgreSQL, Redis, Docker",,,6340,478,High performance self-hosted photo and video management solution.,top100,2026-07-27
+jaywcjlove/awesome-mac,awesome-mac,https://github.com/jaywcjlove/awesome-mac,108665,99,否,,B-学习资源/Awesome,否,,Swift,,,,,,Awesome 清单,,,8209,152, This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.,top100,2026-07-27
+fatedier/frp,frp,https://github.com/fatedier/frp,108344,100,否,,E-工具/应用/其他,否,,Go,,,,,,Go,,,15138,41,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,top100,2026-07-27
+openai/whisper,Whisper,https://github.com/openai/whisper,105689,,否,,语音识别,是,Library/CLI,Python,Python,,Python(库),,,,MIT,openai,,,鲁棒语音识别,curated,2026-07-27
+vllm-project/vllm,vLLM,https://github.com/vllm-project/vllm,87249,,否,,LLM 推理服务,是,Library/Server,Python,Python/C++,,Python(FastAPI OpenAI 兼容),,多模型,,Apache-2.0,vllm-project,,,高吞吐低显存 LLM 推理与服务引擎,curated,2026-07-27
+OpenHands/OpenHands,OpenHands,https://github.com/OpenHands/OpenHands,82207,,否,,编程 Agent,是,Web/CLI,Python,Python/TypeScript,React,Python(运行时),,多模型,,NOASSERTION(MIT),OpenHands,,,AI 驱动软件开发 Agent,curated,2026-07-27
+lobehub/lobehub,LobeHub,https://github.com/lobehub/lobehub,80834,,否,,AI 聊天/Agent 平台,是,Web(自托管),TypeScript,TypeScript,Next.js + React + Zustand + DaisyUI,Next.js Server,IndexedDB/服务端可选,OpenAI/Anthropic/本地,,NOASSERTION(MIT 附加),lobehub,,,Agent 编排与聊天前端(原 LobeChat),curated,2026-07-27
+hiyouga/LlamaFactory,LLaMA-Factory,https://github.com/hiyouga/LlamaFactory,73530,,否,,模型微调,是,Web/CLI,Python,Python,Gradio,Python,,本地,,Apache-2.0,hiyouga,,,100+ LLM/VLM 统一高效微调,curated,2026-07-27
+binary-husky/gpt_academic,gpt_academic,https://github.com/binary-husky/gpt_academic,71140,,否,,学术助手,是,Web(自托管),Python,Python,Gradio,Python,,多模型,,GPL-3.0,binary-husky,,,LLM 实用交互 论文阅读/润色/翻译,curated,2026-07-27
+openinterpreter/openinterpreter,Open Interpreter,https://github.com/openinterpreter/openinterpreter,67318,,否,,编程 Agent,是,CLI,Rust,Rust,,Rust,,多模型,,Apache-2.0,openinterpreter,,,面向低成本模型的编程 Agent,curated,2026-07-27
+mem0ai/mem0,Mem0,https://github.com/mem0ai/mem0,61779,,否,,Agent 基础设施(记忆),是,Library/云,TypeScript,TypeScript/Python,,Python + TS SDK,PostgreSQL/Qdrant,多模型,,Apache-2.0,mem0ai,,,AI Agent 通用记忆层,curated,2026-07-27
+microsoft/autogen,AutoGen,https://github.com/microsoft/autogen,60008,,否,,多 Agent 框架,是,Library,Python,Python/.NET,—(AutoGen Studio: React),Python,,多模型,,CC-BY-4.0,microsoft,,,多 Agent 协作编程框架,curated,2026-07-27
+crewAIInc/crewAI,CrewAI,https://github.com/crewAIInc/crewAI,56185,,否,,Agent 编排框架,是,Library,Python,Python,,Python(库),,多模型,,MIT,crewAIInc,,,角色扮演自主 Agent 编排框架,curated,2026-07-27
+FlowiseAI/Flowise,Flowise,https://github.com/FlowiseAI/Flowise,54949,,否,,工作流/Agent 平台,是,Web(自托管),TypeScript,TypeScript,React + MUI,Node.js(Express),SQLite/Postgres/MySQL,LangChain/多模型,,NOASSERTION(Apache-2.0 附加),FlowiseAI,,,可视化构建 AI Agent,curated,2026-07-27
+run-llama/llama_index,LlamaIndex,https://github.com/run-llama/llama_index,51130,,否,,数据/RAG 框架,是,Library,Python,Python/TypeScript,,Python(库),,多模型,,MIT,run-llama,,,文档 Agent 与 OCR 平台,curated,2026-07-27
+pbakaus/impeccable,impeccable,,50750,,是,413,,是,,JavaScript,,,,,,"JavaScript, AI Harness, 设计",Apache-2.0,,,,The design language that makes your AI harness better at design.,trending,2026-07-27
+anthropics/claude-cookbooks,claude-cookbooks,,50263,,是,379,,是,,Jupyter Notebook,,,,,,"Jupyter, Python, Claude, 教程",MIT,,,,A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.,trending,2026-07-27
+Aider-AI/aider,Aider,https://github.com/Aider-AI/aider,47715,,否,,编程 Agent/结对,是,CLI,Python,Python,,Python(库),,多模型,,Apache-2.0,Aider-AI,,,终端 AI 结对编程,curated,2026-07-27
+oobabooga/textgen,text-generation-webui,https://github.com/oobabooga/textgen,47497,,否,,本地 LLM WebUI,是,Web/桌面,Python,Python/JavaScript,Gradio,Python,,本地,,AGPL-3.0,oobabooga,,,本地 LLM 开源桌面应用,curated,2026-07-27
+milvus-io/milvus,Milvus,https://github.com/milvus-io/milvus,45387,,否,,向量数据库,是,Server/云,Go,Go/C++,,Go,,,,Apache-2.0,milvus-io,,,高性能云原生向量数据库,curated,2026-07-27
+deepspeedai/DeepSpeed,DeepSpeed,https://github.com/deepspeedai/DeepSpeed,42813,,否,,训练优化库,是,Library,Python,Python/C++,,Python(库),,,,Apache-2.0,deepspeedai,,,分布式训练/推理优化库,curated,2026-07-27
+QuivrHQ/quivr,Quivr,https://github.com/QuivrHQ/quivr,39361,,否,,RAG 平台,是,Web(自托管/云),Python,Python/TypeScript,Next.js(React) + Vercel AI SDK,Python(FastAPI) + Celery,PostgreSQL + PgVector,多模型,,NOASSERTION(Apache-2.0 附加),QuivrHQ,,,开箱即用 RAG 集成,curated,2026-07-27
+continuedev/continue,Continue,https://github.com/continuedev/continue,35125,,否,,编程助手(IDE 插件),是,IDE 插件(VSCode/JetBrains),TypeScript,TypeScript,React(WebView),TypeScript(Node),,多模型/本地,,Apache-2.0,continuedev,,,开源编程 Agent/IDE 助手,curated,2026-07-27
+shiyu-coder/Kronos,Kronos,,34211,,是,321,,是,,Python,,,,,,"Python, Foundation Model, 金融, 时间序列",MIT,,,,Kronos: A Foundation Model for the Language of Financial Markets,trending,2026-07-27
+TabbyML/tabby,Tabby,https://github.com/TabbyML/tabby,33790,,否,,编程助手(自托管),是,Web/IDE 插件,Rust,Rust/TypeScript,React,Rust,SQLite/PostgreSQL,自托管模型,,NOASSERTION(Apache-2.0 附加),TabbyML,,,自托管 AI 编程助手,curated,2026-07-27
+qdrant/qdrant,Qdrant,https://github.com/qdrant/qdrant,33601,,否,,向量数据库,是,Server/云,Rust,Rust,,Rust,,,,Apache-2.0,qdrant,,,高性能向量数据库,curated,2026-07-27
+SillyTavern/SillyTavern,SillyTavern,https://github.com/SillyTavern/SillyTavern,31181,,否,,LLM 聊天前端,是,Web(自托管),JavaScript,JavaScript,原生 JS/jQuery,Node.js(Express),,OpenAI/本地,,AGPL-3.0,SillyTavern,,,面向高级用户的 LLM 前端,curated,2026-07-27
+permissionlesstech/bitchat,bitchat,,30518,,是,1166,,否,,Swift,,,,,,"Swift, Bluetooth Mesh, 聊天",Unlicense,,,,"bluetooth mesh chat, IRC vibes",trending,2026-07-27
+stanford-oval/storm,STORM,https://github.com/stanford-oval/storm,30336,,否,,知识/报告生成,是,Library/CLI,Python,Python,,Python(库),,多模型,,MIT,stanford-oval,,,LLM 驱动的知识策展与报告生成,curated,2026-07-27
+labring/FastGPT,FastGPT,https://github.com/labring/FastGPT,29137,,否,,知识库/RAG 平台,是,Web(自托管/云),TypeScript,TypeScript,Next.js(React) + Mantine,Node.js(Next.js API),MongoDB + PostgreSQL,多模型,,NOASSERTION(FastGPT 协议),labring,,,基于 LLM 的知识库平台 RAG + 工作流编排,curated,2026-07-27
+chroma-core/chroma,Chroma,https://github.com/chroma-core/chroma,28885,,否,,向量数据库,是,Library/Server,Rust,Rust/Python,,Rust + Python,,,,Apache-2.0,chroma-core,,,AI 向量搜索基础设施,curated,2026-07-27
+OtterMind/Chat2DB,Chat2DB,,27168,,是,398,,是,,Java,,,,,,"Java, AI, Text-to-SQL, 数据库",NOASSERTION,,,,"🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",trending,2026-07-27
+jenkinsci/jenkins,jenkins,,25723,,是,18,,否,,Java,,,,,,"Java, CI/CD",MIT,,,,Jenkins automation server,trending,2026-07-27
+yorukot/superfile,superfile,,20289,,是,131,,否,,Go,,,,,,"Go, TUI, 文件管理",MIT,,,,Pretty fancy and modern terminal file manager,trending,2026-07-27
+andrewyng/aisuite,aisuite,,15423,,是,187,,是,,Python,,,,,,"Python, LLM, 多模型接口",MIT,,,,"Simple, unified interface to multiple Generative AI providers",trending,2026-07-27
+pingdotgg/t3code,t3code,,15080,,是,149,,否,,TypeScript,,,,,,"TypeScript, 开发工具",MIT,,,,,trending,2026-07-27
+alibaba/open-code-review,open-code-review,,13936,,是,832,,是,,Go,,,,,,"Go, AI, 代码审查",Apache-2.0,,,,"Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",trending,2026-07-27
+block/buzz,buzz,,13422,,是,1710,,否,,Rust,,,,,,"Rust, 通信平台",Apache-2.0,,,,A hive mind communication platform,trending,2026-07-27
+amnezia-vpn/amnezia-client,amnezia-client,,13355,,是,35,,否,,C++,,,,,,"C++, VPN, 网络",GPL-3.0,,,,Amnezia VPN Client (Desktop+Mobile),trending,2026-07-27
+Pumpkin-MC/Pumpkin,Pumpkin,,10036,,是,338,,否,,Rust,,,,,,"Rust, Minecraft, 游戏服务器",GPL-3.0,,,,Empowering everyone to host fast and efficient Minecraft servers.,trending,2026-07-27
+permissionlesstech/bitchat-android,bitchat-android,,6745,,是,260,,否,,Kotlin,,,,,,"Kotlin, Android, Bluetooth Mesh",GPL-3.0,,,,"bluetooth mesh chat, IRC vibes",trending,2026-07-27
+CoreBunch/Instatic,Instatic,,5734,,是,888,,否,,TypeScript,,,,,,"TypeScript, React, 网站构建",MIT,,,,"The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",trending,2026-07-27
+citrolabs/ego-lite,ego-lite,,4702,,是,900,,是,,JavaScript,,,,,,"JavaScript, AI Agent, Web 自动化, 浏览器",MIT,,,,"The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",trending,2026-07-27

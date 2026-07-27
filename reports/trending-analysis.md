@@ -1,70 +1,31 @@
 # GitHub Trending 今日热榜产品分析
 
-> **数据来源**：https://github.com/trending （全语言，daily）
-> **采集日期**：2026-07-16
-> **结构化数据**：[`data/trending-daily.csv`](../data/trending-daily.csv)，共 **14** 个项目
-> 注：GitHub 无官方 Trending API，数据由抓取 trending 页面 HTML 解析得到。
+> 采集：2026-07-27 ｜ 项目：17 ｜ AI 相关：7（41%）
 
-## 今日热榜总表
+| # | 项目 | 今日⭐ | 总⭐ | 语言 | AI | tags |
+| :--: | :--- | ---: | ---: | :--- | :--: | :--- |
+| 1 | [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | +1,166 | 30,518 | Swift | 否 | Swift, Bluetooth Mesh, 聊天 |
+| 2 | [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | +900 | 4,702 | JavaScript | 是 | JavaScript, AI Agent, Web 自动化, 浏览器 |
+| 3 | [block/buzz](https://github.com/block/buzz) | +1,710 | 13,422 | Rust | 否 | Rust, 通信平台 |
+| 4 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | +149 | 15,080 | TypeScript | 否 | TypeScript, 开发工具 |
+| 5 | [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) | +888 | 5,734 | TypeScript | 否 | TypeScript, React, 网站构建 |
+| 6 | [yorukot/superfile](https://github.com/yorukot/superfile) | +131 | 20,289 | Go | 否 | Go, TUI, 文件管理 |
+| 7 | [nodejs/node](https://github.com/nodejs/node) | +36 | 118,487 | JavaScript | 否 | JavaScript, C++, 运行时 |
+| 8 | [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) | +398 | 27,168 | Java | 是 | Java, AI, Text-to-SQL, 数据库 |
+| 9 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | +413 | 50,750 | JavaScript | 是 | JavaScript, AI Harness, 设计 |
+| 10 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | +321 | 34,211 | Python | 是 | Python, Foundation Model, 金融, 时间序列 |
+| 11 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | +832 | 13,936 | Go | 是 | Go, AI, 代码审查 |
+| 12 | [andrewyng/aisuite](https://github.com/andrewyng/aisuite) | +187 | 15,423 | Python | 是 | Python, LLM, 多模型接口 |
+| 13 | [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | +379 | 50,263 | Jupyter Notebook | 是 | Jupyter, Python, Claude, 教程 |
+| 14 | [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) | +338 | 10,036 | Rust | 否 | Rust, Minecraft, 游戏服务器 |
+| 15 | [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android) | +260 | 6,745 | Kotlin | 否 | Kotlin, Android, Bluetooth Mesh |
+| 16 | [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) | +18 | 25,723 | Java | 否 | Java, CI/CD |
+| 17 | [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) | +35 | 13,355 | C++ | 否 | C++, VPN, 网络 |
 
-| # | 项目 | 今日⭐ | 主语言 | 简介 | 是否已在 56 总表 |
-|---|------|--------|--------|------|------------------|
-| 1 | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | +1,664 | TypeScript | 开源 CapCut 替代品（视频剪辑） | 否 |
-| 2 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | +1,277 | CSS | 反 AI-slop 设计技能，适配 Claude Code / Cursor | 否 |
-| 3 | [mattpocock/skills](https://github.com/mattpocock/skills) | +2,130 | Shell | 工程师实战技能，取自作者 .claude 目录 | ✅ (#12) |
-| 4 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | +110 | TypeScript | 自托管、可拥有的 Grok 伴侣 | 否 |
-| 5 | [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | +471 | Rust | 拦截危险命令的守卫(dcg) | 否 |
-| 6 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | +915 | Python | 个人交易 Agent | 否 |
-| 7 | [OpenInterpreter/openinterpreter](https://github.com/OpenInterpreter/openinterpreter) | +299 | Rust | 面向低成本模型的编程 Agent | ✅ (#39) |
-| 8 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | +172 | Python | 终身个性化 AI 导师 | 否 |
-| 9 | [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) | +725 | TypeScript | AI/ML 研究工程师进阶资料 | 否 |
-| 10 | [injaneity/pi-computer-use](https://github.com/injaneity/pi-computer-use) | +103 | TypeScript | 让 Pi 控制你 macOS/Windows 上的应用 | 否 |
-| 11 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | +1,236 | Python | 100+ 可运行的 AI Agent & RAG 应用 | ✅ (#28) |
-| 12 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | +340 | JavaScript | Claude Code / AI Agent 的营销技能(CRO 等) | 否 |
-| 13 | [YimMenu/YimMenuV2](https://github.com/YimMenu/YimMenuV2) | +38 | C++ | GTA5 增强版实验性菜单 | 否（非 AI） |
-| 14 | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | +949 | HTML | 1324 项健身数据集(动画 GIF) | 否（非 AI） |
+## 新热点
 
-## 产品分析
-
-### 1. AI / Agent 占比：今日热榜 ≈ 10/14（约 71%）
-
-14 个里明确 AI/Agent 相关的至少 10 个（#2 #3 #4 #6 #7 #8 #9 #10 #11 #12），非 AI 仅 3 个（#1 视频剪辑工具、#13 GTA 模组、#14 健身数据集），#5 命令守卫属 Agent 安全基础设施。**今日热榜的 AI 浓度（~71%）甚至高于历史总榜（32%）**，说明 AI 不是存量热度，而是当前仍在加速的增量。
-
-### 2. 最热风向：「Claude Code Skills」生态
-
-- #2 hallmark、#3 mattpocock/skills、#12 marketingskills 都是围绕 Claude Code / Cursor 的「技能包」——把工程/设计/营销 know-how 打包成 Agent 可调用的 skill。
-- 结合 56 总表里的 superpowers / ECC / anthropics/skills / gstack / agency-agents / andrej-karpathy-skills，**「Agent Skills 即新插件生态」** 已是 2026 GitHub 最确定的趋势：.skills 类仓库同时霸榜历史总榜与今日热榜。
-
-### 3. 新涌现的 AI 产品形态（垂直 Agent）
-
-- **交易 Agent**：#6 Vibe-Trading（HKUDS 出品，港大数据科学实验室）
-- **教育 Agent**：#8 DeepTutor（终身个性化导师，同 HKUDS）
-- **Computer-Use Agent**：#10 pi-computer-use（控制桌面应用，走向 GUI 自动化）
-- **AI 伴侣**：#4 airi（自托管 Grok 伴侣，容器化、可拥有）
-- **反 AI-slop 工具**：#2 hallmark（对抗 AI 生成内容的同质化设计）
-- **Agent 安全**：#5 destructive_command_guard（拦危险命令，Agent 执行环境防护）
-
-→ 趋势：从「通用 Agent 框架」(AutoGPT/LangChain) 转向**「垂直场景 Agent 产品 + Agent 安全/技能配套」**。
-
-### 4. 语言分布
-
-| 语言 | 数量 | 代表 |
-|------|------|------|
-| TypeScript | 5 | OpenCut / hallmark / airi / pi-computer-use / maths-cs-ai-compendium |
-| Python | 4 | Vibe-Trading / DeepTutor / awesome-llm-apps / openinterpreter(已转 Rust) |
-| Rust | 2 | destructive_command_guard / openinterpreter |
-| Shell / JS / CSS / C++ / HTML | 各 1 | skills 系列 / marketingskills / hallmark / YimMenu / exercises |
-
-TypeScript 仍是「有前端的 AI/工具产品」首选；Rust 在 Agent 安全/底层（dcg、openinterpreter）持续渗透。
-
-### 5. 与 56 总表的重叠
-
-仅 3 个重叠：mattpocock/skills、openinterpreter、awesome-llm-apps。说明 trending 主要反映**新项目/近期爆发项目**，与历史总榜(存量 star)互补——结合两者可同时看「长青项目」与「当期风口」。
-
-## 选型启示
-
-1. 做 AI 产品：**TypeScript(Next.js/React) 前端 + Python/Rust 后端** 仍是当下最主流组合（与 56 总表结论一致）。
-2. 想抓住风口：关注 **Agent Skills 生态**（.claude 技能包）与**垂直 Agent**（交易/教育/computer-use/伴侣）这两个增量赛道。
-3. 新机会：**Agent 安全与反 AI-slop 工具** 正在被需要，是 Agent 普及后的衍生刚需。
-
-> ⚠️ Trending 为日榜，波动大；上述为 2026-07-16 当日快照，仅作趋势参考。
+1. **AI Agent 教程与工程实践**：`ai-agent-book`、`ai-engineering-from-scratch`。
+2. **代码智能/MCP**：`code-review-graph`、`wigolo`、`copilot-sdk`。
+3. **推理与多模态**：`ktransformers`、`voicebox`、`airllm`。
+4. **Coding Agent / Computer Use**：`jcode`、`kimi-cli`、`cua`。
+5. **AI 数据产品**：`WrenAI`（Text-to-SQL / GenBI）。

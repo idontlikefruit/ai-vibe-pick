@@ -1,110 +1,121 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-项目元数据 upsert（update-insert）脚本
-- 以 full_name 为主键，把多个来源按"更新或插入"语义合并成一份规范化元数据存储。
-- 幂等：重复运行结果一致；新增来源/项目只会更新或插入，不会清空已有字段。
-- llama.cpp 别名：ggerganov/llama.cpp 与 ggml-org/llama.cpp 视为同一仓库。
-
-用法： python3 scripts/upsert_metadata.py
-输出： data/projects-metadata.csv  （规范化元数据存储）
-"""
-import csv, os
+"""以 full_name 为主键，把 curated / Top-100 / Trending upsert 为规范元数据。"""
+import csv
+import os
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-DATA = os.path.join(ROOT, 'data')
+DATA = os.path.join(ROOT, "data")
+COLLECTED_AT = os.environ.get("COLLECTED_AT", "2026-07-20")
 
-ALIAS = {'ggerganov/llama.cpp': 'ggml-org/llama.cpp'}
-def key(fn): return ALIAS.get(fn, fn)
-PLACE = {'', '—', '—(待补)', '未标注', 'null', 'None'}
+ALIAS = {
+    "ggerganov/llama.cpp": "ggml-org/llama.cpp",
+    "OpenInterpreter/open-interpreter": "openinterpreter/openinterpreter",
+}
 
-CANON = ['full_name','name','url','stars','rank_top100','trending_today','trending_stars_today',
-         'category','ai_related','platform','primary_lang','dev_langs','frontend','backend',
-         'database','llm_runtime','tags','license','owner','forks','open_issues','description',
-         'sources','last_updated']
 
-def meaningful(v): return v is not None and str(v).strip() not in PLACE
-def first_set(cur, new):
-    """更新或插入：新值有意义且当前为空 → 写入；否则保留当前。"""
-    return new if (meaningful(new) and not meaningful(cur)) else cur
+def key(full_name):
+    return ALIAS.get(full_name, full_name).lower()
 
-store = {}  # key -> row dict
+
+PLACEHOLDERS = {"", "—", "—(待补)", "未标注", "null", "None"}
+CANON = [
+    "full_name", "name", "url", "stars", "rank_top100", "trending_today",
+    "trending_stars_today", "category", "ai_related", "platform", "primary_lang",
+    "dev_langs", "frontend", "backend", "database", "llm_runtime", "tags",
+    "license", "owner", "forks", "open_issues", "description", "sources", "last_updated",
+]
+
+
+def meaningful(value):
+    return value is not None and str(value).strip() not in PLACEHOLDERS
+
+
+def richer(current, new):
+    if not meaningful(new):
+        return current
+    if not meaningful(current):
+        return new
+    return new if len(str(new)) > len(str(current)) else current
+
+
+store = {}
+
 
 def upsert(row, source):
-    fn = row.get('full_name','')
-    if not fn: return
-    k = key(fn)
-    r = store.get(k)
-    if r is None:
-        r = {c: '' for c in CANON}
-        r['full_name'] = fn
-        r['sources'] = source
-        store[k] = r
-    else:
-        if source not in r['sources']:
-            r['sources'] = (r['sources'] + ',' + source) if r['sources'] else source
-    # 主语言/平台/前后端/数据库/LLM/协议/owner/类别/描述/dev_langs/tags：仅当当前为空才填(不覆盖已有更丰富值)
-    for f in ['name','url','category','platform','primary_lang','dev_langs','frontend','backend',
-              'database','llm_runtime','license','owner','description']:
-        r[f] = first_set(r[f], row.get(f))
-    # tags：取更"丰富"的那个(逗号多者胜)，否则保留
-    nt = row.get('tags','')
-    if meaningful(nt):
-        if not meaningful(r['tags']) or nt.count(',') > r['tags'].count(','):
-            r['tags'] = nt
-    # stars：取较大值
-    try:
-        ns = int(str(row.get('stars','')).replace(',',''))
-    except: ns = 0
-    try: cs = int(str(r['stars']).replace(',',''))
-    except: cs = 0
-    if ns > cs: r['stars'] = ns
-    # rank_top100
-    rt = row.get('rank_top100') or row.get('rank','')
-    if meaningful(rt) and not meaningful(r['rank_top100']): r['rank_top100'] = rt
-    # ai_related：任一来源"是"即为"是"
-    if str(row.get('ai_related','')).strip() == '是':
-        r['ai_related'] = '是'
-    elif not meaningful(r['ai_related']):
-        r['ai_related'] = row.get('ai_related','')
-    # forks / open_issues
-    for f in ['forks','open_issues']:
-        v = row.get(f,'')
-        if meaningful(v) and not meaningful(r[f]): r[f] = v
-    # trending
-    tt = row.get('stars_today','')
-    if meaningful(tt):
-        r['trending_stars_today'] = tt
-        r['trending_today'] = '是'
-    r['last_updated'] = '2026-07-17'
+    full_name = row.get("full_name", "")
+    if not full_name:
+        return
+    canonical = ALIAS.get(full_name, full_name)
+    k = key(full_name)
+    target = store.setdefault(k, {field: "" for field in CANON})
+    if not target["full_name"]:
+        target["full_name"] = canonical
+    sources = [item for item in target["sources"].split(",") if item]
+    if source not in sources:
+        sources.append(source)
+    target["sources"] = ",".join(sources)
 
-# 来源1: projects.csv (curated, 最丰富)
-p = os.path.join(DATA,'projects.csv')
-if os.path.exists(p):
-    for r in csv.DictReader(open(p,encoding='utf-8')):
-        upsert({**r, 'ai_related':'是'}, 'curated')
+    mapped = dict(row)
+    mapped["primary_lang"] = row.get("primary_lang") or row.get("language", "")
+    mapped["open_issues"] = row.get("open_issues") or row.get("issues", "")
+    mapped["rank_top100"] = (row.get("rank_top100") or row.get("rank", "")) if source == "top100" else ""
 
-# 来源2: top-100-stars.csv (历史总榜, 含 ai_related/tags/category/rank/forks/issues)
-p = os.path.join(DATA,'top-100-stars.csv')
-if os.path.exists(p):
-    for r in csv.DictReader(open(p,encoding='utf-8')):
-        upsert(r, 'top100')
+    # 人工/技术字段保留信息更丰富的值；curated 通常优于自动来源。
+    for field in [
+        "name", "url", "category", "platform", "primary_lang", "dev_langs", "frontend",
+        "backend", "database", "llm_runtime", "tags", "license", "owner", "description",
+    ]:
+        target[field] = richer(target[field], mapped.get(field, ""))
 
-# 来源3: trending-daily.csv (今日热榜, 含 ai_related/tags/stars_today)
-p = os.path.join(DATA,'trending-daily.csv')
-if os.path.exists(p):
-    for r in csv.DictReader(open(p,encoding='utf-8')):
-        upsert({**r, 'stars': r.get('total_stars','')}, 'trending')
+    # stars 是当前快照，不取历史最大值。来源优先级：curated > top100 > trending。
+    if meaningful(mapped.get("stars")):
+        if source == "curated" or not meaningful(target["stars"]):
+            target["stars"] = str(mapped["stars"]).replace(",", "")
+        elif source == "top100" and "curated" not in target["sources"]:
+            target["stars"] = str(mapped["stars"]).replace(",", "")
+        elif source == "trending" and not any(s in target["sources"] for s in ("curated", "top100")):
+            target["stars"] = str(mapped["stars"]).replace(",", "")
 
-# 写出
-out = os.path.join(DATA,'projects-metadata.csv')
-rows = sorted(store.values(), key=lambda x: -(int(str(x['stars']).replace(',','')) if str(x['stars']).replace(',','').isdigit() else 0))
-with open(out,'w',newline='',encoding='utf-8') as f:
-    w = csv.DictWriter(f, fieldnames=CANON); w.writeheader()
-    for r in rows: w.writerow(r)
+    for field in ["rank_top100", "forks", "open_issues"]:
+        if meaningful(mapped.get(field)):
+            target[field] = mapped[field]
 
-from collections import Counter
-c = Counter(r['sources'] for r in rows)
+    if row.get("ai_related") == "是" or source == "curated":
+        target["ai_related"] = "是"
+    elif not meaningful(target["ai_related"]):
+        target["ai_related"] = row.get("ai_related", "否")
+
+    if meaningful(row.get("stars_today")):
+        target["trending_today"] = "是"
+        target["trending_stars_today"] = str(row["stars_today"]).replace(",", "")
+    elif not meaningful(target["trending_today"]):
+        target["trending_today"] = "否"
+    if source == "trending":
+        target["trending_today"] = "是"
+        if meaningful(row.get("stars_today")):
+            target["trending_stars_today"] = str(row["stars_today"]).replace(",", "")
+    target["last_updated"] = row.get("collected_at") or COLLECTED_AT
+
+
+for row in csv.DictReader(open(os.path.join(DATA, "projects.csv"), encoding="utf-8")):
+    upsert({**row, "ai_related": "是"}, "curated")
+for row in csv.DictReader(open(os.path.join(DATA, "top-100-stars.csv"), encoding="utf-8")):
+    upsert(row, "top100")
+for row in csv.DictReader(open(os.path.join(DATA, "trending-daily.csv"), encoding="utf-8")):
+    upsert({**row, "stars": row.get("total_stars", "")}, "trending")
+
+
+def numeric_stars(row):
+    value = str(row.get("stars", "")).replace(",", "")
+    return int(value) if value.isdigit() else 0
+
+
+rows = sorted(store.values(), key=numeric_stars, reverse=True)
+with open(os.path.join(DATA, "projects-metadata.csv"), "w", newline="", encoding="utf-8") as handle:
+    writer = csv.DictWriter(handle, fieldnames=CANON)
+    writer.writeheader()
+    writer.writerows(rows)
+
 print(f"upsert 完成: 共 {len(rows)} 个项目 -> data/projects-metadata.csv")
-print("来源分布:", dict(c))
-print("AI 相关:", sum(1 for r in rows if r['ai_related']=='是'), "/", len(rows))
+print("AI 相关:", sum(row["ai_related"] == "是" for row in rows), "/", len(rows))

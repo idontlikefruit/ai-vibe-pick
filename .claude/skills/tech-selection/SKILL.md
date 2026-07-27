@@ -1,6 +1,6 @@
 ---
 name: tech-selection
-description: 根据"用户将要建立的项目 + 项目描述"，结合本仓库已有的 136 个 GitHub AI 项目元数据（data/projects-metadata.csv），推荐前后端/数据库/LLM/部署等技术选型。当用户描述要新建的 AI 项目并询问"用什么技术/怎么选型"时使用。
+description: 根据"用户将要建立的项目 + 项目描述"，结合本仓库已有的 140 个 GitHub 项目元数据（其中 AI 相关 64 个，data/projects-metadata.csv），推荐前后端/数据库/LLM/部署等技术选型。当用户描述要新建的 AI 项目并询问"用什么技术/怎么选型"时使用。
 ---
 
 # AI 技术选型助手
@@ -9,7 +9,7 @@ description: 根据"用户将要建立的项目 + 项目描述"，结合本仓�
 
 ## 数据来源（必读）
 
-- `data/projects-metadata.csv` —— 规范化元数据存储（136 个项目，upsert 生成），字段含：
+- `data/projects-metadata.csv` —— 规范化元数据存储（140 个项目，其中 AI 相关 64 个；upsert 生成），字段含：
   `full_name, stars, rank_top100, trending_today, category, ai_related, platform, primary_lang, dev_langs, frontend, backend, database, llm_runtime, tags, license, owner, sources`
 - `reports/summary.md` —— 已有的主语言/前端/后端/数据库分布统计与选型要点
 - `reports/trending-analysis.md` —— 当前风口（Claude Code Skills、垂直 Agent）
