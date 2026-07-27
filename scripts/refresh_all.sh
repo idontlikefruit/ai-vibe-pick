@@ -6,6 +6,12 @@ set -uo pipefail
 # launchd 的 PATH 很精简，显式补上 Homebrew 路径
 export PATH="/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:$PATH"
 
+# launchd 不加载 ~/.zshrc，从中提取 GH_TOKEN 供 git push 使用（复用你已有配置，不另存 token）
+if [ -z "${GH_TOKEN:-}" ] && [ -f "$HOME/.zshrc" ]; then
+  GH_TOKEN="$(grep -E '^[[:space:]]*export GH_TOKEN=' "$HOME/.zshrc" | head -1 | sed -E 's/^[[:space:]]*export GH_TOKEN=//; s/^["'\'']//; s/["'\'']$//')"
+  export GH_TOKEN
+fi
+
 REPO_DIR="/Users/xukun/PycharmProject/AI选型/ai-github-projects-stats"
 cd "$REPO_DIR" || { echo "无法进入仓库目录"; exit 1; }
 
