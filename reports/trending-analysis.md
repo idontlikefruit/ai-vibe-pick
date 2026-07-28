@@ -1,24 +1,21 @@
 # GitHub Trending 今日热榜产品分析
 
-> 采集：2026-07-28 ｜ 项目：15 ｜ AI 相关：6（40%）
+> 采集：2026-07-29 ｜ 项目：12 ｜ AI 相关：8（67%）
 
 | # | 项目 | 今日⭐ | 总⭐ | 语言 | AI | tags |
 | :--: | :--- | ---: | ---: | :--- | :--: | :--- |
-| 1 | [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | +2,344 | 32,186 | Swift | 否 | Swift, Bluetooth Mesh, 聊天 |
-| 2 | [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) | +515 | 13,777 | C++ | 否 | C++, VPN, 网络 |
-| 3 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | +554 | 43,994 | TypeScript | 是 | TypeScript, ai-companion, ai-vtuber, airi, digital-life |
-| 4 | [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) | +420 | 2,634 | TypeScript | 否 | TypeScript, data-science, duckdb, geospatial, maplibre |
-| 5 | [yorukot/superfile](https://github.com/yorukot/superfile) | +600 | 20,845 | Go | 否 | Go, TUI, 文件管理 |
-| 6 | [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | +349 | 58,141 | Python | 否 | Python |
-| 7 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | +849 | 51,494 | JavaScript | 是 | JavaScript, AI Harness, 设计 |
-| 8 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | +442 | 34,546 | Python | 是 | Python, Foundation Model, 金融, 时间序列 |
-| 9 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | +980 | 14,741 | Go | 是 | Go, AI, 代码审查 |
-| 10 | [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) | +179 | 25,871 | Java | 否 | Java, CI/CD |
-| 11 | [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | +412 | 11,028 | Python | 是 | Python |
-| 12 | [vudovn/ag-kit](https://github.com/vudovn/ag-kit) | +5 | 7,945 | TypeScript | 否 | TypeScript |
-| 13 | [apache/cassandra](https://github.com/apache/cassandra) | +34 | 9,948 | Java | 否 | Java, cassandra, database |
-| 14 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | +221 | 54,143 | Python | 是 | Python, ai-prompts, ai-skill, bluesky, claude |
-| 15 | [ocornut/imgui](https://github.com/ocornut/imgui) | +64 | 75,191 | C++ | 否 | C++, api, cplusplus, framework, game-development |
+| 1 | [pascalorg/editor](https://github.com/pascalorg/editor) | +415 | 18,656 | TypeScript | 否 | TypeScript |
+| 2 | [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) | +180 | 26,064 | Java | 否 | Java, CI/CD |
+| 3 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | +796 | 44,732 | TypeScript | 是 | TypeScript, ai-companion, ai-vtuber, airi, digital-life |
+| 4 | [andrewyng/aisuite](https://github.com/andrewyng/aisuite) | +92 | 15,667 | Python | 是 | Python, LLM, 多模型接口 |
+| 5 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | +692 | 234,771 | JavaScript | 是 | JavaScript, ai-agents, anthropic, claude, claude-code |
+| 6 | [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) | +177 | 7,198 | Python | 是 | Python, ai, assistant, language-model, machine-learning |
+| 7 | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | +366 | 11,288 | Python | 是 | Python |
+| 8 | [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) | +743 | 3,368 | TypeScript | 否 | TypeScript, data-science, duckdb, geospatial, maplibre |
+| 9 | [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | +402 | 9,549 | Python | 是 | Python, algorithmic-trading, algotrading, alpha, arbitrage-bot |
+| 10 | [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) | +17 | 5,173 | Python | 是 | Python, agent-framework, ai-agents, ai-safety, compliance |
+| 11 | [yorukot/superfile](https://github.com/yorukot/superfile) | +660 | 21,454 | Go | 否 | Go, TUI, 文件管理 |
+| 12 | [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | +989 | 12,053 | Python | 是 | Python |
 
 ## 新热点
 
