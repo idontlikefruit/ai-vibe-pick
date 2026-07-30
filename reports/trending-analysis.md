@@ -1,26 +1,23 @@
 # GitHub Trending 今日热榜产品分析
 
-> 采集：2026-07-30 ｜ 项目：17 ｜ AI 相关：13（76%）
+> 采集：2026-07-31 ｜ 项目：14 ｜ AI 相关：10（71%）
 
 | # | 项目 | 今日⭐ | 总⭐ | 语言 | AI | tags |
 | :--: | :--- | ---: | ---: | :--- | :--: | :--- |
-| 1 | [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) | +667 | 4,006 | TypeScript | 否 | TypeScript, data-science, duckdb, geospatial, maplibre |
-| 2 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | +676 | 45,361 | TypeScript | 是 | TypeScript, ai-companion, ai-vtuber, airi, digital-life |
-| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | +860 | 235,537 | JavaScript | 是 | JavaScript, ai-agents, anthropic, claude, claude-code |
-| 4 | [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) | +837 | 7,832 | Python | 是 | Python, ai, assistant, language-model, machine-learning |
-| 5 | [1jehuang/jcode](https://github.com/1jehuang/jcode) | +652 | 13,431 | Rust | 是 | Rust, ai, ai-agent, ai-coding-agent, claude |
-| 6 | [grokability/snipe-it](https://github.com/grokability/snipe-it) | +197 | 14,425 | PHP | 否 | PHP, asset-management, asset-manager, assets-management, itam |
-| 7 | [deepfakes/faceswap](https://github.com/deepfakes/faceswap) | +135 | 56,236 | Python | 是 | Python, deep-face-swap, deep-learning, deep-neural-networks, deepface |
-| 8 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | +332 | 51,242 | Python | 是 | Python |
-| 9 | [different-ai/openwork](https://github.com/different-ai/openwork) | +58 | 17,865 | TypeScript | 是 | TypeScript |
-| 10 | [obra/superpowers](https://github.com/obra/superpowers) | +686 | 263,253 | Shell | 是 | Shell, ai, brainstorming, coding, obra |
-| 11 | [MoonshotAI/FlashKDA](https://github.com/MoonshotAI/FlashKDA) | +216 | 978 | Cuda | 是 | Cuda |
-| 12 | [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | +187 | 59,052 | Python | 否 | Python |
-| 13 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | +386 | 15,969 | Go | 是 | Go, AI, 代码审查 |
-| 14 | [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | +950 | 10,368 | Python | 是 | Python, algorithmic-trading, algotrading, alpha, arbitrage-bot |
-| 15 | [maderix/ANE](https://github.com/maderix/ANE) | +13 | 7,138 | Objective-C | 是 | Objective-C |
-| 16 | [pascalorg/editor](https://github.com/pascalorg/editor) | +1,026 | 19,540 | TypeScript | 否 | TypeScript |
-| 17 | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | +1,428 | 12,679 | Python | 是 | Python |
+| 1 | [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) | +627 | 8,739 | Python | 是 | Python, ai, assistant, language-model, machine-learning |
+| 2 | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | +657 | 53,855 | Jupyter Notebook | 是 | Jupyter Notebook, ai, artificial-intelligence, cnn, computer-vision |
+| 3 | [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | +628 | 11,007 | Python | 是 | Python, algorithmic-trading, algotrading, alpha, arbitrage-bot |
+| 4 | [different-ai/openwork](https://github.com/different-ai/openwork) | +916 | 18,688 | TypeScript | 是 | TypeScript |
+| 5 | [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys) | +12 | 10,429 | JavaScript | 是 | JavaScript, bun, deno, nodejs, reverse-engineering |
+| 6 | [pascalorg/editor](https://github.com/pascalorg/editor) | +617 | 20,092 | TypeScript | 否 | TypeScript |
+| 7 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | +377 | 55,522 | Python | 是 | Python, ai-prompts, ai-skill, bluesky, claude |
+| 8 | [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) | +5 | 38,286 | C# | 否 | C#, aspnetcore, dotnet, hacktoberfest, help-wanted |
+| 9 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | +68 | 137,101 | C | 否 | C, advanced-paste, color-picker, command-palette, desktop |
+| 10 | [ansible/ansible](https://github.com/ansible/ansible) | +20 | 69,870 | Python | 是 | Python, ansible |
+| 11 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | +73 | 48,026 | TypeScript | 是 | TypeScript, browser, chrome, chrome-devtools, debugging |
+| 12 | [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) | +53 | 26,284 | Java | 否 | Java, CI/CD |
+| 13 | [agavra/tuicr](https://github.com/agavra/tuicr) | +232 | 1,837 | Rust | 是 | Rust, ai-tools, code-review, tui |
+| 14 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | +810 | 236,194 | JavaScript | 是 | JavaScript, ai-agents, anthropic, claude, claude-code |
 
 ## 新热点
 
