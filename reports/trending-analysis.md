@@ -1,24 +1,24 @@
 # GitHub Trending 今日热榜产品分析
 
-> 采集：2026-08-02 ｜ 项目：15 ｜ AI 相关：11（73%）
+> 采集：2026-08-03 ｜ 项目：15 ｜ AI 相关：11（73%）
 
 | # | 项目 | 今日⭐ | 总⭐ | 语言 | AI | tags |
 | :--: | :--- | ---: | ---: | :--- | :--: | :--- |
-| 1 | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | +869 | 57,126 | Jupyter Notebook | 是 | Jupyter Notebook, ai, artificial-intelligence, cnn, computer-vision |
-| 2 | [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | +529 | 12,225 | Python | 是 | Python, algorithmic-trading, algotrading, alpha, arbitrage-bot |
-| 3 | [usekaneo/kaneo](https://github.com/usekaneo/kaneo) | +778 | 5,664 | TypeScript | 是 | TypeScript, hacktoberfest, hono, issue-management, issue-tracker |
-| 4 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | +1,360 | 11,867 | PowerShell | 是 | PowerShell |
-| 5 | [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | +104 | 114,183 | Jupyter Notebook | 是 | Jupyter Notebook, ai, azure, chatgpt, dall-e |
-| 6 | [github/copilot-sdk](https://github.com/github/copilot-sdk) | +145 | 10,270 | Java | 是 | Java |
-| 7 | [github/gh-stack](https://github.com/github/gh-stack) | +90 | 803 | Go | 否 | Go, cli, gh-extension, github, stacked-prs |
-| 8 | [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) | +393 | 10,190 | Python | 是 | Python, ai, assistant, language-model, machine-learning |
-| 9 | [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) | +53 | 11,728 | Python | 是 | Python, audiobook, faster-whisper, gradio, karaoke |
-| 10 | [iv-org/invidious](https://github.com/iv-org/invidious) | +361 | 21,603 | Crystal | 否 | Crystal, agplv3, hacktoberfest, invidious, libre |
-| 11 | [ansible/ansible](https://github.com/ansible/ansible) | +26 | 70,090 | Python | 是 | Python, ansible |
-| 12 | [microsoft/TRELLIS.2](https://github.com/microsoft/TRELLIS.2) | +121 | 9,905 | Python | 否 | Python |
-| 13 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | +342 | 10,273 | TypeScript | 是 | TypeScript, agent, ai-agent, embedding, llm |
-| 14 | [NomaDamas/k-skill](https://github.com/NomaDamas/k-skill) | +103 | 6,722 | JavaScript | 否 | JavaScript |
-| 15 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | +204 | 78,706 | Python | 是 | Python, agent, agentic, agentic-framework, agentic-workflow |
+| 1 | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | +2,617 | 58,964 | Jupyter Notebook | 是 | Jupyter Notebook, ai, artificial-intelligence, cnn, computer-vision |
+| 2 | [usekaneo/kaneo](https://github.com/usekaneo/kaneo) | +491 | 6,119 | TypeScript | 是 | TypeScript, hacktoberfest, hono, issue-management, issue-tracker |
+| 3 | [lyogavin/airllm](https://github.com/lyogavin/airllm) | +963 | 25,615 | Jupyter Notebook | 是 | Jupyter Notebook, chinese-llm, chinese-nlp, finetune, generative-ai |
+| 4 | [iv-org/invidious](https://github.com/iv-org/invidious) | +307 | 21,966 | Crystal | 否 | Crystal, agplv3, hacktoberfest, invidious, libre |
+| 5 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | +710 | 534,799 | Markdown | 否 | Markdown, awesome-list, free, programming, tutorial-code |
+| 6 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | +1,145 | 13,302 | PowerShell | 是 | PowerShell |
+| 7 | [different-ai/openwork](https://github.com/different-ai/openwork) | +319 | 20,293 | TypeScript | 是 | TypeScript |
+| 8 | [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | +588 | 114,748 | Jupyter Notebook | 是 | Jupyter Notebook, ai, azure, chatgpt, dall-e |
+| 9 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | +645 | 64,666 | Python | 是 | Python, agent-infrastructure, ai-agent, ai-search, automation |
+| 10 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | +604 | 10,972 | TypeScript | 是 | TypeScript, agent, ai-agent, embedding, llm |
+| 11 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | +217 | 56,867 | Python | 是 | Python, ai-prompts, ai-skill, bluesky, claude |
+| 12 | [NomaDamas/k-skill](https://github.com/NomaDamas/k-skill) | +179 | 6,881 | JavaScript | 否 | JavaScript |
+| 13 | [HarbourMasters/Lighthouse](https://github.com/HarbourMasters/Lighthouse) | +62 | 218 | C | 否 | C |
+| 14 | [antirez/ds4](https://github.com/antirez/ds4) | +187 | 19,979 | C | 是 | C |
+| 15 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | +389 | 29,029 | Go | 是 | Go, agent, agent-framework, ai-agent, ai-coding |
 
 ## 新热点
 
