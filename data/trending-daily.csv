@@ -1,18 +1,13 @@
 rank,full_name,name,description,language,stars_today,total_stars,ai_related,tags,license,collected_at
-1,PrimeIntellect-ai/prime-agent,prime-agent,A self-improving RLM agent for coding workflows and long-running autonomous tasks.,TypeScript,2271,6412,是,TypeScript,MIT,2026-08-08
-2,addyosmani/agent-skills,agent-skills,Production-grade engineering skills for AI coding agents.,JavaScript,1131,83872,是,"JavaScript, agent-skills, antigravity, claude-code, codex",MIT,2026-08-08
-3,cloudflare/computer,computer,Give your agent a computer 👾,TypeScript,894,5660,是,TypeScript,MIT,2026-08-08
-4,mattpocock/skills,skills,Skills for Real Engineers. Straight from my .agents directory.,Shell,2180,208765,是,Shell,MIT,2026-08-08
-5,obra/superpowers,superpowers,An agentic skills framework & software development methodology that works.,Shell,794,268726,是,"Shell, ai, brainstorming, coding, obra",MIT,2026-08-08
-6,goauthentik/authentik,authentik,The authentication glue you need.,Python,544,23567,否,"Python, authentication, authentik, authorization, kubernetes",NOASSERTION,2026-08-08
-7,semantica-agi/semantica,semantica,Graph-Native Infrastructure for Context and Accountable AI Systems,Python,118,2332,是,"Python, agent-memory, ai, ai-governance, ai-infrastructure",MIT,2026-08-08
-8,666ghj/MiroFish,MiroFish,"A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",Python,126,70487,是,"Python, agent-memory, financial-forecasting, future-prediction, knowledge-graph",AGPL-3.0,2026-08-08
-9,chenyme/grok2api,grok2api,"Multi-account API gateway for Grok Build, Grok Web, and Grok Console",Go,62,7137,否,"Go, grok, grok-build, grok-console, grok-imagine",MIT,2026-08-08
-10,jdx/mise,mise,"dev tools, env vars, task runner",Rust,130,32061,否,Rust,MIT,2026-08-08
-11,Significant-Gravitas/AutoGPT,AutoGPT,"AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",Python,363,186310,是,"Python, agentic-ai, agents, ai, artificial-intelligence",NOASSERTION,2026-08-08
-12,google/guava,guava,Google core libraries for Java,Java,156,51758,否,"Java, guava",Apache-2.0,2026-08-08
-13,unclebob/swarm-forge,swarm-forge,A simple tool for coordinating several AI agents.,Clojure,85,1820,是,Clojure,NOASSERTION,2026-08-08
-14,denoland/celld,celld,"self-hosted, distributed Durable Objects",Rust,546,2189,否,Rust,Apache-2.0,2026-08-08
-15,K2SOsint/Legendary_OSINT,Legendary_OSINT,"A list of OSINT tools & resources for (fraud-)investigators, CTI-analysts, KYC, AML and more.",未标注,64,1414,否,"cti, cyberthreatintelligence, osint, osint-tools-list, socmint",CC0-1.0,2026-08-08
-16,pranshuparmar/witr,witr,"Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",Go,308,19717,是,"Go, cli, containers, devops, docker",Apache-2.0,2026-08-08
-17,google/skills,skills,Agent Skills for Google products and technologies,Python,305,16227,是,"Python, google, googlecloud, skills",Apache-2.0,2026-08-08
+1,PrimeIntellect-ai/prime-agent,prime-agent,A self-improving RLM agent for coding workflows and long-running autonomous tasks.,TypeScript,2356,11564,是,TypeScript,MIT,2026-08-10
+2,vitali87/code-graph-rag,code-graph-rag,"The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",Python,96,3128,是,"Python, ai, ast, claude-code, code-analysis",MIT,2026-08-10
+3,msitarzewski/agency-agents,agency-agents,"A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",Shell,858,140976,是,Shell,MIT,2026-08-10
+4,pranshuparmar/witr,witr,"Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",Go,210,20823,是,"Go, cli, containers, devops, docker",Apache-2.0,2026-08-10
+5,google-deepmind/weathernext,weathernext,,Python,86,7129,否,"Python, weather, weather-forecast",Apache-2.0,2026-08-10
+6,addyosmani/agent-skills,agent-skills,Production-grade engineering skills for AI coding agents.,JavaScript,680,85258,是,"JavaScript, agent-skills, antigravity, claude-code, codex",MIT,2026-08-10
+7,ZhuLinsen/daily_stock_analysis,daily_stock_analysis,"LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",Python,306,61350,是,"Python, a-stock, ai-agent, aigc, llm",MIT,2026-08-10
+8,goauthentik/authentik,authentik,The authentication glue you need.,Python,310,24340,否,"Python, authentication, authentik, authorization, kubernetes",NOASSERTION,2026-08-10
+9,google/skills,skills,Agent Skills for Google products and technologies,Python,528,17321,是,"Python, google, googlecloud, skills",Apache-2.0,2026-08-10
+10,Comfy-Org/ComfyUI,ComfyUI,"The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",Python,365,125672,是,"Python, ai, comfy, comfyui, pytorch",GPL-3.0,2026-08-10
+11,harveyai/harvey-labs,harvey-labs,A benchmark built to evaluate and improve agent capabilities for supporting legal work.,Python,47,872,是,Python,MIT,2026-08-10
+12,pingdotgg/t3code,t3code,,TypeScript,163,17725,否,"TypeScript, 开发工具",MIT,2026-08-10
