@@ -1,17 +1,18 @@
 rank,full_name,name,description,language,stars_today,total_stars,ai_related,tags,license,collected_at
-1,semantica-agi/semantica,semantica,Graph-Native Infrastructure for Context and Accountable AI Systems,Python,967,4058,是,"Python, agent-memory, ai, ai-governance, ai-infrastructure",MIT,2026-08-11
-2,msitarzewski/agency-agents,agency-agents,"A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",Shell,1352,141776,是,Shell,MIT,2026-08-11
-3,NanmiCoder/MediaCrawler,MediaCrawler,小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫,Python,215,60973,否,Python,NOASSERTION,2026-08-11
-4,addyosmani/agent-skills,agent-skills,Production-grade engineering skills for AI coding agents.,JavaScript,659,85720,是,"JavaScript, agent-skills, antigravity, claude-code, codex",MIT,2026-08-11
-5,paperclipai/paperclip,paperclip,The open-source app everyone uses to manage agents at work,TypeScript,167,76445,是,TypeScript,MIT,2026-08-11
-6,PrimeIntellect-ai/prime-agent,prime-agent,A self-improving RLM agent for coding workflows and long-running autonomous tasks.,TypeScript,2655,13019,是,TypeScript,MIT,2026-08-11
-7,LadybirdBrowser/ladybird,ladybird,Truly independent web browser,C++,106,65243,否,"C++, browser, browser-engine",BSD-2-Clause,2026-08-11
-8,ruvnet/RuView,RuView,"π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",Rust,186,89353,是,"Rust, awesome, claude, densepose, esp32",MIT,2026-08-11
-9,danielmiessler/LifeOS,LifeOS,⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.,TypeScript,357,17879,是,"TypeScript, ai, ai-harness, augmentation, coding",MIT,2026-08-11
-10,firecrawl/firecrawl,firecrawl,"The context API to search, scrape, and interact with the web at scale. 🔥",TypeScript,815,165032,是,"TypeScript, ai, ai-agents, ai-crawler, ai-scraping",AGPL-3.0,2026-08-11
-11,TauricResearch/TradingAgents,TradingAgents,TradingAgents: Multi-Agents LLM Financial Trading Framework,Python,234,97192,是,"Python, agent, finance, llm, multiagent",Apache-2.0,2026-08-11
-12,google-deepmind/weathernext,weathernext,,Python,327,7334,否,"Python, weather, weather-forecast",Apache-2.0,2026-08-11
-13,vitali87/code-graph-rag,code-graph-rag,"The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",Python,682,3514,是,"Python, ai, ast, claude-code, code-analysis",MIT,2026-08-11
-14,pingdotgg/t3code,t3code,,TypeScript,388,18019,否,"TypeScript, 开发工具",MIT,2026-08-11
-15,Comfy-Org/ComfyUI,ComfyUI,"The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",Python,921,126291,是,"Python, ai, comfy, comfyui, pytorch",GPL-3.0,2026-08-11
-16,opa334/Dopamine,Dopamine,Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1),C,174,6014,是,C,MIT,2026-08-11
+1,msitarzewski/agency-agents,agency-agents,"A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",Shell,971,143139,是,Shell,MIT,2026-08-12
+2,semantica-agi/semantica,semantica,Graph-Native Infrastructure for Context and Accountable AI Systems,Python,884,4839,是,"Python, agent-memory, ai, ai-governance, ai-infrastructure",MIT,2026-08-12
+3,nvm-sh/nvm,nvm,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,Shell,18,94480,否,"Shell, bash, install, lts, node",MIT,2026-08-12
+4,addyosmani/agent-skills,agent-skills,Production-grade engineering skills for AI coding agents.,JavaScript,571,86204,是,"JavaScript, agent-skills, antigravity, claude-code, codex",MIT,2026-08-12
+5,ZhuLinsen/daily_stock_analysis,daily_stock_analysis,"LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",Python,317,62099,是,"Python, a-stock, ai-agent, aigc, llm",MIT,2026-08-12
+6,vitali87/code-graph-rag,code-graph-rag,"The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",Python,339,3800,是,"Python, ai, ast, claude-code, code-analysis",MIT,2026-08-12
+7,anthropics/skills,skills,Public repository for Agent Skills,Python,468,168108,是,"Python, agent-skills",NOASSERTION,2026-08-12
+8,3b1b/manim,manim,Animation engine for explanatory math videos,Python,246,90153,否,"Python, 3b1b-videos, animation, explanatory-math-videos",MIT,2026-08-12
+9,HKUDS/DeepTutor,DeepTutor,DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.,Python,829,34675,是,"Python, ai-agents, ai-tutor, clawdbot, cli-tool",Apache-2.0,2026-08-12
+10,stablyai/orca,orca,"Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",TypeScript,881,42725,是,"TypeScript, ade, agent-ide, ai-agents, claude-code",MIT,2026-08-12
+11,paperclipai/paperclip,paperclip,The open-source app everyone uses to manage agents at work,TypeScript,743,77136,是,TypeScript,MIT,2026-08-12
+12,huggingface/transformers,transformers,"🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",Python,69,163791,是,"Python, audio, deep-learning, deepseek, gemma",Apache-2.0,2026-08-12
+13,harveyai/harvey-labs,harvey-labs,A benchmark built to evaluate and improve agent capabilities for supporting legal work.,Python,24,1072,是,Python,MIT,2026-08-12
+14,jaywcjlove/awesome-mac,awesome-mac, This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.,Swift,334,110451,否,"Swift, app, apple, application, apps",CC0-1.0,2026-08-12
+15,calesthio/OpenMontage,OpenMontage,"World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",Python,436,47300,是,"Python, agent, agentic-ai, ai, claude",AGPL-3.0,2026-08-12
+16,practical-tutorials/project-based-learning,project-based-learning,Curated list of project-based tutorials,Python,394,278421,否,"Python, beginner-project, cpp, golang, javascript",MIT,2026-08-12
+17,PrimeIntellect-ai/prime-agent,prime-agent,A self-improving RLM agent for coding workflows and long-running autonomous tasks.,TypeScript,1148,14054,是,TypeScript,MIT,2026-08-12

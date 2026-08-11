@@ -1,25 +1,26 @@
 # GitHub Trending 今日热榜产品分析
 
-> 采集：2026-08-11 ｜ 项目：16 ｜ AI 相关：12（75%）
+> 采集：2026-08-12 ｜ 项目：17 ｜ AI 相关：13（76%）
 
 | # | 项目 | 今日⭐ | 总⭐ | 语言 | AI | tags |
 | :--: | :--- | ---: | ---: | :--- | :--: | :--- |
-| 1 | [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | +967 | 4,058 | Python | 是 | Python, agent-memory, ai, ai-governance, ai-infrastructure |
-| 2 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | +1,352 | 141,776 | Shell | 是 | Shell |
-| 3 | [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | +215 | 60,973 | Python | 否 | Python |
-| 4 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | +659 | 85,720 | JavaScript | 是 | JavaScript, agent-skills, antigravity, claude-code, codex |
-| 5 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | +167 | 76,445 | TypeScript | 是 | TypeScript |
-| 6 | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | +2,655 | 13,019 | TypeScript | 是 | TypeScript |
-| 7 | [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | +106 | 65,243 | C++ | 否 | C++, browser, browser-engine |
-| 8 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | +186 | 89,353 | Rust | 是 | Rust, awesome, claude, densepose, esp32 |
-| 9 | [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) | +357 | 17,879 | TypeScript | 是 | TypeScript, ai, ai-harness, augmentation, coding |
-| 10 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | +815 | 165,032 | TypeScript | 是 | TypeScript, ai, ai-agents, ai-crawler, ai-scraping |
-| 11 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | +234 | 97,192 | Python | 是 | Python, agent, finance, llm, multiagent |
-| 12 | [google-deepmind/weathernext](https://github.com/google-deepmind/weathernext) | +327 | 7,334 | Python | 否 | Python, weather, weather-forecast |
-| 13 | [vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag) | +682 | 3,514 | Python | 是 | Python, ai, ast, claude-code, code-analysis |
-| 14 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | +388 | 18,019 | TypeScript | 否 | TypeScript, 开发工具 |
-| 15 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | +921 | 126,291 | Python | 是 | Python, ai, comfy, comfyui, pytorch |
-| 16 | [opa334/Dopamine](https://github.com/opa334/Dopamine) | +174 | 6,014 | C | 是 | C |
+| 1 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | +971 | 143,139 | Shell | 是 | Shell |
+| 2 | [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | +884 | 4,839 | Python | 是 | Python, agent-memory, ai, ai-governance, ai-infrastructure |
+| 3 | [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | +18 | 94,480 | Shell | 否 | Shell, bash, install, lts, node |
+| 4 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | +571 | 86,204 | JavaScript | 是 | JavaScript, agent-skills, antigravity, claude-code, codex |
+| 5 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | +317 | 62,099 | Python | 是 | Python, a-stock, ai-agent, aigc, llm |
+| 6 | [vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag) | +339 | 3,800 | Python | 是 | Python, ai, ast, claude-code, code-analysis |
+| 7 | [anthropics/skills](https://github.com/anthropics/skills) | +468 | 168,108 | Python | 是 | Python, agent-skills |
+| 8 | [3b1b/manim](https://github.com/3b1b/manim) | +246 | 90,153 | Python | 否 | Python, 3b1b-videos, animation, explanatory-math-videos |
+| 9 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | +829 | 34,675 | Python | 是 | Python, ai-agents, ai-tutor, clawdbot, cli-tool |
+| 10 | [stablyai/orca](https://github.com/stablyai/orca) | +881 | 42,725 | TypeScript | 是 | TypeScript, ade, agent-ide, ai-agents, claude-code |
+| 11 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | +743 | 77,136 | TypeScript | 是 | TypeScript |
+| 12 | [huggingface/transformers](https://github.com/huggingface/transformers) | +69 | 163,791 | Python | 是 | Python, audio, deep-learning, deepseek, gemma |
+| 13 | [harveyai/harvey-labs](https://github.com/harveyai/harvey-labs) | +24 | 1,072 | Python | 是 | Python |
+| 14 | [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | +334 | 110,451 | Swift | 否 | Swift, app, apple, application, apps |
+| 15 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | +436 | 47,300 | Python | 是 | Python, agent, agentic-ai, ai, claude |
+| 16 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | +394 | 278,421 | Python | 否 | Python, beginner-project, cpp, golang, javascript |
+| 17 | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | +1,148 | 14,054 | TypeScript | 是 | TypeScript |
 
 ## 新热点
 
