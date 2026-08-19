@@ -1,26 +1,22 @@
 # GitHub Trending 今日热榜产品分析
 
-> 采集：2026-07-27 ｜ 项目：17 ｜ AI 相关：13（76%）
+> 采集：2026-08-20 ｜ 项目：13 ｜ AI 相关：10（77%）
 
 | # | 项目 | 今日⭐ | 总⭐ | 语言 | AI | tags |
 | :--: | :--- | ---: | ---: | :--- | :--: | :--- |
-| 1 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | +971 | 143,139 | Shell | 是 | Shell |
-| 2 | [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | +884 | 4,839 | Python | 是 | Python, agent-memory, ai, ai-governance, ai-infrastructure |
-| 3 | [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | +18 | 94,480 | Shell | 否 | Shell, bash, install, lts, node |
-| 4 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | +571 | 86,204 | JavaScript | 是 | JavaScript, agent-skills, antigravity, claude-code, codex |
-| 5 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | +317 | 62,099 | Python | 是 | Python, a-stock, ai-agent, aigc, llm |
-| 6 | [vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag) | +339 | 3,800 | Python | 是 | Python, ai, ast, claude-code, code-analysis |
-| 7 | [anthropics/skills](https://github.com/anthropics/skills) | +468 | 168,108 | Python | 是 | Python, agent-skills |
-| 8 | [3b1b/manim](https://github.com/3b1b/manim) | +246 | 90,153 | Python | 否 | Python, 3b1b-videos, animation, explanatory-math-videos |
-| 9 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | +829 | 34,675 | Python | 是 | Python, ai-agents, ai-tutor, clawdbot, cli-tool |
-| 10 | [stablyai/orca](https://github.com/stablyai/orca) | +881 | 42,725 | TypeScript | 是 | TypeScript, ade, agent-ide, ai-agents, claude-code |
-| 11 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | +743 | 77,136 | TypeScript | 是 | TypeScript |
-| 12 | [huggingface/transformers](https://github.com/huggingface/transformers) | +69 | 163,791 | Python | 是 | Python, audio, deep-learning, deepseek, gemma |
-| 13 | [harveyai/harvey-labs](https://github.com/harveyai/harvey-labs) | +24 | 1,072 | Python | 是 | Python |
-| 14 | [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | +334 | 110,451 | Swift | 否 | Swift, app, apple, application, apps |
-| 15 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | +436 | 47,300 | Python | 是 | Python, agent, agentic-ai, ai, claude |
-| 16 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | +394 | 278,421 | Python | 否 | Python, beginner-project, cpp, golang, javascript |
-| 17 | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | +1,148 | 14,054 | TypeScript | 是 | TypeScript |
+| 1 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | +2,221 | 110,554 | Python | 是 | Python, ai-video-generator, content-creation, ffmpeg, instagram-reels |
+| 2 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | +803 | 30,145 | Python | 是 | Python, agent-memory, agent-plugins, agentic-rag, context-database |
+| 3 | [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin) | +797 | 2,663 | TypeScript | 是 | TypeScript, agents, claude-code, free, harness |
+| 4 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | +767 | 29,815 | Python | 是 | Python, ai-agents, claude-code, cloud-security, cybersecurity |
+| 5 | [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | +79 | 26,435 | Rust | 是 | Rust, algorithmic-trading-engine, artificial-intelligence, crypto-trading, equity-trading |
+| 6 | [mattpocock/skills](https://github.com/mattpocock/skills) | +1,214 | 223,732 | Shell | 是 | Shell |
+| 7 | [obra/superpowers](https://github.com/obra/superpowers) | +514 | 274,248 | Shell | 是 | Shell, ai, brainstorming, coding, obra |
+| 8 | [jundot/omlx](https://github.com/jundot/omlx) | +467 | 19,824 | Python | 是 | Python, apple-silicon, inference-server, llm, macos |
+| 9 | [santifer/career-ops](https://github.com/santifer/career-ops) | +193 | 65,757 | JavaScript | 是 | JavaScript, ai, ai-agent, anthropic, ats |
+| 10 | [immich-app/immich](https://github.com/immich-app/immich) | +137 | 111,848 | TypeScript | 否 | TypeScript, backup-tool, flutter, google-photos, google-photos-alternative |
+| 11 | [amadeusprotocol/node](https://github.com/amadeusprotocol/node) | +1,415 | 4,509 | Rust | 否 | Rust |
+| 12 | [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) | +58 | 13,087 | Python | 是 | Python, cartography, generative-art, jupyter-notebook, maps |
+| 13 | [genlayerlabs/genlayer-project-boilerplate](https://github.com/genlayerlabs/genlayer-project-boilerplate) | +421 | 16,222 | TypeScript | 否 | TypeScript |
 
 ## 新热点
 
