@@ -1,22 +1,26 @@
 # GitHub Trending 今日热榜产品分析
 
-> 采集：2026-08-20 ｜ 项目：13 ｜ AI 相关：10（77%）
+> 采集：2026-08-21 ｜ 项目：17 ｜ AI 相关：13（76%）
 
 | # | 项目 | 今日⭐ | 总⭐ | 语言 | AI | tags |
 | :--: | :--- | ---: | ---: | :--- | :--: | :--- |
-| 1 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | +2,221 | 110,554 | Python | 是 | Python, ai-video-generator, content-creation, ffmpeg, instagram-reels |
-| 2 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | +803 | 30,145 | Python | 是 | Python, agent-memory, agent-plugins, agentic-rag, context-database |
-| 3 | [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin) | +797 | 2,663 | TypeScript | 是 | TypeScript, agents, claude-code, free, harness |
-| 4 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | +767 | 29,815 | Python | 是 | Python, ai-agents, claude-code, cloud-security, cybersecurity |
-| 5 | [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | +79 | 26,435 | Rust | 是 | Rust, algorithmic-trading-engine, artificial-intelligence, crypto-trading, equity-trading |
-| 6 | [mattpocock/skills](https://github.com/mattpocock/skills) | +1,214 | 223,732 | Shell | 是 | Shell |
-| 7 | [obra/superpowers](https://github.com/obra/superpowers) | +514 | 274,248 | Shell | 是 | Shell, ai, brainstorming, coding, obra |
-| 8 | [jundot/omlx](https://github.com/jundot/omlx) | +467 | 19,824 | Python | 是 | Python, apple-silicon, inference-server, llm, macos |
-| 9 | [santifer/career-ops](https://github.com/santifer/career-ops) | +193 | 65,757 | JavaScript | 是 | JavaScript, ai, ai-agent, anthropic, ats |
-| 10 | [immich-app/immich](https://github.com/immich-app/immich) | +137 | 111,848 | TypeScript | 否 | TypeScript, backup-tool, flutter, google-photos, google-photos-alternative |
-| 11 | [amadeusprotocol/node](https://github.com/amadeusprotocol/node) | +1,415 | 4,509 | Rust | 否 | Rust |
-| 12 | [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) | +58 | 13,087 | Python | 是 | Python, cartography, generative-art, jupyter-notebook, maps |
-| 13 | [genlayerlabs/genlayer-project-boilerplate](https://github.com/genlayerlabs/genlayer-project-boilerplate) | +421 | 16,222 | TypeScript | 否 | TypeScript |
+| 1 | [modular/modular](https://github.com/modular/modular) | +340 | 27,904 | Mojo | 是 | Mojo, ai, language, machine-learning, max |
+| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | +2,267 | 226,370 | Shell | 是 | Shell |
+| 3 | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | +1,540 | 11,808 | Rust | 否 | Rust, dpi, gpui, hid, hidpp |
+| 4 | [obra/superpowers](https://github.com/obra/superpowers) | +749 | 274,919 | Shell | 是 | Shell, ai, brainstorming, coding, obra |
+| 5 | [cursor/plugins](https://github.com/cursor/plugins) | +473 | 4,066 | TypeScript | 否 | TypeScript |
+| 6 | [santifer/career-ops](https://github.com/santifer/career-ops) | +855 | 66,632 | JavaScript | 是 | JavaScript, ai, ai-agent, anthropic, ats |
+| 7 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | +335 | 3,576 | Rust | 是 | Rust |
+| 8 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | +2,774 | 112,893 | Python | 是 | Python, ai-video-generator, content-creation, ffmpeg, instagram-reels |
+| 9 | [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | +66 | 1,382 | Go | 是 | Go |
+| 10 | [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin) | +517 | 3,116 | TypeScript | 是 | TypeScript, agents, claude-code, free, harness |
+| 11 | [PostHog/posthog](https://github.com/PostHog/posthog) | +100 | 37,978 | Python | 是 | Python, ab-testing, ai-analytics, analytics, cdp |
+| 12 | [mahlernim/google-timeline-visualizer](https://github.com/mahlernim/google-timeline-visualizer) | +575 | 1,511 | Kotlin | 否 | Kotlin |
+| 13 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | +955 | 31,002 | Python | 是 | Python, agent-memory, agent-plugins, agentic-rag, context-database |
+| 14 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | +309 | 99,610 | Go | 是 | Go, ai, anthropic, caveman, claude |
+| 15 | [makeplane/plane](https://github.com/makeplane/plane) | +206 | 56,477 | TypeScript | 否 | TypeScript, boards, bug-tracker, django, docker |
+| 16 | [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | +28 | 4,936 | Python | 是 | Python, agent, agent-security, ai-infra, ai-red-teaming |
+| 17 | [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | +251 | 15,926 | Rust | 是 | Rust, ann, avx512, embedding, embeddings |
 
 ## 新热点
 
