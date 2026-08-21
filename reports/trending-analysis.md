@@ -1,26 +1,26 @@
 # GitHub Trending 今日热榜产品分析
 
-> 采集：2026-08-21 ｜ 项目：17 ｜ AI 相关：13（76%）
+> 采集：2026-08-22 ｜ 项目：17 ｜ AI 相关：11（65%）
 
 | # | 项目 | 今日⭐ | 总⭐ | 语言 | AI | tags |
 | :--: | :--- | ---: | ---: | :--- | :--: | :--- |
-| 1 | [modular/modular](https://github.com/modular/modular) | +340 | 27,904 | Mojo | 是 | Mojo, ai, language, machine-learning, max |
-| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | +2,267 | 226,370 | Shell | 是 | Shell |
-| 3 | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | +1,540 | 11,808 | Rust | 否 | Rust, dpi, gpui, hid, hidpp |
-| 4 | [obra/superpowers](https://github.com/obra/superpowers) | +749 | 274,919 | Shell | 是 | Shell, ai, brainstorming, coding, obra |
-| 5 | [cursor/plugins](https://github.com/cursor/plugins) | +473 | 4,066 | TypeScript | 否 | TypeScript |
-| 6 | [santifer/career-ops](https://github.com/santifer/career-ops) | +855 | 66,632 | JavaScript | 是 | JavaScript, ai, ai-agent, anthropic, ats |
-| 7 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | +335 | 3,576 | Rust | 是 | Rust |
-| 8 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | +2,774 | 112,893 | Python | 是 | Python, ai-video-generator, content-creation, ffmpeg, instagram-reels |
-| 9 | [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | +66 | 1,382 | Go | 是 | Go |
-| 10 | [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin) | +517 | 3,116 | TypeScript | 是 | TypeScript, agents, claude-code, free, harness |
-| 11 | [PostHog/posthog](https://github.com/PostHog/posthog) | +100 | 37,978 | Python | 是 | Python, ab-testing, ai-analytics, analytics, cdp |
-| 12 | [mahlernim/google-timeline-visualizer](https://github.com/mahlernim/google-timeline-visualizer) | +575 | 1,511 | Kotlin | 否 | Kotlin |
-| 13 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | +955 | 31,002 | Python | 是 | Python, agent-memory, agent-plugins, agentic-rag, context-database |
-| 14 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | +309 | 99,610 | Go | 是 | Go, ai, anthropic, caveman, claude |
-| 15 | [makeplane/plane](https://github.com/makeplane/plane) | +206 | 56,477 | TypeScript | 否 | TypeScript, boards, bug-tracker, django, docker |
-| 16 | [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | +28 | 4,936 | Python | 是 | Python, agent, agent-security, ai-infra, ai-red-teaming |
-| 17 | [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | +251 | 15,926 | Rust | 是 | Rust, ann, avx512, embedding, embeddings |
+| 1 | [mattpocock/skills](https://github.com/mattpocock/skills) | +3,368 | 229,405 | Shell | 是 | Shell |
+| 2 | [mahlernim/google-timeline-visualizer](https://github.com/mahlernim/google-timeline-visualizer) | +1,040 | 2,206 | Kotlin | 否 | Kotlin |
+| 3 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | +1,187 | 113,871 | Python | 是 | Python, ai-video-generator, content-creation, ffmpeg, instagram-reels |
+| 4 | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | +1,372 | 12,887 | Rust | 否 | Rust, dpi, gpui, hid, hidpp |
+| 5 | [PostHog/posthog](https://github.com/PostHog/posthog) | +334 | 38,279 | Python | 是 | Python, ab-testing, ai-analytics, analytics, cdp |
+| 6 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | +65 | 110,371 | Go | 否 | Go, javascript, language, typechecker, typescript |
+| 7 | [obra/superpowers](https://github.com/obra/superpowers) | +789 | 275,642 | Shell | 是 | Shell, ai, brainstorming, coding, obra |
+| 8 | [santifer/career-ops](https://github.com/santifer/career-ops) | +918 | 67,425 | JavaScript | 是 | JavaScript, ai, ai-agent, anthropic, ats |
+| 9 | [cursor/plugins](https://github.com/cursor/plugins) | +391 | 4,388 | TypeScript | 否 | TypeScript |
+| 10 | [modular/modular](https://github.com/modular/modular) | +905 | 28,673 | Mojo | 是 | Mojo, ai, language, machine-learning, max |
+| 11 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | +348 | 241,777 | JavaScript | 是 | JavaScript, ai-agents, anthropic, claude, claude-code |
+| 12 | [TryGhost/Ghost](https://github.com/TryGhost/Ghost) | +32 | 54,870 | JavaScript | 否 | JavaScript, blogging, cms, ghost, journalism |
+| 13 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | +140 | 68,633 | TypeScript | 是 | TypeScript, agentic-ai, agentic-framework, agentic-workflow, agents |
+| 14 | [apache/maka](https://github.com/apache/maka) | +141 | 2,001 | TypeScript | 是 | TypeScript, agent-runtime, ai, ai-agent, apache |
+| 15 | [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | +4 | 71,763 | C++ | 否 | C++, marshalling, protobuf, protobuf-runtime, protoc |
+| 16 | [elder-plinius/OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS) | +63 | 7,768 | Python | 是 | Python |
+| 17 | [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) | +5 | 21,430 | C++ | 是 | C++, ai-framework, deep-learning, hardware-acceleration, machine-learning |
 
 ## 新热点
 
