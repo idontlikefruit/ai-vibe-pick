@@ -1,26 +1,26 @@
 # GitHub Trending 今日热榜产品分析
 
-> 采集：2026-08-22 ｜ 项目：17 ｜ AI 相关：11（65%）
+> 采集：2026-08-23 ｜ 项目：17 ｜ AI 相关：11（65%）
 
 | # | 项目 | 今日⭐ | 总⭐ | 语言 | AI | tags |
 | :--: | :--- | ---: | ---: | :--- | :--: | :--- |
-| 1 | [mattpocock/skills](https://github.com/mattpocock/skills) | +3,368 | 229,405 | Shell | 是 | Shell |
-| 2 | [mahlernim/google-timeline-visualizer](https://github.com/mahlernim/google-timeline-visualizer) | +1,040 | 2,206 | Kotlin | 否 | Kotlin |
-| 3 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | +1,187 | 113,871 | Python | 是 | Python, ai-video-generator, content-creation, ffmpeg, instagram-reels |
-| 4 | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | +1,372 | 12,887 | Rust | 否 | Rust, dpi, gpui, hid, hidpp |
-| 5 | [PostHog/posthog](https://github.com/PostHog/posthog) | +334 | 38,279 | Python | 是 | Python, ab-testing, ai-analytics, analytics, cdp |
-| 6 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | +65 | 110,371 | Go | 否 | Go, javascript, language, typechecker, typescript |
-| 7 | [obra/superpowers](https://github.com/obra/superpowers) | +789 | 275,642 | Shell | 是 | Shell, ai, brainstorming, coding, obra |
-| 8 | [santifer/career-ops](https://github.com/santifer/career-ops) | +918 | 67,425 | JavaScript | 是 | JavaScript, ai, ai-agent, anthropic, ats |
-| 9 | [cursor/plugins](https://github.com/cursor/plugins) | +391 | 4,388 | TypeScript | 否 | TypeScript |
-| 10 | [modular/modular](https://github.com/modular/modular) | +905 | 28,673 | Mojo | 是 | Mojo, ai, language, machine-learning, max |
-| 11 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | +348 | 241,777 | JavaScript | 是 | JavaScript, ai-agents, anthropic, claude, claude-code |
-| 12 | [TryGhost/Ghost](https://github.com/TryGhost/Ghost) | +32 | 54,870 | JavaScript | 否 | JavaScript, blogging, cms, ghost, journalism |
-| 13 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | +140 | 68,633 | TypeScript | 是 | TypeScript, agentic-ai, agentic-framework, agentic-workflow, agents |
-| 14 | [apache/maka](https://github.com/apache/maka) | +141 | 2,001 | TypeScript | 是 | TypeScript, agent-runtime, ai, ai-agent, apache |
-| 15 | [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | +4 | 71,763 | C++ | 否 | C++, marshalling, protobuf, protobuf-runtime, protoc |
-| 16 | [elder-plinius/OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS) | +63 | 7,768 | Python | 是 | Python |
-| 17 | [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) | +5 | 21,430 | C++ | 是 | C++, ai-framework, deep-learning, hardware-acceleration, machine-learning |
+| 1 | [openai/codex](https://github.com/openai/codex) | +1,978 | 113,276 | Rust | 是 | Rust |
+| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | +2,684 | 231,961 | Shell | 是 | Shell |
+| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | +428 | 242,164 | JavaScript | 是 | JavaScript, ai-agents, anthropic, claude, claude-code |
+| 4 | [obra/superpowers](https://github.com/obra/superpowers) | +592 | 276,175 | Shell | 是 | Shell, ai, brainstorming, coding, obra |
+| 5 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | +264 | 38,779 | Go | 是 | Go, 2api, antigravity2api, cc2api, claude |
+| 6 | [makeplane/plane](https://github.com/makeplane/plane) | +263 | 57,209 | TypeScript | 否 | TypeScript, boards, bug-tracker, django, docker |
+| 7 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | +202 | 201,803 | TypeScript | 是 | TypeScript, ai, apis, automation, cli |
+| 8 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | +141 | 142,519 | Python | 是 | Python |
+| 9 | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | +959 | 13,895 | Rust | 否 | Rust, dpi, gpui, hid, hidpp |
+| 10 | [modular/modular](https://github.com/modular/modular) | +395 | 28,836 | Mojo | 是 | Mojo, ai, language, machine-learning, max |
+| 11 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | +379 | 205,288 | 未标注 | 是 | 未标注 |
+| 12 | [mahlernim/google-timeline-visualizer](https://github.com/mahlernim/google-timeline-visualizer) | +441 | 2,558 | Kotlin | 否 | Kotlin |
+| 13 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | +915 | 133,884 | HTML | 否 | HTML, awesome-list, free-for-developers |
+| 14 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | +163 | 110,533 | Go | 否 | Go, javascript, language, typechecker, typescript |
+| 15 | [cursor/plugins](https://github.com/cursor/plugins) | +286 | 4,654 | TypeScript | 否 | TypeScript |
+| 16 | [PostHog/posthog](https://github.com/PostHog/posthog) | +288 | 38,601 | Python | 是 | Python, ab-testing, ai-analytics, analytics, cdp |
+| 17 | [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | +161 | 5,483 | Python | 是 | Python, agent, agent-security, ai-infra, ai-red-teaming |
 
 ## 新热点
 
