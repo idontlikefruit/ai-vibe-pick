@@ -1,9 +1,5 @@
 {
-  "date": "2026-08-24",
-  "added": [
-    "microsoft/TypeScript"
-  ],
-  "removed": [
-    "tauri-apps/tauri"
-  ]
+  "date": "2026-08-25",
+  "added": [],
+  "removed": []
 }
