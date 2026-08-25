@@ -1,28 +1,25 @@
 # GitHub Trending 今日热榜产品分析
 
-> 采集：2026-08-25 ｜ 项目：19 ｜ AI 相关：15（79%）
+> 采集：2026-08-26 ｜ 项目：16 ｜ AI 相关：15（94%）
 
 | # | 项目 | 今日⭐ | 总⭐ | 语言 | AI | tags |
 | :--: | :--- | ---: | ---: | :--- | :--: | :--- |
-| 1 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | +889 | 48,914 | Python | 是 | Python |
-| 2 | [openai/codex](https://github.com/openai/codex) | +1,990 | 117,006 | Rust | 是 | Rust |
-| 3 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | +378 | 34,020 | Python | 是 | Python, ai, ai-agents, career, claude-code |
-| 4 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | +491 | 206,477 | 未标注 | 是 | 未标注 |
-| 5 | [makeplane/plane](https://github.com/makeplane/plane) | +268 | 57,905 | TypeScript | 否 | TypeScript, boards, bug-tracker, django, docker |
-| 6 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | +899 | 235,773 | Python | 是 | Python, ai, ai-agent, ai-agents, anthropic |
-| 7 | [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community) | +490 | 1,337 | Python | 是 | Python |
-| 8 | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | +1,102 | 15,836 | Rust | 否 | Rust, dpi, gpui, hid, hidpp |
-| 9 | [apache/maka](https://github.com/apache/maka) | +408 | 2,882 | TypeScript | 是 | TypeScript, agent-runtime, ai, ai-agent, apache |
-| 10 | [PostHog/posthog](https://github.com/PostHog/posthog) | +106 | 38,982 | Python | 是 | Python, ab-testing, ai-analytics, analytics, cdp |
-| 11 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | +160 | 387,429 | TypeScript | 是 | TypeScript, ai, assistant, crustacean, molty |
-| 12 | [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) | +272 | 11,863 | Python | 是 | Python, agent-skills, ai-note-taking, ai-second-brain, claude-code |
-| 13 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | +330 | 48,263 | Python | 是 | Python, agents, ai, ai-agents, ai-engineering |
-| 14 | [basecamp/omarchy](https://github.com/basecamp/omarchy) | +1,055 | 30,078 | Shell | 否 | Shell |
-| 15 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | +153 | 19,758 | TypeScript | 是 | TypeScript |
-| 16 | [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | +176 | 66,124 | Rust | 否 | Rust, bitwarden, bitwarden-rs, docker, rocket |
-| 17 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | +2,442 | 15,451 | JavaScript | 是 | JavaScript, agents, ai-image-generation, chatgpt, dsh-plugin |
-| 18 | [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | +600 | 31,850 | 未标注 | 是 | agent-skills, ai-agents, awesome, awesome-list, claude-code |
-| 19 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | +515 | 37,243 | Rust | 是 | Rust |
+| 1 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | +1,698 | 17,591 | JavaScript | 是 | JavaScript, agents, ai-image-generation, chatgpt, dsh-plugin |
+| 2 | [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community) | +350 | 1,722 | Python | 是 | Python |
+| 3 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | +1,266 | 35,229 | Python | 是 | Python, ai, ai-agents, career, claude-code |
+| 4 | [apache/maka](https://github.com/apache/maka) | +538 | 3,312 | TypeScript | 是 | TypeScript, agent-runtime, ai, ai-agent, apache |
+| 5 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | +191 | 100,206 | Python | 是 | Python, agent, finance, llm, multiagent |
+| 6 | [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) | +810 | 12,687 | Python | 是 | Python, agent-skills, ai-note-taking, ai-second-brain, claude-code |
+| 7 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | +572 | 48,923 | Python | 是 | Python, agents, ai, ai-agents, ai-engineering |
+| 8 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | +541 | 37,747 | Rust | 是 | Rust |
+| 9 | [basecamp/omarchy](https://github.com/basecamp/omarchy) | +1,080 | 31,204 | Shell | 否 | Shell |
+| 10 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | +161 | 134,217 | Python | 是 | Python, agents, llms, rag |
+| 11 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | +828 | 207,172 | 未标注 | 是 | 未标注 |
+| 12 | [openai/codex](https://github.com/openai/codex) | +1,183 | 118,073 | Rust | 是 | Rust |
+| 13 | [marin-community/marin](https://github.com/marin-community/marin) | +277 | 2,086 | Python | 是 | Python |
+| 14 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | +944 | 110,958 | JavaScript | 是 | JavaScript, agent-skills, ai-agents, claude, claude-code |
+| 15 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | +47 | 34,071 | Python | 是 | Python, claude-code, mcp, skills |
+| 16 | [asciimoo/hister](https://github.com/asciimoo/hister) | +166 | 2,754 | Go | 是 | Go, browser-history, golang, history, index |
 
 ## 新热点
 
