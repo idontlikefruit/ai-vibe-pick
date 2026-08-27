@@ -1,25 +1,28 @@
 # GitHub Trending 今日热榜产品分析
 
-> 采集：2026-08-27 ｜ 项目：16 ｜ AI 相关：15（94%）
+> 采集：2026-08-28 ｜ 项目：19 ｜ AI 相关：14（74%）
 
 | # | 项目 | 今日⭐ | 总⭐ | 语言 | AI | tags |
 | :--: | :--- | ---: | ---: | :--- | :--: | :--- |
-| 1 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | +1,002 | 17,837 | HTML | 是 | HTML, agent-skills, architecture-as-code, architecture-diagram, claude-skill |
-| 2 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | +4,044 | 21,240 | JavaScript | 是 | JavaScript, agents, ai-image-generation, chatgpt, dsh-plugin |
-| 3 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | +307 | 34,352 | Python | 是 | Python, claude-code, mcp, skills |
-| 4 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | +566 | 50,357 | Python | 是 | Python |
-| 5 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | +1,299 | 36,437 | Python | 是 | Python, ai, ai-agents, career, claude-code |
-| 6 | [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) | +812 | 13,402 | Python | 是 | Python, agent-skills, ai-note-taking, ai-second-brain, claude-code |
-| 7 | [basecamp/omarchy](https://github.com/basecamp/omarchy) | +1,021 | 31,977 | Shell | 否 | Shell |
-| 8 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | +837 | 49,565 | Python | 是 | Python, agents, ai, ai-agents, ai-engineering |
-| 9 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | +522 | 38,195 | Rust | 是 | Rust |
-| 10 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | +1,598 | 112,514 | JavaScript | 是 | JavaScript, agent-skills, ai-agents, claude, claude-code |
-| 11 | [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community) | +537 | 2,177 | Python | 是 | Python |
-| 12 | [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) | +136 | 10,904 | CSS | 是 | CSS, agent, claude, gpt-image-2, rag |
-| 13 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | +135 | 110,949 | Python | 是 | Python, ai-agents, ai-tools, browser-automation, browser-use |
-| 14 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | +130 | 34,713 | Python | 是 | Python, agent-skills, ai-scientist, bioinformatics, chemoinformatics |
-| 15 | [marin-community/marin](https://github.com/marin-community/marin) | +443 | 2,449 | Python | 是 | Python |
-| 16 | [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | +305 | 32,620 | 未标注 | 是 | agent-skills, ai-agents, awesome, awesome-list, claude-code |
+| 1 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | +1,984 | 7,886 | JavaScript | 否 | JavaScript, 3d-globe, cesium, flight-tracking, geospatial |
+| 2 | [zedeus/nitter](https://github.com/zedeus/nitter) | +279 | 13,859 | Nim | 否 | Nim, privacy, self-hosted, twitter, x |
+| 3 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | +2,093 | 22,971 | JavaScript | 是 | JavaScript, agents, ai-image-generation, chatgpt, dsh-plugin |
+| 4 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | +4,260 | 23,041 | JavaScript | 是 | JavaScript, agent-skills, architecture-as-code, architecture-diagram, claude-skill |
+| 5 | [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) | +314 | 2,058 | Go | 是 | Go, ai-agents, coding-agent, developer-tools, golang |
+| 6 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | +290 | 34,673 | Python | 是 | Python, claude-code, mcp, skills |
+| 7 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | +494 | 35,292 | Python | 是 | Python, agent-skills, ai-scientist, bioinformatics, chemoinformatics |
+| 8 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | +1,610 | 114,001 | JavaScript | 是 | JavaScript, agent-skills, ai-agents, claude, claude-code |
+| 9 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | +1,284 | 52,331 | Python | 是 | Python, agent, agentic-ai, ai, claude |
+| 10 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | +547 | 50,150 | Python | 是 | Python, agents, ai, ai-agents, ai-engineering |
+| 11 | [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) | +413 | 11,310 | CSS | 是 | CSS, agent, claude, gpt-image-2, rag |
+| 12 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | +260 | 92,259 | JavaScript | 是 | JavaScript, ai, ai-agents, ai-memory, anthropic |
+| 13 | [google/googletest](https://github.com/google/googletest) | +4 | 39,037 | C++ | 否 | C++ |
+| 14 | [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) | +631 | 13,981 | Python | 是 | Python, agent-skills, ai-note-taking, ai-second-brain, claude-code |
+| 15 | [marin-community/marin](https://github.com/marin-community/marin) | +255 | 2,691 | Python | 是 | Python |
+| 16 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | +125 | 73,598 | Python | 是 | Python, agent-skills, ai-agents, antigravity, automation |
+| 17 | [actions/checkout](https://github.com/actions/checkout) | +4 | 8,718 | TypeScript | 否 | TypeScript |
+| 18 | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | +460 | 87,411 | TypeScript | 否 | TypeScript, editor, oss, videoeditor |
+| 19 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | +323 | 101,191 | Python | 是 | Python, agent, finance, llm, multiagent |
 
 ## 新热点
 
