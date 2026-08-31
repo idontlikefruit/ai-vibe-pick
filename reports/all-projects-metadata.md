@@ -903,7 +903,24 @@
 
 ---
 
-## 54. Langflow
+## 54. Dify
+
+> Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
+
+| 字段 | 值 |
+| :--- | :--- |
+| 仓库 | [langgenius/dify](https://github.com/langgenius/dify) |
+| Stars | 153,930 |
+| Top-100 / Trending | 55 / 否 |
+| 类别 / AI | A-AI/Agent生态 / 是 |
+| 前端 / 后端 | Next.js + React + Tailwind / Python(Flask) |
+| 数据库 / LLM | PostgreSQL + Redis + 向量库 / 多模型/兼容 OpenAI |
+| tags | TypeScript, Next.js, React, Tailwind, Python, Flask, PostgreSQL, Redis |
+| 来源 | curated,top100 |
+
+---
+
+## 55. Langflow
 
 > Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
 
@@ -916,23 +933,6 @@
 | 前端 / 后端 | React / Python(FastAPI) |
 | 数据库 / LLM | SQLite/PostgreSQL / 多模型 |
 | tags | Python, React, FastAPI, SQLite, PostgreSQL |
-| 来源 | curated,top100 |
-
----
-
-## 55. Dify
-
-> Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
-
-| 字段 | 值 |
-| :--- | :--- |
-| 仓库 | [langgenius/dify](https://github.com/langgenius/dify) |
-| Stars | 153,929 |
-| Top-100 / Trending | 55 / 否 |
-| 类别 / AI | A-AI/Agent生态 / 是 |
-| 前端 / 后端 | Next.js + React + Tailwind / Python(Flask) |
-| 数据库 / LLM | PostgreSQL + Redis + 向量库 / 多模型/兼容 OpenAI |
-| tags | TypeScript, Next.js, React, Tailwind, Python, Flask, PostgreSQL, Redis |
 | 来源 | curated,top100 |
 
 ---
@@ -1267,7 +1267,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) |
-| Stars | 130,766 |
+| Stars | 130,767 |
 | Top-100 / Trending | 75 / 否 |
 | 类别 / AI | A-AI/Agent生态 / 是 |
 | 前端 / 后端 | TypeScript(自定义节点编辑器) / Python(aiohttp/Starlette) |
@@ -1369,7 +1369,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) |
-| Stars | 126,411 |
+| Stars | 126,412 |
 | Top-100 / Trending | 81 / 否 |
 | 类别 / AI | A-AI/Agent生态 / 是 |
 | 前端 / 后端 | — / C/C++(内置 HTTP server) |
@@ -1726,7 +1726,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [punkpeye/awesome-mcp-servers]() |
-| Stars | 93,378 |
+| Stars | 93,379 |
 | Top-100 / Trending | — / 是 |
 | 类别 / AI | — / 是 |
 | 前端 / 后端 | — / — |
@@ -1794,7 +1794,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [unclecode/crawl4ai]() |
-| Stars | 80,288 |
+| Stars | 80,289 |
 | Top-100 / Trending | — / 是 |
 | 类别 / AI | — / 是 |
 | 前端 / 后端 | — / — |
@@ -1913,7 +1913,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [mvanhorn/last30days-skill]() |
-| Stars | 60,540 |
+| Stars | 60,541 |
 | Top-100 / Trending | — / 是 |
 | 类别 / AI | — / 是 |
 | 前端 / 后端 | — / — |
@@ -2015,7 +2015,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [abhigyanpatwari/GitNexus]() |
-| Stars | 46,594 |
+| Stars | 46,597 |
 | Top-100 / Trending | — / 是 |
 | 类别 / AI | — / 是 |
 | 前端 / 后端 | — / — |
@@ -2100,7 +2100,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [K-Dense-AI/scientific-agent-skills]() |
-| Stars | 39,426 |
+| Stars | 39,433 |
 | Top-100 / Trending | — / 是 |
 | 类别 / AI | — / 是 |
 | 前端 / 后端 | — / — |
@@ -2134,7 +2134,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [tt-a1i/archify]() |
-| Stars | 35,057 |
+| Stars | 35,065 |
 | Top-100 / Trending | — / 是 |
 | 类别 / AI | — / 是 |
 | 前端 / 后端 | — / — |
@@ -2185,7 +2185,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) |
-| Stars | 32,848 |
+| Stars | 32,849 |
 | Top-100 / Trending | — / 否 |
 | 类别 / AI | LLM 聊天前端 / 是 |
 | 前端 / 后端 | 原生 JS/jQuery / Node.js(Express) |
@@ -2236,7 +2236,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [p-e-w/heretic]() |
-| Stars | 29,226 |
+| Stars | 29,227 |
 | Top-100 / Trending | — / 是 |
 | 类别 / AI | — / 是 |
 | 前端 / 后端 | — / — |
@@ -2270,7 +2270,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [THU-MAIC/OpenMAIC]() |
-| Stars | 24,335 |
+| Stars | 24,344 |
 | Top-100 / Trending | — / 是 |
 | 类别 / AI | — / 是 |
 | 前端 / 后端 | — / — |
@@ -2287,7 +2287,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [tashfeenahmed/freellmapi]() |
-| Stars | 22,861 |
+| Stars | 22,863 |
 | Top-100 / Trending | — / 是 |
 | 类别 / AI | — / 是 |
 | 前端 / 后端 | — / — |
@@ -2304,7 +2304,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [every-app/open-seo]() |
-| Stars | 15,215 |
+| Stars | 15,216 |
 | Top-100 / Trending | — / 是 |
 | 类别 / AI | — / 是 |
 | 前端 / 后端 | — / — |
@@ -2321,7 +2321,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [livekit/agents]() |
-| Stars | 13,779 |
+| Stars | 13,780 |
 | Top-100 / Trending | — / 是 |
 | 类别 / AI | — / 是 |
 | 前端 / 后端 | — / — |
@@ -2372,7 +2372,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [Lakr233/vphone-cli]() |
-| Stars | 9,689 |
+| Stars | 9,690 |
 | Top-100 / Trending | — / 是 |
 | 类别 / AI | — / 否 |
 | 前端 / 后端 | — / — |
@@ -2406,7 +2406,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [handsomestWei/patent-disclosure-skill]() |
-| Stars | 5,753 |
+| Stars | 5,757 |
 | Top-100 / Trending | — / 是 |
 | 类别 / AI | — / 否 |
 | 前端 / 后端 | — / — |
@@ -2423,7 +2423,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [pollen-robotics/microduck_rl]() |
-| Stars | 821 |
+| Stars | 822 |
 | Top-100 / Trending | — / 是 |
 | 类别 / AI | — / 是 |
 | 前端 / 后端 | — / — |

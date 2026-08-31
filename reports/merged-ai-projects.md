@@ -25,8 +25,8 @@
 | 16 | [f/prompts.chat](https://github.com/f/prompts.chat) | 168,182 | 49 | 网站(可自托管) | HTML | HTML, ChatGPT | top100 |
 | 17 | [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | 164,747 | 50 | Web(自托管) | Python | Python, Gradio, FastAPI, 本地文件, 本地推理 | curated+top100 |
 | 18 | [huggingface/transformers](https://github.com/huggingface/transformers) | 164,643 | 51 | Library | Python | Python | curated+top100 |
-| 19 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | 153,929 | 54 | Web(自托管/云) | Python | Python, React, FastAPI, SQLite, PostgreSQL | curated+top100 |
-| 20 | [langgenius/dify](https://github.com/langgenius/dify) | 153,929 | 55 | Web(自托管/云) | TypeScript | TypeScript, Next.js, React, Tailwind, Pyt… | curated+top100 |
+| 19 | [langgenius/dify](https://github.com/langgenius/dify) | 153,930 | 55 | Web(自托管/云) | TypeScript | TypeScript, Next.js, React, Tailwind, Pyt… | curated+top100 |
+| 20 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | 153,929 | 54 | Web(自托管/云) | Python | Python, React, FastAPI, SQLite, PostgreSQL | curated+top100 |
 | 21 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | 150,444 | 56 | Web(自托管/Docker) | Python | Python, SvelteKit, FastAPI, SQLite, Chrom… | curated+top100 |
 | 22 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 148,869 | 57 | Agent Skills/配置 | Shell | Shell | top100 |
 | 23 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | 145,301 | 60 | Library | Python | Python | curated+top100 |
@@ -34,10 +34,10 @@
 | 25 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 143,225 | 62 | 文档/合集 | 未标注 | 未标注 | top100 |
 | 26 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 135,173 | 72 | 示例库 | Python | Python | top100 |
 | 27 | [github/spec-kit](https://github.com/github/spec-kit) | 132,203 | 73 | CLI/Library | Python | Python | top100 |
-| 28 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | 130,766 | 75 | Web(自托管) | Python | Python, TypeScript, 自定义节点编辑器, aiohttp, St… | curated+top100 |
+| 28 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | 130,767 | 75 | Web(自托管) | Python | Python, TypeScript, 自定义节点编辑器, aiohttp, St… | curated+top100 |
 | 29 | [garrytan/gstack](https://github.com/garrytan/gstack) | 130,359 | 76 | Agent Skills/配置 | TypeScript | TypeScript, Claude Code | top100 |
 | 30 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 130,104 | 77 | 桌面(Tauri) | Rust | Rust, Web, Tauri, Claude, Codex, Gemini | top100 |
-| 31 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 126,411 | 81 | CLI/Library/Server | C++ | C, 内置 HTTP server, 自研 ggml | curated+top100 |
+| 31 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 126,412 | 81 | CLI/Library/Server | C++ | C, 内置 HTTP server, 自研 ggml | curated+top100 |
 | 32 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 122,987 | 83 | —(待补) | Python | Claude Code, UI/UX, 设计技能 | top100 |
 | 33 | [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 118,763 | 90 | 教程 | Jupyter Notebook | Jupyter Notebook, Jupyter, Azure OpenAI | top100 |
 | 34 | [openai/whisper](https://github.com/openai/whisper) | 108,168 | — | Library/CLI | Python | Python | curated |
@@ -60,7 +60,7 @@
 | 51 | [continuedev/continue](https://github.com/continuedev/continue) | 35,705 | — | IDE 插件(VSCode/Jet… | TypeScript | TypeScript, React, WebView, Node.js | curated |
 | 52 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 34,277 | — | Server/云 | Rust | Rust | curated |
 | 53 | [TabbyML/tabby](https://github.com/TabbyML/tabby) | 33,843 | — | Web/IDE 插件 | Rust | Rust, React, SQLite, PostgreSQL, 自托管模型 | curated |
-| 54 | [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) | 32,848 | — | Web(自托管) | JavaScript | JavaScript, 原生 JS, jQuery, Node.js, Expre… | curated |
+| 54 | [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) | 32,849 | — | Web(自托管) | JavaScript | JavaScript, 原生 JS, jQuery, Node.js, Expre… | curated |
 | 55 | [stanford-oval/storm](https://github.com/stanford-oval/storm) | 31,178 | — | Library/CLI | Python | Python | curated |
 | 56 | [labring/FastGPT](https://github.com/labring/FastGPT) | 29,503 | — | Web(自托管/云) | TypeScript | TypeScript, Next.js, React, Mantine, Node… | curated |
 | 57 | [chroma-core/chroma](https://github.com/chroma-core/chroma) | 29,183 | — | Library/Server | Rust | Rust, Python | curated |

@@ -60,7 +60,7 @@
 
 > 来源：[EvanLi/Github-Ranking · Top-100-stars](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Top-100-stars.md) ｜ 采集：2026-08-31 ｜ 数据：[`data/top-100-stars.csv`](data/top-100-stars.csv) · [`data/source-top-100-stars.md`](data/source-top-100-stars.md)
 
-**一句话结论**：GitHub 全站历史 Star 总榜前 100 里，**33 个是 AI / Agent 生态项目**。本次新增 `Graphify-Labs/graphify`；移出 `jaywcjlove/awesome-mac`。
+**一句话结论**：GitHub 全站历史 Star 总榜前 100 里，**33 个是 AI / Agent 生态项目**。本次无新进入或移出。
 
 ### 类别分布（人工分类，共 100）
 
@@ -196,8 +196,7 @@
 
 ### 本次更新变化
 
-- **新进入 Top-100**：[`Graphify-Labs/graphify`](https://github.com/Graphify-Labs/graphify)
-- **移出 Top-100**：[`jaywcjlove/awesome-mac`](https://github.com/jaywcjlove/awesome-mac)
+- 本次 Top-100 名单无新进入或移出。
 
 ---
 
@@ -207,25 +206,25 @@
 
 | 项目 | ⭐ Stars | 今日 ⭐ | 主语言 | AI 相关 | 框架 tags | 简介 |
 | :--- | ---: | ---: | :--- | :---: | :--- | :--- |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 24,335 | +1,370 | TypeScript | 是 | TypeScript | Open Multi-Agent Interactive Classroom … |
-| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 39,426 | +1,114 | Python | 是 | Python, agent-skills, ai-scientis… | Turn any AI agent into an AI Scientist.… |
-| [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) | 9,689 | +361 | Swift | 否 | Swift | — |
-| [tt-a1i/archify](https://github.com/tt-a1i/archify) | 35,057 | +3,722 | JavaScript | 是 | JavaScript, agent-skills, archite… | Agent skill for beautiful, verifiable a… |
-| [p-e-w/heretic](https://github.com/p-e-w/heretic) | 29,226 | +369 | Python | 是 | Python, abliteration, llm, transf… | Fully automatic censorship removal for … |
-| [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | 80,288 | +221 | Python | 是 | Python | 🚀🤖 Crawl4AI: Open-source LLM Friendly W… |
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 60,540 | +230 | Python | 是 | Python, ai-prompts, ai-skill, blu… | AI agent skill that researches any topi… |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 24,344 | +1,370 | TypeScript | 是 | TypeScript | Open Multi-Agent Interactive Classroom … |
+| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 39,433 | +1,114 | Python | 是 | Python, agent-skills, ai-scientis… | Turn any AI agent into an AI Scientist.… |
+| [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) | 9,690 | +361 | Swift | 否 | Swift | — |
+| [tt-a1i/archify](https://github.com/tt-a1i/archify) | 35,065 | +3,722 | JavaScript | 是 | JavaScript, agent-skills, archite… | Agent skill for beautiful, verifiable a… |
+| [p-e-w/heretic](https://github.com/p-e-w/heretic) | 29,227 | +369 | Python | 是 | Python, abliteration, llm, transf… | Fully automatic censorship removal for … |
+| [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | 80,289 | +221 | Python | 是 | Python | 🚀🤖 Crawl4AI: Open-source LLM Friendly W… |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 60,541 | +230 | Python | 是 | Python, ai-prompts, ai-skill, blu… | AI agent skill that researches any topi… |
 | [majd/ipatool](https://github.com/majd/ipatool) | 10,250 | +58 | Go | 否 | Go, apple, appstore, cli, command… | Command-line tool that allows searching… |
-| [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | 93,378 | +96 | 未标注 | 是 | ai, mcp | A collection of MCP servers. |
+| [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | 93,379 | +96 | 未标注 | 是 | ai, mcp | A collection of MCP servers. |
 | [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle) | 9,221 | +115 | Java | 否 | Java, code-quality, command-line-… | Checkstyle is a development tool to hel… |
 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | 73,936 | +198 | Java | 否 | Java, disassembler, reverse-engin… | Ghidra is a software reverse engineerin… |
-| [pollen-robotics/microduck_rl](https://github.com/pollen-robotics/microduck_rl) | 821 | +168 | Python | 是 | Python | RL training environments for Microduck … |
-| [handsomestWei/patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill) | 5,753 | +62 | Python | 否 | Python, chinese, disclosure, obsi… | 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利… |
+| [pollen-robotics/microduck_rl](https://github.com/pollen-robotics/microduck_rl) | 822 | +168 | Python | 是 | Python | RL training environments for Microduck … |
+| [handsomestWei/patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill) | 5,757 | +62 | Python | 否 | Python, chinese, disclosure, obsi… | 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利… |
 | [corsairdev/corsair](https://github.com/corsairdev/corsair) | 10,981 | +126 | TypeScript | 是 | TypeScript | Connect your users to their apps |
-| [every-app/open-seo](https://github.com/every-app/open-seo) | 15,215 | +469 | TypeScript | 是 | TypeScript, backlink-analysis, go… | Open source alternative to Semrush and … |
+| [every-app/open-seo](https://github.com/every-app/open-seo) | 15,216 | +469 | TypeScript | 是 | TypeScript, backlink-analysis, go… | Open source alternative to Semrush and … |
 | [colinhacks/zod](https://github.com/colinhacks/zod) | 43,661 | +31 | TypeScript | 是 | TypeScript, runtime-validation, s… | TypeScript-first schema validation with… |
-| [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | 22,861 | +504 | TypeScript | 是 | TypeScript | 7.4 billion tokens per month. 34 free L… |
-| [livekit/agents](https://github.com/livekit/agents) | 13,779 | +132 | Python | 是 | Python, agents, ai, openai, real-… | A framework for building realtime voice… |
-| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 46,594 | +182 | TypeScript | 是 | TypeScript | GitNexus: The Zero-Server Code Intellig… |
+| [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | 22,863 | +504 | TypeScript | 是 | TypeScript | 7.4 billion tokens per month. 34 free L… |
+| [livekit/agents](https://github.com/livekit/agents) | 13,780 | +132 | Python | 是 | Python, agents, ai, openai, real-… | A framework for building realtime voice… |
+| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 46,597 | +182 | TypeScript | 是 | TypeScript | GitNexus: The Zero-Server Code Intellig… |
 
 **产品分析**：今日热榜共 **19** 个项目，其中 AI 相关 **14 个（74%）**。新热点集中在：AI Agent 工程教程、代码知识图谱/MCP、异构 LLM 推理、Voice AI、Coding Agent、Computer Use 与 GenBI。
 
