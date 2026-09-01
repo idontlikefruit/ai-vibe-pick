@@ -1,25 +1,23 @@
 # GitHub Trending 今日热榜产品分析
 
-> 采集：2026-09-01 ｜ 项目：16 ｜ AI 相关：11（69%）
+> 采集：2026-09-02 ｜ 项目：14 ｜ AI 相关：9（64%）
 
 | # | 项目 | 今日⭐ | 总⭐ | 语言 | AI | tags |
 | :--: | :--- | ---: | ---: | :--- | :--: | :--- |
-| 1 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | +2,819 | 26,908 | TypeScript | 是 | TypeScript |
-| 2 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | +3,993 | 38,566 | JavaScript | 是 | JavaScript, agent-skills, architecture-as-code, architecture-diagram, claude-skill |
-| 3 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | +1,968 | 40,689 | Python | 是 | Python, agent-skills, ai-scientist, bioinformatics, chemoinformatics |
-| 4 | [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) | +511 | 23,358 | C# | 否 | C#, csharp, wand, wand-enhancer, wand-pro |
-| 5 | [majd/ipatool](https://github.com/majd/ipatool) | +376 | 10,516 | Go | 否 | Go, apple, appstore, cli, command-line |
-| 6 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | +472 | 56,068 | Python | 是 | Python, artificial-intelligence, large-language-model |
-| 7 | [Osmantic/ODS](https://github.com/Osmantic/ODS) | +163 | 5,465 | Python | 是 | Python, ai-agents, amd, comfyui, docker |
-| 8 | [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle) | +199 | 9,402 | Java | 否 | Java, code-quality, command-line-tool, hacktoberfest, static-analysis |
-| 9 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | +1,439 | 33,084 | PowerShell | 是 | PowerShell |
-| 10 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | +548 | 245,226 | JavaScript | 是 | JavaScript, ai-agents, anthropic, claude, claude-code |
-| 11 | [kaifcodec/user-scanner](https://github.com/kaifcodec/user-scanner) | +184 | 4,208 | Python | 是 | Python, cybersecurity, cybersecurity-tools, email-osint, ethical-hacking |
-| 12 | [every-app/open-seo](https://github.com/every-app/open-seo) | +608 | 15,732 | TypeScript | 是 | TypeScript, backlink-analysis, google-search-console-mcp, keyword-research, mcp |
-| 13 | [p-e-w/heretic](https://github.com/p-e-w/heretic) | +536 | 29,634 | Python | 是 | Python, abliteration, llm, transformer |
-| 14 | [handsomestWei/patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill) | +571 | 6,192 | Python | 否 | Python, chinese, disclosure, obsidian, patent |
-| 15 | [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | +199 | 17,339 | Rust | 否 | Rust, markdown, nodejs, ocr-routing, pdf |
-| 16 | [pollen-robotics/microduck_rl](https://github.com/pollen-robotics/microduck_rl) | +384 | 1,122 | Python | 是 | Python |
+| 1 | [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) | +37 | 31,257 | TypeScript | 是 | TypeScript, ai, ai-agent, ai-tools, cli |
+| 2 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | +161 | 44,854 | Python | 是 | Python, academic-pipeline, academic-writing, ai-research, claude |
+| 3 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | +3,122 | 29,432 | TypeScript | 是 | TypeScript |
+| 4 | [iv-org/invidious](https://github.com/iv-org/invidious) | +583 | 23,753 | Crystal | 否 | Crystal, agplv3, hacktoberfest, invidious, libre |
+| 5 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | +1,005 | 57,024 | Python | 是 | Python, artificial-intelligence, large-language-model |
+| 6 | [3b1b/manim](https://github.com/3b1b/manim) | +74 | 92,538 | Python | 否 | Python, 3b1b-videos, animation, explanatory-math-videos |
+| 7 | [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | +545 | 17,899 | Rust | 否 | Rust, markdown, nodejs, ocr-routing, pdf |
+| 8 | [browser-use/video-use](https://github.com/browser-use/video-use) | +509 | 22,905 | Python | 是 | Python |
+| 9 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | +914 | 41,515 | Python | 是 | Python, agent-skills, ai-scientist, bioinformatics, chemoinformatics |
+| 10 | [handsomestWei/patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill) | +502 | 6,676 | Python | 否 | Python, chinese, disclosure, obsidian, patent |
+| 11 | [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | +487 | 112,687 | 未标注 | 是 | awesome-list, design-md, design-system, design-tokens, figma |
+| 12 | [averygan/reclip](https://github.com/averygan/reclip) | +21 | 7,628 | HTML | 否 | HTML |
+| 13 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | +621 | 245,748 | JavaScript | 是 | JavaScript, ai-agents, anthropic, claude, claude-code |
+| 14 | [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | +179 | 80,837 | Python | 是 | Python |
 
 ## 新热点
 
