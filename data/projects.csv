@@ -1,37 +1,37 @@
 name,full_name,stars,category,platform,primary_lang,dev_langs,frontend,backend,database,llm_runtime,license,owner,description,url
-n8n,n8n-io/n8n,203062,工作流/Agent 平台,Web(自托管/云),TypeScript,TypeScript,Vue 3 + Vue Flow + PrimeVue,Node.js,SQLite/PostgreSQL/MySQL,OpenAI/Anthropic/LangChain 节点,NOASSERTION(Sustainable Use License),n8n-io,可视化工作流自动化平台 原生 AI 能力 400+ 集成,https://github.com/n8n-io/n8n
-AutoGPT,Significant-Gravitas/AutoGPT,187065,编程/自主 Agent,Web + CLI,Python,Python/TypeScript,Next.js(React),Python(FastAPI),PostgreSQL,多模型,NOASSERTION,Significant-Gravitas,可访问的自主 AI Agent 平台,https://github.com/Significant-Gravitas/AutoGPT
-Ollama,ollama/ollama,179918,本地模型运行时,CLI/桌面/API,Go,Go,—(CLI/原生桌面),Go,—,llama.cpp,MIT,ollama,本地运行 LLM 支持 Llama/Qwen/Gemma/DeepSeek 等,https://github.com/ollama/ollama
-stable-diffusion-webui,AUTOMATIC1111/stable-diffusion-webui,164765,图像生成 WebUI,Web(自托管),Python,Python/JavaScript,Gradio,Python(Gradio + FastAPI),—(本地文件),本地推理,AGPL-3.0,AUTOMATIC1111,Stable Diffusion 图像生成 Web 界面,https://github.com/AUTOMATIC1111/stable-diffusion-webui
-transformers,huggingface/transformers,164704,模型库/框架,Library,Python,Python/C++/JavaScript,—,Python(库),—,—,Apache-2.0,huggingface,SOTA 机器学习模型定义与训练框架,https://github.com/huggingface/transformers
-Langflow,langflow-ai/langflow,154046,工作流/Agent 平台,Web(自托管/云),Python,Python/TypeScript,React,Python(FastAPI),SQLite/PostgreSQL,多模型,MIT,langflow-ai,可视化构建和部署 AI Agent 与工作流,https://github.com/langflow-ai/langflow
-Firecrawl,firecrawl/firecrawl,175291,Web 抓取/数据,API/云/自托管,TypeScript,TypeScript,Next.js,Node.js,—,多模型,AGPL-3.0,firecrawl,大规模网页搜索/抓取/交互 API,https://github.com/firecrawl/firecrawl
-Dify,langgenius/dify,154121,LLM 应用平台,Web(自托管/云),TypeScript,TypeScript/Python,Next.js + React + Tailwind,Python(Flask),PostgreSQL + Redis + 向量库,多模型/兼容 OpenAI,NOASSERTION(Apache-2.0 附加条款),langgenius,生产级 agentic 工作流开发平台,https://github.com/langgenius/dify
-Open WebUI,open-webui/open-webui,150624,AI 聊天界面,Web(自托管/Docker),Python,Python/Svelte,Svelte(SvelteKit),Python(FastAPI),SQLite/ChromaDB,Ollama/OpenAI 兼容,NOASSERTION(BSD-3-Clause),open-webui,用户友好的 AI 界面 支持 Ollama/OpenAI,https://github.com/open-webui/open-webui
-LangChain,langchain-ai/langchain,145455,LLM 应用框架,Library,Python,Python/TypeScript,—,Python(库 含 LangServe),—,多模型/兼容 OpenAI,MIT,langchain-ai,Agent 工程平台/LLM 应用开发框架,https://github.com/langchain-ai/langchain
-ComfyUI,Comfy-Org/ComfyUI,131071,图像生成节点式 GUI,Web(自托管),Python,Python/TypeScript,TypeScript(自定义节点编辑器),Python(aiohttp/Starlette),—,本地推理,GPL-3.0,Comfy-Org,模块化扩散模型 GUI/API/后端,https://github.com/Comfy-Org/ComfyUI
-llama.cpp,ggml-org/llama.cpp,126679,LLM 推理引擎,CLI/Library/Server,C++,C/C++,—,C/C++(内置 HTTP server),—,自研 ggml,MIT,ggml-org,C/C++ 高效 LLM 推理,https://github.com/ggml-org/llama.cpp
-Whisper,openai/whisper,108283,语音识别,Library/CLI,Python,Python,—,Python(库),—,—,MIT,openai,鲁棒语音识别,https://github.com/openai/whisper
-vLLM,vllm-project/vllm,90703,LLM 推理服务,Library/Server,Python,Python/C++,—,Python(FastAPI OpenAI 兼容),—,多模型,Apache-2.0,vllm-project,高吞吐低显存 LLM 推理与服务引擎,https://github.com/vllm-project/vllm
-OpenHands,OpenHands/OpenHands,85882,编程 Agent,Web/CLI,TypeScript,Python/TypeScript,React,Python(运行时),—,多模型,NOASSERTION(MIT),OpenHands,AI 驱动软件开发 Agent,https://github.com/OpenHands/OpenHands
-LobeHub,lobehub/lobehub,82148,AI 聊天/Agent 平台,Web(自托管),TypeScript,TypeScript,Next.js + React + Zustand + DaisyUI,Next.js Server,IndexedDB/服务端可选,OpenAI/Anthropic/本地,NOASSERTION(MIT 附加),lobehub,Agent 编排与聊天前端(原 LobeChat),https://github.com/lobehub/lobehub
-LLaMA-Factory,hiyouga/LlamaFactory,74503,模型微调,Web/CLI,Python,Python,Gradio,Python,—,本地,Apache-2.0,hiyouga,100+ LLM/VLM 统一高效微调,https://github.com/hiyouga/LlamaFactory
-gpt_academic,binary-husky/gpt_academic,71278,学术助手,Web(自托管),Python,Python,Gradio,Python,—,多模型,GPL-3.0,binary-husky,LLM 实用交互 论文阅读/润色/翻译,https://github.com/binary-husky/gpt_academic
-Open Interpreter,openinterpreter/openinterpreter,68220,编程 Agent,CLI,Rust,Rust,—,Rust,—,多模型,Apache-2.0,openinterpreter,面向低成本模型的编程 Agent,https://github.com/openinterpreter/openinterpreter
-Mem0,mem0ai/mem0,64534,Agent 基础设施(记忆),Library/云,Python,TypeScript/Python,—,Python + TS SDK,PostgreSQL/Qdrant,多模型,Apache-2.0,mem0ai,AI Agent 通用记忆层,https://github.com/mem0ai/mem0
-AutoGen,microsoft/autogen,60740,多 Agent 框架,Library,Python,Python/.NET,—(AutoGen Studio: React),Python,—,多模型,CC-BY-4.0,microsoft,多 Agent 协作编程框架,https://github.com/microsoft/autogen
-CrewAI,crewAIInc/crewAI,57961,Agent 编排框架,Library,Python,Python,—,Python(库),—,多模型,MIT,crewAIInc,角色扮演自主 Agent 编排框架,https://github.com/crewAIInc/crewAI
-Flowise,FlowiseAI/Flowise,55401,工作流/Agent 平台,Web(自托管),TypeScript,TypeScript,React + MUI,Node.js(Express),SQLite/Postgres/MySQL,LangChain/多模型,NOASSERTION(Apache-2.0 附加),FlowiseAI,可视化构建 AI Agent,https://github.com/FlowiseAI/Flowise
-LlamaIndex,run-llama/llama_index,51972,数据/RAG 框架,Library,Python,Python/TypeScript,—,Python(库),—,多模型,MIT,run-llama,文档 Agent 与 OCR 平台,https://github.com/run-llama/llama_index
-text-generation-webui,oobabooga/textgen,47595,本地 LLM WebUI,Web/桌面,Python,Python/JavaScript,Gradio,Python,—,本地,AGPL-3.0,oobabooga,本地 LLM 开源桌面应用,https://github.com/oobabooga/textgen
-Aider,Aider-AI/aider,48654,编程 Agent/结对,CLI,Python,Python,—,Python(库),—,多模型,Apache-2.0,Aider-AI,终端 AI 结对编程,https://github.com/Aider-AI/aider
-Milvus,milvus-io/milvus,45920,向量数据库,Server/云,Go,Go/C++,—,Go,—,—,Apache-2.0,milvus-io,高性能云原生向量数据库,https://github.com/milvus-io/milvus
-DeepSpeed,deepspeedai/DeepSpeed,43049,训练优化库,Library,Python,Python/C++,—,Python(库),—,—,Apache-2.0,deepspeedai,分布式训练/推理优化库,https://github.com/deepspeedai/DeepSpeed
-Quivr,The-Vibe-Company/quivr,39447,RAG 平台,Web(自托管/云),Python,Python/TypeScript,Next.js(React) + Vercel AI SDK,Python(FastAPI) + Celery,PostgreSQL + PgVector,多模型,NOASSERTION(Apache-2.0 附加),The-Vibe-Company,开箱即用 RAG 集成,https://github.com/The-Vibe-Company/quivr
-Continue,continuedev/continue,35725,编程助手(IDE 插件),IDE 插件(VSCode/JetBrains),TypeScript,TypeScript,React(WebView),TypeScript(Node),—,多模型/本地,Apache-2.0,continuedev,开源编程 Agent/IDE 助手,https://github.com/continuedev/continue
-Tabby,TabbyML/tabby,33852,编程助手(自托管),Web/IDE 插件,Rust,Rust/TypeScript,React,Rust,SQLite/PostgreSQL,自托管模型,NOASSERTION(Apache-2.0 附加),TabbyML,自托管 AI 编程助手,https://github.com/TabbyML/tabby
-Qdrant,qdrant/qdrant,34323,向量数据库,Server/云,Rust,Rust,—,Rust,—,—,Apache-2.0,qdrant,高性能向量数据库,https://github.com/qdrant/qdrant
-SillyTavern,SillyTavern/SillyTavern,32921,LLM 聊天前端,Web(自托管),JavaScript,JavaScript,原生 JS/jQuery,Node.js(Express),—,OpenAI/本地,AGPL-3.0,SillyTavern,面向高级用户的 LLM 前端,https://github.com/SillyTavern/SillyTavern
-STORM,stanford-oval/storm,31198,知识/报告生成,Library/CLI,Python,Python,—,Python(库),—,多模型,MIT,stanford-oval,LLM 驱动的知识策展与报告生成,https://github.com/stanford-oval/storm
-FastGPT,labring/FastGPT,29533,知识库/RAG 平台,Web(自托管/云),TypeScript,TypeScript,Next.js(React) + Mantine,Node.js(Next.js API),MongoDB + PostgreSQL,多模型,NOASSERTION(FastGPT 协议),labring,基于 LLM 的知识库平台 RAG + 工作流编排,https://github.com/labring/FastGPT
-Chroma,chroma-core/chroma,29202,向量数据库,Library/Server,Rust,Rust/Python,—,Rust + Python,—,—,Apache-2.0,chroma-core,AI 向量搜索基础设施,https://github.com/chroma-core/chroma
+n8n,n8n-io/n8n,203170,工作流/Agent 平台,Web(自托管/云),TypeScript,TypeScript,Vue 3 + Vue Flow + PrimeVue,Node.js,SQLite/PostgreSQL/MySQL,OpenAI/Anthropic/LangChain 节点,NOASSERTION(Sustainable Use License),n8n-io,可视化工作流自动化平台 原生 AI 能力 400+ 集成,https://github.com/n8n-io/n8n
+AutoGPT,Significant-Gravitas/AutoGPT,187085,编程/自主 Agent,Web + CLI,Python,Python/TypeScript,Next.js(React),Python(FastAPI),PostgreSQL,多模型,NOASSERTION,Significant-Gravitas,可访问的自主 AI Agent 平台,https://github.com/Significant-Gravitas/AutoGPT
+Ollama,ollama/ollama,180001,本地模型运行时,CLI/桌面/API,Go,Go,—(CLI/原生桌面),Go,—,llama.cpp,MIT,ollama,本地运行 LLM 支持 Llama/Qwen/Gemma/DeepSeek 等,https://github.com/ollama/ollama
+stable-diffusion-webui,AUTOMATIC1111/stable-diffusion-webui,164776,图像生成 WebUI,Web(自托管),Python,Python/JavaScript,Gradio,Python(Gradio + FastAPI),—(本地文件),本地推理,AGPL-3.0,AUTOMATIC1111,Stable Diffusion 图像生成 Web 界面,https://github.com/AUTOMATIC1111/stable-diffusion-webui
+transformers,huggingface/transformers,164728,模型库/框架,Library,Python,Python/C++/JavaScript,—,Python(库),—,—,Apache-2.0,huggingface,SOTA 机器学习模型定义与训练框架,https://github.com/huggingface/transformers
+Langflow,langflow-ai/langflow,154128,工作流/Agent 平台,Web(自托管/云),Python,Python/TypeScript,React,Python(FastAPI),SQLite/PostgreSQL,多模型,MIT,langflow-ai,可视化构建和部署 AI Agent 与工作流,https://github.com/langflow-ai/langflow
+Firecrawl,firecrawl/firecrawl,175734,Web 抓取/数据,API/云/自托管,TypeScript,TypeScript,Next.js,Node.js,—,多模型,AGPL-3.0,firecrawl,大规模网页搜索/抓取/交互 API,https://github.com/firecrawl/firecrawl
+Dify,langgenius/dify,154255,LLM 应用平台,Web(自托管/云),TypeScript,TypeScript/Python,Next.js + React + Tailwind,Python(Flask),PostgreSQL + Redis + 向量库,多模型/兼容 OpenAI,NOASSERTION(Apache-2.0 附加条款),langgenius,生产级 agentic 工作流开发平台,https://github.com/langgenius/dify
+Open WebUI,open-webui/open-webui,150737,AI 聊天界面,Web(自托管/Docker),Python,Python/Svelte,Svelte(SvelteKit),Python(FastAPI),SQLite/ChromaDB,Ollama/OpenAI 兼容,NOASSERTION(BSD-3-Clause),open-webui,用户友好的 AI 界面 支持 Ollama/OpenAI,https://github.com/open-webui/open-webui
+LangChain,langchain-ai/langchain,145528,LLM 应用框架,Library,Python,Python/TypeScript,—,Python(库 含 LangServe),—,多模型/兼容 OpenAI,MIT,langchain-ai,Agent 工程平台/LLM 应用开发框架,https://github.com/langchain-ai/langchain
+ComfyUI,Comfy-Org/ComfyUI,131210,图像生成节点式 GUI,Web(自托管),Python,Python/TypeScript,TypeScript(自定义节点编辑器),Python(aiohttp/Starlette),—,本地推理,GPL-3.0,Comfy-Org,模块化扩散模型 GUI/API/后端,https://github.com/Comfy-Org/ComfyUI
+llama.cpp,ggml-org/llama.cpp,126814,LLM 推理引擎,CLI/Library/Server,C++,C/C++,—,C/C++(内置 HTTP server),—,自研 ggml,MIT,ggml-org,C/C++ 高效 LLM 推理,https://github.com/ggml-org/llama.cpp
+Whisper,openai/whisper,108333,语音识别,Library/CLI,Python,Python,—,Python(库),—,—,MIT,openai,鲁棒语音识别,https://github.com/openai/whisper
+vLLM,vllm-project/vllm,90801,LLM 推理服务,Library/Server,Python,Python/C++,—,Python(FastAPI OpenAI 兼容),—,多模型,Apache-2.0,vllm-project,高吞吐低显存 LLM 推理与服务引擎,https://github.com/vllm-project/vllm
+OpenHands,OpenHands/OpenHands,85984,编程 Agent,Web/CLI,TypeScript,Python/TypeScript,React,Python(运行时),—,多模型,NOASSERTION(MIT),OpenHands,AI 驱动软件开发 Agent,https://github.com/OpenHands/OpenHands
+LobeHub,lobehub/lobehub,82173,AI 聊天/Agent 平台,Web(自托管),TypeScript,TypeScript,Next.js + React + Zustand + DaisyUI,Next.js Server,IndexedDB/服务端可选,OpenAI/Anthropic/本地,NOASSERTION(MIT 附加),lobehub,Agent 编排与聊天前端(原 LobeChat),https://github.com/lobehub/lobehub
+LLaMA-Factory,hiyouga/LlamaFactory,74527,模型微调,Web/CLI,Python,Python,Gradio,Python,—,本地,Apache-2.0,hiyouga,100+ LLM/VLM 统一高效微调,https://github.com/hiyouga/LlamaFactory
+gpt_academic,binary-husky/gpt_academic,71282,学术助手,Web(自托管),Python,Python,Gradio,Python,—,多模型,GPL-3.0,binary-husky,LLM 实用交互 论文阅读/润色/翻译,https://github.com/binary-husky/gpt_academic
+Open Interpreter,openinterpreter/openinterpreter,68221,编程 Agent,CLI,Rust,Rust,—,Rust,—,多模型,Apache-2.0,openinterpreter,面向低成本模型的编程 Agent,https://github.com/openinterpreter/openinterpreter
+Mem0,mem0ai/mem0,64590,Agent 基础设施(记忆),Library/云,Python,TypeScript/Python,—,Python + TS SDK,PostgreSQL/Qdrant,多模型,Apache-2.0,mem0ai,AI Agent 通用记忆层,https://github.com/mem0ai/mem0
+AutoGen,microsoft/autogen,60767,多 Agent 框架,Library,Python,Python/.NET,—(AutoGen Studio: React),Python,—,多模型,CC-BY-4.0,microsoft,多 Agent 协作编程框架,https://github.com/microsoft/autogen
+CrewAI,crewAIInc/crewAI,58014,Agent 编排框架,Library,Python,Python,—,Python(库),—,多模型,MIT,crewAIInc,角色扮演自主 Agent 编排框架,https://github.com/crewAIInc/crewAI
+Flowise,FlowiseAI/Flowise,55403,工作流/Agent 平台,Web(自托管),TypeScript,TypeScript,React + MUI,Node.js(Express),SQLite/Postgres/MySQL,LangChain/多模型,NOASSERTION(Apache-2.0 附加),FlowiseAI,可视化构建 AI Agent,https://github.com/FlowiseAI/Flowise
+LlamaIndex,run-llama/llama_index,51982,数据/RAG 框架,Library,Python,Python/TypeScript,—,Python(库),—,多模型,MIT,run-llama,文档 Agent 与 OCR 平台,https://github.com/run-llama/llama_index
+text-generation-webui,oobabooga/textgen,47604,本地 LLM WebUI,Web/桌面,Python,Python/JavaScript,Gradio,Python,—,本地,AGPL-3.0,oobabooga,本地 LLM 开源桌面应用,https://github.com/oobabooga/textgen
+Aider,Aider-AI/aider,48681,编程 Agent/结对,CLI,Python,Python,—,Python(库),—,多模型,Apache-2.0,Aider-AI,终端 AI 结对编程,https://github.com/Aider-AI/aider
+Milvus,milvus-io/milvus,45934,向量数据库,Server/云,Go,Go/C++,—,Go,—,—,Apache-2.0,milvus-io,高性能云原生向量数据库,https://github.com/milvus-io/milvus
+DeepSpeed,deepspeedai/DeepSpeed,43057,训练优化库,Library,Python,Python/C++,—,Python(库),—,—,Apache-2.0,deepspeedai,分布式训练/推理优化库,https://github.com/deepspeedai/DeepSpeed
+Quivr,The-Vibe-Company/quivr,39471,RAG 平台,Web(自托管/云),Python,Python/TypeScript,Next.js(React) + Vercel AI SDK,Python(FastAPI) + Celery,PostgreSQL + PgVector,多模型,NOASSERTION(Apache-2.0 附加),The-Vibe-Company,开箱即用 RAG 集成,https://github.com/The-Vibe-Company/quivr
+Continue,continuedev/continue,35733,编程助手(IDE 插件),IDE 插件(VSCode/JetBrains),TypeScript,TypeScript,React(WebView),TypeScript(Node),—,多模型/本地,Apache-2.0,continuedev,开源编程 Agent/IDE 助手,https://github.com/continuedev/continue
+Tabby,TabbyML/tabby,33858,编程助手(自托管),Web/IDE 插件,Rust,Rust/TypeScript,React,Rust,SQLite/PostgreSQL,自托管模型,NOASSERTION(Apache-2.0 附加),TabbyML,自托管 AI 编程助手,https://github.com/TabbyML/tabby
+Qdrant,qdrant/qdrant,34347,向量数据库,Server/云,Rust,Rust,—,Rust,—,—,Apache-2.0,qdrant,高性能向量数据库,https://github.com/qdrant/qdrant
+SillyTavern,SillyTavern/SillyTavern,32956,LLM 聊天前端,Web(自托管),JavaScript,JavaScript,原生 JS/jQuery,Node.js(Express),—,OpenAI/本地,AGPL-3.0,SillyTavern,面向高级用户的 LLM 前端,https://github.com/SillyTavern/SillyTavern
+STORM,stanford-oval/storm,31207,知识/报告生成,Library/CLI,Python,Python,—,Python(库),—,多模型,MIT,stanford-oval,LLM 驱动的知识策展与报告生成,https://github.com/stanford-oval/storm
+FastGPT,labring/FastGPT,29544,知识库/RAG 平台,Web(自托管/云),TypeScript,TypeScript,Next.js(React) + Mantine,Node.js(Next.js API),MongoDB + PostgreSQL,多模型,NOASSERTION(FastGPT 协议),labring,基于 LLM 的知识库平台 RAG + 工作流编排,https://github.com/labring/FastGPT
+Chroma,chroma-core/chroma,29206,向量数据库,Library/Server,Rust,Rust/Python,—,Rust + Python,—,—,Apache-2.0,chroma-core,AI 向量搜索基础设施,https://github.com/chroma-core/chroma
