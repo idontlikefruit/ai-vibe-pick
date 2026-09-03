@@ -1,20 +1,20 @@
 rank,full_name,name,description,language,stars_today,total_stars,ai_related,tags,license,collected_at
-1,fmtlib/fmt,fmt,A modern formatting library,C++,3,24218,否,"C++, c-plus-plus, chrono, cpp, cross-platform",MIT,2026-09-03
-2,google-research/timesfm,timesfm,TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.,Python,326,29724,是,Python,Apache-2.0,2026-09-03
-3,DietrichGebert/ponytail,ponytail,Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.,JavaScript,1364,121447,是,"JavaScript, agent-skills, ai-agents, claude, claude-code",MIT,2026-09-03
-4,debpalash/VoiceStudio,VoiceStudio,"VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",Python,834,14647,是,"Python, ai, audiobook, cuda, dubbing",AGPL-3.0,2026-09-03
-5,sngyai/Sequoia-X,Sequoia-X,A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书,Python,138,6024,是,"Python, a-shares, akshare, baostock, pandas",NOASSERTION,2026-09-03
-6,ChromeDevTools/chrome-devtools-mcp,chrome-devtools-mcp,Chrome DevTools for coding agents,TypeScript,140,50621,是,"TypeScript, browser, chrome, chrome-devtools, debugging",Apache-2.0,2026-09-03
-7,NousResearch/hermes-agent,hermes-agent,The agent that grows with you,Python,529,240101,是,"Python, ai, ai-agent, ai-agents, anthropic",MIT,2026-09-03
-8,superlinked/sie,sie,Open-source inference server and production cluster for all the models your agent needs.,Python,61,3043,是,"Python, bge, colbert, data-pipeline, deep-learning",Apache-2.0,2026-09-03
-9,pacifio/atlas,atlas,"Source control for agents. Use multiple coding agents, track their changes and query them in one place",Rust,895,2849,是,"Rust, ai, ai-coding-assistant, claude-code, codex",MIT,2026-09-03
-10,zyronon/TypeWords,TypeWords,"Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；",Vue,68,9287,否,"Vue, english-learn, learn-english, memorizing-words, type-words",GPL-3.0,2026-09-03
-11,Imbad0202/academic-research-skills,academic-research-skills,Academic Research Skills for Claude Code: research → write → review → revise → finalize,Python,801,45542,是,"Python, academic-pipeline, academic-writing, ai-research, claude",NOASSERTION,2026-09-03
-12,affaan-m/ECC,ECC,"The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",JavaScript,516,246297,是,"JavaScript, ai-agents, anthropic, claude, claude-code",MIT,2026-09-03
-13,protocolbuffers/protobuf,protobuf,Protocol Buffers - Google's data interchange format,C++,16,71931,否,"C++, marshalling, protobuf, protobuf-runtime, protoc",NOASSERTION,2026-09-03
-14,vercel-labs/portless,portless,"Replace port numbers with stable, named local URLs. For humans and agents.",TypeScript,69,11727,是,TypeScript,Apache-2.0,2026-09-03
-15,blader/humanizer,humanizer,Agent skill that removes signs of AI-generated writing from text,Python,366,40325,是,"Python, agent-skills, ai-writing, claude-code, codex",MIT,2026-09-03
-16,JuliusBrussee/caveman,caveman,🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman,Go,234,102614,是,"Go, ai, anthropic, caveman, claude",NOASSERTION,2026-09-03
-17,mattpocock/skills,skills,Skills for Real Engineers. Straight from my .agents directory.,Shell,1272,245189,是,Shell,MIT,2026-09-03
-18,Gitlawb/openclaude,openclaude,runs anywhere. uses anything,TypeScript,776,31960,是,"TypeScript, ai, ai-agent, ai-tools, cli",NOASSERTION,2026-09-03
-19,firecrawl/pdf-inspector,pdf-inspector,"Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",Rust,589,18482,否,"Rust, markdown, nodejs, ocr-routing, pdf",MIT,2026-09-03
+1,fmtlib/fmt,fmt,A modern formatting library,C++,955,25052,否,"C++, c-plus-plus, chrono, cpp, cross-platform",MIT,2026-09-04
+2,mattpocock/skills,skills,Skills for Real Engineers. Straight from my .agents directory.,Shell,1576,247300,是,Shell,MIT,2026-09-04
+3,NousResearch/hermes-agent,hermes-agent,The agent that grows with you,Python,778,240816,是,"Python, ai, ai-agent, ai-agents, anthropic",MIT,2026-09-04
+4,DietrichGebert/ponytail,ponytail,Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.,JavaScript,2138,123354,是,"JavaScript, agent-skills, ai-agents, claude, claude-code",MIT,2026-09-04
+5,anthropics/skills,skills,Public repository for Agent Skills,Python,277,173634,是,"Python, agent-skills",NOASSERTION,2026-09-04
+6,affaan-m/ECC,ECC,"The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",JavaScript,749,247140,是,"JavaScript, ai-agents, anthropic, claude, claude-code",MIT,2026-09-04
+7,JuliusBrussee/caveman,caveman,🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman,Go,545,103075,是,"Go, ai, anthropic, caveman, claude",NOASSERTION,2026-09-04
+8,blader/humanizer,humanizer,Agent skill that removes signs of AI-generated writing from text,Python,1214,41437,是,"Python, agent-skills, ai-writing, claude-code, codex",MIT,2026-09-04
+9,google-research/timesfm,timesfm,TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.,Python,1626,30692,是,Python,Apache-2.0,2026-09-04
+10,averygan/reclip,reclip,"Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",HTML,123,8341,否,HTML,MIT,2026-09-04
+11,bannedbook/fanqiang,fanqiang,翻墙-科学上网,Kotlin,539,52125,否,"Kotlin, brook, daze, fanqiang, goflyway",NOASSERTION,2026-09-04
+12,addyosmani/agent-skills,agent-skills,Production-grade engineering skills for AI coding agents.,JavaScript,260,92018,是,"JavaScript, agent-skills, antigravity, claude-code, codex",MIT,2026-09-04
+13,ByteByteGoHq/system-design-101,system-design-101,Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.,未标注,158,88312,是,"aws, cloud-computing, coding-interviews, computer-science, interview-questions",NOASSERTION,2026-09-04
+14,magnitudedev/magnitude,magnitude,"Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",TypeScript,130,1927,是,TypeScript,Apache-2.0,2026-09-04
+15,Imbad0202/academic-research-skills,academic-research-skills,Academic Research Skills for Claude Code: research → write → review → revise → finalize,Python,498,45981,是,"Python, academic-pipeline, academic-writing, ai-research, claude",NOASSERTION,2026-09-04
+16,Gitlawb/openclaude,openclaude,runs anywhere. uses anything,TypeScript,453,32331,是,"TypeScript, ai, ai-agent, ai-tools, cli",NOASSERTION,2026-09-04
+17,debpalash/VoiceStudio,VoiceStudio,"VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",Python,1738,16209,是,"Python, ai, audiobook, cuda, dubbing",AGPL-3.0,2026-09-04
+18,f/prompts.chat,prompts.chat,"f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",HTML,201,168965,是,"HTML, ai, artificial-intelligence, awesome-list, chatgpt",NOASSERTION,2026-09-04
+19,obra/superpowers,superpowers,An agentic skills framework & software development methodology that works.,Shell,470,281320,是,"Shell, ai, brainstorming, coding, obra",MIT,2026-09-04

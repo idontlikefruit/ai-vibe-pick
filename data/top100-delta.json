@@ -1,5 +1,9 @@
 {
-  "date": "2026-09-03",
-  "added": [],
-  "removed": []
+  "date": "2026-09-04",
+  "added": [
+    "VoltAgent/awesome-design-md"
+  ],
+  "removed": [
+    "immich-app/immich"
+  ]
 }
