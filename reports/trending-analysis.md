@@ -1,28 +1,26 @@
 # GitHub Trending 今日热榜产品分析
 
-> 采集：2026-09-04 ｜ 项目：19 ｜ AI 相关：16（84%）
+> 采集：2026-09-05 ｜ 项目：17 ｜ AI 相关：13（76%）
 
 | # | 项目 | 今日⭐ | 总⭐ | 语言 | AI | tags |
 | :--: | :--- | ---: | ---: | :--- | :--: | :--- |
-| 1 | [fmtlib/fmt](https://github.com/fmtlib/fmt) | +955 | 25,052 | C++ | 否 | C++, c-plus-plus, chrono, cpp, cross-platform |
-| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | +1,576 | 247,300 | Shell | 是 | Shell |
-| 3 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | +778 | 240,816 | Python | 是 | Python, ai, ai-agent, ai-agents, anthropic |
-| 4 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | +2,138 | 123,354 | JavaScript | 是 | JavaScript, agent-skills, ai-agents, claude, claude-code |
-| 5 | [anthropics/skills](https://github.com/anthropics/skills) | +277 | 173,634 | Python | 是 | Python, agent-skills |
-| 6 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | +749 | 247,140 | JavaScript | 是 | JavaScript, ai-agents, anthropic, claude, claude-code |
-| 7 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | +545 | 103,075 | Go | 是 | Go, ai, anthropic, caveman, claude |
-| 8 | [blader/humanizer](https://github.com/blader/humanizer) | +1,214 | 41,437 | Python | 是 | Python, agent-skills, ai-writing, claude-code, codex |
-| 9 | [google-research/timesfm](https://github.com/google-research/timesfm) | +1,626 | 30,692 | Python | 是 | Python |
-| 10 | [averygan/reclip](https://github.com/averygan/reclip) | +123 | 8,341 | HTML | 否 | HTML |
-| 11 | [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) | +539 | 52,125 | Kotlin | 否 | Kotlin, brook, daze, fanqiang, goflyway |
-| 12 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | +260 | 92,018 | JavaScript | 是 | JavaScript, agent-skills, antigravity, claude-code, codex |
-| 13 | [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) | +158 | 88,312 | 未标注 | 是 | aws, cloud-computing, coding-interviews, computer-science, interview-questions |
-| 14 | [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) | +130 | 1,927 | TypeScript | 是 | TypeScript |
-| 15 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | +498 | 45,981 | Python | 是 | Python, academic-pipeline, academic-writing, ai-research, claude |
-| 16 | [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) | +453 | 32,331 | TypeScript | 是 | TypeScript, ai, ai-agent, ai-tools, cli |
-| 17 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | +1,738 | 16,209 | Python | 是 | Python, ai, audiobook, cuda, dubbing |
-| 18 | [f/prompts.chat](https://github.com/f/prompts.chat) | +201 | 168,965 | HTML | 是 | HTML, ai, artificial-intelligence, awesome-list, chatgpt |
-| 19 | [obra/superpowers](https://github.com/obra/superpowers) | +470 | 281,320 | Shell | 是 | Shell, ai, brainstorming, coding, obra |
+| 1 | [mattpocock/skills](https://github.com/mattpocock/skills) | +2,757 | 250,300 | Shell | 是 | Shell |
+| 2 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | +1,683 | 125,897 | JavaScript | 是 | JavaScript, agent-skills, ai-agents, claude, claude-code |
+| 3 | [fmtlib/fmt](https://github.com/fmtlib/fmt) | +681 | 25,457 | C++ | 否 | C++, c-plus-plus, chrono, cpp, cross-platform |
+| 4 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | +1,139 | 248,475 | JavaScript | 是 | JavaScript, ai-agents, anthropic, claude, claude-code |
+| 5 | [anthropics/skills](https://github.com/anthropics/skills) | +512 | 174,116 | Python | 是 | Python, agent-skills |
+| 6 | [blader/humanizer](https://github.com/blader/humanizer) | +1,132 | 42,672 | Python | 是 | Python, agent-skills, ai-writing, claude-code, codex |
+| 7 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | +721 | 241,469 | Python | 是 | Python, ai, ai-agent, ai-agents, anthropic |
+| 8 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | +503 | 103,559 | Go | 是 | Go, ai, anthropic, caveman, claude |
+| 9 | [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) | +395 | 2,446 | TypeScript | 是 | TypeScript |
+| 10 | [bikini/exploitarium](https://github.com/bikini/exploitarium) | +68 | 4,500 | Python | 否 | Python |
+| 11 | [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) | +735 | 52,757 | Kotlin | 否 | Kotlin, brook, daze, fanqiang, goflyway |
+| 12 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | +1,345 | 17,913 | Python | 是 | Python, ai, audiobook, cuda, dubbing |
+| 13 | [google-research/timesfm](https://github.com/google-research/timesfm) | +340 | 31,037 | Python | 是 | Python |
+| 14 | [radixark/miles](https://github.com/radixark/miles) | +55 | 2,546 | Python | 是 | Python |
+| 15 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | +314 | 204,100 | TypeScript | 是 | TypeScript |
+| 16 | [clshortfuse/renodx](https://github.com/clshortfuse/renodx) | +759 | 3,517 | HLSL | 否 | HLSL, directx, games, hdr, mod |
+| 17 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | +426 | 30,897 | HTML | 是 | HTML, agent-skills, claude-code, codex, data-visualization |
 
 ## 新热点
 
