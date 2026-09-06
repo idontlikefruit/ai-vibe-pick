@@ -5,11 +5,11 @@
 **统计 GitHub 知名 AI 项目的技术选型：类型 · 前后端 · 数据库 · LLM · 技术栈 tags**
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Projects](https://img.shields.io/badge/projects-134-blue.svg)
+![Projects](https://img.shields.io/badge/projects-137-blue.svg)
 ![Top100](https://img.shields.io/badge/Top--100_AI-33-orange.svg)
 ![Stars](https://img.shields.io/github/stars/idontlikefruit/ai-vibe-pick?style=social)
 ![Last Commit](https://img.shields.io/github/last-commit/idontlikefruit/ai-vibe-pick)
-![Data](https://img.shields.io/badge/data%20as%20of-2026--09--06-brightgreen)
+![Data](https://img.shields.io/badge/data%20as%20of-2026--09--07-brightgreen)
 
 </div>
 
@@ -17,7 +17,7 @@
 
 ## 🧭 AI 技术选型助手（Skill）
 
-> 告诉我你要做什么项目，我基于本仓库 **134 个真实 GitHub 项目（其中 AI 相关 63 个）** 的技术栈数据，给你一套有据可依的选型推荐（不凭空编造，每个推荐都引用真实项目）。
+> 告诉我你要做什么项目，我基于本仓库 **137 个真实 GitHub 项目（其中 AI 相关 68 个）** 的技术栈数据，给你一套有据可依的选型推荐（不凭空编造，每个推荐都引用真实项目）。
 
 ### 怎么用
 
@@ -47,7 +47,7 @@
 - [📊 全站历史总榜 Top-100 分析](#-全站历史总榜-top-100-分析)
 - [🔥 Trending 今日热榜产品分析](#-trending-今日热榜产品分析)
 - [🏷️ 技术栈 tags（新属性）](#️-技术栈-tags新属性)
-- [📋 全部项目元数据（134 个）](#-全部项目元数据134-个)
+- [📋 全部项目元数据（137 个）](#-全部项目元数据137-个)
 - [📁 目录结构](#-目录结构)
 - [📦 数据文件](#-数据文件)
 - [🗺️ 采集字段](#️-采集字段)
@@ -58,7 +58,7 @@
 
 ## 📊 全站历史总榜 Top-100 分析
 
-> 来源：[EvanLi/Github-Ranking · Top-100-stars](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Top-100-stars.md) ｜ 采集：2026-09-06 ｜ 数据：[`data/top-100-stars.csv`](data/top-100-stars.csv) · [`data/source-top-100-stars.md`](data/source-top-100-stars.md)
+> 来源：[EvanLi/Github-Ranking · Top-100-stars](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Top-100-stars.md) ｜ 采集：2026-09-07 ｜ 数据：[`data/top-100-stars.csv`](data/top-100-stars.csv) · [`data/source-top-100-stars.md`](data/source-top-100-stars.md)
 
 **一句话结论**：GitHub 全站历史 Star 总榜前 100 里，**33 个是 AI / Agent 生态项目**。本次无新进入或移出。
 
@@ -91,106 +91,106 @@
 
 | 榜号 | 项目 | ⭐ Stars | 主语言 | AI 相关 | 框架 tags | 简介 |
 | :---: | :--- | ---: | :--- | :---: | :--- | :--- |
-| 1 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 545,269 | Markdown | 否 | 教程 | Master programming by recreating your fav… |
-| 2 | [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 503,067 | 未标注 | 否 | Awesome 清单 | 😎 Awesome lists about all kinds of intere… |
-| 3 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | 475,364 | Python | 否 | API 清单 | A collective list of free APIs |
-| 4 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 455,019 | TypeScript | 否 | React, Node.js | freeCodeCamp.org's open-source codebase a… |
-| 5 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 395,990 | Python | 否 | 书籍 | :books: Freely available programming books |
-| 6 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | 388,884 | TypeScript | 是 | TypeScript | The AI that really does things. Any OS. A… |
-| 7 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 367,990 | Python | 否 | 教程 | Learn how to design large-scale systems. … |
-| 8 | [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) | 366,321 | TypeScript | 否 | Next.js, React | Interactive roadmaps, guides and other ed… |
-| 9 | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | 360,367 | 未标注 | 否 | 教程 | A complete computer science study plan to… |
-| 10 | [vinta/awesome-python](https://github.com/vinta/awesome-python) | 318,320 | Python | 否 | Awesome 清单 | The definitive list that answers "I want … |
-| 11 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | 317,203 | 未标注 | 否 | Awesome 清单 | A list of Free Software network services … |
-| 12 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | 282,103 | Python | 否 | 教程 | Curated list of project-based tutorials |
-| 13 | [obra/superpowers](https://github.com/obra/superpowers) | 281,827 | Shell | 是 | Shell, Claude Code | An agentic skills framework & software de… |
-| 14 | [996icu/996.ICU](https://github.com/996icu/996.ICU) | 276,879 | 未标注 | 否 | 社会议题 | Repo for counting stars and contributing.… |
-| 15 | [mattpocock/skills](https://github.com/mattpocock/skills) | 250,626 | Shell | 是 | Shell, Claude Code | Skills for Real Engineers. Straight from … |
-| 16 | [react/react](https://github.com/react/react) | 249,080 | JavaScript | 否 | React | The library for web and native user inter… |
-| 17 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 248,621 | JavaScript | 是 | JavaScript, Claude Code, Codex | The agent harness performance optimizatio… |
-| 18 | [torvalds/linux](https://github.com/torvalds/linux) | 246,647 | C | 否 | C, Linux 内核 | Linux kernel source tree |
-| 19 | [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | 242,108 | 未标注 | 否 | 清单 | A collection of inspiring lists, manuals,… |
-| 20 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 241,564 | Python | 是 | Python | The agent that grows with you |
-| 21 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | 224,264 | Python | 否 | Python, 算法 | All Algorithms implemented in Python |
-| 22 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 212,382 | TypeScript | 否 | TypeScript | DeepSeek Harness: Everything is a Plugin. |
-| 23 | [vuejs/vue](https://github.com/vuejs/vue) | 211,628 | TypeScript | 否 | Vue 2 | This is the repo for Vue 2. For Vue 3, go… |
-| 24 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 210,199 | 未标注 | 是 | 未标注, Claude Code | A single CLAUDE.md file to improve Claude… |
-| 25 | [ossu/computer-science](https://github.com/ossu/computer-science) | 208,721 | HTML | 否 | 教程 | 🎓 Path to a free self-taught education in… |
-| 26 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 204,203 | TypeScript | 是 | TypeScript, Node.js | The open source coding agent. |
-| 27 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 203,382 | TypeScript | 是 | TypeScript, Vue 3, Vue Flow, Pr… | Fair-code workflow automation platform wi… |
-| 28 | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | 198,832 | C++ | 是 | C, Python | An Open Source Machine Learning Framework… |
-| 29 | [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | 197,611 | Markdown | 否 | HTML | Free domain registration and practical DN… |
-| 30 | [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 196,617 | JavaScript | 否 | JavaScript, 算法 | 📝 Algorithms and data structures implemen… |
-| 31 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | 195,166 | Rust | 是 | Rust | An agent-managed museum exhibit, built in… |
-| 32 | [microsoft/vscode](https://github.com/microsoft/vscode) | 190,868 | TypeScript | 否 | TypeScript, Electron | Visual Studio Code |
-| 33 | [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | 189,552 | Shell | 否 | Shell, Zsh | 🙃   A delightful community-driven (with 2… |
-| 34 | [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | 189,390 | Batchfile | 否 | Batchfile | Open-source Windows and Office activator … |
-| 35 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | 189,008 | Python | 否 | Python | A feature-rich command-line audio/video d… |
-| 36 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 187,136 | Python | 是 | Python, Next.js, React, FastAPI… | AutoGPT is the vision of accessible AI fo… |
-| 37 | [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) | 185,938 | Jupyter Notebook | 否 | Jupyter, Python | Python - 100天从新手到大师 |
-| 38 | [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) | 185,821 | 未标注 | 否 | 面试 | :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络… |
-| 39 | [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | 184,810 | 未标注 | 否 | 书籍 | A book series (2 published editions) on t… |
-| 40 | [avelino/awesome-go](https://github.com/avelino/awesome-go) | 183,176 | Go | 否 | Awesome 清单 | A curated list of awesome Go frameworks, … |
-| 41 | [ollama/ollama](https://github.com/ollama/ollama) | 180,173 | Go | 是 | Go, CLI, llama.cpp | Get up and running with Kimi-K2.6, GLM-5.… |
-| 42 | [flutter/flutter](https://github.com/flutter/flutter) | 178,775 | Dart | 否 | Dart, Flutter | Flutter makes it easy and fast to build b… |
-| 43 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 178,195 | Python | 是 | Python | Python tool for converting files and offi… |
-| 44 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 176,580 | TypeScript | 是 | TypeScript, Next.js, Node.js | The context API to search, scrape, and in… |
-| 45 | [github/gitignore](https://github.com/github/gitignore) | 175,596 | 未标注 | 否 | 模板 | A collection of useful .gitignore templat… |
-| 46 | [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 174,762 | Python | 否 | Python | :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share in… |
-| 47 | [twbs/bootstrap](https://github.com/twbs/bootstrap) | 174,720 | MDX | 否 | Bootstrap, JavaScript | The most popular HTML, CSS, and JavaScrip… |
-| 48 | [anthropics/skills](https://github.com/anthropics/skills) | 174,185 | Python | 是 | Python, Claude | Public repository for Agent Skills |
-| 49 | [f/prompts.chat](https://github.com/f/prompts.chat) | 169,346 | HTML | 是 | HTML, ChatGPT | f.k.a. Awesome ChatGPT Prompts. Share, di… |
-| 50 | [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | 164,815 | Python | 是 | Python, Gradio, FastAPI, 本地文件, … | Stable Diffusion web UI |
-| 51 | [huggingface/transformers](https://github.com/huggingface/transformers) | 164,798 | Python | 是 | Python | 🤗 Transformers: the model-definition fram… |
-| 52 | [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | 162,246 | 未标注 | 否 | 清单 | Master the command line, in one page |
-| 53 | [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) | 158,278 | JavaScript | 否 | Java, 面试 | Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统… |
-| 54 | [langgenius/dify](https://github.com/langgenius/dify) | 154,474 | TypeScript | 是 | TypeScript, Next.js, React, Tai… | Build Agentic workflows, RAG pipelines, w… |
-| 55 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | 154,264 | Python | 是 | Python, React, FastAPI, SQLite,… | Langflow is a powerful tool for building … |
-| 56 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | 150,969 | Python | 是 | Python, SvelteKit, FastAPI, SQL… | User-friendly AI Interface (Supports Olla… |
-| 57 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 150,097 | Shell | 是 | Shell | A complete AI agency at your fingertips -… |
-| 58 | [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) | 148,907 | C | 否 | C, Android | Display and control your Android device |
-| 59 | [airbnb/javascript](https://github.com/airbnb/javascript) | 148,151 | JavaScript | 否 | JavaScript, 风格指南 | JavaScript Style Guide |
-| 60 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | 145,669 | Python | 是 | Python | The agent engineering platform. |
-| 61 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 144,104 | Python | 是 | Python, Claude | Claude Code is an agentic coding tool tha… |
-| 62 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 143,363 | 未标注 | 是 | 未标注 | FULL Augment Code, Claude Code, Cluely, C… |
-| 63 | [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | 142,433 | TypeScript | 否 | React, TypeScript | Curated coding interview preparation mate… |
-| 64 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | 142,271 | TypeScript | 否 | Tauri, TypeScript | A modern GUI client based on Tauri, desig… |
-| 65 | [vercel/next.js](https://github.com/vercel/next.js) | 142,095 | JavaScript | 否 | Next.js, React, JavaScript | The React Framework |
-| 66 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | 141,116 | Python | 否 | Python | Command-line program to download videos f… |
-| 67 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 138,393 | C | 否 | C++, C# | Microsoft PowerToys is a collection of ut… |
-| 68 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | 137,622 | TypeScript | 否 | TypeScript | Collection of publicly available IPTV cha… |
-| 69 | [golang/go](https://github.com/golang/go) | 137,512 | Go | 否 | Go | The Go programming language |
-| 70 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 136,580 | HTML | 否 | 清单 | A list of SaaS, PaaS and IaaS offerings t… |
-| 71 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 136,089 | Python | 是 | Python | 100+ AI Agents, Agent Skills and RAG Apps… |
-| 72 | [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) | 135,630 | Markdown | 否 | 算法 | Crack LeetCode, not only how, but also wh… |
-| 73 | [github/spec-kit](https://github.com/github/spec-kit) | 133,515 | Python | 是 | Python | 💫 Toolkit to help you get started with Sp… |
-| 74 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | 131,544 | Python | 是 | Python, TypeScript, 自定义节点编辑器, a… | The most powerful and modular diffusion m… |
-| 75 | [garrytan/gstack](https://github.com/garrytan/gstack) | 131,397 | TypeScript | 是 | TypeScript, Claude Code | Use Garry Tan's exact Claude Code setup: … |
-| 76 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | 131,181 | TypeScript | 否 | React, TypeScript, Canvas | Virtual whiteboard for sketching hand-dra… |
-| 77 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 131,102 | Rust | 是 | Rust, Web, Tauri, Claude, Codex… | A cross-platform desktop All-in-One assis… |
-| 78 | [krahets/hello-algo](https://github.com/krahets/hello-algo) | 129,875 | Java | 否 | Java, 算法 | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、En… |
-| 79 | [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) | 128,948 | JavaScript | 否 | JavaScript | Coding articles to level up your developm… |
-| 80 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 127,077 | C++ | 是 | C, C++, ggml | LLM inference in C/C++ |
-| 81 | [react/react-native](https://github.com/react/react-native) | 126,499 | C++ | 否 | React Native, C++ | A framework for building native applicati… |
-| 82 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | 126,354 | Go | 否 | Go | Production-Grade Container Scheduling and… |
-| 83 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 126,334 | JavaScript | 否 | JavaScript | Makes your AI agent think like the lazies… |
-| 84 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 125,056 | Python | 是 | Claude Code, UI/UX, 设计技能 | An AI skill that provides design intellig… |
-| 85 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | 123,053 | TypeScript | 否 | React, Radix UI, Tailwind | A set of beautifully-designed, accessible… |
-| 86 | [electron/electron](https://github.com/electron/electron) | 122,884 | C++ | 否 | C++, JavaScript, Electron | :electron: Build cross-platform desktop a… |
-| 87 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 122,629 | Rust | 否 | Rust, Flutter | An open-source remote desktop application… |
-| 88 | [openai/codex](https://github.com/openai/codex) | 121,584 | Rust | 否 | Rust | Lightweight coding agent that runs in you… |
-| 89 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 120,658 | Python | 否 | Python | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Genera… |
-| 90 | [nodejs/node](https://github.com/nodejs/node) | 120,630 | JavaScript | 否 | JavaScript, C++, V8 | Node.js JavaScript runtime ✨🐢🚀✨ |
-| 91 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | 119,708 | 未标注 | 否 | Awesome 清单 | A collection of various awesome lists for… |
-| 92 | [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 119,168 | Jupyter Notebook | 是 | Jupyter Notebook, Jupyter, Azur… | 21 Lessons, Get Started Building with Gen… |
-| 93 | [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 118,681 | 未标注 | 否 | 书籍 | :books: 免费的计算机编程类中文书籍，欢迎投稿 |
-| 94 | [rust-lang/rust](https://github.com/rust-lang/rust) | 117,452 | Rust | 否 | Rust | Empowering everyone to build reliable and… |
-| 95 | [godotengine/godot](https://github.com/godotengine/godot) | 116,610 | C++ | 否 | C++, Godot | Godot Engine – Multi-platform 2D and 3D g… |
-| 96 | [2dust/v2rayN](https://github.com/2dust/v2rayN) | 115,454 | C# | 否 | C# | A GUI client for Windows, Linux and macOS… |
-| 97 | [mrdoob/three.js](https://github.com/mrdoob/three.js) | 115,125 | JavaScript | 否 | WebGL, JavaScript | JavaScript 3D Library. |
-| 98 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 114,804 | Python | 否 | Python | Turn any codebase, with its docs, SQL sch… |
-| 99 | [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | 114,124 | 未标注 | 否 | 未标注 | A collection of DESIGN.md files analysis … |
-| 100 | [d3/d3](https://github.com/d3/d3) | 113,628 | Shell | 否 | JavaScript, D3 | Bring data to life with SVG, Canvas and H… |
+| 1 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 545,460 | Markdown | 否 | 教程 | Master programming by recreating your fav… |
+| 2 | [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 503,364 | 未标注 | 否 | Awesome 清单 | 😎 Awesome lists about all kinds of intere… |
+| 3 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | 475,963 | Python | 否 | API 清单 | A collective list of free APIs |
+| 4 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 455,068 | TypeScript | 否 | React, Node.js | freeCodeCamp.org's open-source codebase a… |
+| 5 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 396,037 | Python | 否 | 书籍 | :books: Freely available programming books |
+| 6 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | 388,976 | TypeScript | 是 | TypeScript | The AI that really does things. Any OS. A… |
+| 7 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 368,192 | Python | 否 | 教程 | Learn how to design large-scale systems. … |
+| 8 | [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) | 366,382 | TypeScript | 否 | Next.js, React | Interactive roadmaps, guides and other ed… |
+| 9 | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | 360,414 | 未标注 | 否 | 教程 | A complete computer science study plan to… |
+| 10 | [vinta/awesome-python](https://github.com/vinta/awesome-python) | 318,566 | Python | 否 | Awesome 清单 | The definitive list that answers "I want … |
+| 11 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | 317,390 | 未标注 | 否 | Awesome 清单 | A list of Free Software network services … |
+| 12 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | 282,234 | Python | 否 | 教程 | Curated list of project-based tutorials |
+| 13 | [obra/superpowers](https://github.com/obra/superpowers) | 282,136 | Shell | 是 | Shell, Claude Code | An agentic skills framework & software de… |
+| 14 | [996icu/996.ICU](https://github.com/996icu/996.ICU) | 276,895 | 未标注 | 否 | 社会议题 | Repo for counting stars and contributing.… |
+| 15 | [mattpocock/skills](https://github.com/mattpocock/skills) | 252,867 | Shell | 是 | Shell, Claude Code | Skills for Real Engineers. Straight from … |
+| 16 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 250,056 | JavaScript | 是 | JavaScript, Claude Code, Codex | The agent harness performance optimizatio… |
+| 17 | [react/react](https://github.com/react/react) | 249,117 | JavaScript | 否 | React | The library for web and native user inter… |
+| 18 | [torvalds/linux](https://github.com/torvalds/linux) | 246,771 | C | 否 | C, Linux 内核 | Linux kernel source tree |
+| 19 | [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | 242,259 | 未标注 | 否 | 清单 | A collection of inspiring lists, manuals,… |
+| 20 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 242,071 | Python | 是 | Python | The agent that grows with you |
+| 21 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | 224,292 | Python | 否 | Python, 算法 | All Algorithms implemented in Python |
+| 22 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 213,254 | TypeScript | 否 | TypeScript | DeepSeek Harness: Everything is a Plugin. |
+| 23 | [vuejs/vue](https://github.com/vuejs/vue) | 211,630 | TypeScript | 否 | Vue 2 | This is the repo for Vue 2. For Vue 3, go… |
+| 24 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 210,416 | 未标注 | 是 | 未标注, Claude Code | A single CLAUDE.md file to improve Claude… |
+| 25 | [ossu/computer-science](https://github.com/ossu/computer-science) | 208,750 | HTML | 否 | 教程 | 🎓 Path to a free self-taught education in… |
+| 26 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 204,737 | TypeScript | 是 | TypeScript, Node.js | The open source coding agent. |
+| 27 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 203,491 | TypeScript | 是 | TypeScript, Vue 3, Vue Flow, Pr… | Fair-code workflow automation platform wi… |
+| 28 | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | 198,866 | C++ | 是 | C, Python | An Open Source Machine Learning Framework… |
+| 29 | [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | 197,769 | Markdown | 否 | HTML | Free domain registration and practical DN… |
+| 30 | [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 196,624 | JavaScript | 否 | JavaScript, 算法 | 📝 Algorithms and data structures implemen… |
+| 31 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | 195,176 | Rust | 是 | Rust | An agent-managed museum exhibit, built in… |
+| 32 | [microsoft/vscode](https://github.com/microsoft/vscode) | 190,926 | TypeScript | 否 | TypeScript, Electron | Visual Studio Code |
+| 33 | [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | 189,563 | Shell | 否 | Shell, Zsh | 🙃   A delightful community-driven (with 2… |
+| 34 | [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | 189,488 | Batchfile | 否 | Batchfile | Open-source Windows and Office activator … |
+| 35 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | 189,254 | Python | 否 | Python | A feature-rich command-line audio/video d… |
+| 36 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 187,162 | Python | 是 | Python, Next.js, React, FastAPI… | AutoGPT is the vision of accessible AI fo… |
+| 37 | [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) | 185,982 | Jupyter Notebook | 否 | Jupyter, Python | Python - 100天从新手到大师 |
+| 38 | [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) | 185,843 | 未标注 | 否 | 面试 | :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络… |
+| 39 | [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | 184,818 | 未标注 | 否 | 书籍 | A book series (2 published editions) on t… |
+| 40 | [avelino/awesome-go](https://github.com/avelino/awesome-go) | 183,276 | Go | 否 | Awesome 清单 | A curated list of awesome Go frameworks, … |
+| 41 | [ollama/ollama](https://github.com/ollama/ollama) | 180,256 | Go | 是 | Go, CLI, llama.cpp | Get up and running with Kimi-K2.6, GLM-5.… |
+| 42 | [flutter/flutter](https://github.com/flutter/flutter) | 178,797 | Dart | 否 | Dart, Flutter | Flutter makes it easy and fast to build b… |
+| 43 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 178,364 | Python | 是 | Python | Python tool for converting files and offi… |
+| 44 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 176,948 | TypeScript | 是 | TypeScript, Next.js, Node.js | The context API to search, scrape, and in… |
+| 45 | [github/gitignore](https://github.com/github/gitignore) | 175,613 | 未标注 | 否 | 模板 | A collection of useful .gitignore templat… |
+| 46 | [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 174,921 | Python | 否 | Python | :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share in… |
+| 47 | [twbs/bootstrap](https://github.com/twbs/bootstrap) | 174,726 | MDX | 否 | Bootstrap, JavaScript | The most popular HTML, CSS, and JavaScrip… |
+| 48 | [anthropics/skills](https://github.com/anthropics/skills) | 174,610 | Python | 是 | Python, Claude | Public repository for Agent Skills |
+| 49 | [f/prompts.chat](https://github.com/f/prompts.chat) | 169,428 | HTML | 是 | HTML, ChatGPT | f.k.a. Awesome ChatGPT Prompts. Share, di… |
+| 50 | [huggingface/transformers](https://github.com/huggingface/transformers) | 164,845 | Python | 是 | Python | 🤗 Transformers: the model-definition fram… |
+| 51 | [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | 164,829 | Python | 是 | Python, Gradio, FastAPI, 本地文件, … | Stable Diffusion web UI |
+| 52 | [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | 162,261 | 未标注 | 否 | 清单 | Master the command line, in one page |
+| 53 | [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) | 158,298 | JavaScript | 否 | Java, 面试 | Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统… |
+| 54 | [langgenius/dify](https://github.com/langgenius/dify) | 154,551 | TypeScript | 是 | TypeScript, Next.js, React, Tai… | Build Agentic workflows, RAG pipelines, w… |
+| 55 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | 154,304 | Python | 是 | Python, React, FastAPI, SQLite,… | Langflow is a powerful tool for building … |
+| 56 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | 151,072 | Python | 是 | Python, SvelteKit, FastAPI, SQL… | User-friendly AI Interface (Supports Olla… |
+| 57 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 150,267 | Shell | 是 | Shell | A complete AI agency at your fingertips -… |
+| 58 | [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) | 148,962 | C | 否 | C, Android | Display and control your Android device |
+| 59 | [airbnb/javascript](https://github.com/airbnb/javascript) | 148,163 | JavaScript | 否 | JavaScript, 风格指南 | JavaScript Style Guide |
+| 60 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | 145,730 | Python | 是 | Python | The agent engineering platform. |
+| 61 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 144,190 | Python | 是 | Python, Claude | Claude Code is an agentic coding tool tha… |
+| 62 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 143,385 | 未标注 | 是 | 未标注 | FULL Augment Code, Claude Code, Cluely, C… |
+| 63 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | 142,478 | TypeScript | 否 | Tauri, TypeScript | A modern GUI client based on Tauri, desig… |
+| 64 | [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | 142,449 | TypeScript | 否 | React, TypeScript | Curated coding interview preparation mate… |
+| 65 | [vercel/next.js](https://github.com/vercel/next.js) | 142,130 | JavaScript | 否 | Next.js, React, JavaScript | The React Framework |
+| 66 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | 141,123 | Python | 否 | Python | Command-line program to download videos f… |
+| 67 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 138,436 | C | 否 | C++, C# | Microsoft PowerToys is a collection of ut… |
+| 68 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | 137,748 | TypeScript | 否 | TypeScript | Collection of publicly available IPTV cha… |
+| 69 | [golang/go](https://github.com/golang/go) | 137,533 | Go | 否 | Go | The Go programming language |
+| 70 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 136,662 | HTML | 否 | 清单 | A list of SaaS, PaaS and IaaS offerings t… |
+| 71 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 136,261 | Python | 是 | Python | 100+ AI Agents, Agent Skills and RAG Apps… |
+| 72 | [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) | 135,660 | Markdown | 否 | 算法 | Crack LeetCode, not only how, but also wh… |
+| 73 | [github/spec-kit](https://github.com/github/spec-kit) | 133,632 | Python | 是 | Python | 💫 Toolkit to help you get started with Sp… |
+| 74 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | 131,667 | Python | 是 | Python, TypeScript, 自定义节点编辑器, a… | The most powerful and modular diffusion m… |
+| 75 | [garrytan/gstack](https://github.com/garrytan/gstack) | 131,581 | TypeScript | 是 | TypeScript, Claude Code | Use Garry Tan's exact Claude Code setup: … |
+| 76 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 131,232 | Rust | 是 | Rust, Web, Tauri, Claude, Codex… | A cross-platform desktop All-in-One assis… |
+| 77 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | 131,221 | TypeScript | 否 | React, TypeScript, Canvas | Virtual whiteboard for sketching hand-dra… |
+| 78 | [krahets/hello-algo](https://github.com/krahets/hello-algo) | 129,895 | Java | 否 | Java, 算法 | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、En… |
+| 79 | [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) | 128,971 | JavaScript | 否 | JavaScript | Coding articles to level up your developm… |
+| 80 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 128,107 | JavaScript | 否 | JavaScript | Makes your AI agent think like the lazies… |
+| 81 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 127,180 | C++ | 是 | C, C++, ggml | LLM inference in C/C++ |
+| 82 | [react/react-native](https://github.com/react/react-native) | 126,507 | C++ | 否 | React Native, C++ | A framework for building native applicati… |
+| 83 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | 126,387 | Go | 否 | Go | Production-Grade Container Scheduling and… |
+| 84 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 125,311 | Python | 是 | Claude Code, UI/UX, 设计技能 | An AI skill that provides design intellig… |
+| 85 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | 123,122 | TypeScript | 否 | React, Radix UI, Tailwind | A set of beautifully-designed, accessible… |
+| 86 | [electron/electron](https://github.com/electron/electron) | 122,902 | C++ | 否 | C++, JavaScript, Electron | :electron: Build cross-platform desktop a… |
+| 87 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 122,705 | Rust | 否 | Rust, Flutter | An open-source remote desktop application… |
+| 88 | [openai/codex](https://github.com/openai/codex) | 121,786 | Rust | 否 | Rust | Lightweight coding agent that runs in you… |
+| 89 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 120,888 | Python | 否 | Python | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Genera… |
+| 90 | [nodejs/node](https://github.com/nodejs/node) | 120,659 | JavaScript | 否 | JavaScript, C++, V8 | Node.js JavaScript runtime ✨🐢🚀✨ |
+| 91 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | 119,763 | 未标注 | 否 | Awesome 清单 | A collection of various awesome lists for… |
+| 92 | [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 119,216 | Jupyter Notebook | 是 | Jupyter Notebook, Jupyter, Azur… | 21 Lessons, Get Started Building with Gen… |
+| 93 | [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 118,700 | 未标注 | 否 | 书籍 | :books: 免费的计算机编程类中文书籍，欢迎投稿 |
+| 94 | [rust-lang/rust](https://github.com/rust-lang/rust) | 117,480 | Rust | 否 | Rust | Empowering everyone to build reliable and… |
+| 95 | [godotengine/godot](https://github.com/godotengine/godot) | 116,659 | C++ | 否 | C++, Godot | Godot Engine – Multi-platform 2D and 3D g… |
+| 96 | [2dust/v2rayN](https://github.com/2dust/v2rayN) | 115,523 | C# | 否 | C# | A GUI client for Windows, Linux and macOS… |
+| 97 | [mrdoob/three.js](https://github.com/mrdoob/three.js) | 115,164 | JavaScript | 否 | WebGL, JavaScript | JavaScript 3D Library. |
+| 98 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 115,109 | Python | 否 | Python | Turn any codebase, with its docs, SQL sch… |
+| 99 | [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | 114,311 | 未标注 | 否 | 未标注 | A collection of DESIGN.md files analysis … |
+| 100 | [d3/d3](https://github.com/d3/d3) | 113,647 | Shell | 否 | JavaScript, D3 | Bring data to life with SVG, Canvas and H… |
 
 </details>
 
@@ -202,28 +202,30 @@
 
 ## 🔥 Trending 今日热榜产品分析
 
-> 来源：https://github.com/trending （全语言 daily）｜采集：2026-09-06 ｜ 数据：[`data/trending-daily.csv`](data/trending-daily.csv) · 完整分析：[`reports/trending-analysis.md`](reports/trending-analysis.md)
+> 来源：https://github.com/trending （全语言 daily）｜采集：2026-09-07 ｜ 数据：[`data/trending-daily.csv`](data/trending-daily.csv) · 完整分析：[`reports/trending-analysis.md`](reports/trending-analysis.md)
 
 | 项目 | ⭐ Stars | 今日 ⭐ | 主语言 | AI 相关 | 框架 tags | 简介 |
 | :--- | ---: | ---: | :--- | :---: | :--- | :--- |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 252,551 | +2,666 | Shell | 是 | Shell | Skills for Real Engineers. Straight fro… |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 249,848 | +1,325 | JavaScript | 是 | JavaScript, ai-agents, anthropic,… | The agent harness performance optimizat… |
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 127,895 | +2,813 | JavaScript | 是 | JavaScript, agent-skills, ai-agen… | Makes your AI agent think like the lazi… |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 241,983 | +573 | Python | 是 | Python, ai, ai-agent, ai-agents, … | The agent that grows with you |
-| [fmtlib/fmt](https://github.com/fmtlib/fmt) | 25,567 | +133 | C++ | 否 | C++, c-plus-plus, chrono, cpp, cr… | A modern formatting library |
-| [anthropics/skills](https://github.com/anthropics/skills) | 174,544 | +472 | Python | 是 | Python, agent-skills | Public repository for Agent Skills |
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 31,668 | +852 | HTML | 是 | HTML, agent-skills, claude-code, … | 38 editorial diagram types for Claude C… |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 204,664 | +725 | TypeScript | 是 | TypeScript | The open source coding agent. |
-| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 70,686 | +127 | TypeScript | 是 | TypeScript, agentic-ai, agentic-f… | 🌊 The original agent meta-harness. Depl… |
-| [humanlayer/skills](https://github.com/humanlayer/skills) | 2,679 | +408 | TypeScript | 否 | TypeScript | — |
-| [blader/humanizer](https://github.com/blader/humanizer) | 43,451 | +988 | Python | 是 | Python, agent-skills, ai-writing,… | Agent skill that removes signs of AI-ge… |
-| [BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups) | 2,871 | +50 | TypeScript | 否 | TypeScript | A list of tools that are open-source, i… |
-| [WorldFlowAI/everything-claude-code](https://github.com/WorldFlowAI/everything-claude-code) | 2,338 | +139 | JavaScript | 是 | JavaScript | Claude Code toolkit - agents, commands,… |
-| [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) | 3,181 | +686 | TypeScript | 是 | TypeScript | Open source inference server that runs … |
-| [bikini/exploitarium](https://github.com/bikini/exploitarium) | 4,698 | +232 | Python | 否 | Python | A single archive of public exploit PoCs… |
-| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 94,910 | +57 | Shell | 否 | Shell, bash, install, lts, node | Node Version Manager - POSIX-compliant … |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 251,261 | +1,486 | JavaScript | 是 | JavaScript, ai-agents, anthropic,… | The agent harness performance optimizat… |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 254,477 | +2,206 | Shell | 是 | Shell | Skills for Real Engineers. Straight fro… |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 32,311 | +621 | HTML | 是 | HTML, agent-skills, claude-code, … | 38 editorial diagram types for Claude C… |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 242,521 | +520 | Python | 是 | Python, ai, ai-agent, ai-agents, … | The agent that grows with you |
+| [openai/skills](https://github.com/openai/skills) | 25,604 | +44 | Python | 是 | Python | Skills Catalog for Codex |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 205,238 | +552 | TypeScript | 是 | TypeScript | The open source coding agent. |
+| [blader/humanizer](https://github.com/blader/humanizer) | 44,199 | +748 | Python | 是 | Python, agent-skills, ai-writing,… | Agent skill that removes signs of AI-ge… |
+| [llvm/llvm-project](https://github.com/llvm/llvm-project) | 40,206 | +35 | LLVM | 是 | LLVM | The LLVM Project is a collection of mod… |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 129,298 | +1,539 | JavaScript | 是 | JavaScript, agent-skills, ai-agen… | Makes your AI agent think like the lazi… |
+| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 70,969 | +276 | TypeScript | 是 | TypeScript, agentic-ai, agentic-f… | 🌊 The original agent meta-harness. Depl… |
+| [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) | 3,656 | +604 | TypeScript | 是 | TypeScript | Open source inference server that runs … |
+| [BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups) | 3,300 | +436 | TypeScript | 否 | TypeScript | A list of tools that are open-source, i… |
+| [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 47,489 | +355 | JavaScript | 是 | JavaScript, claude, codex, market… | Marketing skills for Claude Code and AI… |
+| [aipoch/open-science](https://github.com/aipoch/open-science) | 3,838 | +145 | TypeScript | 是 | TypeScript, ai-for-science, ai-re… | Open Science by AIPOCH is an open-sourc… |
+| [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) | 7,329 | +225 | JavaScript | 是 | JavaScript, ai, anthropic, cross-… | Voice-to-text dictation app with local … |
+| [humanlayer/skills](https://github.com/humanlayer/skills) | 3,117 | +451 | TypeScript | 否 | TypeScript | — |
+| [The-Swarm-Corporation/AutoHedge](https://github.com/The-Swarm-Corporation/AutoHedge) | 4,692 | +137 | Python | 是 | Python, ai, blackrock, finance, g… | Build your autonomous hedge fund in min… |
+| [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | 13,462 | +121 | JavaScript | 否 | JavaScript, hacktoberfest, stremio | Stremio - Freedom to Stream |
 
-**产品分析**：今日热榜共 **16** 个项目，其中 AI 相关 **11 个（69%）**。新热点集中在：AI Agent 工程教程、代码知识图谱/MCP、异构 LLM 推理、Voice AI、Coding Agent、Computer Use 与 GenBI。
+**产品分析**：今日热榜共 **18** 个项目，其中 AI 相关 **15 个（83%）**。新热点集中在：AI Agent 工程教程、代码知识图谱/MCP、异构 LLM 推理、Voice AI、Coding Agent、Computer Use 与 GenBI。
 
 ---
 
@@ -238,14 +240,14 @@
 
 ---
 
-## 📋 全部项目元数据（134 个）
+## 📋 全部项目元数据（137 个）
 
-> 以 `full_name` 为主键 **upsert（更新或插入）** 合并三个来源：`projects.csv`(curated) + `top-100-stars.csv` + `trending-daily.csv` → 共 **134 个**，其中 AI 相关 63 个、Top-100 项目 100 个、今日 Trending 项目 16 个。
+> 以 `full_name` 为主键 **upsert（更新或插入）** 合并三个来源：`projects.csv`(curated) + `top-100-stars.csv` + `trending-daily.csv` → 共 **137 个**，其中 AI 相关 68 个、Top-100 项目 100 个、今日 Trending 项目 18 个。
 > 生成脚本：`python3 scripts/refresh_sources.py && python3 scripts/upsert_metadata.py && python3 scripts/generate_reports.py`（幂等，保留人工技术栈字段）。
 > 每个项目一张完整元数据卡片见 [`reports/all-projects-metadata.md`](reports/all-projects-metadata.md)；Top-100 单独的完整卡片见 [`reports/top-100-metadata.md`](reports/top-100-metadata.md)。
 
 <details>
-<summary><b>📎 展开查看 56 个 AI 项目完整元数据宽表（含前后端/数据库/LLM，按 Star 降序）｜全部 134 个见 reports/all-projects-metadata.md</b></summary>
+<summary><b>📎 展开查看 56 个 AI 项目完整元数据宽表（含前后端/数据库/LLM，按 Star 降序）｜全部 137 个见 reports/all-projects-metadata.md</b></summary>
 
 | # | 项目 | ⭐ | 榜号 | 平台 | 主语言 | 前端 | 后端 | 数据库 | LLM | License | 技术栈 tags | 来源 |
 | :---: | :--- | ---: | :---: | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :---: |
@@ -327,29 +329,29 @@ ai-vibe-pick/
 │   ├── top-100-stars.csv           # Top-100 结构化(含 category/ai_related/tags)
 │   ├── projects.csv                # 36 个 AI 项目技术选型
 │   ├── merged-ai-projects.csv      # 合并去重 56 个(含 tags/source/rank_top100)
-│   ├── trending-daily.csv         # Trending 今日热榜(16 个,含 ai_related/tags)
-│   └── projects-metadata.csv      # ✅ 规范化元数据存储(134 个,upsert 生成)
+│   ├── trending-daily.csv         # Trending 今日热榜(18 个,含 ai_related/tags)
+│   └── projects-metadata.csv      # ✅ 规范化元数据存储(137 个,upsert 生成)
 └── reports/
     ├── summary.md                 # 36 个 AI 项目技术选型统计
     ├── merged-ai-projects.md      # 合并 56 个总表(含 tags 列)
     ├── trending-analysis.md       # Trending 今日热榜产品分析
     ├── top-100-metadata.md        # Top-100 完整元数据卡片(100 张)
-    └── all-projects-metadata.md   # 全部 134 个项目元数据卡片
+    └── all-projects-metadata.md   # 全部 137 个项目元数据卡片
 ```
 
 ## 📦 数据文件
 
 | 文件 | 说明 |
 | :--- | :--- |
-| [`data/projects-metadata.csv`](data/projects-metadata.csv) | ✅ **规范化元数据存储 134 个**，24 字段，upsert 生成（含 `tags`/`ai_related`/`rank_top100`/`trending_today`/`sources`） |
+| [`data/projects-metadata.csv`](data/projects-metadata.csv) | ✅ **规范化元数据存储 137 个**，24 字段，upsert 生成（含 `tags`/`ai_related`/`rank_top100`/`trending_today`/`sources`） |
 | [`scripts/refresh_sources.py`](scripts/refresh_sources.py) | 刷新 Top-100 / Trending / curated GitHub 易变字段，保留人工分类与技术栈 |
 | [`scripts/upsert_metadata.py`](scripts/upsert_metadata.py) | upsert 三来源为 `projects-metadata.csv`（按 `full_name` 去重） |
 | [`scripts/generate_reports.py`](scripts/generate_reports.py) | 根据数据重建 README 动态章节和元数据/Trending 报告 |
 | [`.claude/skills/tech-selection/SKILL.md`](.claude/skills/tech-selection/SKILL.md) | 🧭 **AI 技术选型 Skill**：按项目描述 + 数据推荐栈 |
-| [`reports/all-projects-metadata.md`](reports/all-projects-metadata.md) | **134 个项目完整元数据卡片**，每项一张 |
+| [`reports/all-projects-metadata.md`](reports/all-projects-metadata.md) | **137 个项目完整元数据卡片**，每项一张 |
 | [`reports/top-100-metadata.md`](reports/top-100-metadata.md) | Top-100 完整元数据卡片（100 张） |
 | [`reports/merged-ai-projects.md`](reports/merged-ai-projects.md) | 合并 56 个总表（含技术栈 tags 列） |
-| [`data/trending-daily.csv`](data/trending-daily.csv) | Trending 今日热榜 16 个（今日新增/总 star/语言/AI相关/tags） |
+| [`data/trending-daily.csv`](data/trending-daily.csv) | Trending 今日热榜 18 个（今日新增/总 star/语言/AI相关/tags） |
 | [`reports/trending-analysis.md`](reports/trending-analysis.md) | Trending 产品分析（AI 浓度/Skills 生态/垂直 Agent） |
 | [`reports/summary.md`](reports/summary.md) | 36 个 AI 项目选型统计 + 分布图表 + 选型建议 |
 | [`data/top-100-stars.csv`](data/top-100-stars.csv) | 全站历史总榜 Top-100（rank/stars/forks/language/category/ai_related/tags） |
@@ -388,5 +390,5 @@ ai-vibe-pick/
 1. 拉取 GitHub API（star/语言/协议/描述）与 Trending 页面 HTML
 2. 各来源打 `tags` 与 `ai_related` 标注
 3. **upsert**：`python3 scripts/upsert_metadata.py` 以 `full_name` 为主键把三来源（projects/top-100/trending）更新或插入到 `data/projects-metadata.csv`（llama.cpp 别名处理；幂等不清空已有字段）
-4. 在 `reports/` 输出统计报告与全量元数据卡片（134 + 100）
+4. 在 `reports/` 输出统计报告与全量元数据卡片（137 + 100）
 5. README GitHub 风格展示（徽章 / TOC / 折叠 / 对齐表格 / Skill 使用入口）

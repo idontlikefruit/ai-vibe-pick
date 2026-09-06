@@ -1,25 +1,27 @@
 # GitHub Trending 今日热榜产品分析
 
-> 采集：2026-09-06 ｜ 项目：16 ｜ AI 相关：11（69%）
+> 采集：2026-09-07 ｜ 项目：18 ｜ AI 相关：15（83%）
 
 | # | 项目 | 今日⭐ | 总⭐ | 语言 | AI | tags |
 | :--: | :--- | ---: | ---: | :--- | :--: | :--- |
-| 1 | [mattpocock/skills](https://github.com/mattpocock/skills) | +2,666 | 252,551 | Shell | 是 | Shell |
-| 2 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | +1,325 | 249,848 | JavaScript | 是 | JavaScript, ai-agents, anthropic, claude, claude-code |
-| 3 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | +2,813 | 127,895 | JavaScript | 是 | JavaScript, agent-skills, ai-agents, claude, claude-code |
-| 4 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | +573 | 241,983 | Python | 是 | Python, ai, ai-agent, ai-agents, anthropic |
-| 5 | [fmtlib/fmt](https://github.com/fmtlib/fmt) | +133 | 25,567 | C++ | 否 | C++, c-plus-plus, chrono, cpp, cross-platform |
-| 6 | [anthropics/skills](https://github.com/anthropics/skills) | +472 | 174,544 | Python | 是 | Python, agent-skills |
-| 7 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | +852 | 31,668 | HTML | 是 | HTML, agent-skills, claude-code, codex, data-visualization |
-| 8 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | +725 | 204,664 | TypeScript | 是 | TypeScript |
-| 9 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | +127 | 70,686 | TypeScript | 是 | TypeScript, agentic-ai, agentic-framework, agentic-workflow, agents |
-| 10 | [humanlayer/skills](https://github.com/humanlayer/skills) | +408 | 2,679 | TypeScript | 否 | TypeScript |
-| 11 | [blader/humanizer](https://github.com/blader/humanizer) | +988 | 43,451 | Python | 是 | Python, agent-skills, ai-writing, claude-code, codex |
-| 12 | [BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups) | +50 | 2,871 | TypeScript | 否 | TypeScript |
-| 13 | [WorldFlowAI/everything-claude-code](https://github.com/WorldFlowAI/everything-claude-code) | +139 | 2,338 | JavaScript | 是 | JavaScript |
-| 14 | [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) | +686 | 3,181 | TypeScript | 是 | TypeScript |
-| 15 | [bikini/exploitarium](https://github.com/bikini/exploitarium) | +232 | 4,698 | Python | 否 | Python |
-| 16 | [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | +57 | 94,910 | Shell | 否 | Shell, bash, install, lts, node |
+| 1 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | +1,486 | 251,261 | JavaScript | 是 | JavaScript, ai-agents, anthropic, claude, claude-code |
+| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | +2,206 | 254,477 | Shell | 是 | Shell |
+| 3 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | +621 | 32,311 | HTML | 是 | HTML, agent-skills, claude-code, codex, data-visualization |
+| 4 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | +520 | 242,521 | Python | 是 | Python, ai, ai-agent, ai-agents, anthropic |
+| 5 | [openai/skills](https://github.com/openai/skills) | +44 | 25,604 | Python | 是 | Python |
+| 6 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | +552 | 205,238 | TypeScript | 是 | TypeScript |
+| 7 | [blader/humanizer](https://github.com/blader/humanizer) | +748 | 44,199 | Python | 是 | Python, agent-skills, ai-writing, claude-code, codex |
+| 8 | [llvm/llvm-project](https://github.com/llvm/llvm-project) | +35 | 40,206 | LLVM | 是 | LLVM |
+| 9 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | +1,539 | 129,298 | JavaScript | 是 | JavaScript, agent-skills, ai-agents, claude, claude-code |
+| 10 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | +276 | 70,969 | TypeScript | 是 | TypeScript, agentic-ai, agentic-framework, agentic-workflow, agents |
+| 11 | [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) | +604 | 3,656 | TypeScript | 是 | TypeScript |
+| 12 | [BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups) | +436 | 3,300 | TypeScript | 否 | TypeScript |
+| 13 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | +355 | 47,489 | JavaScript | 是 | JavaScript, claude, codex, marketing |
+| 14 | [aipoch/open-science](https://github.com/aipoch/open-science) | +145 | 3,838 | TypeScript | 是 | TypeScript, ai-for-science, ai-research, ai-workbench, bioinformatics |
+| 15 | [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) | +225 | 7,329 | JavaScript | 是 | JavaScript, ai, anthropic, cross-platform, gemini |
+| 16 | [humanlayer/skills](https://github.com/humanlayer/skills) | +451 | 3,117 | TypeScript | 否 | TypeScript |
+| 17 | [The-Swarm-Corporation/AutoHedge](https://github.com/The-Swarm-Corporation/AutoHedge) | +137 | 4,692 | Python | 是 | Python, ai, blackrock, finance, goldmansachs |
+| 18 | [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | +121 | 13,462 | JavaScript | 否 | JavaScript, hacktoberfest, stremio |
 
 ## 新热点
 
