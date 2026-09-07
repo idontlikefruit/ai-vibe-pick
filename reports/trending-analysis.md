@@ -1,27 +1,23 @@
 # GitHub Trending 今日热榜产品分析
 
-> 采集：2026-09-07 ｜ 项目：18 ｜ AI 相关：15（83%）
+> 采集：2026-09-08 ｜ 项目：14 ｜ AI 相关：12（86%）
 
 | # | 项目 | 今日⭐ | 总⭐ | 语言 | AI | tags |
 | :--: | :--- | ---: | ---: | :--- | :--: | :--- |
-| 1 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | +1,486 | 251,261 | JavaScript | 是 | JavaScript, ai-agents, anthropic, claude, claude-code |
-| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | +2,206 | 254,477 | Shell | 是 | Shell |
-| 3 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | +621 | 32,311 | HTML | 是 | HTML, agent-skills, claude-code, codex, data-visualization |
-| 4 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | +520 | 242,521 | Python | 是 | Python, ai, ai-agent, ai-agents, anthropic |
-| 5 | [openai/skills](https://github.com/openai/skills) | +44 | 25,604 | Python | 是 | Python |
-| 6 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | +552 | 205,238 | TypeScript | 是 | TypeScript |
-| 7 | [blader/humanizer](https://github.com/blader/humanizer) | +748 | 44,199 | Python | 是 | Python, agent-skills, ai-writing, claude-code, codex |
-| 8 | [llvm/llvm-project](https://github.com/llvm/llvm-project) | +35 | 40,206 | LLVM | 是 | LLVM |
-| 9 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | +1,539 | 129,298 | JavaScript | 是 | JavaScript, agent-skills, ai-agents, claude, claude-code |
-| 10 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | +276 | 70,969 | TypeScript | 是 | TypeScript, agentic-ai, agentic-framework, agentic-workflow, agents |
-| 11 | [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) | +604 | 3,656 | TypeScript | 是 | TypeScript |
-| 12 | [BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups) | +436 | 3,300 | TypeScript | 否 | TypeScript |
-| 13 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | +355 | 47,489 | JavaScript | 是 | JavaScript, claude, codex, marketing |
-| 14 | [aipoch/open-science](https://github.com/aipoch/open-science) | +145 | 3,838 | TypeScript | 是 | TypeScript, ai-for-science, ai-research, ai-workbench, bioinformatics |
-| 15 | [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) | +225 | 7,329 | JavaScript | 是 | JavaScript, ai, anthropic, cross-platform, gemini |
-| 16 | [humanlayer/skills](https://github.com/humanlayer/skills) | +451 | 3,117 | TypeScript | 否 | TypeScript |
-| 17 | [The-Swarm-Corporation/AutoHedge](https://github.com/The-Swarm-Corporation/AutoHedge) | +137 | 4,692 | Python | 是 | Python, ai, blackrock, finance, goldmansachs |
-| 18 | [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | +121 | 13,462 | JavaScript | 否 | JavaScript, hacktoberfest, stremio |
+| 1 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | +734 | 45,823 | TypeScript | 是 | TypeScript, ai, animation, ffmpeg, framework |
+| 2 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | +771 | 180,149 | Python | 是 | Python, autogen, autogen-extension, langchain, markdown |
+| 3 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | +147 | 20,803 | TypeScript | 是 | TypeScript, antigravity, claude, claude-code, claude-code-hooks |
+| 4 | [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) | +285 | 9,659 | JavaScript | 是 | JavaScript, ai-agent, anti-bot, antidetect-browser, automation |
+| 5 | [MoonTechLab/LunaTV](https://github.com/MoonTechLab/LunaTV) | +171 | 9,695 | TypeScript | 否 | TypeScript |
+| 6 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | +1,905 | 252,798 | JavaScript | 是 | JavaScript, ai-agents, anthropic, claude, claude-code |
+| 7 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | +602 | 48,095 | JavaScript | 是 | JavaScript, claude, codex, marketing |
+| 8 | [The-Swarm-Corporation/AutoHedge](https://github.com/The-Swarm-Corporation/AutoHedge) | +541 | 5,234 | Python | 是 | Python, ai, blackrock, finance, goldmansachs |
+| 9 | [BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups) | +497 | 3,797 | TypeScript | 否 | TypeScript |
+| 10 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | +188 | 81,832 | Python | 是 | Python, agent, agentic, agentic-framework, agentic-workflow |
+| 11 | [openai/skills](https://github.com/openai/skills) | +372 | 26,019 | Python | 是 | Python |
+| 12 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | +116 | 34,832 | Zig | 是 | Zig, browser, browser-automation, cdp, headless |
+| 13 | [pascalorg/editor](https://github.com/pascalorg/editor) | +136 | 22,315 | TypeScript | 是 | TypeScript, 3d, architecture, bim, cad |
+| 14 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | +392 | 71,377 | TypeScript | 是 | TypeScript, agentic-ai, agentic-framework, agentic-workflow, agents |
 
 ## 新热点
 
