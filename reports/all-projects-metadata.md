@@ -1,6 +1,6 @@
-# 全部项目元数据（136 个）
+# 全部项目元数据（135 个）
 
-> upsert 规范化存储 ｜ 采集：2026-09-09 ｜ 数据：[`data/projects-metadata.csv`](../data/projects-metadata.csv)
+> upsert 规范化存储 ｜ 采集：2026-09-10 ｜ 数据：[`data/projects-metadata.csv`](../data/projects-metadata.csv)
 
 ## 1. build-your-own-x
 
@@ -9,7 +9,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) |
-| Stars | 545,882 |
+| Stars | 546,268 |
 | Top-100 / Trending | 1 / 否 |
 | 类别 / AI | B-学习资源/Awesome / 否 |
 | 前端 / 后端 | — / — |
@@ -26,7 +26,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [sindresorhus/awesome](https://github.com/sindresorhus/awesome) |
-| Stars | 504,027 |
+| Stars | 504,584 |
 | Top-100 / Trending | 2 / 否 |
 | 类别 / AI | B-学习资源/Awesome / 否 |
 | 前端 / 后端 | — / — |
@@ -43,7 +43,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [public-apis/public-apis](https://github.com/public-apis/public-apis) |
-| Stars | 477,132 |
+| Stars | 478,200 |
 | Top-100 / Trending | 3 / 否 |
 | 类别 / AI | B-学习资源/Awesome / 否 |
 | 前端 / 后端 | — / — |
@@ -60,7 +60,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) |
-| Stars | 455,196 |
+| Stars | 455,224 |
 | Top-100 / Trending | 4 / 否 |
 | 类别 / AI | B-学习资源/Awesome / 否 |
 | 前端 / 后端 | — / — |
@@ -77,7 +77,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) |
-| Stars | 396,222 |
+| Stars | 396,377 |
 | Top-100 / Trending | 5 / 否 |
 | 类别 / AI | B-学习资源/Awesome / 否 |
 | 前端 / 后端 | — / — |
@@ -94,7 +94,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [openclaw/openclaw](https://github.com/openclaw/openclaw) |
-| Stars | 389,166 |
+| Stars | 389,321 |
 | Top-100 / Trending | 6 / 否 |
 | 类别 / AI | A-AI/Agent生态 / 是 |
 | 前端 / 后端 | — / — |
@@ -111,7 +111,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) |
-| Stars | 368,623 |
+| Stars | 369,071 |
 | Top-100 / Trending | 7 / 否 |
 | 类别 / AI | B-学习资源/Awesome / 否 |
 | 前端 / 后端 | — / — |
@@ -128,7 +128,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) |
-| Stars | 366,543 |
+| Stars | 366,753 |
 | Top-100 / Trending | 8 / 否 |
 | 类别 / AI | B-学习资源/Awesome / 否 |
 | 前端 / 后端 | — / — |
@@ -145,7 +145,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) |
-| Stars | 360,542 |
+| Stars | 360,657 |
 | Top-100 / Trending | 9 / 否 |
 | 类别 / AI | B-学习资源/Awesome / 否 |
 | 前端 / 后端 | — / — |
@@ -162,7 +162,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [vinta/awesome-python](https://github.com/vinta/awesome-python) |
-| Stars | 319,177 |
+| Stars | 319,603 |
 | Top-100 / Trending | 10 / 否 |
 | 类别 / AI | B-学习资源/Awesome / 否 |
 | 前端 / 后端 | — / — |
@@ -179,7 +179,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) |
-| Stars | 317,807 |
+| Stars | 318,236 |
 | Top-100 / Trending | 11 / 否 |
 | 类别 / AI | B-学习资源/Awesome / 否 |
 | 前端 / 后端 | — / — |
@@ -196,7 +196,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [obra/superpowers](https://github.com/obra/superpowers) |
-| Stars | 282,905 |
+| Stars | 284,115 |
 | Top-100 / Trending | 12 / 是 |
 | 类别 / AI | A-AI/Agent生态 / 是 |
 | 前端 / 后端 | — / — |
@@ -213,7 +213,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) |
-| Stars | 282,516 |
+| Stars | 282,795 |
 | Top-100 / Trending | 13 / 否 |
 | 类别 / AI | B-学习资源/Awesome / 否 |
 | 前端 / 后端 | — / — |
@@ -230,7 +230,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [996icu/996.ICU](https://github.com/996icu/996.ICU) |
-| Stars | 276,925 |
+| Stars | 276,933 |
 | Top-100 / Trending | 14 / 否 |
 | 类别 / AI | B-学习资源/Awesome / 否 |
 | 前端 / 后端 | — / — |
@@ -247,7 +247,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [mattpocock/skills](https://github.com/mattpocock/skills) |
-| Stars | 256,232 |
+| Stars | 257,999 |
 | Top-100 / Trending | 15 / 否 |
 | 类别 / AI | A-AI/Agent生态 / 是 |
 | 前端 / 后端 | — / — |
@@ -264,7 +264,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [affaan-m/ECC](https://github.com/affaan-m/ECC) |
-| Stars | 253,018 |
+| Stars | 255,283 |
 | Top-100 / Trending | 16 / 是 |
 | 类别 / AI | A-AI/Agent生态 / 是 |
 | 前端 / 后端 | — / — |
@@ -281,7 +281,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [react/react](https://github.com/react/react) |
-| Stars | 249,644 |
+| Stars | 249,643 |
 | Top-100 / Trending | 17 / 否 |
 | 类别 / AI | C-前端/UI框架 / 否 |
 | 前端 / 后端 | — / — |
@@ -298,7 +298,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [torvalds/linux](https://github.com/torvalds/linux) |
-| Stars | 247,444 |
+| Stars | 247,654 |
 | Top-100 / Trending | 18 / 否 |
 | 类别 / AI | D-系统/运行时/语言 / 否 |
 | 前端 / 后端 | — / — |
@@ -315,7 +315,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) |
-| Stars | 243,099 |
+| Stars | 243,912 |
 | Top-100 / Trending | 19 / 否 |
 | 类别 / AI | A-AI/Agent生态 / 是 |
 | 前端 / 后端 | — / — |
@@ -332,7 +332,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) |
-| Stars | 242,594 |
+| Stars | 242,927 |
 | Top-100 / Trending | 20 / 否 |
 | 类别 / AI | B-学习资源/Awesome / 否 |
 | 前端 / 后端 | — / — |
@@ -349,7 +349,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) |
-| Stars | 224,360 |
+| Stars | 224,424 |
 | Top-100 / Trending | 21 / 否 |
 | 类别 / AI | B-学习资源/Awesome / 否 |
 | 前端 / 后端 | — / — |
@@ -366,7 +366,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) |
-| Stars | 215,341 |
+| Stars | 217,716 |
 | Top-100 / Trending | 22 / 否 |
 | 类别 / AI | E-工具/应用/其他 / 否 |
 | 前端 / 后端 | — / — |
@@ -383,7 +383,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [vuejs/vue](https://github.com/vuejs/vue) |
-| Stars | 212,069 |
+| Stars | 212,025 |
 | Top-100 / Trending | 23 / 否 |
 | 类别 / AI | C-前端/UI框架 / 否 |
 | 前端 / 后端 | — / — |
@@ -400,13 +400,13 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) |
-| Stars | 210,955 |
-| Top-100 / Trending | 24 / 是 |
+| Stars | 211,909 |
+| Top-100 / Trending | 24 / 否 |
 | 类别 / AI | A-AI/Agent生态 / 是 |
 | 前端 / 后端 | — / — |
 | 数据库 / LLM | — / — |
 | tags | 未标注, Claude Code |
-| 来源 | top100,trending |
+| 来源 | top100 |
 
 ---
 
@@ -417,7 +417,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [ossu/computer-science](https://github.com/ossu/computer-science) |
-| Stars | 208,813 |
+| Stars | 208,882 |
 | Top-100 / Trending | 25 / 否 |
 | 类别 / AI | B-学习资源/Awesome / 否 |
 | 前端 / 后端 | — / — |
@@ -434,7 +434,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [anomalyco/opencode](https://github.com/anomalyco/opencode) |
-| Stars | 205,723 |
+| Stars | 206,205 |
 | Top-100 / Trending | 26 / 否 |
 | 类别 / AI | A-AI/Agent生态 / 是 |
 | 前端 / 后端 | — / — |
@@ -451,7 +451,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [n8n-io/n8n](https://github.com/n8n-io/n8n) |
-| Stars | 203,768 |
+| Stars | 203,910 |
 | Top-100 / Trending | 27 / 否 |
 | 类别 / AI | 工作流/Agent 平台 / 是 |
 | 前端 / 后端 | Vue 3 + Vue Flow + PrimeVue / Node.js |
@@ -468,7 +468,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) |
-| Stars | 199,337 |
+| Stars | 199,308 |
 | Top-100 / Trending | 28 / 否 |
 | 类别 / AI | A-AI/Agent生态 / 是 |
 | 前端 / 后端 | — / — |
@@ -485,7 +485,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) |
-| Stars | 198,070 |
+| Stars | 198,409 |
 | Top-100 / Trending | 29 / 否 |
 | 类别 / AI | E-工具/应用/其他 / 否 |
 | 前端 / 后端 | — / — |
@@ -502,7 +502,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) |
-| Stars | 196,654 |
+| Stars | 196,674 |
 | Top-100 / Trending | 30 / 否 |
 | 类别 / AI | D-系统/运行时/语言 / 否 |
 | 前端 / 后端 | — / — |
@@ -519,7 +519,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) |
-| Stars | 195,192 |
+| Stars | 195,194 |
 | Top-100 / Trending | 31 / 否 |
 | 类别 / AI | A-AI/Agent生态 / 是 |
 | 前端 / 后端 | — / — |
@@ -536,7 +536,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [microsoft/vscode](https://github.com/microsoft/vscode) |
-| Stars | 191,462 |
+| Stars | 191,521 |
 | Top-100 / Trending | 32 / 否 |
 | 类别 / AI | D-系统/运行时/语言 / 否 |
 | 前端 / 后端 | — / — |
@@ -546,36 +546,36 @@
 
 ---
 
-## 33. Microsoft-Activation-Scripts
-
-> Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
-
-| 字段 | 值 |
-| :--- | :--- |
-| 仓库 | [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) |
-| Stars | 189,732 |
-| Top-100 / Trending | 33 / 否 |
-| 类别 / AI | E-工具/应用/其他 / 否 |
-| 前端 / 后端 | — / — |
-| 数据库 / LLM | — / — |
-| tags | Batchfile |
-| 来源 | top100 |
-
----
-
-## 34. yt-dlp
+## 33. yt-dlp
 
 > A feature-rich command-line audio/video downloader
 
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) |
-| Stars | 189,701 |
-| Top-100 / Trending | 34 / 否 |
+| Stars | 190,036 |
+| Top-100 / Trending | 33 / 否 |
 | 类别 / AI | E-工具/应用/其他 / 否 |
 | 前端 / 后端 | — / — |
 | 数据库 / LLM | — / — |
 | tags | Python |
+| 来源 | top100 |
+
+---
+
+## 34. Microsoft-Activation-Scripts
+
+> Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
+
+| 字段 | 值 |
+| :--- | :--- |
+| 仓库 | [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) |
+| Stars | 189,956 |
+| Top-100 / Trending | 34 / 否 |
+| 类别 / AI | E-工具/应用/其他 / 否 |
+| 前端 / 后端 | — / — |
+| 数据库 / LLM | — / — |
+| tags | Batchfile |
 | 来源 | top100 |
 
 ---
@@ -587,7 +587,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) |
-| Stars | 189,623 |
+| Stars | 189,647 |
 | Top-100 / Trending | 35 / 否 |
 | 类别 / AI | E-工具/应用/其他 / 否 |
 | 前端 / 后端 | — / — |
@@ -604,7 +604,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) |
-| Stars | 187,211 |
+| Stars | 187,241 |
 | Top-100 / Trending | 36 / 否 |
 | 类别 / AI | A-AI/Agent生态 / 是 |
 | 前端 / 后端 | Next.js(React) / Python(FastAPI) |
@@ -621,7 +621,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) |
-| Stars | 186,122 |
+| Stars | 186,222 |
 | Top-100 / Trending | 37 / 否 |
 | 类别 / AI | B-学习资源/Awesome / 否 |
 | 前端 / 后端 | — / — |
@@ -638,7 +638,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) |
-| Stars | 185,907 |
+| Stars | 185,970 |
 | Top-100 / Trending | 38 / 否 |
 | 类别 / AI | B-学习资源/Awesome / 否 |
 | 前端 / 后端 | — / — |
@@ -655,7 +655,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) |
-| Stars | 184,833 |
+| Stars | 184,848 |
 | Top-100 / Trending | 39 / 否 |
 | 类别 / AI | B-学习资源/Awesome / 否 |
 | 前端 / 后端 | — / — |
@@ -672,7 +672,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [avelino/awesome-go](https://github.com/avelino/awesome-go) |
-| Stars | 183,470 |
+| Stars | 183,655 |
 | Top-100 / Trending | 40 / 否 |
 | 类别 / AI | B-学习资源/Awesome / 否 |
 | 前端 / 后端 | — / — |
@@ -689,13 +689,13 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [microsoft/markitdown](https://github.com/microsoft/markitdown) |
-| Stars | 180,562 |
-| Top-100 / Trending | 41 / 是 |
+| Stars | 182,233 |
+| Top-100 / Trending | 41 / 否 |
 | 类别 / AI | A-AI/Agent生态 / 是 |
 | 前端 / 后端 | — / — |
 | 数据库 / LLM | — / — |
-| tags | Python, autogen, autogen-extension, langchain, markdown |
-| 来源 | top100,trending |
+| tags | Python |
+| 来源 | top100 |
 
 ---
 
@@ -706,7 +706,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [ollama/ollama](https://github.com/ollama/ollama) |
-| Stars | 180,480 |
+| Stars | 180,551 |
 | Top-100 / Trending | 42 / 否 |
 | 类别 / AI | A-AI/Agent生态 / 是 |
 | 前端 / 后端 | —(CLI/原生桌面) / Go |
@@ -723,7 +723,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [flutter/flutter](https://github.com/flutter/flutter) |
-| Stars | 178,839 |
+| Stars | 178,879 |
 | Top-100 / Trending | 43 / 否 |
 | 类别 / AI | C-前端/UI框架 / 否 |
 | 前端 / 后端 | — / — |
@@ -740,7 +740,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) |
-| Stars | 178,019 |
+| Stars | 178,574 |
 | Top-100 / Trending | 44 / 否 |
 | 类别 / AI | A-AI/Agent生态 / 是 |
 | 前端 / 后端 | Next.js / Node.js |
@@ -750,36 +750,36 @@
 
 ---
 
-## 45. gitignore
-
-> A collection of useful .gitignore templates
-
-| 字段 | 值 |
-| :--- | :--- |
-| 仓库 | [github/gitignore](https://github.com/github/gitignore) |
-| Stars | 175,658 |
-| Top-100 / Trending | 45 / 否 |
-| 类别 / AI | E-工具/应用/其他 / 否 |
-| 前端 / 后端 | — / — |
-| 数据库 / LLM | — / — |
-| tags | 模板 |
-| 来源 | top100 |
-
----
-
-## 46. HelloGitHub
+## 45. HelloGitHub
 
 > :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) |
-| Stars | 175,329 |
-| Top-100 / Trending | 46 / 否 |
+| Stars | 175,734 |
+| Top-100 / Trending | 45 / 否 |
 | 类别 / AI | E-工具/应用/其他 / 否 |
 | 前端 / 后端 | — / — |
 | 数据库 / LLM | — / — |
 | tags | Python |
+| 来源 | top100 |
+
+---
+
+## 46. gitignore
+
+> A collection of useful .gitignore templates
+
+| 字段 | 值 |
+| :--- | :--- |
+| 仓库 | [github/gitignore](https://github.com/github/gitignore) |
+| Stars | 175,682 |
+| Top-100 / Trending | 46 / 否 |
+| 类别 / AI | E-工具/应用/其他 / 否 |
+| 前端 / 后端 | — / — |
+| 数据库 / LLM | — / — |
+| tags | 模板 |
 | 来源 | top100 |
 
 ---
@@ -791,7 +791,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [anthropics/skills](https://github.com/anthropics/skills) |
-| Stars | 175,072 |
+| Stars | 175,453 |
 | Top-100 / Trending | 47 / 否 |
 | 类别 / AI | A-AI/Agent生态 / 是 |
 | 前端 / 后端 | — / — |
@@ -808,7 +808,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [twbs/bootstrap](https://github.com/twbs/bootstrap) |
-| Stars | 174,741 |
+| Stars | 174,756 |
 | Top-100 / Trending | 48 / 否 |
 | 类别 / AI | C-前端/UI框架 / 否 |
 | 前端 / 后端 | — / — |
@@ -825,7 +825,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [f/prompts.chat](https://github.com/f/prompts.chat) |
-| Stars | 169,598 |
+| Stars | 169,820 |
 | Top-100 / Trending | 49 / 否 |
 | 类别 / AI | A-AI/Agent生态 / 是 |
 | 前端 / 后端 | — / — |
@@ -842,7 +842,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [huggingface/transformers](https://github.com/huggingface/transformers) |
-| Stars | 165,008 |
+| Stars | 165,068 |
 | Top-100 / Trending | 50 / 否 |
 | 类别 / AI | A-AI/Agent生态 / 是 |
 | 前端 / 后端 | — / Python(库) |
@@ -859,7 +859,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) |
-| Stars | 164,869 |
+| Stars | 164,883 |
 | Top-100 / Trending | 51 / 否 |
 | 类别 / AI | A-AI/Agent生态 / 是 |
 | 前端 / 后端 | Gradio / Python(Gradio + FastAPI) |
@@ -876,7 +876,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) |
-| Stars | 162,297 |
+| Stars | 162,325 |
 | Top-100 / Trending | 52 / 否 |
 | 类别 / AI | B-学习资源/Awesome / 否 |
 | 前端 / 后端 | — / — |
@@ -893,7 +893,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) |
-| Stars | 158,356 |
+| Stars | 158,409 |
 | Top-100 / Trending | 53 / 否 |
 | 类别 / AI | B-学习资源/Awesome / 否 |
 | 前端 / 后端 | — / — |
@@ -910,7 +910,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [langgenius/dify](https://github.com/langgenius/dify) |
-| Stars | 155,072 |
+| Stars | 155,313 |
 | Top-100 / Trending | 54 / 否 |
 | 类别 / AI | A-AI/Agent生态 / 是 |
 | 前端 / 后端 | Next.js + React + Tailwind / Python(Flask) |
@@ -927,7 +927,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) |
-| Stars | 154,466 |
+| Stars | 154,535 |
 | Top-100 / Trending | 55 / 否 |
 | 类别 / AI | 工作流/Agent 平台 / 是 |
 | 前端 / 后端 | React / Python(FastAPI) |
@@ -944,7 +944,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [open-webui/open-webui](https://github.com/open-webui/open-webui) |
-| Stars | 151,379 |
+| Stars | 151,521 |
 | Top-100 / Trending | 56 / 否 |
 | 类别 / AI | A-AI/Agent生态 / 是 |
 | 前端 / 后端 | Svelte(SvelteKit) / Python(FastAPI) |
@@ -961,7 +961,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) |
-| Stars | 150,803 |
+| Stars | 151,352 |
 | Top-100 / Trending | 57 / 否 |
 | 类别 / AI | A-AI/Agent生态 / 是 |
 | 前端 / 后端 | — / — |
@@ -978,7 +978,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) |
-| Stars | 149,101 |
+| Stars | 149,262 |
 | Top-100 / Trending | 58 / 否 |
 | 类别 / AI | E-工具/应用/其他 / 否 |
 | 前端 / 后端 | — / — |
@@ -995,7 +995,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [airbnb/javascript](https://github.com/airbnb/javascript) |
-| Stars | 148,181 |
+| Stars | 148,200 |
 | Top-100 / Trending | 59 / 否 |
 | 类别 / AI | C-前端/UI框架 / 否 |
 | 前端 / 后端 | — / — |
@@ -1012,7 +1012,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) |
-| Stars | 145,964 |
+| Stars | 146,054 |
 | Top-100 / Trending | 60 / 否 |
 | 类别 / AI | A-AI/Agent生态 / 是 |
 | 前端 / 后端 | — / Python(库 含 LangServe) |
@@ -1029,7 +1029,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [anthropics/claude-code](https://github.com/anthropics/claude-code) |
-| Stars | 144,391 |
+| Stars | 144,584 |
 | Top-100 / Trending | 61 / 否 |
 | 类别 / AI | A-AI/Agent生态 / 是 |
 | 前端 / 后端 | — / — |
@@ -1046,7 +1046,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) |
-| Stars | 143,439 |
+| Stars | 143,486 |
 | Top-100 / Trending | 62 / 否 |
 | 类别 / AI | A-AI/Agent生态 / 是 |
 | 前端 / 后端 | — / — |
@@ -1063,7 +1063,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) |
-| Stars | 142,945 |
+| Stars | 143,442 |
 | Top-100 / Trending | 63 / 否 |
 | 类别 / AI | E-工具/应用/其他 / 否 |
 | 前端 / 后端 | — / — |
@@ -1080,7 +1080,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) |
-| Stars | 142,501 |
+| Stars | 142,540 |
 | Top-100 / Trending | 64 / 否 |
 | 类别 / AI | E-工具/应用/其他 / 否 |
 | 前端 / 后端 | — / — |
@@ -1097,7 +1097,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [vercel/next.js](https://github.com/vercel/next.js) |
-| Stars | 142,210 |
+| Stars | 142,217 |
 | Top-100 / Trending | 65 / 否 |
 | 类别 / AI | C-前端/UI框架 / 否 |
 | 前端 / 后端 | — / — |
@@ -1114,7 +1114,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) |
-| Stars | 141,155 |
+| Stars | 141,176 |
 | Top-100 / Trending | 66 / 否 |
 | 类别 / AI | E-工具/应用/其他 / 否 |
 | 前端 / 后端 | — / — |
@@ -1131,7 +1131,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) |
-| Stars | 138,485 |
+| Stars | 138,524 |
 | Top-100 / Trending | 67 / 否 |
 | 类别 / AI | E-工具/应用/其他 / 否 |
 | 前端 / 后端 | — / — |
@@ -1148,7 +1148,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [iptv-org/iptv](https://github.com/iptv-org/iptv) |
-| Stars | 138,038 |
+| Stars | 138,212 |
 | Top-100 / Trending | 68 / 否 |
 | 类别 / AI | E-工具/应用/其他 / 否 |
 | 前端 / 后端 | — / — |
@@ -1165,7 +1165,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [golang/go](https://github.com/golang/go) |
-| Stars | 138,022 |
+| Stars | 137,994 |
 | Top-100 / Trending | 69 / 否 |
 | 类别 / AI | D-系统/运行时/语言 / 否 |
 | 前端 / 后端 | — / — |
@@ -1182,7 +1182,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) |
-| Stars | 136,854 |
+| Stars | 137,024 |
 | Top-100 / Trending | 70 / 否 |
 | 类别 / AI | B-学习资源/Awesome / 否 |
 | 前端 / 后端 | — / — |
@@ -1199,7 +1199,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) |
-| Stars | 136,560 |
+| Stars | 136,875 |
 | Top-100 / Trending | 71 / 否 |
 | 类别 / AI | A-AI/Agent生态 / 是 |
 | 前端 / 后端 | — / — |
@@ -1216,7 +1216,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) |
-| Stars | 135,757 |
+| Stars | 135,809 |
 | Top-100 / Trending | 72 / 否 |
 | 类别 / AI | E-工具/应用/其他 / 否 |
 | 前端 / 后端 | — / — |
@@ -1233,7 +1233,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [github/spec-kit](https://github.com/github/spec-kit) |
-| Stars | 133,942 |
+| Stars | 134,455 |
 | Top-100 / Trending | 73 / 否 |
 | 类别 / AI | A-AI/Agent生态 / 是 |
 | 前端 / 后端 | — / — |
@@ -1243,20 +1243,20 @@
 
 ---
 
-## 74. ComfyUI
+## 74. ponytail
 
-> The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+> Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
 | 字段 | 值 |
 | :--- | :--- |
-| 仓库 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) |
-| Stars | 132,099 |
-| Top-100 / Trending | 75 / 否 |
-| 类别 / AI | A-AI/Agent生态 / 是 |
-| 前端 / 后端 | TypeScript(自定义节点编辑器) / Python(aiohttp/Starlette) |
-| 数据库 / LLM | — / 本地推理 |
-| tags | Python, TypeScript, 自定义节点编辑器, aiohttp, Starlette, 本地推理 |
-| 来源 | curated,top100 |
+| 仓库 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) |
+| Stars | 133,626 |
+| Top-100 / Trending | 74 / 否 |
+| 类别 / AI | E-工具/应用/其他 / 否 |
+| 前端 / 后端 | — / — |
+| 数据库 / LLM | — / — |
+| tags | JavaScript |
+| 来源 | top100 |
 
 ---
 
@@ -1267,8 +1267,8 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [garrytan/gstack](https://github.com/garrytan/gstack) |
-| Stars | 131,988 |
-| Top-100 / Trending | 74 / 否 |
+| Stars | 132,328 |
+| Top-100 / Trending | 75 / 否 |
 | 类别 / AI | A-AI/Agent生态 / 是 |
 | 前端 / 后端 | — / — |
 | 数据库 / LLM | — / — |
@@ -1277,15 +1277,32 @@
 
 ---
 
-## 76. cc-switch
+## 76. ComfyUI
+
+> The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+
+| 字段 | 值 |
+| :--- | :--- |
+| 仓库 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) |
+| Stars | 132,313 |
+| Top-100 / Trending | 76 / 否 |
+| 类别 / AI | A-AI/Agent生态 / 是 |
+| 前端 / 后端 | TypeScript(自定义节点编辑器) / Python(aiohttp/Starlette) |
+| 数据库 / LLM | — / 本地推理 |
+| tags | Python, TypeScript, 自定义节点编辑器, aiohttp, Starlette, 本地推理 |
+| 来源 | curated,top100 |
+
+---
+
+## 77. cc-switch
 
 > A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
 
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) |
-| Stars | 131,590 |
-| Top-100 / Trending | 76 / 否 |
+| Stars | 132,011 |
+| Top-100 / Trending | 77 / 否 |
 | 类别 / AI | A-AI/Agent生态 / 是 |
 | 前端 / 后端 | — / — |
 | 数据库 / LLM | — / — |
@@ -1294,36 +1311,19 @@
 
 ---
 
-## 77. excalidraw
+## 78. excalidraw
 
 > Virtual whiteboard for sketching hand-drawn like diagrams
 
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) |
-| Stars | 131,366 |
-| Top-100 / Trending | 77 / 否 |
+| Stars | 131,524 |
+| Top-100 / Trending | 78 / 否 |
 | 类别 / AI | C-前端/UI框架 / 否 |
 | 前端 / 后端 | — / — |
 | 数据库 / LLM | — / — |
 | tags | React, TypeScript, Canvas |
-| 来源 | top100 |
-
----
-
-## 78. ponytail
-
-> Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-
-| 字段 | 值 |
-| :--- | :--- |
-| 仓库 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) |
-| Stars | 131,176 |
-| Top-100 / Trending | 78 / 否 |
-| 类别 / AI | E-工具/应用/其他 / 否 |
-| 前端 / 后端 | — / — |
-| 数据库 / LLM | — / — |
-| tags | JavaScript |
 | 来源 | top100 |
 
 ---
@@ -1335,7 +1335,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [krahets/hello-algo](https://github.com/krahets/hello-algo) |
-| Stars | 129,944 |
+| Stars | 129,986 |
 | Top-100 / Trending | 79 / 否 |
 | 类别 / AI | B-学习资源/Awesome / 否 |
 | 前端 / 后端 | — / — |
@@ -1352,7 +1352,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) |
-| Stars | 129,000 |
+| Stars | 129,031 |
 | Top-100 / Trending | 80 / 否 |
 | 类别 / AI | C-前端/UI框架 / 否 |
 | 前端 / 后端 | — / — |
@@ -1369,7 +1369,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) |
-| Stars | 127,531 |
+| Stars | 127,700 |
 | Top-100 / Trending | 81 / 否 |
 | 类别 / AI | A-AI/Agent生态 / 是 |
 | 前端 / 后端 | — / C/C++(内置 HTTP server) |
@@ -1386,7 +1386,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) |
-| Stars | 126,895 |
+| Stars | 126,874 |
 | Top-100 / Trending | 82 / 否 |
 | 类别 / AI | D-系统/运行时/语言 / 否 |
 | 前端 / 后端 | — / — |
@@ -1403,7 +1403,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [react/react-native](https://github.com/react/react-native) |
-| Stars | 126,527 |
+| Stars | 126,540 |
 | Top-100 / Trending | 83 / 否 |
 | 类别 / AI | C-前端/UI框架 / 否 |
 | 前端 / 后端 | — / — |
@@ -1420,7 +1420,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) |
-| Stars | 125,871 |
+| Stars | 126,445 |
 | Top-100 / Trending | 84 / 否 |
 | 类别 / AI | A-AI/Agent生态 / 是 |
 | 前端 / 后端 | — / — |
@@ -1437,7 +1437,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) |
-| Stars | 123,329 |
+| Stars | 123,458 |
 | Top-100 / Trending | 85 / 否 |
 | 类别 / AI | C-前端/UI框架 / 否 |
 | 前端 / 后端 | — / — |
@@ -1447,36 +1447,36 @@
 
 ---
 
-## 86. electron
-
-> :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
-
-| 字段 | 值 |
-| :--- | :--- |
-| 仓库 | [electron/electron](https://github.com/electron/electron) |
-| Stars | 122,934 |
-| Top-100 / Trending | 86 / 否 |
-| 类别 / AI | D-系统/运行时/语言 / 否 |
-| 前端 / 后端 | — / — |
-| 数据库 / LLM | — / — |
-| tags | C++, JavaScript, Electron |
-| 来源 | top100 |
-
----
-
-## 87. rustdesk
+## 86. rustdesk
 
 > An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) |
-| Stars | 122,876 |
-| Top-100 / Trending | 87 / 否 |
+| Stars | 123,029 |
+| Top-100 / Trending | 86 / 否 |
 | 类别 / AI | E-工具/应用/其他 / 否 |
 | 前端 / 后端 | — / — |
 | 数据库 / LLM | — / — |
 | tags | Rust, Flutter |
+| 来源 | top100 |
+
+---
+
+## 87. electron
+
+> :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
+
+| 字段 | 值 |
+| :--- | :--- |
+| 仓库 | [electron/electron](https://github.com/electron/electron) |
+| Stars | 122,964 |
+| Top-100 / Trending | 87 / 否 |
+| 类别 / AI | D-系统/运行时/语言 / 否 |
+| 前端 / 后端 | — / — |
+| 数据库 / LLM | — / — |
+| tags | C++, JavaScript, Electron |
 | 来源 | top100 |
 
 ---
@@ -1488,7 +1488,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [openai/codex](https://github.com/openai/codex) |
-| Stars | 122,304 |
+| Stars | 122,910 |
 | Top-100 / Trending | 88 / 否 |
 | 类别 / AI | E-工具/应用/其他 / 否 |
 | 前端 / 后端 | — / — |
@@ -1505,7 +1505,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) |
-| Stars | 121,396 |
+| Stars | 122,031 |
 | Top-100 / Trending | 89 / 否 |
 | 类别 / AI | E-工具/应用/其他 / 否 |
 | 前端 / 后端 | — / — |
@@ -1522,7 +1522,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [nodejs/node](https://github.com/nodejs/node) |
-| Stars | 121,182 |
+| Stars | 121,153 |
 | Top-100 / Trending | 90 / 否 |
 | 类别 / AI | D-系统/运行时/语言 / 否 |
 | 前端 / 后端 | — / — |
@@ -1539,7 +1539,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) |
-| Stars | 119,910 |
+| Stars | 120,053 |
 | Top-100 / Trending | 91 / 否 |
 | 类别 / AI | E-工具/应用/其他 / 否 |
 | 前端 / 后端 | — / — |
@@ -1556,7 +1556,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) |
-| Stars | 119,369 |
+| Stars | 119,458 |
 | Top-100 / Trending | 92 / 否 |
 | 类别 / AI | A-AI/Agent生态 / 是 |
 | 前端 / 后端 | — / — |
@@ -1573,7 +1573,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) |
-| Stars | 118,746 |
+| Stars | 118,786 |
 | Top-100 / Trending | 93 / 否 |
 | 类别 / AI | B-学习资源/Awesome / 否 |
 | 前端 / 后端 | — / — |
@@ -1590,7 +1590,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [rust-lang/rust](https://github.com/rust-lang/rust) |
-| Stars | 117,984 |
+| Stars | 117,991 |
 | Top-100 / Trending | 94 / 否 |
 | 类别 / AI | D-系统/运行时/语言 / 否 |
 | 前端 / 后端 | — / — |
@@ -1607,7 +1607,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [godotengine/godot](https://github.com/godotengine/godot) |
-| Stars | 116,789 |
+| Stars | 116,890 |
 | Top-100 / Trending | 95 / 否 |
 | 类别 / AI | D-系统/运行时/语言 / 否 |
 | 前端 / 后端 | — / — |
@@ -1624,7 +1624,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) |
-| Stars | 115,759 |
+| Stars | 116,438 |
 | Top-100 / Trending | 96 / 否 |
 | 类别 / AI | E-工具/应用/其他 / 否 |
 | 前端 / 后端 | — / — |
@@ -1641,7 +1641,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [2dust/v2rayN](https://github.com/2dust/v2rayN) |
-| Stars | 115,660 |
+| Stars | 115,784 |
 | Top-100 / Trending | 97 / 否 |
 | 类别 / AI | E-工具/应用/其他 / 否 |
 | 前端 / 后端 | — / — |
@@ -1658,7 +1658,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [mrdoob/three.js](https://github.com/mrdoob/three.js) |
-| Stars | 115,253 |
+| Stars | 115,354 |
 | Top-100 / Trending | 98 / 否 |
 | 类别 / AI | C-前端/UI框架 / 否 |
 | 前端 / 后端 | — / — |
@@ -1675,7 +1675,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) |
-| Stars | 114,680 |
+| Stars | 115,073 |
 | Top-100 / Trending | 99 / 否 |
 | 类别 / AI | E-工具/应用/其他 / 否 |
 | 前端 / 后端 | — / — |
@@ -1685,54 +1685,54 @@
 
 ---
 
-## 100. d3
+## 100. browser-use
 
-> Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
+> Agents that use the browser.
 
 | 字段 | 值 |
 | :--- | :--- |
-| 仓库 | [d3/d3](https://github.com/d3/d3) |
-| Stars | 113,678 |
+| 仓库 | [browser-use/browser-use](https://github.com/browser-use/browser-use) |
+| Stars | 113,983 |
 | Top-100 / Trending | 100 / 否 |
-| 类别 / AI | C-前端/UI框架 / 否 |
+| 类别 / AI | E-工具/应用/其他 / 否 |
 | 前端 / 后端 | — / — |
 | 数据库 / LLM | — / — |
-| tags | JavaScript, D3 |
+| tags | Python |
 | 来源 | top100 |
 
 ---
 
-## 101. browser-use
-
-> 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
-
-| 字段 | 值 |
-| :--- | :--- |
-| 仓库 | [browser-use/browser-use]() |
-| Stars | 113,465 |
-| Top-100 / Trending | — / 是 |
-| 类别 / AI | — / 是 |
-| 前端 / 后端 | — / — |
-| 数据库 / LLM | — / — |
-| tags | Python, ai-agents, ai-tools, browser-automation, browser-use |
-| 来源 | trending |
-
----
-
-## 102. Whisper
+## 101. Whisper
 
 > 鲁棒语音识别
 
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [openai/whisper](https://github.com/openai/whisper) |
-| Stars | 108,762 |
+| Stars | 108,824 |
 | Top-100 / Trending | — / 否 |
 | 类别 / AI | 语音识别 / 是 |
 | 前端 / 后端 | — / Python(库) |
 | 数据库 / LLM | — / — |
 | tags | — |
 | 来源 | curated |
+
+---
+
+## 102. TradingAgents
+
+> TradingAgents: Multi-Agents LLM Financial Trading Framework
+
+| 字段 | 值 |
+| :--- | :--- |
+| 仓库 | [TauricResearch/TradingAgents]() |
+| Stars | 104,359 |
+| Top-100 / Trending | — / 是 |
+| 类别 / AI | — / 是 |
+| 前端 / 后端 | — / — |
+| 数据库 / LLM | — / — |
+| tags | Python, agent, finance, llm, multiagent |
+| 来源 | trending |
 
 ---
 
@@ -1743,7 +1743,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [vllm-project/vllm](https://github.com/vllm-project/vllm) |
-| Stars | 91,271 |
+| Stars | 91,405 |
 | Top-100 / Trending | — / 否 |
 | 类别 / AI | LLM 推理服务 / 是 |
 | 前端 / 后端 | — / Python(FastAPI OpenAI 兼容) |
@@ -1760,7 +1760,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) |
-| Stars | 86,920 |
+| Stars | 87,191 |
 | Top-100 / Trending | — / 否 |
 | 类别 / AI | 编程 Agent / 是 |
 | 前端 / 后端 | React / Python(运行时) |
@@ -1777,7 +1777,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [lobehub/lobehub](https://github.com/lobehub/lobehub) |
-| Stars | 82,334 |
+| Stars | 82,367 |
 | Top-100 / Trending | — / 否 |
 | 类别 / AI | AI 聊天/Agent 平台 / 是 |
 | 前端 / 后端 | Next.js + React + Zustand + DaisyUI / Next.js Server |
@@ -1794,7 +1794,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) |
-| Stars | 74,652 |
+| Stars | 74,686 |
 | Top-100 / Trending | — / 否 |
 | 类别 / AI | 模型微调 / 是 |
 | 前端 / 后端 | Gradio / Python |
@@ -1811,7 +1811,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) |
-| Stars | 71,308 |
+| Stars | 71,322 |
 | Top-100 / Trending | — / 否 |
 | 类别 / AI | 学术助手 / 是 |
 | 前端 / 后端 | Gradio / Python |
@@ -1828,7 +1828,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) |
-| Stars | 68,271 |
+| Stars | 68,285 |
 | Top-100 / Trending | — / 否 |
 | 类别 / AI | 编程 Agent / 是 |
 | 前端 / 后端 | — / Rust |
@@ -1845,7 +1845,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [mem0ai/mem0](https://github.com/mem0ai/mem0) |
-| Stars | 64,928 |
+| Stars | 65,051 |
 | Top-100 / Trending | — / 否 |
 | 类别 / AI | Agent 基础设施(记忆) / 是 |
 | 前端 / 后端 | — / Python + TS SDK |
@@ -1862,7 +1862,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [microsoft/autogen](https://github.com/microsoft/autogen) |
-| Stars | 60,878 |
+| Stars | 60,912 |
 | Top-100 / Trending | — / 否 |
 | 类别 / AI | 多 Agent 框架 / 是 |
 | 前端 / 后端 | —(AutoGen Studio: React) / Python |
@@ -1879,7 +1879,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) |
-| Stars | 58,254 |
+| Stars | 58,319 |
 | Top-100 / Trending | — / 否 |
 | 类别 / AI | Agent 编排框架 / 是 |
 | 前端 / 后端 | — / Python(库) |
@@ -1896,7 +1896,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) |
-| Stars | 55,437 |
+| Stars | 55,453 |
 | Top-100 / Trending | — / 否 |
 | 类别 / AI | 工作流/Agent 平台 / 是 |
 | 前端 / 后端 | React + MUI / Node.js(Express) |
@@ -1906,14 +1906,31 @@
 
 ---
 
-## 113. LlamaIndex
+## 113. ai-engineering-from-scratch
+
+> Learn it. Build it. Ship it for others.
+
+| 字段 | 值 |
+| :--- | :--- |
+| 仓库 | [rohitg00/ai-engineering-from-scratch]() |
+| Stars | 54,015 |
+| Top-100 / Trending | — / 是 |
+| 类别 / AI | — / 是 |
+| 前端 / 后端 | — / — |
+| 数据库 / LLM | — / — |
+| tags | Python, agents, ai, ai-agents, ai-engineering |
+| 来源 | trending |
+
+---
+
+## 114. LlamaIndex
 
 > 文档 Agent 与 OCR 平台
 
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [run-llama/llama_index](https://github.com/run-llama/llama_index) |
-| Stars | 52,077 |
+| Stars | 52,112 |
 | Top-100 / Trending | — / 否 |
 | 类别 / AI | 数据/RAG 框架 / 是 |
 | 前端 / 后端 | — / Python(库) |
@@ -1923,14 +1940,14 @@
 
 ---
 
-## 114. Aider
+## 115. Aider
 
 > 终端 AI 结对编程
 
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [Aider-AI/aider](https://github.com/Aider-AI/aider) |
-| Stars | 48,834 |
+| Stars | 48,871 |
 | Top-100 / Trending | — / 否 |
 | 类别 / AI | 编程 Agent/结对 / 是 |
 | 前端 / 后端 | — / Python(库) |
@@ -1940,48 +1957,14 @@
 
 ---
 
-## 115. marketingskills
-
-> Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
-
-| 字段 | 值 |
-| :--- | :--- |
-| 仓库 | [coreyhaines31/marketingskills]() |
-| Stars | 48,785 |
-| Top-100 / Trending | — / 是 |
-| 类别 / AI | — / 是 |
-| 前端 / 后端 | — / — |
-| 数据库 / LLM | — / — |
-| tags | JavaScript, claude, codex, marketing |
-| 来源 | trending |
-
----
-
-## 116. hyperframes
-
-> Write HTML. Render video. Built for agents.
-
-| 字段 | 值 |
-| :--- | :--- |
-| 仓库 | [heygen-com/hyperframes]() |
-| Stars | 47,722 |
-| Top-100 / Trending | — / 是 |
-| 类别 / AI | — / 是 |
-| 前端 / 后端 | — / — |
-| 数据库 / LLM | — / — |
-| tags | TypeScript, ai, animation, ffmpeg, framework |
-| 来源 | trending |
-
----
-
-## 117. text-generation-webui
+## 116. text-generation-webui
 
 > 本地 LLM 开源桌面应用
 
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [oobabooga/textgen](https://github.com/oobabooga/textgen) |
-| Stars | 47,634 |
+| Stars | 47,644 |
 | Top-100 / Trending | — / 否 |
 | 类别 / AI | 本地 LLM WebUI / 是 |
 | 前端 / 后端 | Gradio / Python |
@@ -1991,14 +1974,14 @@
 
 ---
 
-## 118. Milvus
+## 117. Milvus
 
 > 高性能云原生向量数据库
 
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [milvus-io/milvus](https://github.com/milvus-io/milvus) |
-| Stars | 46,026 |
+| Stars | 46,043 |
 | Top-100 / Trending | — / 否 |
 | 类别 / AI | 向量数据库 / 是 |
 | 前端 / 后端 | — / Go |
@@ -2008,14 +1991,14 @@
 
 ---
 
-## 119. DeepSpeed
+## 118. DeepSpeed
 
 > 分布式训练/推理优化库
 
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed) |
-| Stars | 43,080 |
+| Stars | 43,086 |
 | Top-100 / Trending | — / 否 |
 | 类别 / AI | 训练优化库 / 是 |
 | 前端 / 后端 | — / Python(库) |
@@ -2025,14 +2008,14 @@
 
 ---
 
-## 120. Quivr
+## 119. Quivr
 
 > 开箱即用 RAG 集成
 
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) |
-| Stars | 39,497 |
+| Stars | 39,502 |
 | Top-100 / Trending | — / 否 |
 | 类别 / AI | RAG 平台 / 是 |
 | 前端 / 后端 | Next.js(React) + Vercel AI SDK / Python(FastAPI) + Celery |
@@ -2042,37 +2025,54 @@
 
 ---
 
-## 121. Continue
-
-> 开源编程 Agent/IDE 助手
-
-| 字段 | 值 |
-| :--- | :--- |
-| 仓库 | [continuedev/continue](https://github.com/continuedev/continue) |
-| Stars | 35,833 |
-| Top-100 / Trending | — / 否 |
-| 类别 / AI | 编程助手(IDE 插件) / 是 |
-| 前端 / 后端 | React(WebView) / TypeScript(Node) |
-| 数据库 / LLM | — / 多模型/本地 |
-| tags | — |
-| 来源 | curated |
-
----
-
-## 122. diagram-design
+## 120. diagram-design
 
 > 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [cathrynlavery/diagram-design]() |
-| Stars | 34,714 |
+| Stars | 37,169 |
 | Top-100 / Trending | — / 是 |
 | 类别 / AI | — / 是 |
 | 前端 / 后端 | — / — |
 | 数据库 / LLM | — / — |
 | tags | HTML, agent-skills, claude-code, codex, data-visualization |
 | 来源 | trending |
+
+---
+
+## 121. i-have-adhd
+
+> A skill to stop your coding agent from burying the answer. ADHD-friendly output.
+
+| 字段 | 值 |
+| :--- | :--- |
+| 仓库 | [ayghri/i-have-adhd]() |
+| Stars | 36,284 |
+| Top-100 / Trending | — / 是 |
+| 类别 / AI | — / 是 |
+| 前端 / 后端 | — / — |
+| 数据库 / LLM | — / — |
+| tags | Python, adhd, claude-, claude-code-plugin, claude-skills |
+| 来源 | trending |
+
+---
+
+## 122. Continue
+
+> 开源编程 Agent/IDE 助手
+
+| 字段 | 值 |
+| :--- | :--- |
+| 仓库 | [continuedev/continue](https://github.com/continuedev/continue) |
+| Stars | 35,855 |
+| Top-100 / Trending | — / 否 |
+| 类别 / AI | 编程助手(IDE 插件) / 是 |
+| 前端 / 后端 | React(WebView) / TypeScript(Node) |
+| 数据库 / LLM | — / 多模型/本地 |
+| tags | — |
+| 来源 | curated |
 
 ---
 
@@ -2083,7 +2083,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [qdrant/qdrant](https://github.com/qdrant/qdrant) |
-| Stars | 34,450 |
+| Stars | 34,476 |
 | Top-100 / Trending | — / 否 |
 | 类别 / AI | 向量数据库 / 是 |
 | 前端 / 后端 | — / Rust |
@@ -2100,7 +2100,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [TabbyML/tabby](https://github.com/TabbyML/tabby) |
-| Stars | 33,872 |
+| Stars | 33,875 |
 | Top-100 / Trending | — / 否 |
 | 类别 / AI | 编程助手(自托管) / 是 |
 | 前端 / 后端 | React / Rust |
@@ -2117,7 +2117,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) |
-| Stars | 33,158 |
+| Stars | 33,205 |
 | Top-100 / Trending | — / 否 |
 | 类别 / AI | LLM 聊天前端 / 是 |
 | 前端 / 后端 | 原生 JS/jQuery / Node.js(Express) |
@@ -2134,7 +2134,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [stanford-oval/storm](https://github.com/stanford-oval/storm) |
-| Stars | 31,255 |
+| Stars | 31,262 |
 | Top-100 / Trending | — / 否 |
 | 类别 / AI | 知识/报告生成 / 是 |
 | 前端 / 后端 | — / Python(库) |
@@ -2144,19 +2144,19 @@
 
 ---
 
-## 127. i-have-adhd
+## 127. awesome-gpt-image-2
 
-> A skill to stop your coding agent from burying the answer. ADHD-friendly output.
+> Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。
 
 | 字段 | 值 |
 | :--- | :--- |
-| 仓库 | [ayghri/i-have-adhd]() |
-| Stars | 30,277 |
+| 仓库 | [freestylefly/awesome-gpt-image-2]() |
+| Stars | 30,549 |
 | Top-100 / Trending | — / 是 |
 | 类别 / AI | — / 是 |
 | 前端 / 后端 | — / — |
 | 数据库 / LLM | — / — |
-| tags | Python, adhd, claude-, claude-code-plugin, claude-skills |
+| tags | JavaScript, agents, ai-image-generation, chatgpt, dsh-plugin |
 | 来源 | trending |
 
 ---
@@ -2168,7 +2168,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [labring/FastGPT](https://github.com/labring/FastGPT) |
-| Stars | 29,602 |
+| Stars | 29,625 |
 | Top-100 / Trending | — / 否 |
 | 类别 / AI | 知识库/RAG 平台 / 是 |
 | 前端 / 后端 | Next.js(React) + Mantine / Node.js(Next.js API) |
@@ -2185,7 +2185,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [chroma-core/chroma](https://github.com/chroma-core/chroma) |
-| Stars | 29,252 |
+| Stars | 29,264 |
 | Top-100 / Trending | — / 否 |
 | 类别 / AI | 向量数据库 / 是 |
 | 前端 / 后端 | — / Rust + Python |
@@ -2195,99 +2195,65 @@
 
 ---
 
-## 130. skills
+## 130. editor
 
-> Skills Catalog for Codex
+> Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.
 
 | 字段 | 值 |
 | :--- | :--- |
-| 仓库 | [openai/skills]() |
-| Stars | 26,492 |
+| 仓库 | [pascalorg/editor]() |
+| Stars | 23,208 |
 | Top-100 / Trending | — / 是 |
 | 类别 / AI | — / 是 |
 | 前端 / 后端 | — / — |
 | 数据库 / LLM | — / — |
-| tags | Python |
+| tags | TypeScript, 3d, agent-skills, ai-agents, architecture |
 | 来源 | trending |
 
 ---
 
-## 131. context-mode
+## 131. system-design-notes
 
-> Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
-
-| 字段 | 值 |
-| :--- | :--- |
-| 仓库 | [mksglu/context-mode]() |
-| Stars | 21,369 |
-| Top-100 / Trending | — / 是 |
-| 类别 / AI | — / 是 |
-| 前端 / 后端 | — / — |
-| 数据库 / LLM | — / — |
-| tags | TypeScript, antigravity, claude, claude-code, claude-code-hooks |
-| 来源 | trending |
-
----
-
-## 132. escrcpy
-
-> 📱 Display and control your Android device graphically with scrcpy.
+> Notes of the book System Desgin Interview - An Insider's Guide
 
 | 字段 | 值 |
 | :--- | :--- |
-| 仓库 | [viarotel-org/escrcpy]() |
-| Stars | 11,365 |
+| 仓库 | [liquidslr/system-design-notes]() |
+| Stars | 18,377 |
 | Top-100 / Trending | — / 是 |
 | 类别 / AI | — / 否 |
 | 前端 / 后端 | — / — |
 | 数据库 / LLM | — / — |
-| tags | JavaScript, android, genymobile, gnirehtet, gui |
+| tags | — |
 | 来源 | trending |
 
 ---
 
-## 133. camofox-browser
+## 132. text-to-cad
 
-> Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.
+> A library of agent skills for CAD, CAE and CAM
 
 | 字段 | 值 |
 | :--- | :--- |
-| 仓库 | [jo-inc/camofox-browser]() |
-| Stars | 10,462 |
+| 仓库 | [earthtojake/text-to-cad]() |
+| Stars | 15,267 |
 | Top-100 / Trending | — / 是 |
 | 类别 / AI | — / 是 |
 | 前端 / 后端 | — / — |
 | 数据库 / LLM | — / — |
-| tags | JavaScript, ai-agent, anti-bot, antidetect-browser, automation |
+| tags | Python, agents, ai-agents, cad, mechanical-engineering |
 | 来源 | trending |
 
 ---
 
-## 134. LunaTV
-
-> 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源
-
-| 字段 | 值 |
-| :--- | :--- |
-| 仓库 | [MoonTechLab/LunaTV]() |
-| Stars | 10,147 |
-| Top-100 / Trending | — / 是 |
-| 类别 / AI | — / 否 |
-| 前端 / 后端 | — / — |
-| 数据库 / LLM | — / — |
-| tags | TypeScript |
-| 来源 | trending |
-
----
-
-## 135. plugins
+## 133. plugins
 
 > OpenAI Plugins
 
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [openai/plugins]() |
-| Stars | 5,767 |
+| Stars | 6,336 |
 | Top-100 / Trending | — / 是 |
 | 类别 / AI | — / 是 |
 | 前端 / 后端 | — / — |
@@ -2297,19 +2263,36 @@
 
 ---
 
-## 136. AutoHedge
+## 134. teamai-cli
 
-> Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.
+> Make Every Team AI Native
 
 | 字段 | 值 |
 | :--- | :--- |
-| 仓库 | [The-Swarm-Corporation/AutoHedge]() |
-| Stars | 5,687 |
+| 仓库 | [Tencent/teamai-cli]() |
+| Stars | 3,430 |
 | Top-100 / Trending | — / 是 |
 | 类别 / AI | — / 是 |
 | 前端 / 后端 | — / — |
 | 数据库 / LLM | — / — |
-| tags | Python, ai, blackrock, finance, goldmansachs |
+| tags | TypeScript |
+| 来源 | trending |
+
+---
+
+## 135. PI-Desktop
+
+> Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins
+
+| 字段 | 值 |
+| :--- | :--- |
+| 仓库 | [vastsa/PI-Desktop]() |
+| Stars | 2,008 |
+| Top-100 / Trending | — / 是 |
+| 类别 / AI | — / 是 |
+| 前端 / 后端 | — / — |
+| 数据库 / LLM | — / — |
+| tags | TypeScript, ai-agent, coding-agent, desktop-app, electron |
 | 来源 | trending |
 
 ---

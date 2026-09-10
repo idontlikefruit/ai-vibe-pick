@@ -1,17 +1,14 @@
 rank,full_name,name,description,language,stars_today,total_stars,ai_related,tags,license,collected_at
-1,ayghri/i-have-adhd,i-have-adhd,A skill to stop your coding agent from burying the answer. ADHD-friendly output.,Python,422,30277,是,"Python, adhd, claude-, claude-code-plugin, claude-skills",MIT,2026-09-09
-2,cathrynlavery/diagram-design,diagram-design,"38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",HTML,1020,34714,是,"HTML, agent-skills, claude-code, codex, data-visualization",MIT,2026-09-09
-3,openai/skills,skills,Skills Catalog for Codex,Python,490,26492,是,Python,NOASSERTION,2026-09-09
-4,affaan-m/ECC,ECC,"The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",JavaScript,1426,254260,是,"JavaScript, ai-agents, anthropic, claude, claude-code",MIT,2026-09-09
-5,heygen-com/hyperframes,hyperframes,Write HTML. Render video. Built for agents.,TypeScript,2628,47722,是,"TypeScript, ai, animation, ffmpeg, framework",Apache-2.0,2026-09-09
-6,coreyhaines31/marketingskills,marketingskills,"Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",JavaScript,666,48785,是,"JavaScript, claude, codex, marketing",MIT,2026-09-09
-7,obra/superpowers,superpowers,An agentic skills framework & software development methodology that works.,Shell,446,283333,是,"Shell, ai, brainstorming, coding, obra",MIT,2026-09-09
-8,multica-ai/andrej-karpathy-skills,andrej-karpathy-skills,"A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",未标注,533,211427,是,未标注,NOASSERTION,2026-09-09
-9,microsoft/markitdown,markitdown,Python tool for converting files and office documents to Markdown.,Python,2045,181642,是,"Python, autogen, autogen-extension, langchain, markdown",MIT,2026-09-09
-10,jo-inc/camofox-browser,camofox-browser,"Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",JavaScript,872,10462,是,"JavaScript, ai-agent, anti-bot, antidetect-browser, automation",MIT,2026-09-09
-11,MoonTechLab/LunaTV,LunaTV,本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源,TypeScript,505,10147,否,TypeScript,NOASSERTION,2026-09-09
-12,browser-use/browser-use,browser-use,🌐 Make websites accessible for AI agents. Automate tasks online with ease.,Python,320,113465,是,"Python, ai-agents, ai-tools, browser-automation, browser-use",MIT,2026-09-09
-13,mksglu/context-mode,context-mode,"Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",TypeScript,652,21369,是,"TypeScript, antigravity, claude, claude-code, claude-code-hooks",NOASSERTION,2026-09-09
-14,The-Swarm-Corporation/AutoHedge,AutoHedge,"Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",Python,494,5687,是,"Python, ai, blackrock, finance, goldmansachs",MIT,2026-09-09
-15,viarotel-org/escrcpy,escrcpy,📱 Display and control your Android device graphically with scrcpy.,JavaScript,173,11365,否,"JavaScript, android, genymobile, gnirehtet, gui",Apache-2.0,2026-09-09
-16,openai/plugins,plugins,OpenAI Plugins,JavaScript,176,5767,是,JavaScript,NOASSERTION,2026-09-09
+1,ayghri/i-have-adhd,i-have-adhd,A skill to stop your coding agent from burying the answer. ADHD-friendly output.,Python,4650,36284,是,"Python, adhd, claude-, claude-code-plugin, claude-skills",MIT,2026-09-10
+2,Tencent/teamai-cli,teamai-cli,Make Every Team AI Native,TypeScript,556,3430,是,TypeScript,NOASSERTION,2026-09-10
+3,obra/superpowers,superpowers,An agentic skills framework & software development methodology that works.,Shell,688,284342,是,"Shell, ai, brainstorming, coding, obra",MIT,2026-09-10
+4,pascalorg/editor,editor,"Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",TypeScript,107,23208,是,"TypeScript, 3d, agent-skills, ai-agents, architecture",MIT,2026-09-10
+5,earthtojake/text-to-cad,text-to-cad,"A library of agent skills for CAD, CAE and CAM",Python,124,15267,是,"Python, agents, ai-agents, cad, mechanical-engineering",MIT,2026-09-10
+6,cathrynlavery/diagram-design,diagram-design,"38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",HTML,2249,37169,是,"HTML, agent-skills, claude-code, codex, data-visualization",MIT,2026-09-10
+7,TauricResearch/TradingAgents,TradingAgents,TradingAgents: Multi-Agents LLM Financial Trading Framework,Python,367,104359,是,"Python, agent, finance, llm, multiagent",Apache-2.0,2026-09-10
+8,liquidslr/system-design-notes,system-design-notes,Notes of the book System Desgin Interview - An Insider's Guide,未标注,1397,18377,否,未标注,NOASSERTION,2026-09-10
+9,openai/plugins,plugins,OpenAI Plugins,JavaScript,498,6336,是,JavaScript,NOASSERTION,2026-09-10
+10,freestylefly/awesome-gpt-image-2,awesome-gpt-image-2,Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。,JavaScript,705,30549,是,"JavaScript, agents, ai-image-generation, chatgpt, dsh-plugin",MIT,2026-09-10
+11,rohitg00/ai-engineering-from-scratch,ai-engineering-from-scratch,Learn it. Build it. Ship it for others.,Python,343,54015,是,"Python, agents, ai, ai-agents, ai-engineering",MIT,2026-09-10
+12,vastsa/PI-Desktop,PI-Desktop,Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins,TypeScript,417,2008,是,"TypeScript, ai-agent, coding-agent, desktop-app, electron",LGPL-3.0,2026-09-10
+13,affaan-m/ECC,ECC,"The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",JavaScript,1133,255494,是,"JavaScript, ai-agents, anthropic, claude, claude-code",MIT,2026-09-10

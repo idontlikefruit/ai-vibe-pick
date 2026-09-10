@@ -1,5 +1,9 @@
 {
-  "date": "2026-09-09",
-  "added": [],
-  "removed": []
+  "date": "2026-09-10",
+  "added": [
+    "browser-use/browser-use"
+  ],
+  "removed": [
+    "d3/d3"
+  ]
 }
