@@ -1,25 +1,28 @@
 # GitHub Trending 今日热榜产品分析
 
-> 采集：2026-09-13 ｜ 项目：16 ｜ AI 相关：10（62%）
+> 采集：2026-09-14 ｜ 项目：19 ｜ AI 相关：12（63%）
 
 | # | 项目 | 今日⭐ | 总⭐ | 语言 | AI | tags |
 | :--: | :--- | ---: | ---: | :--- | :--: | :--- |
-| 1 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | +2,265 | 29,806 | JavaScript | 否 | JavaScript, 3d-globe, cesium, flight-tracking, geospatial |
-| 2 | [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | +505 | 1,789 | TypeScript | 是 | TypeScript, ai, ai-agents, chatbot, crm |
-| 3 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | +357 | 65,381 | JavaScript | 是 | JavaScript, ai, ai-agents, ai-prompts, anthropic |
-| 4 | [nab138/iloader](https://github.com/nab138/iloader) | +209 | 3,074 | TypeScript | 否 | TypeScript, idevice, ios, sideloading, sidestore |
-| 5 | [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | +52 | 33,205 | Batchfile | 否 | Batchfile |
-| 6 | [jihe520/MathModelAgent](https://github.com/jihe520/MathModelAgent) | +264 | 5,122 | Python | 是 | Python, agent, llm, mathmodel, skills |
-| 7 | [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) | +228 | 15,915 | C# | 否 | C# |
-| 8 | [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) | +377 | 2,487 | TypeScript | 是 | TypeScript, agi, ai, arbitrage, claude |
-| 9 | [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) | +160 | 33,204 | Java | 否 | Java, android, android-tv, android-tv-box, kotlin |
-| 10 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | +237 | 137,611 | Python | 是 | Python, agents, llms, rag |
-| 11 | [p1neappleXpress/OpenFlux](https://github.com/p1neappleXpress/OpenFlux) | +355 | 1,396 | Go | 否 | Go |
-| 12 | [armory3d/armorpaint](https://github.com/armory3d/armorpaint) | +237 | 4,906 | C | 是 | C, 3d, armorpaint, painting, texturing |
-| 13 | [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) | +99 | 3,582 | Python | 是 | Python, claude-ai, claude-pt, claude-skills, redteam |
-| 14 | [multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE) | +193 | 7,269 | Python | 是 | Python, ai, audio-generation, deep-learning, foundation-models |
-| 15 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | +137 | 7,221 | Rust | 是 | Rust, agents, claude-code, codex, developer-tools |
-| 16 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | +193 | 23,426 | Go | 是 | Go, ai-agents, ai-security-tool, anthropic, autonomous-agents |
+| 1 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | +960 | 29,739 | C | 否 | C |
+| 2 | [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) | +58 | 5,027 | TypeScript | 否 | TypeScript, accounting, billing, bookkeeping, crm |
+| 3 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | +2,898 | 31,812 | JavaScript | 否 | JavaScript, 3d-globe, cesium, flight-tracking, geospatial |
+| 4 | [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) | +215 | 5,628 | TypeScript | 是 | TypeScript, agent, ai, antigravity, claude-code |
+| 5 | [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | +444 | 2,170 | TypeScript | 是 | TypeScript, ai, ai-agents, chatbot, crm |
+| 6 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | +383 | 58,398 | Python | 是 | Python, agent, agentic-ai, ai, claude |
+| 7 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | +727 | 66,000 | JavaScript | 是 | JavaScript, ai, ai-agents, ai-prompts, anthropic |
+| 8 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | +613 | 23,949 | Go | 是 | Go, ai-agents, ai-security-tool, anthropic, autonomous-agents |
+| 9 | [multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE) | +500 | 7,720 | Python | 是 | Python, ai, audio-generation, deep-learning, foundation-models |
+| 10 | [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) | +238 | 33,438 | Java | 否 | Java, android, android-tv, android-tv-box, kotlin |
+| 11 | [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch) | +304 | 2,032 | Rust | 是 | Rust |
+| 12 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | +2,546 | 26,691 | Python | 是 | Python, ai, audiobook, cuda, dubbing |
+| 13 | [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) | +507 | 4,113 | Python | 是 | Python, claude-ai, claude-pt, claude-skills, redteam |
+| 14 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | +438 | 23,458 | Go | 是 | Go, AI, 代码审查 |
+| 15 | [jihe520/MathModelAgent](https://github.com/jihe520/MathModelAgent) | +268 | 5,337 | Python | 是 | Python, agent, llm, mathmodel, skills |
+| 16 | [tonhowtf/omniget](https://github.com/tonhowtf/omniget) | +547 | 11,608 | Rust | 否 | Rust, bilibili-downloader, course-downloader, download-manager, downloader |
+| 17 | [jiji262/douyin-downloader](https://github.com/jiji262/douyin-downloader) | +473 | 11,339 | Python | 否 | Python |
+| 18 | [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) | +98 | 26,216 | QML | 否 | QML, linux, macos, qt, retro |
+| 19 | [huggingface/transformers](https://github.com/huggingface/transformers) | +102 | 165,487 | Python | 是 | Python, audio, deep-learning, deepseek, gemma |
 
 ## 新热点
 
