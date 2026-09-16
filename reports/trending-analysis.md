@@ -1,28 +1,23 @@
 # GitHub Trending 今日热榜产品分析
 
-> 采集：2026-09-14 ｜ 项目：19 ｜ AI 相关：12（63%）
+> 采集：2026-09-16 ｜ 项目：14 ｜ AI 相关：9（64%）
 
 | # | 项目 | 今日⭐ | 总⭐ | 语言 | AI | tags |
 | :--: | :--- | ---: | ---: | :--- | :--: | :--- |
-| 1 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | +960 | 29,739 | C | 否 | C |
-| 2 | [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) | +58 | 5,027 | TypeScript | 否 | TypeScript, accounting, billing, bookkeeping, crm |
-| 3 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | +2,898 | 31,812 | JavaScript | 否 | JavaScript, 3d-globe, cesium, flight-tracking, geospatial |
-| 4 | [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) | +215 | 5,628 | TypeScript | 是 | TypeScript, agent, ai, antigravity, claude-code |
-| 5 | [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | +444 | 2,170 | TypeScript | 是 | TypeScript, ai, ai-agents, chatbot, crm |
-| 6 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | +383 | 58,398 | Python | 是 | Python, agent, agentic-ai, ai, claude |
-| 7 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | +727 | 66,000 | JavaScript | 是 | JavaScript, ai, ai-agents, ai-prompts, anthropic |
-| 8 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | +613 | 23,949 | Go | 是 | Go, ai-agents, ai-security-tool, anthropic, autonomous-agents |
-| 9 | [multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE) | +500 | 7,720 | Python | 是 | Python, ai, audio-generation, deep-learning, foundation-models |
-| 10 | [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) | +238 | 33,438 | Java | 否 | Java, android, android-tv, android-tv-box, kotlin |
-| 11 | [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch) | +304 | 2,032 | Rust | 是 | Rust |
-| 12 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | +2,546 | 26,691 | Python | 是 | Python, ai, audiobook, cuda, dubbing |
-| 13 | [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) | +507 | 4,113 | Python | 是 | Python, claude-ai, claude-pt, claude-skills, redteam |
-| 14 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | +438 | 23,458 | Go | 是 | Go, AI, 代码审查 |
-| 15 | [jihe520/MathModelAgent](https://github.com/jihe520/MathModelAgent) | +268 | 5,337 | Python | 是 | Python, agent, llm, mathmodel, skills |
-| 16 | [tonhowtf/omniget](https://github.com/tonhowtf/omniget) | +547 | 11,608 | Rust | 否 | Rust, bilibili-downloader, course-downloader, download-manager, downloader |
-| 17 | [jiji262/douyin-downloader](https://github.com/jiji262/douyin-downloader) | +473 | 11,339 | Python | 否 | Python |
-| 18 | [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) | +98 | 26,216 | QML | 否 | QML, linux, macos, qt, retro |
-| 19 | [huggingface/transformers](https://github.com/huggingface/transformers) | +102 | 165,487 | Python | 是 | Python, audio, deep-learning, deepseek, gemma |
+| 1 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | +2,756 | 28,892 | Go | 是 | Go, AI, 代码审查 |
+| 2 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | +2,026 | 33,967 | C | 否 | C |
+| 3 | [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) | +634 | 6,727 | TypeScript | 否 | TypeScript, accounting, billing, bookkeeping, crm |
+| 4 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | +2,072 | 31,117 | Python | 是 | Python, ai, audiobook, cuda, dubbing |
+| 5 | [Homebrew/BrewUI](https://github.com/Homebrew/BrewUI) | +271 | 1,438 | Swift | 否 | Swift |
+| 6 | [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | +193 | 2,882 | TypeScript | 是 | TypeScript, ai, ai-agents, chatbot, crm |
+| 7 | [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch) | +531 | 3,453 | Rust | 是 | Rust |
+| 8 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | +725 | 76,792 | Java | 否 | Java, disassembler, reverse-engineering, software-analysis |
+| 9 | [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) | +254 | 43,886 | TypeScript | 是 | TypeScript, ai, anthropic, artifacts, aws |
+| 10 | [pacifio/atlas](https://github.com/pacifio/atlas) | +91 | 4,668 | Rust | 是 | Rust, ai, ai-coding-assistant, claude-code, codex |
+| 11 | [MG1937/ASC](https://github.com/MG1937/ASC) | +129 | 1,228 | Python | 是 | Python, agent, agentic-ai, android, decompilation |
+| 12 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | +307 | 94,864 | JavaScript | 是 | JavaScript, agent-skills, antigravity, claude-code, codex |
+| 13 | [tonhowtf/omniget](https://github.com/tonhowtf/omniget) | +258 | 13,028 | Rust | 否 | Rust, bilibili-downloader, course-downloader, download-manager, downloader |
+| 14 | [earendil-works/pi](https://github.com/earendil-works/pi) | +458 | 105,802 | TypeScript | 是 | TypeScript |
 
 ## 新热点
 
