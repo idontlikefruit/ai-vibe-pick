@@ -1,24 +1,22 @@
 # GitHub Trending 今日热榜产品分析
 
-> 采集：2026-09-20 ｜ 项目：15 ｜ AI 相关：12（80%）
+> 采集：2026-09-21 ｜ 项目：13 ｜ AI 相关：13（100%）
 
 | # | 项目 | 今日⭐ | 总⭐ | 语言 | AI | tags |
 | :--: | :--- | ---: | ---: | :--- | :--: | :--- |
-| 1 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | +3,162 | 16,258 | JavaScript | 是 | JavaScript |
-| 2 | [trycua/cua](https://github.com/trycua/cua) | +1,124 | 24,373 | HTML | 是 | HTML, agent, ai-agent, apple, computer-use |
-| 3 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | +547 | 97,000 | JavaScript | 是 | JavaScript, agent-skills, antigravity, claude-code, codex |
-| 4 | [coder/coder](https://github.com/coder/coder) | +406 | 15,606 | Go | 是 | Go, agents, dev-tools, development-environment, golang |
-| 5 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | +482 | 146,691 | TypeScript | 是 | TypeScript |
-| 6 | [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | +477 | 16,008 | TypeScript | 是 | TypeScript, coderabbit, inngest, nextjs, shadcn-ui |
-| 7 | [higgsfield-ai/higgsfield](https://github.com/higgsfield-ai/higgsfield) | +314 | 4,935 | Jupyter Notebook | 是 | Jupyter Notebook, cluster-management, deep-learning, distributed, llama |
-| 8 | [docling-project/docling](https://github.com/docling-project/docling) | +94 | 67,018 | Python | 是 | Python, ai, convert, document-parser, document-parsing |
-| 9 | [cloudflare/quiche](https://github.com/cloudflare/quiche) | +84 | 12,008 | Rust | 否 | Rust, http3, network-programming, protocol, quic |
-| 10 | [asciimoo/hister](https://github.com/asciimoo/hister) | +430 | 5,218 | Go | 是 | Go, browser-history, golang, history, index |
-| 11 | [ruanyf/weekly](https://github.com/ruanyf/weekly) | +151 | 103,109 | 未标注 | 否 | 未标注 |
-| 12 | [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) | +31 | 37,769 | TypeScript | 否 | TypeScript |
-| 13 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | +280 | 25,114 | Python | 是 | Python |
-| 14 | [cactus-compute/needle](https://github.com/cactus-compute/needle) | +207 | 11,591 | Python | 是 | Python, cactus, edge-ai, foundation-model, function-calling |
-| 15 | [yynxxxxx/Codex-X](https://github.com/yynxxxxx/Codex-X) | +59 | 3,385 | Rust | 是 | Rust |
+| 1 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | +837 | 263,703 | JavaScript | 是 | JavaScript, ai-agents, anthropic, claude, claude-code |
+| 2 | [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | +89 | 5,183 | TypeScript | 是 | TypeScript, agent-native, agents, ai, react |
+| 3 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | +2,375 | 17,973 | JavaScript | 是 | JavaScript |
+| 4 | [trycua/cua](https://github.com/trycua/cua) | +1,012 | 25,122 | HTML | 是 | HTML, agent, ai-agent, apple, computer-use |
+| 5 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | +236 | 35,349 | Python | 是 | Python |
+| 6 | [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | +32 | 45,546 | Python | 是 | Python, ai, angular, archiving, django |
+| 7 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | +415 | 147,099 | TypeScript | 是 | TypeScript |
+| 8 | [mihail911/modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments) | +174 | 4,543 | Python | 是 | Python |
+| 9 | [higgsfield-ai/higgsfield](https://github.com/higgsfield-ai/higgsfield) | +461 | 5,361 | Jupyter Notebook | 是 | Jupyter Notebook, cluster-management, deep-learning, distributed, llama |
+| 10 | [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | +752 | 16,774 | TypeScript | 是 | TypeScript, coderabbit, inngest, nextjs, shadcn-ui |
+| 11 | [coder/coder](https://github.com/coder/coder) | +382 | 16,030 | Go | 是 | Go, agents, dev-tools, development-environment, golang |
+| 12 | [vercel-labs/json-render](https://github.com/vercel-labs/json-render) | +332 | 17,276 | TypeScript | 是 | TypeScript |
+| 13 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | +729 | 97,655 | JavaScript | 是 | JavaScript, agent-skills, antigravity, claude-code, codex |
 
 ## 新热点
 
