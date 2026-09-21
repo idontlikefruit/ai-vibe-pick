@@ -1,14 +1,13 @@
 rank,full_name,name,description,language,stars_today,total_stars,ai_related,tags,license,collected_at
-1,affaan-m/ECC,ECC,"The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",JavaScript,837,263703,是,"JavaScript, ai-agents, anthropic, claude, claude-code",MIT,2026-09-21
-2,BuilderIO/agent-native,agent-native,A framework for building agentic apps,TypeScript,89,5183,是,"TypeScript, agent-native, agents, ai, react",NOASSERTION,2026-09-21
-3,cloudflare/security-audit-skill,security-audit-skill,"A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",JavaScript,2375,17973,是,JavaScript,MIT,2026-09-21
-4,trycua/cua,cua,"Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",HTML,1012,25122,是,"HTML, agent, ai-agent, apple, computer-use",MIT,2026-09-21
-5,anthropics/financial-services,financial-services,,Python,236,35349,是,Python,Apache-2.0,2026-09-21
-6,paperless-ngx/paperless-ngx,paperless-ngx,"A community-supported supercharged document management system: scan, index and archive all your documents",Python,32,45546,是,"Python, ai, angular, archiving, django",GPL-3.0,2026-09-21
-7,anthropics/claude-code,claude-code,"Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",TypeScript,415,147099,是,TypeScript,NOASSERTION,2026-09-21
-8,mihail911/modern-software-dev-assignments,modern-software-dev-assignments,Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025),Python,174,4543,是,Python,NOASSERTION,2026-09-21
-9,higgsfield-ai/higgsfield,higgsfield,"Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",Jupyter Notebook,461,5361,是,"Jupyter Notebook, cluster-management, deep-learning, distributed, llama",Apache-2.0,2026-09-21
-10,Open-Dev-Society/OpenStock,OpenStock,"OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",TypeScript,752,16774,是,"TypeScript, coderabbit, inngest, nextjs, shadcn-ui",AGPL-3.0,2026-09-21
-11,coder/coder,coder,Secure environments for developers and their agents,Go,382,16030,是,"Go, agents, dev-tools, development-environment, golang",AGPL-3.0,2026-09-21
-12,vercel-labs/json-render,json-render,The Generative UI framework,TypeScript,332,17276,是,TypeScript,Apache-2.0,2026-09-21
-13,addyosmani/agent-skills,agent-skills,Production-grade engineering skills for AI coding agents.,JavaScript,729,97655,是,"JavaScript, agent-skills, antigravity, claude-code, codex",MIT,2026-09-21
+1,BuilderIO/agent-native,agent-native,A framework for building agentic apps,TypeScript,607,5867,是,"TypeScript, agent-native, agents, ai, react",NOASSERTION,2026-09-22
+2,trycua/cua,cua,"Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",HTML,609,25678,是,"HTML, agent, ai-agent, apple, computer-use",MIT,2026-09-22
+3,Open-Dev-Society/OpenStock,OpenStock,"OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",TypeScript,843,17687,是,"TypeScript, coderabbit, inngest, nextjs, shadcn-ui",AGPL-3.0,2026-09-22
+4,akitaonrails/ai-memory,ai-memory,Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors,Rust,217,7652,是,Rust,MIT,2026-09-22
+5,coder/coder,coder,Secure environments for developers and their agents,Go,461,16403,是,"Go, agents, dev-tools, development-environment, golang",AGPL-3.0,2026-09-22
+6,anthropics/financial-services,financial-services,,Python,425,35801,是,Python,Apache-2.0,2026-09-22
+7,cloudflare/quiche,quiche,🥧 Savoury implementation of the QUIC transport protocol and HTTP/3,Rust,69,12334,否,"Rust, http3, network-programming, protocol, quic",BSD-2-Clause,2026-09-22
+8,mvt-project/mvt,mvt,MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.,Python,177,13566,否,"Python, android, forensics, forensics-tools, ios",NOASSERTION,2026-09-22
+9,zhouxiaoka/autoclip,autoclip,AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具,Python,266,8204,是,"Python, ai, ai-agents, ai-tools, ai-video",MIT,2026-09-22
+10,ruanyf/weekly,weekly,科技爱好者周刊，每周五发布,未标注,221,103908,否,未标注,NOASSERTION,2026-09-22
+11,Crosstalk-Solutions/project-nomad,project-nomad,"Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",TypeScript,360,37838,是,TypeScript,Apache-2.0,2026-09-22
+12,yynxxxxx/Codex-X,Codex-X,OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。,Rust,79,3664,是,Rust,MIT,2026-09-22

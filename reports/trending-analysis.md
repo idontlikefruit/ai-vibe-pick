@@ -1,22 +1,21 @@
 # GitHub Trending 今日热榜产品分析
 
-> 采集：2026-09-21 ｜ 项目：13 ｜ AI 相关：13（100%）
+> 采集：2026-09-22 ｜ 项目：12 ｜ AI 相关：9（75%）
 
 | # | 项目 | 今日⭐ | 总⭐ | 语言 | AI | tags |
 | :--: | :--- | ---: | ---: | :--- | :--: | :--- |
-| 1 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | +837 | 263,703 | JavaScript | 是 | JavaScript, ai-agents, anthropic, claude, claude-code |
-| 2 | [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | +89 | 5,183 | TypeScript | 是 | TypeScript, agent-native, agents, ai, react |
-| 3 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | +2,375 | 17,973 | JavaScript | 是 | JavaScript |
-| 4 | [trycua/cua](https://github.com/trycua/cua) | +1,012 | 25,122 | HTML | 是 | HTML, agent, ai-agent, apple, computer-use |
-| 5 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | +236 | 35,349 | Python | 是 | Python |
-| 6 | [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | +32 | 45,546 | Python | 是 | Python, ai, angular, archiving, django |
-| 7 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | +415 | 147,099 | TypeScript | 是 | TypeScript |
-| 8 | [mihail911/modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments) | +174 | 4,543 | Python | 是 | Python |
-| 9 | [higgsfield-ai/higgsfield](https://github.com/higgsfield-ai/higgsfield) | +461 | 5,361 | Jupyter Notebook | 是 | Jupyter Notebook, cluster-management, deep-learning, distributed, llama |
-| 10 | [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | +752 | 16,774 | TypeScript | 是 | TypeScript, coderabbit, inngest, nextjs, shadcn-ui |
-| 11 | [coder/coder](https://github.com/coder/coder) | +382 | 16,030 | Go | 是 | Go, agents, dev-tools, development-environment, golang |
-| 12 | [vercel-labs/json-render](https://github.com/vercel-labs/json-render) | +332 | 17,276 | TypeScript | 是 | TypeScript |
-| 13 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | +729 | 97,655 | JavaScript | 是 | JavaScript, agent-skills, antigravity, claude-code, codex |
+| 1 | [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | +607 | 5,867 | TypeScript | 是 | TypeScript, agent-native, agents, ai, react |
+| 2 | [trycua/cua](https://github.com/trycua/cua) | +609 | 25,678 | HTML | 是 | HTML, agent, ai-agent, apple, computer-use |
+| 3 | [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | +843 | 17,687 | TypeScript | 是 | TypeScript, coderabbit, inngest, nextjs, shadcn-ui |
+| 4 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | +217 | 7,652 | Rust | 是 | Rust |
+| 5 | [coder/coder](https://github.com/coder/coder) | +461 | 16,403 | Go | 是 | Go, agents, dev-tools, development-environment, golang |
+| 6 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | +425 | 35,801 | Python | 是 | Python |
+| 7 | [cloudflare/quiche](https://github.com/cloudflare/quiche) | +69 | 12,334 | Rust | 否 | Rust, http3, network-programming, protocol, quic |
+| 8 | [mvt-project/mvt](https://github.com/mvt-project/mvt) | +177 | 13,566 | Python | 否 | Python, android, forensics, forensics-tools, ios |
+| 9 | [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) | +266 | 8,204 | Python | 是 | Python, ai, ai-agents, ai-tools, ai-video |
+| 10 | [ruanyf/weekly](https://github.com/ruanyf/weekly) | +221 | 103,908 | 未标注 | 否 | 未标注 |
+| 11 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | +360 | 37,838 | TypeScript | 是 | TypeScript |
+| 12 | [yynxxxxx/Codex-X](https://github.com/yynxxxxx/Codex-X) | +79 | 3,664 | Rust | 是 | Rust |
 
 ## 新热点
 
