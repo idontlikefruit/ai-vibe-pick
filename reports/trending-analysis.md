@@ -1,21 +1,26 @@
 # GitHub Trending 今日热榜产品分析
 
-> 采集：2026-09-22 ｜ 项目：12 ｜ AI 相关：9（75%）
+> 采集：2026-09-24 ｜ 项目：17 ｜ AI 相关：16（94%）
 
 | # | 项目 | 今日⭐ | 总⭐ | 语言 | AI | tags |
 | :--: | :--- | ---: | ---: | :--- | :--: | :--- |
-| 1 | [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | +607 | 5,867 | TypeScript | 是 | TypeScript, agent-native, agents, ai, react |
-| 2 | [trycua/cua](https://github.com/trycua/cua) | +609 | 25,678 | HTML | 是 | HTML, agent, ai-agent, apple, computer-use |
-| 3 | [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | +843 | 17,687 | TypeScript | 是 | TypeScript, coderabbit, inngest, nextjs, shadcn-ui |
-| 4 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | +217 | 7,652 | Rust | 是 | Rust |
-| 5 | [coder/coder](https://github.com/coder/coder) | +461 | 16,403 | Go | 是 | Go, agents, dev-tools, development-environment, golang |
-| 6 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | +425 | 35,801 | Python | 是 | Python |
-| 7 | [cloudflare/quiche](https://github.com/cloudflare/quiche) | +69 | 12,334 | Rust | 否 | Rust, http3, network-programming, protocol, quic |
-| 8 | [mvt-project/mvt](https://github.com/mvt-project/mvt) | +177 | 13,566 | Python | 否 | Python, android, forensics, forensics-tools, ios |
-| 9 | [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) | +266 | 8,204 | Python | 是 | Python, ai, ai-agents, ai-tools, ai-video |
-| 10 | [ruanyf/weekly](https://github.com/ruanyf/weekly) | +221 | 103,908 | 未标注 | 否 | 未标注 |
-| 11 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | +360 | 37,838 | TypeScript | 是 | TypeScript |
-| 12 | [yynxxxxx/Codex-X](https://github.com/yynxxxxx/Codex-X) | +79 | 3,664 | Rust | 是 | Rust |
+| 1 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | +665 | 36,919 | Python | 是 | Python |
+| 2 | [google/ax](https://github.com/google/ax) | +1,542 | 9,008 | Go | 是 | Go |
+| 3 | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | +393 | 31,484 | Python | 是 | Python, anthropic, anthropic-claude, claude, claude-code |
+| 4 | [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | +135 | 6,523 | TypeScript | 是 | TypeScript, agent-native, agents, ai, react |
+| 5 | [obra/superpowers](https://github.com/obra/superpowers) | +485 | 290,669 | Shell | 是 | Shell, ai, brainstorming, coding, obra |
+| 6 | [dream-num/univer](https://github.com/dream-num/univer) | +1,140 | 16,308 | TypeScript | 是 | TypeScript, board, collaboration, data-table, doc |
+| 7 | [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | +379 | 18,797 | TypeScript | 是 | TypeScript, coderabbit, inngest, nextjs, shadcn-ui |
+| 8 | [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | +560 | 3,480 | Go | 是 | Go |
+| 9 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | +96 | 7,827 | Python | 是 | Python, agent-framework, agentic, agentic-ai, agents |
+| 10 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | +41 | 49,904 | Python | 是 | Python |
+| 11 | [superdesigndev/treg](https://github.com/superdesigndev/treg) | +502 | 2,688 | Python | 是 | Python, agents, api-keys, cli, credentials |
+| 12 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | +287 | 70,315 | JavaScript | 是 | JavaScript, AI Harness, 设计 |
+| 13 | [mvt-project/mvt](https://github.com/mvt-project/mvt) | +546 | 14,472 | Python | 否 | Python, android, forensics, forensics-tools, ios |
+| 14 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | +266 | 44,550 | C | 是 | C, aider, ast, claude-code, code-analysis |
+| 15 | [harry7557558/spirula-studio](https://github.com/harry7557558/spirula-studio) | +99 | 722 | C++ | 是 | C++, 360-camera, 3d-gaussian-splatting, 3d-reconstruction, 3dgs |
+| 16 | [browser-use/video-use](https://github.com/browser-use/video-use) | +745 | 26,479 | Python | 是 | Python |
+| 17 | [TNT-Likely/PanWatch](https://github.com/TNT-Likely/PanWatch) | +142 | 1,478 | Python | 是 | Python, a-share, agent, ai, ai-agent |
 
 ## 新热点
 

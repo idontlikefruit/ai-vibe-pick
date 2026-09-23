@@ -1,13 +1,18 @@
 rank,full_name,name,description,language,stars_today,total_stars,ai_related,tags,license,collected_at
-1,BuilderIO/agent-native,agent-native,A framework for building agentic apps,TypeScript,607,5867,是,"TypeScript, agent-native, agents, ai, react",NOASSERTION,2026-09-22
-2,trycua/cua,cua,"Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",HTML,609,25678,是,"HTML, agent, ai-agent, apple, computer-use",MIT,2026-09-22
-3,Open-Dev-Society/OpenStock,OpenStock,"OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",TypeScript,843,17687,是,"TypeScript, coderabbit, inngest, nextjs, shadcn-ui",AGPL-3.0,2026-09-22
-4,akitaonrails/ai-memory,ai-memory,Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors,Rust,217,7652,是,Rust,MIT,2026-09-22
-5,coder/coder,coder,Secure environments for developers and their agents,Go,461,16403,是,"Go, agents, dev-tools, development-environment, golang",AGPL-3.0,2026-09-22
-6,anthropics/financial-services,financial-services,,Python,425,35801,是,Python,Apache-2.0,2026-09-22
-7,cloudflare/quiche,quiche,🥧 Savoury implementation of the QUIC transport protocol and HTTP/3,Rust,69,12334,否,"Rust, http3, network-programming, protocol, quic",BSD-2-Clause,2026-09-22
-8,mvt-project/mvt,mvt,MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.,Python,177,13566,否,"Python, android, forensics, forensics-tools, ios",NOASSERTION,2026-09-22
-9,zhouxiaoka/autoclip,autoclip,AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具,Python,266,8204,是,"Python, ai, ai-agents, ai-tools, ai-video",MIT,2026-09-22
-10,ruanyf/weekly,weekly,科技爱好者周刊，每周五发布,未标注,221,103908,否,未标注,NOASSERTION,2026-09-22
-11,Crosstalk-Solutions/project-nomad,project-nomad,"Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",TypeScript,360,37838,是,TypeScript,Apache-2.0,2026-09-22
-12,yynxxxxx/Codex-X,Codex-X,OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。,Rust,79,3664,是,Rust,MIT,2026-09-22
+1,anthropics/financial-services,financial-services,,Python,665,36919,是,Python,Apache-2.0,2026-09-24
+2,google/ax,ax,Google's open agentic orchestration runtime,Go,1542,9008,是,Go,Apache-2.0,2026-09-24
+3,davila7/claude-code-templates,claude-code-templates,CLI tool for configuring and monitoring Claude Code,Python,393,31484,是,"Python, anthropic, anthropic-claude, claude, claude-code",MIT,2026-09-24
+4,BuilderIO/agent-native,agent-native,A framework for building agentic apps,TypeScript,135,6523,是,"TypeScript, agent-native, agents, ai, react",NOASSERTION,2026-09-24
+5,obra/superpowers,superpowers,An agentic skills framework & software development methodology that works.,Shell,485,290669,是,"Shell, ai, brainstorming, coding, obra",MIT,2026-09-24
+6,dream-num/univer,univer,"The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",TypeScript,1140,16308,是,"TypeScript, board, collaboration, data-table, doc",Apache-2.0,2026-09-24
+7,Open-Dev-Society/OpenStock,OpenStock,"OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",TypeScript,379,18797,是,"TypeScript, coderabbit, inngest, nextjs, shadcn-ui",AGPL-3.0,2026-09-24
+8,agent-substrate/substrate,substrate,Agent Substrate: the core system,Go,560,3480,是,Go,Apache-2.0,2026-09-24
+9,strands-agents/harness-sdk,harness-sdk,"Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",Python,96,7827,是,"Python, agent-framework, agentic, agentic-ai, agents",Apache-2.0,2026-09-24
+10,HKUDS/CLI-Anything,CLI-Anything,"""CLI-Anything: Making ALL Software Agent-Native"" -- CLI-Hub: https://clianything.cc/",Python,41,49904,是,Python,Apache-2.0,2026-09-24
+11,superdesigndev/treg,treg,OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn,Python,502,2688,是,"Python, agents, api-keys, cli, credentials",NOASSERTION,2026-09-24
+12,pbakaus/impeccable,impeccable,The design language that makes your AI harness better at design.,JavaScript,287,70315,是,"JavaScript, AI Harness, 设计",Apache-2.0,2026-09-24
+13,mvt-project/mvt,mvt,MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.,Python,546,14472,否,"Python, android, forensics, forensics-tools, ios",NOASSERTION,2026-09-24
+14,DeusData/codebase-memory-mcp,codebase-memory-mcp,"High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",C,266,44550,是,"C, aider, ast, claude-code, code-analysis",MIT,2026-09-24
+15,harry7557558/spirula-studio,spirula-studio,"Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.",C++,99,722,是,"C++, 360-camera, 3d-gaussian-splatting, 3d-reconstruction, 3dgs",GPL-3.0,2026-09-24
+16,browser-use/video-use,video-use,Edit videos with coding agents,Python,745,26479,是,Python,MIT,2026-09-24
+17,TNT-Likely/PanWatch,PanWatch,盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送,Python,142,1478,是,"Python, a-share, agent, ai, ai-agent",MIT,2026-09-24
