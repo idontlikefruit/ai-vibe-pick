@@ -1,26 +1,23 @@
 # GitHub Trending 今日热榜产品分析
 
-> 采集：2026-09-24 ｜ 项目：17 ｜ AI 相关：16（94%）
+> 采集：2026-09-25 ｜ 项目：14 ｜ AI 相关：11（79%）
 
 | # | 项目 | 今日⭐ | 总⭐ | 语言 | AI | tags |
 | :--: | :--- | ---: | ---: | :--- | :--: | :--- |
-| 1 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | +665 | 36,919 | Python | 是 | Python |
-| 2 | [google/ax](https://github.com/google/ax) | +1,542 | 9,008 | Go | 是 | Go |
-| 3 | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | +393 | 31,484 | Python | 是 | Python, anthropic, anthropic-claude, claude, claude-code |
-| 4 | [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | +135 | 6,523 | TypeScript | 是 | TypeScript, agent-native, agents, ai, react |
-| 5 | [obra/superpowers](https://github.com/obra/superpowers) | +485 | 290,669 | Shell | 是 | Shell, ai, brainstorming, coding, obra |
-| 6 | [dream-num/univer](https://github.com/dream-num/univer) | +1,140 | 16,308 | TypeScript | 是 | TypeScript, board, collaboration, data-table, doc |
-| 7 | [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | +379 | 18,797 | TypeScript | 是 | TypeScript, coderabbit, inngest, nextjs, shadcn-ui |
-| 8 | [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | +560 | 3,480 | Go | 是 | Go |
-| 9 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | +96 | 7,827 | Python | 是 | Python, agent-framework, agentic, agentic-ai, agents |
-| 10 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | +41 | 49,904 | Python | 是 | Python |
-| 11 | [superdesigndev/treg](https://github.com/superdesigndev/treg) | +502 | 2,688 | Python | 是 | Python, agents, api-keys, cli, credentials |
-| 12 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | +287 | 70,315 | JavaScript | 是 | JavaScript, AI Harness, 设计 |
-| 13 | [mvt-project/mvt](https://github.com/mvt-project/mvt) | +546 | 14,472 | Python | 否 | Python, android, forensics, forensics-tools, ios |
-| 14 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | +266 | 44,550 | C | 是 | C, aider, ast, claude-code, code-analysis |
-| 15 | [harry7557558/spirula-studio](https://github.com/harry7557558/spirula-studio) | +99 | 722 | C++ | 是 | C++, 360-camera, 3d-gaussian-splatting, 3d-reconstruction, 3dgs |
-| 16 | [browser-use/video-use](https://github.com/browser-use/video-use) | +745 | 26,479 | Python | 是 | Python |
-| 17 | [TNT-Likely/PanWatch](https://github.com/TNT-Likely/PanWatch) | +142 | 1,478 | Python | 是 | Python, a-share, agent, ai, ai-agent |
+| 1 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | +347 | 56,608 | Python | 是 | Python, agents, ai, ai-agents, ai-engineering |
+| 2 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | +1,668 | 27,826 | Python | 是 | Python, agentic-ai, agents, ai-memory, memory |
+| 3 | [dream-num/univer](https://github.com/dream-num/univer) | +1,082 | 17,792 | TypeScript | 是 | TypeScript, board, collaboration, data-table, doc |
+| 4 | [google/ax](https://github.com/google/ax) | +1,373 | 10,507 | Go | 是 | Go |
+| 5 | [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer) | +44 | 4,093 | Python | 是 | Python |
+| 6 | [FxEmbed/FxEmbed](https://github.com/FxEmbed/FxEmbed) | +182 | 5,372 | TypeScript | 否 | TypeScript |
+| 7 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | +509 | 37,364 | Python | 是 | Python |
+| 8 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | +413 | 50,342 | Python | 是 | Python |
+| 9 | [mvt-project/mvt](https://github.com/mvt-project/mvt) | +272 | 14,732 | Python | 否 | Python, android, forensics, forensics-tools, ios |
+| 10 | [obra/superpowers](https://github.com/obra/superpowers) | +611 | 291,243 | Shell | 是 | Shell, ai, brainstorming, coding, obra |
+| 11 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | +455 | 8,264 | Python | 是 | Python, agent-framework, agentic, agentic-ai, agents |
+| 12 | [julyx10/lap](https://github.com/julyx10/lap) | +122 | 2,886 | Vue | 否 | Vue, desktop-app, digital-asset-manager, duplicate-detection, face-recognition |
+| 13 | [superdesigndev/treg](https://github.com/superdesigndev/treg) | +468 | 3,170 | Python | 是 | Python, agents, api-keys, cli, credentials |
+| 14 | [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) | +36 | 7,256 | C++ | 是 | C++, ai, cplusplus, diffusion, flux |
 
 ## 新热点
 

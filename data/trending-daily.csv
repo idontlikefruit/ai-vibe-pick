@@ -1,18 +1,15 @@
 rank,full_name,name,description,language,stars_today,total_stars,ai_related,tags,license,collected_at
-1,anthropics/financial-services,financial-services,,Python,665,36919,是,Python,Apache-2.0,2026-09-24
-2,google/ax,ax,Google's open agentic orchestration runtime,Go,1542,9008,是,Go,Apache-2.0,2026-09-24
-3,davila7/claude-code-templates,claude-code-templates,CLI tool for configuring and monitoring Claude Code,Python,393,31484,是,"Python, anthropic, anthropic-claude, claude, claude-code",MIT,2026-09-24
-4,BuilderIO/agent-native,agent-native,A framework for building agentic apps,TypeScript,135,6523,是,"TypeScript, agent-native, agents, ai, react",NOASSERTION,2026-09-24
-5,obra/superpowers,superpowers,An agentic skills framework & software development methodology that works.,Shell,485,290669,是,"Shell, ai, brainstorming, coding, obra",MIT,2026-09-24
-6,dream-num/univer,univer,"The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",TypeScript,1140,16308,是,"TypeScript, board, collaboration, data-table, doc",Apache-2.0,2026-09-24
-7,Open-Dev-Society/OpenStock,OpenStock,"OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",TypeScript,379,18797,是,"TypeScript, coderabbit, inngest, nextjs, shadcn-ui",AGPL-3.0,2026-09-24
-8,agent-substrate/substrate,substrate,Agent Substrate: the core system,Go,560,3480,是,Go,Apache-2.0,2026-09-24
-9,strands-agents/harness-sdk,harness-sdk,"Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",Python,96,7827,是,"Python, agent-framework, agentic, agentic-ai, agents",Apache-2.0,2026-09-24
-10,HKUDS/CLI-Anything,CLI-Anything,"""CLI-Anything: Making ALL Software Agent-Native"" -- CLI-Hub: https://clianything.cc/",Python,41,49904,是,Python,Apache-2.0,2026-09-24
-11,superdesigndev/treg,treg,OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn,Python,502,2688,是,"Python, agents, api-keys, cli, credentials",NOASSERTION,2026-09-24
-12,pbakaus/impeccable,impeccable,The design language that makes your AI harness better at design.,JavaScript,287,70315,是,"JavaScript, AI Harness, 设计",Apache-2.0,2026-09-24
-13,mvt-project/mvt,mvt,MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.,Python,546,14472,否,"Python, android, forensics, forensics-tools, ios",NOASSERTION,2026-09-24
-14,DeusData/codebase-memory-mcp,codebase-memory-mcp,"High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",C,266,44550,是,"C, aider, ast, claude-code, code-analysis",MIT,2026-09-24
-15,harry7557558/spirula-studio,spirula-studio,"Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.",C++,99,722,是,"C++, 360-camera, 3d-gaussian-splatting, 3d-reconstruction, 3dgs",GPL-3.0,2026-09-24
-16,browser-use/video-use,video-use,Edit videos with coding agents,Python,745,26479,是,Python,MIT,2026-09-24
-17,TNT-Likely/PanWatch,PanWatch,盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送,Python,142,1478,是,"Python, a-share, agent, ai, ai-agent",MIT,2026-09-24
+1,rohitg00/ai-engineering-from-scratch,ai-engineering-from-scratch,Learn it. Build it. Ship it for others.,Python,347,56608,是,"Python, agents, ai, ai-agents, ai-engineering",MIT,2026-09-25
+2,vectorize-io/hindsight,hindsight,Hindsight: Agent Memory That Learns,Python,1668,27826,是,"Python, agentic-ai, agents, ai-memory, memory",MIT,2026-09-25
+3,dream-num/univer,univer,"The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",TypeScript,1082,17792,是,"TypeScript, board, collaboration, data-table, doc",Apache-2.0,2026-09-25
+4,google/ax,ax,Google's open agentic orchestration runtime,Go,1373,10507,是,Go,Apache-2.0,2026-09-25
+5,NVIDIA/Model-Optimizer,Model-Optimizer,"A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",Python,44,4093,是,Python,Apache-2.0,2026-09-25
+6,FxEmbed/FxEmbed,FxEmbed,"Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",TypeScript,182,5372,否,TypeScript,MIT,2026-09-25
+7,anthropics/financial-services,financial-services,,Python,509,37364,是,Python,Apache-2.0,2026-09-25
+8,HKUDS/CLI-Anything,CLI-Anything,"""CLI-Anything: Making ALL Software Agent-Native"" -- CLI-Hub: https://clianything.cc/",Python,413,50342,是,Python,Apache-2.0,2026-09-25
+9,mvt-project/mvt,mvt,MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.,Python,272,14732,否,"Python, android, forensics, forensics-tools, ios",NOASSERTION,2026-09-25
+10,obra/superpowers,superpowers,An agentic skills framework & software development methodology that works.,Shell,611,291243,是,"Shell, ai, brainstorming, coding, obra",MIT,2026-09-25
+11,strands-agents/harness-sdk,harness-sdk,"Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",Python,455,8264,是,"Python, agent-framework, agentic, agentic-ai, agents",Apache-2.0,2026-09-25
+12,julyx10/lap,lap,An offline-first photo manager for large local libraries,Vue,122,2886,否,"Vue, desktop-app, digital-asset-manager, duplicate-detection, face-recognition",GPL-3.0,2026-09-25
+13,superdesigndev/treg,treg,OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn,Python,468,3170,是,"Python, agents, api-keys, cli, credentials",NOASSERTION,2026-09-25
+14,leejet/stable-diffusion.cpp,stable-diffusion.cpp,"Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",C++,36,7256,是,"C++, ai, cplusplus, diffusion, flux",MIT,2026-09-25
