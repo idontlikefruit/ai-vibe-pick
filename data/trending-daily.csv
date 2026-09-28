@@ -1,15 +1,10 @@
 rank,full_name,name,description,language,stars_today,total_stars,ai_related,tags,license,collected_at
-1,rohitg00/ai-engineering-from-scratch,ai-engineering-from-scratch,Learn it. Build it. Ship it for others.,Python,347,56608,是,"Python, agents, ai, ai-agents, ai-engineering",MIT,2026-09-25
-2,vectorize-io/hindsight,hindsight,Hindsight: Agent Memory That Learns,Python,1668,27826,是,"Python, agentic-ai, agents, ai-memory, memory",MIT,2026-09-25
-3,dream-num/univer,univer,"The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",TypeScript,1082,17792,是,"TypeScript, board, collaboration, data-table, doc",Apache-2.0,2026-09-25
-4,google/ax,ax,Google's open agentic orchestration runtime,Go,1373,10507,是,Go,Apache-2.0,2026-09-25
-5,NVIDIA/Model-Optimizer,Model-Optimizer,"A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",Python,44,4093,是,Python,Apache-2.0,2026-09-25
-6,FxEmbed/FxEmbed,FxEmbed,"Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",TypeScript,182,5372,否,TypeScript,MIT,2026-09-25
-7,anthropics/financial-services,financial-services,,Python,509,37364,是,Python,Apache-2.0,2026-09-25
-8,HKUDS/CLI-Anything,CLI-Anything,"""CLI-Anything: Making ALL Software Agent-Native"" -- CLI-Hub: https://clianything.cc/",Python,413,50342,是,Python,Apache-2.0,2026-09-25
-9,mvt-project/mvt,mvt,MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.,Python,272,14732,否,"Python, android, forensics, forensics-tools, ios",NOASSERTION,2026-09-25
-10,obra/superpowers,superpowers,An agentic skills framework & software development methodology that works.,Shell,611,291243,是,"Shell, ai, brainstorming, coding, obra",MIT,2026-09-25
-11,strands-agents/harness-sdk,harness-sdk,"Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",Python,455,8264,是,"Python, agent-framework, agentic, agentic-ai, agents",Apache-2.0,2026-09-25
-12,julyx10/lap,lap,An offline-first photo manager for large local libraries,Vue,122,2886,否,"Vue, desktop-app, digital-asset-manager, duplicate-detection, face-recognition",GPL-3.0,2026-09-25
-13,superdesigndev/treg,treg,OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn,Python,468,3170,是,"Python, agents, api-keys, cli, credentials",NOASSERTION,2026-09-25
-14,leejet/stable-diffusion.cpp,stable-diffusion.cpp,"Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",C++,36,7256,是,"C++, ai, cplusplus, diffusion, flux",MIT,2026-09-25
+1,paperclipai/paperclip,paperclip,The open-source app everyone uses to manage agents at work,TypeScript,2527,89775,是,TypeScript,MIT,2026-09-28
+2,vectorize-io/hindsight,hindsight,Hindsight: Agent Memory That Learns,Python,4463,37223,是,"Python, agentic-ai, agents, ai-memory, memory",MIT,2026-09-28
+3,debpalash/VoiceStudio,VoiceStudio,"VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",Python,3060,40053,是,"Python, ai, audiobook, cuda, dubbing",AGPL-3.0,2026-09-28
+4,rohitg00/ai-engineering-from-scratch,ai-engineering-from-scratch,Learn it. Build it. Ship it for others.,Python,848,59242,是,"Python, agents, ai, ai-agents, ai-engineering",MIT,2026-09-28
+5,InfinityLoop1308/PipePipe,PipePipe,An open-source Android app to let you browse YouTube and other services freely.,Shell,274,6559,否,"Shell, android, mediaplayer, newpipe, sponsorblock",GPL-3.0,2026-09-28
+6,vercel-labs/scriptc,scriptc,TypeScript-to-Native Compiler,TypeScript,186,5389,否,TypeScript,Apache-2.0,2026-09-28
+7,mvschwarz/openrig,openrig,Multi-agent harness that runs Claude Code and Codex together as one system,TypeScript,114,942,是,"TypeScript, agent-harness, agent-orchestration, agent-skills, ai-coding",Apache-2.0,2026-09-28
+8,dream-num/univer,univer,"The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",TypeScript,920,20149,是,"TypeScript, board, collaboration, data-table, doc",Apache-2.0,2026-09-28
+9,willfaust/Madeira,Madeira,Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT,C,117,803,是,C,GPL-3.0,2026-09-28

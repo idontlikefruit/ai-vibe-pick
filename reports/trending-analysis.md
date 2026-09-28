@@ -1,23 +1,18 @@
 # GitHub Trending 今日热榜产品分析
 
-> 采集：2026-09-25 ｜ 项目：14 ｜ AI 相关：11（79%）
+> 采集：2026-09-28 ｜ 项目：9 ｜ AI 相关：7（78%）
 
 | # | 项目 | 今日⭐ | 总⭐ | 语言 | AI | tags |
 | :--: | :--- | ---: | ---: | :--- | :--: | :--- |
-| 1 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | +347 | 56,608 | Python | 是 | Python, agents, ai, ai-agents, ai-engineering |
-| 2 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | +1,668 | 27,826 | Python | 是 | Python, agentic-ai, agents, ai-memory, memory |
-| 3 | [dream-num/univer](https://github.com/dream-num/univer) | +1,082 | 17,792 | TypeScript | 是 | TypeScript, board, collaboration, data-table, doc |
-| 4 | [google/ax](https://github.com/google/ax) | +1,373 | 10,507 | Go | 是 | Go |
-| 5 | [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer) | +44 | 4,093 | Python | 是 | Python |
-| 6 | [FxEmbed/FxEmbed](https://github.com/FxEmbed/FxEmbed) | +182 | 5,372 | TypeScript | 否 | TypeScript |
-| 7 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | +509 | 37,364 | Python | 是 | Python |
-| 8 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | +413 | 50,342 | Python | 是 | Python |
-| 9 | [mvt-project/mvt](https://github.com/mvt-project/mvt) | +272 | 14,732 | Python | 否 | Python, android, forensics, forensics-tools, ios |
-| 10 | [obra/superpowers](https://github.com/obra/superpowers) | +611 | 291,243 | Shell | 是 | Shell, ai, brainstorming, coding, obra |
-| 11 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | +455 | 8,264 | Python | 是 | Python, agent-framework, agentic, agentic-ai, agents |
-| 12 | [julyx10/lap](https://github.com/julyx10/lap) | +122 | 2,886 | Vue | 否 | Vue, desktop-app, digital-asset-manager, duplicate-detection, face-recognition |
-| 13 | [superdesigndev/treg](https://github.com/superdesigndev/treg) | +468 | 3,170 | Python | 是 | Python, agents, api-keys, cli, credentials |
-| 14 | [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) | +36 | 7,256 | C++ | 是 | C++, ai, cplusplus, diffusion, flux |
+| 1 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | +2,527 | 89,775 | TypeScript | 是 | TypeScript |
+| 2 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | +4,463 | 37,223 | Python | 是 | Python, agentic-ai, agents, ai-memory, memory |
+| 3 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | +3,060 | 40,053 | Python | 是 | Python, ai, audiobook, cuda, dubbing |
+| 4 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | +848 | 59,242 | Python | 是 | Python, agents, ai, ai-agents, ai-engineering |
+| 5 | [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) | +274 | 6,559 | Shell | 否 | Shell, android, mediaplayer, newpipe, sponsorblock |
+| 6 | [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) | +186 | 5,389 | TypeScript | 否 | TypeScript |
+| 7 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | +114 | 942 | TypeScript | 是 | TypeScript, agent-harness, agent-orchestration, agent-skills, ai-coding |
+| 8 | [dream-num/univer](https://github.com/dream-num/univer) | +920 | 20,149 | TypeScript | 是 | TypeScript, board, collaboration, data-table, doc |
+| 9 | [willfaust/Madeira](https://github.com/willfaust/Madeira) | +117 | 803 | C | 是 | C |
 
 ## 新热点
 
