@@ -1,6 +1,6 @@
 # Top-100 项目完整元数据（100 个）
 
-> 采集：2026-09-28 ｜ 数据：[`data/top-100-stars.csv`](../data/top-100-stars.csv)
+> 采集：2026-09-30 ｜ 数据：[`data/top-100-stars.csv`](../data/top-100-stars.csv)
 
 ## #1 build-your-own-x
 
@@ -9,7 +9,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) |
-| Stars / Forks | 549,940 / 51,654 |
+| Stars / Forks | 550,470 / 51,695 |
 | 主语言 / AI | Markdown / 否 |
 | 类别 | B-学习资源/Awesome |
 | tags | 教程 |
@@ -23,7 +23,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [sindresorhus/awesome](https://github.com/sindresorhus/awesome) |
-| Stars / Forks | 511,034 / 37,118 |
+| Stars / Forks | 512,062 / 37,158 |
 | 主语言 / AI | 未标注 / 否 |
 | 类别 | B-学习资源/Awesome |
 | tags | Awesome 清单 |
@@ -37,7 +37,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [public-apis/public-apis](https://github.com/public-apis/public-apis) |
-| Stars / Forks | 483,612 / 53,417 |
+| Stars / Forks | 484,140 / 53,488 |
 | 主语言 / AI | Python / 否 |
 | 类别 | B-学习资源/Awesome |
 | tags | API 清单 |
@@ -51,7 +51,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) |
-| Stars / Forks | 456,292 / 47,498 |
+| Stars / Forks | 456,478 / 47,722 |
 | 主语言 / AI | TypeScript / 否 |
 | 类别 | B-学习资源/Awesome |
 | tags | React, Node.js |
@@ -65,7 +65,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) |
-| Stars / Forks | 397,885 / 66,846 |
+| Stars / Forks | 398,091 / 66,872 |
 | 主语言 / AI | Python / 否 |
 | 类别 | B-学习资源/Awesome |
 | tags | 书籍 |
@@ -79,7 +79,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [openclaw/openclaw](https://github.com/openclaw/openclaw) |
-| Stars / Forks | 390,606 / 82,164 |
+| Stars / Forks | 390,746 / 82,164 |
 | 主语言 / AI | TypeScript / 是 |
 | 类别 | A-AI/Agent生态 |
 | tags | TypeScript |
@@ -93,7 +93,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) |
-| Stars / Forks | 372,034 / 58,641 |
+| Stars / Forks | 372,394 / 58,672 |
 | 主语言 / AI | Python / 否 |
 | 类别 | B-学习资源/Awesome |
 | tags | 教程 |
@@ -107,7 +107,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) |
-| Stars / Forks | 368,270 / 44,992 |
+| Stars / Forks | 368,450 / 45,006 |
 | 主语言 / AI | TypeScript / 否 |
 | 类别 | B-学习资源/Awesome |
 | tags | Next.js, React |
@@ -121,7 +121,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) |
-| Stars / Forks | 361,966 / 84,898 |
+| Stars / Forks | 362,090 / 84,904 |
 | 主语言 / AI | 未标注 / 否 |
 | 类别 | B-学习资源/Awesome |
 | tags | 教程 |
@@ -135,7 +135,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [vinta/awesome-python](https://github.com/vinta/awesome-python) |
-| Stars / Forks | 323,352 / 28,805 |
+| Stars / Forks | 323,891 / 28,829 |
 | 主语言 / AI | Python / 否 |
 | 类别 | B-学习资源/Awesome |
 | tags | Awesome 清单 |
@@ -149,7 +149,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) |
-| Stars / Forks | 322,060 / 15,110 |
+| Stars / Forks | 322,527 / 15,123 |
 | 主语言 / AI | 未标注 / 否 |
 | 类别 | B-学习资源/Awesome |
 | tags | Awesome 清单 |
@@ -163,7 +163,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [obra/superpowers](https://github.com/obra/superpowers) |
-| Stars / Forks | 291,978 / 26,130 |
+| Stars / Forks | 292,560 / 26,194 |
 | 主语言 / AI | Shell / 是 |
 | 类别 | A-AI/Agent生态 |
 | tags | Shell, Claude Code |
@@ -177,7 +177,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) |
-| Stars / Forks | 284,796 / 36,415 |
+| Stars / Forks | 285,154 / 36,448 |
 | 主语言 / AI | Python / 否 |
 | 类别 | B-学习资源/Awesome |
 | tags | 教程 |
@@ -191,7 +191,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [996icu/996.ICU](https://github.com/996icu/996.ICU) |
-| Stars / Forks | 277,238 / 20,699 |
+| Stars / Forks | 277,245 / 20,701 |
 | 主语言 / AI | 未标注 / 否 |
 | 类别 | B-学习资源/Awesome |
 | tags | 社会议题 |
@@ -205,7 +205,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [mattpocock/skills](https://github.com/mattpocock/skills) |
-| Stars / Forks | 270,319 / 22,762 |
+| Stars / Forks | 271,418 / 22,856 |
 | 主语言 / AI | Shell / 是 |
 | 类别 | A-AI/Agent生态 |
 | tags | Shell, Claude Code |
@@ -219,7 +219,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [affaan-m/ECC](https://github.com/affaan-m/ECC) |
-| Stars / Forks | 267,995 / 40,034 |
+| Stars / Forks | 269,093 / 40,212 |
 | 主语言 / AI | JavaScript / 是 |
 | 类别 | A-AI/Agent生态 |
 | tags | JavaScript, Claude Code, Codex |
@@ -233,7 +233,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [react/react](https://github.com/react/react) |
-| Stars / Forks | 250,763 / 51,406 |
+| Stars / Forks | 250,816 / 51,414 |
 | 主语言 / AI | JavaScript / 否 |
 | 类别 | C-前端/UI框架 |
 | tags | React |
@@ -247,7 +247,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [torvalds/linux](https://github.com/torvalds/linux) |
-| Stars / Forks | 250,305 / 65,969 |
+| Stars / Forks | 250,507 / 66,197 |
 | 主语言 / AI | C / 否 |
 | 类别 | D-系统/运行时/语言 |
 | tags | C, Linux 内核 |
@@ -261,7 +261,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) |
-| Stars / Forks | 249,268 / 52,947 |
+| Stars / Forks | 249,840 / 53,250 |
 | 主语言 / AI | Python / 是 |
 | 类别 | A-AI/Agent生态 |
 | tags | Python |
@@ -275,7 +275,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) |
-| Stars / Forks | 246,205 / 14,399 |
+| Stars / Forks | 246,658 / 14,410 |
 | 主语言 / AI | 未标注 / 否 |
 | 类别 | B-学习资源/Awesome |
 | tags | 清单 |
@@ -289,7 +289,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) |
-| Stars / Forks | 236,990 / 28,486 |
+| Stars / Forks | 238,963 / 28,706 |
 | 主语言 / AI | TypeScript / 否 |
 | 类别 | E-工具/应用/其他 |
 | tags | TypeScript |
@@ -303,7 +303,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) |
-| Stars / Forks | 225,031 / 51,132 |
+| Stars / Forks | 225,102 / 51,132 |
 | 主语言 / AI | Python / 否 |
 | 类别 | B-学习资源/Awesome |
 | tags | Python, 算法 |
@@ -317,7 +317,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) |
-| Stars / Forks | 215,389 / 21,745 |
+| Stars / Forks | 215,732 / 21,762 |
 | 主语言 / AI | 未标注 / 是 |
 | 类别 | A-AI/Agent生态 |
 | tags | 未标注, Claude Code |
@@ -331,7 +331,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [vuejs/vue](https://github.com/vuejs/vue) |
-| Stars / Forks | 212,841 / 33,725 |
+| Stars / Forks | 212,839 / 33,726 |
 | 主语言 / AI | TypeScript / 否 |
 | 类别 | C-前端/UI框架 |
 | tags | Vue 2 |
@@ -345,7 +345,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [anomalyco/opencode](https://github.com/anomalyco/opencode) |
-| Stars / Forks | 210,260 / 27,813 |
+| Stars / Forks | 210,666 / 27,885 |
 | 主语言 / AI | TypeScript / 是 |
 | 类别 | A-AI/Agent生态 |
 | tags | TypeScript, Node.js |
@@ -359,7 +359,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [ossu/computer-science](https://github.com/ossu/computer-science) |
-| Stars / Forks | 209,489 / 25,916 |
+| Stars / Forks | 209,573 / 25,918 |
 | 主语言 / AI | HTML / 否 |
 | 类别 | B-学习资源/Awesome |
 | tags | 教程 |
@@ -373,7 +373,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [n8n-io/n8n](https://github.com/n8n-io/n8n) |
-| Stars / Forks | 206,068 / 60,894 |
+| Stars / Forks | 206,232 / 60,922 |
 | 主语言 / AI | TypeScript / 是 |
 | 类别 | A-AI/Agent生态 |
 | tags | TypeScript, Vue 3, Vue Flow, PrimeVue, Node.js, SQLite, PostgreSQL, MySQL |
@@ -387,7 +387,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) |
-| Stars / Forks | 201,291 / 4,422 |
+| Stars / Forks | 201,556 / 4,426 |
 | 主语言 / AI | Markdown / 否 |
 | 类别 | E-工具/应用/其他 |
 | tags | HTML |
@@ -401,7 +401,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) |
-| Stars / Forks | 200,477 / 77,652 |
+| Stars / Forks | 200,596 / 77,871 |
 | 主语言 / AI | C++ / 是 |
 | 类别 | A-AI/Agent生态 |
 | tags | C, Python |
@@ -415,7 +415,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) |
-| Stars / Forks | 196,822 / 31,020 |
+| Stars / Forks | 196,835 / 31,022 |
 | 主语言 / AI | JavaScript / 否 |
 | 类别 | D-系统/运行时/语言 |
 | tags | JavaScript, 算法 |
@@ -429,7 +429,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) |
-| Stars / Forks | 195,295 / 108,361 |
+| Stars / Forks | 195,282 / 108,334 |
 | 主语言 / AI | Rust / 是 |
 | 类别 | A-AI/Agent生态 |
 | tags | Rust |
@@ -443,7 +443,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) |
-| Stars / Forks | 193,792 / 16,812 |
+| Stars / Forks | 194,182 / 16,859 |
 | 主语言 / AI | Python / 否 |
 | 类别 | E-工具/应用/其他 |
 | tags | Python |
@@ -457,7 +457,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [microsoft/vscode](https://github.com/microsoft/vscode) |
-| Stars / Forks | 193,089 / 43,582 |
+| Stars / Forks | 193,239 / 43,821 |
 | 主语言 / AI | TypeScript / 否 |
 | 类别 | D-系统/运行时/语言 |
 | tags | TypeScript, Electron |
@@ -471,7 +471,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) |
-| Stars / Forks | 192,080 / 18,253 |
+| Stars / Forks | 192,307 / 18,261 |
 | 主语言 / AI | Batchfile / 否 |
 | 类别 | E-工具/应用/其他 |
 | tags | Batchfile |
@@ -485,7 +485,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) |
-| Stars / Forks | 189,953 / 27,811 |
+| Stars / Forks | 189,983 / 27,996 |
 | 主语言 / AI | Shell / 否 |
 | 类别 | E-工具/应用/其他 |
 | tags | Shell, Zsh |
@@ -499,7 +499,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) |
-| Stars / Forks | 187,583 / 45,989 |
+| Stars / Forks | 187,597 / 45,981 |
 | 主语言 / AI | Python / 是 |
 | 类别 | A-AI/Agent生态 |
 | tags | Python, Next.js, React, FastAPI, PostgreSQL |
@@ -513,7 +513,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [microsoft/markitdown](https://github.com/microsoft/markitdown) |
-| Stars / Forks | 187,192 / 13,825 |
+| Stars / Forks | 187,497 / 13,863 |
 | 主语言 / AI | Python / 是 |
 | 类别 | A-AI/Agent生态 |
 | tags | Python |
@@ -527,7 +527,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) |
-| Stars / Forks | 186,920 / 55,751 |
+| Stars / Forks | 186,969 / 55,758 |
 | 主语言 / AI | Jupyter Notebook / 否 |
 | 类别 | B-学习资源/Awesome |
 | tags | Jupyter, Python |
@@ -541,38 +541,38 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) |
-| Stars / Forks | 186,317 / 50,730 |
+| Stars / Forks | 186,341 / 50,727 |
 | 主语言 / AI | 未标注 / 否 |
 | 类别 | B-学习资源/Awesome |
 | tags | 面试 |
 
 ---
 
-## #40 awesome-go
-
-> A curated list of awesome Go frameworks, libraries and software
-
-| 字段 | 值 |
-| :--- | :--- |
-| 仓库 | [avelino/awesome-go](https://github.com/avelino/awesome-go) |
-| Stars / Forks | 185,765 / 13,587 |
-| 主语言 / AI | Go / 否 |
-| 类别 | B-学习资源/Awesome |
-| tags | Awesome 清单 |
-
----
-
-## #41 firecrawl
+## #40 firecrawl
 
 > The web data API to search, scrape, and interact at scale. 🔥
 
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) |
-| Stars / Forks | 185,182 / 9,935 |
+| Stars / Forks | 186,095 / 9,968 |
 | 主语言 / AI | TypeScript / 是 |
 | 类别 | A-AI/Agent生态 |
 | tags | TypeScript, Next.js, Node.js |
+
+---
+
+## #41 awesome-go
+
+> A curated list of awesome Go frameworks, libraries and software
+
+| 字段 | 值 |
+| :--- | :--- |
+| 仓库 | [avelino/awesome-go](https://github.com/avelino/awesome-go) |
+| Stars / Forks | 186,053 / 13,589 |
+| 主语言 / AI | Go / 否 |
+| 类别 | B-学习资源/Awesome |
+| tags | Awesome 清单 |
 
 ---
 
@@ -583,7 +583,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) |
-| Stars / Forks | 184,978 / 33,407 |
+| Stars / Forks | 184,982 / 33,409 |
 | 主语言 / AI | 未标注 / 否 |
 | 类别 | B-学习资源/Awesome |
 | tags | 书籍 |
@@ -597,7 +597,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [ollama/ollama](https://github.com/ollama/ollama) |
-| Stars / Forks | 181,782 / 18,018 |
+| Stars / Forks | 181,880 / 18,036 |
 | 主语言 / AI | Go / 是 |
 | 类别 | A-AI/Agent生态 |
 | tags | Go, CLI, llama.cpp |
@@ -611,7 +611,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [flutter/flutter](https://github.com/flutter/flutter) |
-| Stars / Forks | 179,121 / 32,377 |
+| Stars / Forks | 179,138 / 32,593 |
 | 主语言 / AI | Dart / 否 |
 | 类别 | C-前端/UI框架 |
 | tags | Dart, Flutter |
@@ -625,7 +625,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) |
-| Stars / Forks | 178,739 / 12,863 |
+| Stars / Forks | 179,067 / 12,873 |
 | 主语言 / AI | Python / 否 |
 | 类别 | E-工具/应用/其他 |
 | tags | Python |
@@ -639,7 +639,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [anthropics/skills](https://github.com/anthropics/skills) |
-| Stars / Forks | 178,571 / 21,133 |
+| Stars / Forks | 178,851 / 21,144 |
 | 主语言 / AI | Python / 是 |
 | 类别 | A-AI/Agent生态 |
 | tags | Python, Claude |
@@ -653,7 +653,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [github/gitignore](https://github.com/github/gitignore) |
-| Stars / Forks | 175,946 / 82,177 |
+| Stars / Forks | 175,965 / 82,172 |
 | 主语言 / AI | 未标注 / 否 |
 | 类别 | E-工具/应用/其他 |
 | tags | 模板 |
@@ -667,7 +667,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [twbs/bootstrap](https://github.com/twbs/bootstrap) |
-| Stars / Forks | 174,932 / 78,585 |
+| Stars / Forks | 174,936 / 78,577 |
 | 主语言 / AI | MDX / 否 |
 | 类别 | C-前端/UI框架 |
 | tags | Bootstrap, JavaScript |
@@ -681,7 +681,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [f/prompts.chat](https://github.com/f/prompts.chat) |
-| Stars / Forks | 171,351 / 21,997 |
+| Stars / Forks | 171,516 / 22,007 |
 | 主语言 / AI | HTML / 是 |
 | 类别 | A-AI/Agent生态 |
 | tags | HTML, ChatGPT |
@@ -695,7 +695,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [huggingface/transformers](https://github.com/huggingface/transformers) |
-| Stars / Forks | 166,703 / 34,690 |
+| Stars / Forks | 166,780 / 34,707 |
 | 主语言 / AI | Python / 是 |
 | 类别 | A-AI/Agent生态 |
 | tags | Python |
@@ -709,7 +709,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) |
-| Stars / Forks | 165,139 / 31,797 |
+| Stars / Forks | 165,144 / 32,016 |
 | 主语言 / AI | Python / 是 |
 | 类别 | A-AI/Agent生态 |
 | tags | Python, Gradio, FastAPI, 本地文件, 本地推理 |
@@ -723,7 +723,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) |
-| Stars / Forks | 162,537 / 14,825 |
+| Stars / Forks | 162,548 / 14,826 |
 | 主语言 / AI | 未标注 / 否 |
 | 类别 | B-学习资源/Awesome |
 | tags | 清单 |
@@ -737,7 +737,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) |
-| Stars / Forks | 158,899 / 46,144 |
+| Stars / Forks | 158,942 / 46,140 |
 | 主语言 / AI | JavaScript / 否 |
 | 类别 | B-学习资源/Awesome |
 | tags | Java, 面试 |
@@ -751,7 +751,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [langgenius/dify](https://github.com/langgenius/dify) |
-| Stars / Forks | 157,295 / 24,792 |
+| Stars / Forks | 157,443 / 24,808 |
 | 主语言 / AI | TypeScript / 是 |
 | 类别 | A-AI/Agent生态 |
 | tags | TypeScript, Next.js, React, Tailwind, Python, Flask, PostgreSQL, Redis |
@@ -765,7 +765,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) |
-| Stars / Forks | 155,287 / 10,149 |
+| Stars / Forks | 155,344 / 10,151 |
 | 主语言 / AI | Python / 是 |
 | 类别 | A-AI/Agent生态 |
 | tags | Python, React, FastAPI, SQLite, PostgreSQL |
@@ -779,7 +779,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) |
-| Stars / Forks | 154,790 / 24,961 |
+| Stars / Forks | 155,140 / 25,027 |
 | 主语言 / AI | Shell / 是 |
 | 类别 | A-AI/Agent生态 |
 | tags | Shell |
@@ -793,7 +793,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [open-webui/open-webui](https://github.com/open-webui/open-webui) |
-| Stars / Forks | 153,277 / 22,431 |
+| Stars / Forks | 153,472 / 22,445 |
 | 主语言 / AI | Python / 是 |
 | 类别 | A-AI/Agent生态 |
 | tags | Python, SvelteKit, FastAPI, SQLite, ChromaDB, Ollama, OpenAI |
@@ -807,38 +807,38 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) |
-| Stars / Forks | 150,473 / 13,819 |
+| Stars / Forks | 150,587 / 13,837 |
 | 主语言 / AI | C / 否 |
 | 类别 | E-工具/应用/其他 |
 | tags | C, Android |
 
 ---
 
-## #59 javascript
-
-> JavaScript Style Guide
-
-| 字段 | 值 |
-| :--- | :--- |
-| 仓库 | [airbnb/javascript](https://github.com/airbnb/javascript) |
-| Stars / Forks | 148,290 / 26,560 |
-| 主语言 / AI | JavaScript / 否 |
-| 类别 | C-前端/UI框架 |
-| tags | JavaScript, 风格指南 |
-
----
-
-## #60 claude-code
+## #59 claude-code
 
 > Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [anthropics/claude-code](https://github.com/anthropics/claude-code) |
-| Stars / Forks | 148,235 / 24,773 |
+| Stars / Forks | 148,499 / 24,966 |
 | 主语言 / AI | TypeScript / 是 |
 | 类别 | A-AI/Agent生态 |
 | tags | Python, Claude |
+
+---
+
+## #60 javascript
+
+> JavaScript Style Guide
+
+| 字段 | 值 |
+| :--- | :--- |
+| 仓库 | [airbnb/javascript](https://github.com/airbnb/javascript) |
+| Stars / Forks | 148,285 / 26,560 |
+| 主语言 / AI | JavaScript / 否 |
+| 类别 | C-前端/UI框架 |
+| tags | JavaScript, 风格指南 |
 
 ---
 
@@ -849,38 +849,38 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) |
-| Stars / Forks | 147,607 / 10,602 |
+| Stars / Forks | 148,103 / 10,624 |
 | 主语言 / AI | Rust / 否 |
 | 类别 | E-工具/应用/其他 |
 | tags | Tauri, TypeScript |
 
 ---
 
-## #62 langchain
-
-> The agent engineering platform.
-
-| 字段 | 值 |
-| :--- | :--- |
-| 仓库 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) |
-| Stars / Forks | 147,122 / 24,624 |
-| 主语言 / AI | Python / 是 |
-| 类别 | A-AI/Agent生态 |
-| tags | Python |
-
----
-
-## #63 ponytail
+## #62 ponytail
 
 > Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) |
-| Stars / Forks | 146,567 / 7,877 |
+| Stars / Forks | 147,628 / 7,929 |
 | 主语言 / AI | JavaScript / 否 |
 | 类别 | E-工具/应用/其他 |
 | tags | JavaScript |
+
+---
+
+## #63 langchain
+
+> The agent engineering platform.
+
+| 字段 | 值 |
+| :--- | :--- |
+| 仓库 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) |
+| Stars / Forks | 147,220 / 24,646 |
+| 主语言 / AI | Python / 是 |
+| 类别 | A-AI/Agent生态 |
+| tags | Python |
 
 ---
 
@@ -891,7 +891,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) |
-| Stars / Forks | 143,891 / 34,810 |
+| Stars / Forks | 143,925 / 34,803 |
 | 主语言 / AI | 未标注 / 是 |
 | 类别 | A-AI/Agent生态 |
 | tags | 未标注 |
@@ -905,7 +905,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) |
-| Stars / Forks | 142,969 / 16,847 |
+| Stars / Forks | 143,013 / 16,851 |
 | 主语言 / AI | TypeScript / 否 |
 | 类别 | E-工具/应用/其他 |
 | tags | React, TypeScript |
@@ -919,7 +919,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [vercel/next.js](https://github.com/vercel/next.js) |
-| Stars / Forks | 142,666 / 33,193 |
+| Stars / Forks | 142,866 / 33,408 |
 | 主语言 / AI | JavaScript / 否 |
 | 类别 | C-前端/UI框架 |
 | tags | Next.js, React, JavaScript |
@@ -933,7 +933,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) |
-| Stars / Forks | 141,381 / 10,658 |
+| Stars / Forks | 141,390 / 10,656 |
 | 主语言 / AI | Python / 否 |
 | 类别 | E-工具/应用/其他 |
 | tags | Python |
@@ -947,7 +947,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) |
-| Stars / Forks | 139,901 / 20,553 |
+| Stars / Forks | 140,102 / 20,574 |
 | 主语言 / AI | Python / 是 |
 | 类别 | A-AI/Agent生态 |
 | tags | Python |
@@ -961,24 +961,24 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [iptv-org/iptv](https://github.com/iptv-org/iptv) |
-| Stars / Forks | 139,612 / 8,134 |
+| Stars / Forks | 139,775 / 8,150 |
 | 主语言 / AI | TypeScript / 否 |
 | 类别 | E-工具/应用/其他 |
 | tags | TypeScript |
 
 ---
 
-## #70 go
+## #70 spec-kit
 
-> The Go programming language
+> 💫 Toolkit to help you get started with SDD or any other process!
 
 | 字段 | 值 |
 | :--- | :--- |
-| 仓库 | [golang/go](https://github.com/golang/go) |
-| Stars / Forks | 139,046 / 20,621 |
-| 主语言 / AI | Go / 否 |
-| 类别 | D-系统/运行时/语言 |
-| tags | Go |
+| 仓库 | [github/spec-kit](https://github.com/github/spec-kit) |
+| Stars / Forks | 139,295 / 12,479 |
+| 主语言 / AI | Python / 是 |
+| 类别 | A-AI/Agent生态 |
+| tags | Python |
 
 ---
 
@@ -989,24 +989,24 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) |
-| Stars / Forks | 139,043 / 8,607 |
+| Stars / Forks | 139,095 / 8,616 |
 | 主语言 / AI | C / 否 |
 | 类别 | E-工具/应用/其他 |
 | tags | C++, C# |
 
 ---
 
-## #72 spec-kit
+## #72 go
 
-> 💫 Toolkit to help you get started with SDD or any other process!
+> The Go programming language
 
 | 字段 | 值 |
 | :--- | :--- |
-| 仓库 | [github/spec-kit](https://github.com/github/spec-kit) |
-| Stars / Forks | 139,019 / 12,453 |
-| 主语言 / AI | Python / 是 |
-| 类别 | A-AI/Agent生态 |
-| tags | Python |
+| 仓库 | [golang/go](https://github.com/golang/go) |
+| Stars / Forks | 139,066 / 20,837 |
+| 主语言 / AI | Go / 否 |
+| 类别 | D-系统/运行时/语言 |
+| tags | Go |
 
 ---
 
@@ -1017,7 +1017,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) |
-| Stars / Forks | 138,652 / 14,628 |
+| Stars / Forks | 138,807 / 14,655 |
 | 主语言 / AI | HTML / 否 |
 | 类别 | B-学习资源/Awesome |
 | tags | 清单 |
@@ -1031,7 +1031,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) |
-| Stars / Forks | 137,239 / 9,338 |
+| Stars / Forks | 138,267 / 9,359 |
 | 主语言 / AI | Rust / 是 |
 | 类别 | A-AI/Agent生态 |
 | tags | Rust, Web, Tauri, Claude, Codex, Gemini |
@@ -1045,7 +1045,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) |
-| Stars / Forks | 136,037 / 23,545 |
+| Stars / Forks | 136,045 / 23,544 |
 | 主语言 / AI | Markdown / 否 |
 | 类别 | E-工具/应用/其他 |
 | tags | 算法 |
@@ -1059,7 +1059,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) |
-| Stars / Forks | 135,130 / 16,004 |
+| Stars / Forks | 135,398 / 16,051 |
 | 主语言 / AI | Python / 是 |
 | 类别 | A-AI/Agent生态 |
 | tags | Python, TypeScript, 自定义节点编辑器, aiohttp, Starlette, 本地推理 |
@@ -1073,7 +1073,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [garrytan/gstack](https://github.com/garrytan/gstack) |
-| Stars / Forks | 134,283 / 20,007 |
+| Stars / Forks | 134,428 / 20,016 |
 | 主语言 / AI | TypeScript / 是 |
 | 类别 | A-AI/Agent生态 |
 | tags | TypeScript, Claude Code |
@@ -1087,7 +1087,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) |
-| Stars / Forks | 133,033 / 15,485 |
+| Stars / Forks | 133,188 / 15,512 |
 | 主语言 / AI | TypeScript / 否 |
 | 类别 | C-前端/UI框架 |
 | tags | React, TypeScript, Canvas |
@@ -1101,7 +1101,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) |
-| Stars / Forks | 130,869 / 13,909 |
+| Stars / Forks | 131,312 / 13,960 |
 | 主语言 / AI | Python / 是 |
 | 类别 | A-AI/Agent生态 |
 | tags | Claude Code, UI/UX, 设计技能 |
@@ -1115,7 +1115,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [krahets/hello-algo](https://github.com/krahets/hello-algo) |
-| Stars / Forks | 130,501 / 15,513 |
+| Stars / Forks | 130,525 / 15,513 |
 | 主语言 / AI | Java / 否 |
 | 类别 | B-学习资源/Awesome |
 | tags | Java, 算法 |
@@ -1129,7 +1129,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) |
-| Stars / Forks | 129,625 / 23,785 |
+| Stars / Forks | 129,814 / 23,875 |
 | 主语言 / AI | C++ / 是 |
 | 类别 | A-AI/Agent生态 |
 | tags | C, C++, ggml |
@@ -1143,7 +1143,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) |
-| Stars / Forks | 129,252 / 12,485 |
+| Stars / Forks | 129,266 / 12,486 |
 | 主语言 / AI | JavaScript / 否 |
 | 类别 | C-前端/UI框架 |
 | tags | JavaScript |
@@ -1157,38 +1157,38 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) |
-| Stars / Forks | 128,035 / 45,384 |
+| Stars / Forks | 128,087 / 45,585 |
 | 主语言 / AI | Go / 否 |
 | 类别 | D-系统/运行时/语言 |
 | tags | Go |
 
 ---
 
-## #84 react-native
-
-> A framework for building native applications using React
-
-| 字段 | 值 |
-| :--- | :--- |
-| 仓库 | [react/react-native](https://github.com/react/react-native) |
-| Stars / Forks | 126,743 / 25,287 |
-| 主语言 / AI | C++ / 否 |
-| 类别 | C-前端/UI框架 |
-| tags | React Native, C++ |
-
----
-
-## #85 codex
+## #84 codex
 
 > Lightweight coding agent that runs in your terminal
 
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [openai/codex](https://github.com/openai/codex) |
-| Stars / Forks | 126,648 / 19,771 |
+| Stars / Forks | 127,000 / 19,845 |
 | 主语言 / AI | Rust / 否 |
 | 类别 | E-工具/应用/其他 |
 | tags | Rust |
+
+---
+
+## #85 react-native
+
+> A framework for building native applications using React
+
+| 字段 | 值 |
+| :--- | :--- |
+| 仓库 | [react/react-native](https://github.com/react/react-native) |
+| Stars / Forks | 126,748 / 25,290 |
+| 主语言 / AI | C++ / 否 |
+| 类别 | C-前端/UI框架 |
+| tags | React Native, C++ |
 
 ---
 
@@ -1199,7 +1199,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) |
-| Stars / Forks | 126,146 / 19,670 |
+| Stars / Forks | 126,708 / 19,789 |
 | 主语言 / AI | Python / 否 |
 | 类别 | E-工具/应用/其他 |
 | tags | Python |
@@ -1213,7 +1213,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) |
-| Stars / Forks | 124,649 / 11,486 |
+| Stars / Forks | 124,796 / 11,690 |
 | 主语言 / AI | TypeScript / 否 |
 | 类别 | C-前端/UI框架 |
 | tags | React, Radix UI, Tailwind |
@@ -1227,7 +1227,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) |
-| Stars / Forks | 124,599 / 19,282 |
+| Stars / Forks | 124,735 / 19,315 |
 | 主语言 / AI | Rust / 否 |
 | 类别 | E-工具/应用/其他 |
 | tags | Rust, Flutter |
@@ -1241,38 +1241,38 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [electron/electron](https://github.com/electron/electron) |
-| Stars / Forks | 123,280 / 17,557 |
+| Stars / Forks | 123,297 / 17,563 |
 | 主语言 / AI | C++ / 否 |
 | 类别 | D-系统/运行时/语言 |
 | tags | C++, JavaScript, Electron |
 
 ---
 
-## #90 node
-
-> Node.js JavaScript runtime ✨🐢🚀✨
-
-| 字段 | 值 |
-| :--- | :--- |
-| 仓库 | [nodejs/node](https://github.com/nodejs/node) |
-| Stars / Forks | 122,128 / 38,081 |
-| 主语言 / AI | JavaScript / 否 |
-| 类别 | D-系统/运行时/语言 |
-| tags | JavaScript, C++, V8 |
-
----
-
-## #91 graphify
+## #90 graphify
 
 > Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
 
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) |
-| Stars / Forks | 121,689 / 11,714 |
+| Stars / Forks | 122,187 / 11,772 |
 | 主语言 / AI | Python / 否 |
 | 类别 | E-工具/应用/其他 |
 | tags | Python |
+
+---
+
+## #91 node
+
+> Node.js JavaScript runtime ✨🐢🚀✨
+
+| 字段 | 值 |
+| :--- | :--- |
+| 仓库 | [nodejs/node](https://github.com/nodejs/node) |
+| Stars / Forks | 122,165 / 38,294 |
+| 主语言 / AI | JavaScript / 否 |
+| 类别 | D-系统/运行时/语言 |
+| tags | JavaScript, C++, V8 |
 
 ---
 
@@ -1283,7 +1283,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) |
-| Stars / Forks | 121,305 / 10,788 |
+| Stars / Forks | 121,443 / 10,798 |
 | 主语言 / AI | 未标注 / 否 |
 | 类别 | E-工具/应用/其他 |
 | tags | Awesome 清单 |
@@ -1297,7 +1297,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) |
-| Stars / Forks | 120,626 / 63,448 |
+| Stars / Forks | 120,750 / 63,509 |
 | 主语言 / AI | Jupyter Notebook / 是 |
 | 类别 | A-AI/Agent生态 |
 | tags | Jupyter Notebook, Jupyter, Azure OpenAI |
@@ -1311,7 +1311,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [rust-lang/rust](https://github.com/rust-lang/rust) |
-| Stars / Forks | 119,222 / 16,901 |
+| Stars / Forks | 119,284 / 17,111 |
 | 主语言 / AI | Rust / 否 |
 | 类别 | D-系统/运行时/语言 |
 | tags | Rust |
@@ -1325,7 +1325,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) |
-| Stars / Forks | 119,133 / 28,269 |
+| Stars / Forks | 119,161 / 28,271 |
 | 主语言 / AI | 未标注 / 否 |
 | 类别 | B-学习资源/Awesome |
 | tags | 书籍 |
@@ -1339,7 +1339,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) |
-| Stars / Forks | 118,188 / 13,222 |
+| Stars / Forks | 118,632 / 13,262 |
 | 主语言 / AI | 未标注 / 否 |
 | 类别 | E-工具/应用/其他 |
 | tags | 未标注 |
@@ -1353,7 +1353,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [godotengine/godot](https://github.com/godotengine/godot) |
-| Stars / Forks | 117,836 / 26,857 |
+| Stars / Forks | 117,916 / 26,891 |
 | 主语言 / AI | C++ / 否 |
 | 类别 | D-系统/运行时/语言 |
 | tags | C++, Godot |
@@ -1367,7 +1367,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [2dust/v2rayN](https://github.com/2dust/v2rayN) |
-| Stars / Forks | 117,086 / 15,990 |
+| Stars / Forks | 117,235 / 15,994 |
 | 主语言 / AI | C# / 否 |
 | 类别 | E-工具/应用/其他 |
 | tags | C# |
@@ -1381,7 +1381,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [browser-use/browser-use](https://github.com/browser-use/browser-use) |
-| Stars / Forks | 116,428 / 12,827 |
+| Stars / Forks | 116,645 / 12,861 |
 | 主语言 / AI | Python / 否 |
 | 类别 | E-工具/应用/其他 |
 | tags | Python |
@@ -1395,7 +1395,7 @@
 | 字段 | 值 |
 | :--- | :--- |
 | 仓库 | [mrdoob/three.js](https://github.com/mrdoob/three.js) |
-| Stars / Forks | 115,953 / 36,574 |
+| Stars / Forks | 116,043 / 36,585 |
 | 主语言 / AI | JavaScript / 否 |
 | 类别 | C-前端/UI框架 |
 | tags | WebGL, JavaScript |
