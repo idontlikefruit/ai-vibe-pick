@@ -25,6 +25,10 @@ DATA = ROOT / "data"
 COLLECTED_AT = os.environ.get("COLLECTED_AT", "2026-07-20")
 
 TOP100_URL = "https://raw.githubusercontent.com/EvanLi/Github-Ranking/master/Top100/Top-100-stars.md"
+# 备用：raw.githubusercontent.com 偶发被重置连接时，改走 api.github.com 的 raw 内容接口
+TOP100_FALLBACK_URL = (
+    "https://api.github.com/repos/EvanLi/Github-Ranking/contents/Top100/Top-100-stars.md"
+)
 TRENDING_URL = "https://github.com/trending"
 
 # 新进入 Top-100 的仓库需要人工分类；已有仓库沿用 CSV 中的人工字段。
@@ -63,8 +67,23 @@ TRENDING_OVERRIDES = {
 }
 
 
-def fetch(url: str) -> str:
-    return subprocess.check_output(["curl", "-fsSL", "-A", "ai-vibe-pick-refresh", url]).decode("utf-8")
+def fetch(url: str, extra_headers: list[str] | None = None) -> str:
+    cmd = [
+        "curl", "-fsSL", "-A", "ai-vibe-pick-refresh",
+        "--retry", "5", "--retry-all-errors", "--retry-delay", "3", "--max-time", "90",
+    ]
+    for header in extra_headers or []:
+        cmd += ["-H", header]
+    cmd.append(url)
+    return subprocess.check_output(cmd).decode("utf-8")
+
+
+def fetch_top100() -> str:
+    try:
+        return fetch(TOP100_URL)
+    except subprocess.CalledProcessError:
+        print("TOP100 主源失败，改用 api.github.com 备用通道")
+        return fetch(TOP100_FALLBACK_URL, ["Accept: application/vnd.github.raw"])
 
 
 def gh_repo(full_name: str) -> dict:
@@ -88,7 +107,7 @@ def write_csv(path: Path, rows: list[dict], fields: list[str]) -> None:
 
 def refresh_top100() -> tuple[int, list[str], list[str]]:
     previous = {row["full_name"]: row for row in read_csv(DATA / "top-100-stars.csv")}
-    source = fetch(TOP100_URL)
+    source = fetch_top100()
     (DATA / "source-top-100-stars.md").write_text(source, encoding="utf-8")
     pattern = re.compile(
         r"\|\s*(\d+)\s*\|\s*\[([^\]]+)\]\(([^)]+)\)\s*\|\s*([\d,]+)\s*\|\s*([\d,]+)\s*\|\s*(.*?)\s*\|\s*([\d,]+)\s*\|\s*(.*?)\s*\|\s*(\S+)\s*\|$"

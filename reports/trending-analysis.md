@@ -1,23 +1,26 @@
 # GitHub Trending 今日热榜产品分析
 
-> 采集：2026-09-30 ｜ 项目：14 ｜ AI 相关：11（79%）
+> 采集：2026-07-27 ｜ 项目：17 ｜ AI 相关：15（88%）
 
 | # | 项目 | 今日⭐ | 总⭐ | 语言 | AI | tags |
 | :--: | :--- | ---: | ---: | :--- | :--: | :--- |
-| 1 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | +4,712 | 47,995 | Python | 是 | Python, ai, audiobook, cuda, dubbing |
-| 2 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | +978 | 10,545 | Rust | 是 | Rust |
-| 3 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | +2,541 | 42,799 | Python | 是 | Python, agentic-ai, agents, ai-memory, memory |
-| 4 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | +2,412 | 94,417 | TypeScript | 是 | TypeScript |
-| 5 | [t8y2/dbx](https://github.com/t8y2/dbx) | +349 | 21,952 | Rust | 是 | Rust, ai, cli, clickhouse, database |
-| 6 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | +733 | 2,410 | TypeScript | 是 | TypeScript, agent-harness, agent-orchestration, agent-skills, ai-coding |
-| 7 | [oblien/openship](https://github.com/oblien/openship) | +436 | 13,801 | TypeScript | 是 | TypeScript, agents, ai, deployments, self-hosted |
-| 8 | [averygan/reclip](https://github.com/averygan/reclip) | +301 | 10,064 | HTML | 否 | HTML |
-| 9 | [cs341-illinois/coursebook](https://github.com/cs341-illinois/coursebook) | +569 | 3,080 | TeX | 否 | TeX, awesome, c, latex, linux |
-| 10 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | +855 | 61,313 | Python | 是 | Python, agents, ai, ai-agents, ai-engineering |
-| 11 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | +822 | 37,309 | Python | 是 | Python, agentic-ai, agents, ai, ai-agents |
-| 12 | [willfaust/Madeira](https://github.com/willfaust/Madeira) | +85 | 1,087 | C | 是 | C |
-| 13 | [dream-num/univer](https://github.com/dream-num/univer) | +692 | 21,835 | TypeScript | 是 | TypeScript, board, collaboration, data-table, doc |
-| 14 | [rakyll/hey](https://github.com/rakyll/hey) | +31 | 20,466 | Go | 否 | Go |
+| 1 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | +1,280 | 12,575 | Rust | 是 | Rust |
+| 2 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | +3,481 | 50,386 | Python | 是 | Python, ai, audiobook, cuda, dubbing |
+| 3 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | +622 | 2,997 | TypeScript | 是 | TypeScript, agent-harness, agent-orchestration, agent-skills, ai-coding |
+| 4 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | +88 | 24,478 | TypeScript | 是 | TypeScript, antigravity, claude, claude-code, claude-code-hooks |
+| 5 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | +865 | 149,148 | JavaScript | 是 | JavaScript, agent-skills, ai-agents, claude, claude-code |
+| 6 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | +464 | 127,538 | Python | 是 | Python, ai-video-generator, content-creation, ffmpeg, instagram-reels |
+| 7 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | +136 | 390,981 | TypeScript | 是 | TypeScript, ai, assistant, crustacean, molty |
+| 8 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | +118 | 76,116 | Python | 是 | Python, agent-skills, ai-agents, antigravity, automation |
+| 9 | [mattpocock/skills](https://github.com/mattpocock/skills) | +908 | 272,979 | Shell | 是 | Shell |
+| 10 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | +352 | 54,706 | TypeScript | 是 | TypeScript, ai, animation, ffmpeg, framework |
+| 11 | [firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) | +4 | 6,761 | C++ | 是 | C++, ai, analytics, authentication, crash-reporting |
+| 12 | [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | +48 | 90,804 | TypeScript | 否 | TypeScript |
+| 13 | [byoungd/up](https://github.com/byoungd/up) | +714 | 66,379 | JavaScript | 是 | JavaScript, chinese, english-learning, tutorial |
+| 14 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | +159 | 72,585 | C | 是 | C |
+| 15 | [t8y2/dbx](https://github.com/t8y2/dbx) | +1,133 | 23,153 | Rust | 是 | Rust, ai, cli, clickhouse, database |
+| 16 | [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) | +466 | 26,410 | PLSQL | 否 | PLSQL |
+| 17 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | +1,095 | 38,106 | Python | 是 | Python, agentic-ai, agents, ai, ai-agents |
 
 ## 新热点
 
