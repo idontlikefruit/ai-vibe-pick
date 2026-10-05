@@ -173,7 +173,13 @@ def auto_classify(api, full_name, description, language):
 
 
 def refresh_trending() -> int:
-    page = fetch(TRENDING_URL)
+    try:
+        page = fetch(TRENDING_URL)
+    except subprocess.CalledProcessError:
+        # github.com 主站偶发不可达时降级：保留昨日 trending 数据，不中断整体流水线
+        existing = read_csv(DATA / "trending-daily.csv")
+        print(f"Trending 抓取失败，沿用上次数据（{len(existing)} 条）")
+        return sum(row.get("ai_related") == "是" for row in existing)
     articles = re.findall(r'<article class="Box-row".*?</article>', page, re.S)
     rows = []
     for article in articles:
