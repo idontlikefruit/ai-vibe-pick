@@ -17,6 +17,7 @@ import json
 import os
 import re
 import subprocess
+import time
 import urllib.request
 from pathlib import Path
 
@@ -87,8 +88,17 @@ def fetch_top100() -> str:
 
 
 def gh_repo(full_name: str) -> dict:
-    output = subprocess.check_output(["gh", "api", f"repos/{full_name}"], stderr=subprocess.DEVNULL)
-    return json.loads(output)
+    # gh 没有内置重试，网络抖动时手动重试几次
+    last_error = None
+    for attempt in range(4):
+        try:
+            output = subprocess.check_output(["gh", "api", f"repos/{full_name}"], stderr=subprocess.DEVNULL)
+            return json.loads(output)
+        except subprocess.CalledProcessError as exc:
+            last_error = exc
+            if attempt < 3:
+                time.sleep(3)
+    raise last_error
 
 
 def read_csv(path: Path) -> list[dict]:
