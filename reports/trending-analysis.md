@@ -1,26 +1,21 @@
 # GitHub Trending 今日热榜产品分析
 
-> 采集：2026-10-06 ｜ 项目：17 ｜ AI 相关：15（88%）
+> 采集：2026-10-07 ｜ 项目：12 ｜ AI 相关：10（83%）
 
 | # | 项目 | 今日⭐ | 总⭐ | 语言 | AI | tags |
 | :--: | :--- | ---: | ---: | :--- | :--: | :--- |
-| 1 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | +1,280 | 12,575 | Rust | 是 | Rust |
-| 2 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | +3,481 | 50,386 | Python | 是 | Python, ai, audiobook, cuda, dubbing |
-| 3 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | +622 | 2,997 | TypeScript | 是 | TypeScript, agent-harness, agent-orchestration, agent-skills, ai-coding |
-| 4 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | +88 | 24,478 | TypeScript | 是 | TypeScript, antigravity, claude, claude-code, claude-code-hooks |
-| 5 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | +865 | 149,148 | JavaScript | 是 | JavaScript, agent-skills, ai-agents, claude, claude-code |
-| 6 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | +464 | 127,538 | Python | 是 | Python, ai-video-generator, content-creation, ffmpeg, instagram-reels |
-| 7 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | +136 | 390,981 | TypeScript | 是 | TypeScript, ai, assistant, crustacean, molty |
-| 8 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | +118 | 76,116 | Python | 是 | Python, agent-skills, ai-agents, antigravity, automation |
-| 9 | [mattpocock/skills](https://github.com/mattpocock/skills) | +908 | 272,979 | Shell | 是 | Shell |
-| 10 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | +352 | 54,706 | TypeScript | 是 | TypeScript, ai, animation, ffmpeg, framework |
-| 11 | [firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) | +4 | 6,761 | C++ | 是 | C++, ai, analytics, authentication, crash-reporting |
-| 12 | [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | +48 | 90,804 | TypeScript | 否 | TypeScript |
-| 13 | [byoungd/up](https://github.com/byoungd/up) | +714 | 66,379 | JavaScript | 是 | JavaScript, chinese, english-learning, tutorial |
-| 14 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | +159 | 72,585 | C | 是 | C |
-| 15 | [t8y2/dbx](https://github.com/t8y2/dbx) | +1,133 | 23,153 | Rust | 是 | Rust, ai, cli, clickhouse, database |
-| 16 | [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) | +466 | 26,410 | PLSQL | 否 | PLSQL |
-| 17 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | +1,095 | 38,106 | Python | 是 | Python, agentic-ai, agents, ai, ai-agents |
+| 1 | [tester-army/e2e](https://github.com/tester-army/e2e) | +1,725 | 6,350 | TypeScript | 否 | TypeScript, e2e, e2e-testing, end-to-end-testing, mobile |
+| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | +889 | 278,162 | Shell | 是 | Shell |
+| 3 | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | +619 | 17,985 | Python | 是 | Python, agents, ai-agents, cad, mechanical-engineering |
+| 4 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | +949 | 6,573 | C++ | 否 | C++, anyps5, dynamic-library, game-porting, ps5 |
+| 5 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | +616 | 77,703 | JavaScript | 是 | JavaScript, AI Harness, 设计 |
+| 6 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | +534 | 97,188 | TypeScript | 是 | TypeScript, ai, ai-agents, ai-memory, anthropic |
+| 7 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | +326 | 54,418 | Python | 是 | Python, adhd, claude-, claude-code-plugin, claude-skills |
+| 8 | [morluto/rea](https://github.com/morluto/rea) | +2,956 | 9,496 | TypeScript | 是 | TypeScript, agent-skills, ai-agent-tools, ai-agents, binary-analysis |
+| 9 | [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) | +199 | 8,708 | Cuda | 是 | Cuda |
+| 10 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | +623 | 157,834 | Shell | 是 | Shell |
+| 11 | [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) | +1,419 | 5,712 | JavaScript | 是 | JavaScript, bodyweight, docker, fitness, fitness-tracker |
+| 12 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | +228 | 44,043 | HTML | 是 | HTML, agent-skills, claude-code, codex, data-visualization |
 
 ## 新热点
 
