@@ -1,18 +1,20 @@
 # GitHub Trending 今日热榜产品分析
 
-> 采集：2026-10-09 ｜ 项目：9 ｜ AI 相关：6（67%）
+> 采集：2026-10-10 ｜ 项目：11 ｜ AI 相关：10（91%）
 
 | # | 项目 | 今日⭐ | 总⭐ | 语言 | AI | tags |
 | :--: | :--- | ---: | ---: | :--- | :--: | :--- |
-| 1 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | +4,640 | 15,503 | C++ | 否 | C++, anyps5, dynamic-library, game-porting, ps5 |
-| 2 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | +1,163 | 46,269 | HTML | 是 | HTML, agent-skills, claude-code, codex, data-visualization |
-| 3 | [morluto/rea](https://github.com/morluto/rea) | +7,744 | 25,602 | TypeScript | 是 | TypeScript, agent-skills, ai-agents, binary-analysis, claude-code |
-| 4 | [mattpocock/skills](https://github.com/mattpocock/skills) | +1,770 | 281,023 | Shell | 是 | Shell |
-| 5 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | +662 | 98,433 | TypeScript | 是 | TypeScript, ai, ai-agents, ai-memory, anthropic |
-| 6 | [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) | +283 | 8,097 | C | 否 | C |
-| 7 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | +309 | 27,511 | Python | 是 | Python |
-| 8 | [storytold/artcraft](https://github.com/storytold/artcraft) | +2,510 | 7,798 | Rust | 是 | Rust, 3d-graphics, ai, aivideo, filmmaking |
-| 9 | [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) | +398 | 24,573 | 未标注 | 否 | 未标注 |
+| 1 | [morluto/rea](https://github.com/morluto/rea) | +15,335 | 44,970 | TypeScript | 是 | TypeScript, agent-skills, ai-agents, binary-analysis, claude-code |
+| 2 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | +5,925 | 22,129 | C++ | 否 | C++, anyps5, dynamic-library, game-porting, ps5 |
+| 3 | [mattpocock/skills](https://github.com/mattpocock/skills) | +1,696 | 282,621 | Shell | 是 | Shell |
+| 4 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | +1,744 | 47,822 | HTML | 是 | HTML, agent-skills, claude-code, codex, data-visualization |
+| 5 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | +323 | 45,173 | Go | 是 | Go, AI, 代码审查 |
+| 6 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | +714 | 28,227 | Python | 是 | Python |
+| 7 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | +95 | 60,642 | Python | 是 | Python, ai-gateway, anthropic, azure-openai, bedrock |
+| 8 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | +523 | 103,962 | JavaScript | 是 | JavaScript, agent-skills, antigravity, claude-code, codex |
+| 9 | [storytold/artcraft](https://github.com/storytold/artcraft) | +3,723 | 11,362 | Rust | 是 | Rust, 3d-graphics, ai, aivideo, filmmaking |
+| 10 | [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | +109 | 17,680 | Python | 是 | Python |
+| 11 | [twostraws/SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill) | +88 | 5,408 | 未标注 | 是 | 未标注 |
 
 ## 新热点
 
