@@ -1,22 +1,17 @@
 # GitHub Trending 今日热榜产品分析
 
-> 采集：2026-10-11 ｜ 项目：13 ｜ AI 相关：11（85%）
+> 采集：2026-10-12 ｜ 项目：8 ｜ AI 相关：5（62%）
 
 | # | 项目 | 今日⭐ | 总⭐ | 语言 | AI | tags |
 | :--: | :--- | ---: | ---: | :--- | :--: | :--- |
-| 1 | [morluto/rea](https://github.com/morluto/rea) | +25,784 | 71,554 | TypeScript | 是 | TypeScript, agent-skills, ai-agents, binary-analysis, claude-code |
-| 2 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | +5,831 | 26,691 | C++ | 否 | C++, anyps5, dynamic-library, game-porting, ps5 |
-| 3 | [storytold/artcraft](https://github.com/storytold/artcraft) | +3,217 | 14,392 | Rust | 是 | Rust, 3d-graphics, ai, aivideo, filmmaking |
-| 4 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | +1,189 | 48,901 | HTML | 是 | HTML, agent-skills, claude-code, codex, data-visualization |
-| 5 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | +178 | 26,297 | TypeScript | 是 | TypeScript, antigravity, claude, claude-code, claude-code-hooks |
-| 6 | [mattpocock/skills](https://github.com/mattpocock/skills) | +1,737 | 284,420 | Shell | 是 | Shell |
-| 7 | [flutter/flutter](https://github.com/flutter/flutter) | +164 | 179,503 | Dart | 否 | Dart, android, app-framework, cross-platform, dart-platform |
-| 8 | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | +24 | 200,719 | C++ | 是 | C++, deep-learning, deep-neural-networks, distributed, machine-learning |
-| 9 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | +515 | 59,399 | Python | 是 | Python, ai-agent, aippt, office, powerpoint |
-| 10 | [pytorch/pytorch](https://github.com/pytorch/pytorch) | +81 | 104,134 | Python | 是 | Python, autograd, deep-learning, gpu, machine-learning |
-| 11 | [huggingface/transformers](https://github.com/huggingface/transformers) | +94 | 167,235 | Python | 是 | Python, audio, deep-learning, deepseek, gemma |
-| 12 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | +626 | 28,798 | Python | 是 | Python |
-| 13 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | +279 | 218,237 | 未标注 | 是 | 未标注 |
+| 1 | [morluto/rea](https://github.com/morluto/rea) | +25,585 | 102,787 | TypeScript | 是 | TypeScript, agent-skills, ai-agents, binary-analysis, claude-code |
+| 2 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | +3,977 | 29,989 | C++ | 否 | C++, anyps5, dynamic-library, game-porting, ps5 |
+| 3 | [storytold/artcraft](https://github.com/storytold/artcraft) | +2,956 | 17,767 | Rust | 是 | Rust, 3d-graphics, ai, aivideo, filmmaking |
+| 4 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | +1,083 | 50,278 | HTML | 是 | HTML, agent-skills, claude-code, codex, data-visualization |
+| 5 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | +872 | 51,607 | JavaScript | 否 | JavaScript, 3d-globe, cesium, flight-tracking, geospatial |
+| 6 | [pytorch/pytorch](https://github.com/pytorch/pytorch) | +314 | 104,467 | Python | 是 | Python, autograd, deep-learning, gpu, machine-learning |
+| 7 | [lyogavin/airllm](https://github.com/lyogavin/airllm) | +541 | 36,448 | Jupyter Notebook | 是 | Jupyter Notebook, chinese-llm, chinese-nlp, finetune, generative-ai |
+| 8 | [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | +581 | 74,227 | Assembly | 否 | Assembly, agc, apollo, hacktoberfest, nasa |
 
 ## 新热点
 
