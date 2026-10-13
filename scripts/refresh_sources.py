@@ -88,11 +88,15 @@ def fetch_top100() -> str:
 
 
 def gh_repo(full_name: str) -> dict:
+    # GH_TOKEN 可能已过期并优先于 keyring 凭据，调用 gh 时剔除它，让 gh 走 keyring
+    gh_env = {k: v for k, v in os.environ.items() if k not in ("GH_TOKEN", "GITHUB_TOKEN")}
     # gh 没有内置重试，网络抖动时手动重试几次
     last_error = None
     for attempt in range(4):
         try:
-            output = subprocess.check_output(["gh", "api", f"repos/{full_name}"], stderr=subprocess.DEVNULL)
+            output = subprocess.check_output(
+                ["gh", "api", f"repos/{full_name}"], stderr=subprocess.DEVNULL, env=gh_env
+            )
             return json.loads(output)
         except subprocess.CalledProcessError as exc:
             last_error = exc
