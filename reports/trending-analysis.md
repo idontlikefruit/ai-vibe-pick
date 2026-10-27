@@ -1,18 +1,23 @@
 # GitHub Trending 今日热榜产品分析
 
-> 采集：2026-10-14 ｜ 项目：9 ｜ AI 相关：7（78%）
+> 采集：2026-10-27 ｜ 项目：14 ｜ AI 相关：13（93%）
 
 | # | 项目 | 今日⭐ | 总⭐ | 语言 | AI | tags |
 | :--: | :--- | ---: | ---: | :--- | :--: | :--- |
-| 1 | [morluto/rea](https://github.com/morluto/rea) | +54,706 | 205,919 | TypeScript | 是 | TypeScript, agent-skills, ai-agents, binary-analysis, claude-code |
-| 2 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | +1,961 | 55,318 | JavaScript | 否 | JavaScript, 3d-globe, cesium, flight-tracking, geospatial |
-| 3 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | +2,277 | 63,157 | Python | 是 | Python, ai, audiobook, cuda, dubbing |
-| 4 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | +978 | 28,197 | TypeScript | 是 | TypeScript, antigravity, claude, claude-code, claude-code-hooks |
-| 5 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | +1,813 | 54,044 | HTML | 是 | HTML, agent-skills, claude-code, codex, data-visualization |
-| 6 | [vercel-labs/skills](https://github.com/vercel-labs/skills) | +187 | 34,469 | TypeScript | 是 | TypeScript |
-| 7 | [lyogavin/airllm](https://github.com/lyogavin/airllm) | +1,004 | 38,297 | Jupyter Notebook | 是 | Jupyter Notebook, chinese-llm, chinese-nlp, finetune, generative-ai |
-| 8 | [storytold/artcraft](https://github.com/storytold/artcraft) | +4,078 | 25,559 | Rust | 是 | Rust, 3d-graphics, ai, aivideo, filmmaking |
-| 9 | [xtool-org/xtool](https://github.com/xtool-org/xtool) | +1,182 | 9,299 | Swift | 否 | Swift, ios, linux, swift-package-manager, windows |
+| 1 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | +2,244 | 37,320 | CSS | 是 | CSS |
+| 2 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | +1,395 | 116,664 | Python | 是 | Python, agent, finance, llm, multiagent |
+| 3 | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | +1,173 | 3,310 | TypeScript | 是 | TypeScript, agent, agent-skills, agentic-ai, agentic-workflow |
+| 4 | [makecindy/cindy](https://github.com/makecindy/cindy) | +1,296 | 6,933 | TypeScript | 是 | TypeScript, agent, ai-agent, ai-assistant, android |
+| 5 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | +896 | 290,145 | JavaScript | 是 | JavaScript, ai-agents, anthropic, claude, claude-code |
+| 6 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | +1,506 | 89,606 | Rust | 是 | JavaScript, AI Harness, 设计 |
+| 7 | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | +214 | 22,503 | Python | 是 | Python, agent-security, agent-skills, agentic-ai, ai-security |
+| 8 | [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) | +843 | 12,592 | Rust | 否 | Rust |
+| 9 | [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | +176 | 1,737 | TypeScript | 是 | TypeScript, ai-agents, bun, codex, electron |
+| 10 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | +746 | 104,227 | Python | 是 | Python, agent-infrastructure, ai-agent, ai-search, automation |
+| 11 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | +2,297 | 90,054 | Python | 是 | Python, ai, audiobook, cuda, dubbing |
+| 12 | [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | +188 | 38,721 | TypeScript | 是 | TypeScript, nextjs, open-source, open-source-social-media-scheduling-tool, oss |
+| 13 | [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) | +251 | 27,381 | HTML | 是 | HTML, agent-skills, ai-design, claude-code, claude-skills |
+| 14 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | +638 | 224,995 | 未标注 | 是 | 未标注 |
 
 ## 新热点
 
