@@ -1,12 +1,15 @@
 rank,full_name,name,description,language,stars_today,total_stars,ai_related,tags,license,collected_at
-1,elayadesign/ai-design-skills,ai-design-skills,,未标注,1395,9247,是,未标注,MIT,2026-10-28
-2,Nutlope/hallmark,hallmark,"Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",CSS,2859,38928,是,CSS,MIT,2026-10-28
-3,nightly-labs/openbot,openbot,"A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",TypeScript,794,2382,是,"TypeScript, ai-agents, bun, codex, electron",NOASSERTION,2026-10-28
-4,obra/superpowers,superpowers,An agentic skills framework & software development methodology that works.,Shell,608,306400,是,"Shell, ai, brainstorming, coding, obra",MIT,2026-10-28
-5,pbakaus/impeccable,impeccable,The design language that makes your AI harness better at design.,Rust,1458,90461,是,"JavaScript, AI Harness, 设计",Apache-2.0,2026-10-28
-6,makecindy/cindy,cindy,Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。,TypeScript,1446,7435,是,"TypeScript, agent, ai-agent, ai-assistant, android",Apache-2.0,2026-10-28
-7,gitroomhq/postiz-app,postiz-app,📨 The ultimate agentic social media scheduling tool 🤖,TypeScript,953,39330,是,"TypeScript, nextjs, open-source, open-source-social-media-scheduling-tool, oss",AGPL-3.0,2026-10-28
-8,affaan-m/ECC,ECC,"The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",JavaScript,1183,290850,是,"JavaScript, ai-agents, anthropic, claude, claude-code",MIT,2026-10-28
-9,HKUDS/DeepTutor,DeepTutor,DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.,Python,1587,45803,是,"Python, ai-agents, ai-tutor, clawbot, cli-tool",Apache-2.0,2026-10-28
-10,JetBrains/thinkrail,thinkrail,"Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",TypeScript,1211,3949,是,"TypeScript, agent, agent-skills, agentic-ai, agentic-workflow",Apache-2.0,2026-10-28
-11,togg53192-cmd/jailbreaks,jailbreaks,LIST OF ALL MY JAILBREAKS,未标注,890,5467,是,未标注,NOASSERTION,2026-10-28
+1,JetBrains/thinkrail,thinkrail,"Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",TypeScript,1075,5005,是,"TypeScript, agent, agent-skills, agentic-ai, agentic-workflow",Apache-2.0,2026-10-29
+2,elayadesign/ai-design-skills,ai-design-skills,,未标注,1938,11071,是,未标注,MIT,2026-10-29
+3,obra/superpowers,superpowers,An agentic skills framework & software development methodology that works.,Shell,1096,307417,是,"Shell, ai, brainstorming, coding, obra",MIT,2026-10-29
+4,HKUDS/DeepTutor,DeepTutor,DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.,Python,2376,47914,是,"Python, ai-agents, ai-tutor, clawbot, cli-tool",Apache-2.0,2026-10-29
+5,macro-inc/macro,macro,"Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",Rust,106,5402,是,"Rust, agent, ai, ai-agents, all-in-one",AGPL-3.0,2026-10-29
+6,Nutlope/hallmark,hallmark,"Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",CSS,2109,40658,是,CSS,MIT,2026-10-29
+7,pbakaus/impeccable,impeccable,"The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",Rust,1471,92562,是,"JavaScript, AI Harness, 设计",Apache-2.0,2026-10-29
+8,makecindy/cindy,cindy,Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。,TypeScript,740,8062,是,"TypeScript, agent, ai-agent, ai-assistant, android",Apache-2.0,2026-10-29
+9,nightly-labs/openbot,openbot,"A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",TypeScript,1053,3221,是,"TypeScript, ai-agents, bun, codex, electron",NOASSERTION,2026-10-29
+10,togg53192-cmd/jailbreaks,jailbreaks,LIST OF ALL MY JAILBREAKS,未标注,1478,7046,是,未标注,NOASSERTION,2026-10-29
+11,hmjz100/LinkSwift,LinkSwift,一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘,JavaScript,1380,34504,是,"JavaScript, 123pan, aliyun-drive, aliyunpan, aria2",AGPL-3.0,2026-10-29
+12,expo/skills,skills,A collection of AI agent skills for working with Expo projects and Expo Application Services,Shell,216,3554,是,Shell,MIT,2026-10-29
+13,ruvnet/RuView,RuView,"π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",Rust,596,101008,是,"Rust, awesome, claude, densepose, esp32",MIT,2026-10-29
+14,xiaolai/the-craft-of-selfteaching,the-craft-of-selfteaching,One has no future if one couldn't teach themself.,Jupyter Notebook,295,18479,是,Jupyter Notebook,NOASSERTION,2026-10-29
