@@ -1,23 +1,20 @@
 # GitHub Trending 今日热榜产品分析
 
-> 采集：2026-10-29 ｜ 项目：14 ｜ AI 相关：14（100%）
+> 采集：2026-10-30 ｜ 项目：11 ｜ AI 相关：11（100%）
 
 | # | 项目 | 今日⭐ | 总⭐ | 语言 | AI | tags |
 | :--: | :--- | ---: | ---: | :--- | :--: | :--- |
-| 1 | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | +1,075 | 5,005 | TypeScript | 是 | TypeScript, agent, agent-skills, agentic-ai, agentic-workflow |
-| 2 | [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) | +1,938 | 11,071 | 未标注 | 是 | 未标注 |
-| 3 | [obra/superpowers](https://github.com/obra/superpowers) | +1,096 | 307,417 | Shell | 是 | Shell, ai, brainstorming, coding, obra |
-| 4 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | +2,376 | 47,914 | Python | 是 | Python, ai-agents, ai-tutor, clawbot, cli-tool |
-| 5 | [macro-inc/macro](https://github.com/macro-inc/macro) | +106 | 5,402 | Rust | 是 | Rust, agent, ai, ai-agents, all-in-one |
-| 6 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | +2,109 | 40,658 | CSS | 是 | CSS |
-| 7 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | +1,471 | 92,562 | Rust | 是 | JavaScript, AI Harness, 设计 |
-| 8 | [makecindy/cindy](https://github.com/makecindy/cindy) | +740 | 8,062 | TypeScript | 是 | TypeScript, agent, ai-agent, ai-assistant, android |
-| 9 | [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | +1,053 | 3,221 | TypeScript | 是 | TypeScript, ai-agents, bun, codex, electron |
-| 10 | [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) | +1,478 | 7,046 | 未标注 | 是 | 未标注 |
-| 11 | [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift) | +1,380 | 34,504 | JavaScript | 是 | JavaScript, 123pan, aliyun-drive, aliyunpan, aria2 |
-| 12 | [expo/skills](https://github.com/expo/skills) | +216 | 3,554 | Shell | 是 | Shell |
-| 13 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | +596 | 101,008 | Rust | 是 | Rust, awesome, claude, densepose, esp32 |
-| 14 | [xiaolai/the-craft-of-selfteaching](https://github.com/xiaolai/the-craft-of-selfteaching) | +295 | 18,479 | Jupyter Notebook | 是 | Jupyter Notebook |
+| 1 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | +1,926 | 49,979 | Python | 是 | Python, ai-agents, ai-tutor, clawbot, cli-tool |
+| 2 | [obra/superpowers](https://github.com/obra/superpowers) | +1,037 | 308,508 | Shell | 是 | Shell, ai, brainstorming, coding, obra |
+| 3 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | +2,881 | 95,248 | Rust | 是 | JavaScript, AI Harness, 设计 |
+| 4 | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | +1,116 | 5,977 | TypeScript | 是 | TypeScript, agent, agent-skills, agentic-ai, agentic-workflow |
+| 5 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | +1,190 | 7,441 | TypeScript | 是 | TypeScript, ai-agents, claude-code, codex, computer-use |
+| 6 | [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | +705 | 3,851 | TypeScript | 是 | TypeScript, ai-agents, bun, codex, electron |
+| 7 | [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) | +1,178 | 12,099 | 未标注 | 是 | 未标注 |
+| 8 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | +459 | 104,741 | TypeScript | 是 | TypeScript, ai, ai-agents, ai-memory, anthropic |
+| 9 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | +240 | 8,110 | TypeScript | 是 | TypeScript, ag-ui, agent-governance, ai-agents, browser-automation |
+| 10 | [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) | +1,610 | 8,950 | 未标注 | 是 | 未标注 |
+| 11 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | +538 | 29,129 | Shell | 是 | Shell, ai-agents, ai-assisted-development, anthropic, claude |
 
 ## 新热点
 
