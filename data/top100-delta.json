@@ -1,5 +1,9 @@
 {
-  "date": "2026-11-02",
-  "added": [],
-  "removed": []
+  "date": "2026-11-03",
+  "added": [
+    "TauricResearch/TradingAgents"
+  ],
+  "removed": [
+    "godotengine/godot"
+  ]
 }
