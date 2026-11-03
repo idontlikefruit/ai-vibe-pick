@@ -1,9 +1,9 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "added": [
-    "TauricResearch/TradingAgents"
+    "earendil-works/pi"
   ],
   "removed": [
-    "godotengine/godot"
+    "justjavac/free-programming-books-zh_CN"
   ]
 }
