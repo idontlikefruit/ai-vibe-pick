@@ -1,16 +1,18 @@
 rank,full_name,name,description,language,stars_today,total_stars,ai_related,tags,license,collected_at
-1,NVIDIA/auto-ontology,auto-ontology,"Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",Python,2707,7240,是,Python,Apache-2.0,2026-11-06
-2,mattpocock/skills,skills,Skills for Real Engineers. Straight from my .agents directory.,Shell,2053,315154,是,Shell,MIT,2026-11-06
-3,garrytan/gstack,gstack,"Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",TypeScript,608,139923,是,TypeScript,MIT,2026-11-06
-4,Usagi-org/ai-goofish-monitor,ai-goofish-monitor,基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。,Python,242,17499,是,"Python, ai, ai-assistant, ai-tools, automation",MIT,2026-11-06
-5,D4Vinci/Scrapling,Scrapling,"🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",Python,1661,97913,是,"Python, ai, ai-scraping, automation, crawler",BSD-3-Clause,2026-11-06
-6,vercel-labs/agent-desktop,agent-desktop,Computer use CLI for AI agents,Rust,2173,16776,是,"Rust, accessibility, accessibility-api, ai-agents, automation",Apache-2.0,2026-11-06
-7,max-sixty/worktrunk,worktrunk,"Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",Rust,546,11491,是,"Rust, agents, claude-code, codex, developer-tools",NOASSERTION,2026-11-06
-8,lz4/lz4,lz4,Extremely Fast Compression algorithm,C,16,12359,否,"C, compression, lz4",NOASSERTION,2026-11-06
-9,google/skills,skills,Agent Skills for Google products and technologies,Python,199,22346,是,"Python, google, googlecloud, skills",Apache-2.0,2026-11-06
-10,vercel-labs/agent-browser,agent-browser,Browser automation CLI for AI agents,Rust,181,45846,是,Rust,Apache-2.0,2026-11-06
-11,scenario-labs/skills,skills,"Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",Python,674,3021,是,"Python, 3d-models, agent-skills, ai-agents, ai-art",MIT,2026-11-06
-12,ConardLi/garden-skills,garden-skills,"ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",JavaScript,241,14110,是,"JavaScript, agent, claude, gpt-image-2, rag",MIT,2026-11-06
-13,microsoft/VibeVoice,VibeVoice,Open-Source Frontier Voice AI,Python,214,55871,是,Python,MIT,2026-11-06
-14,floci-io/floci,floci,"Light, fluffy, and always free - The AWS Local Emulator alternative",Java,784,30374,是,"Java, aws, aws-emulation, devops, docker",MIT,2026-11-06
-15,JiaFeiMiao-K-Cat/DiscImageStudio,DiscImageStudio,,C#,977,7244,否,C#,GPL-3.0,2026-11-06
+1,zed-industries/zed,zed,"Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",Rust,292,93589,否,"Rust, gpui, rust-lang, text-editor, zed",NOASSERTION,2026-11-07
+2,NVIDIA/auto-ontology,auto-ontology,"Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",Python,2005,8956,是,Python,Apache-2.0,2026-11-07
+3,rails/rails,rails,Ruby on Rails,Ruby,152,59019,是,"Ruby, activejob, activerecord, framework, html",MIT,2026-11-07
+4,mpv-player/mpv,mpv,🎥 Command line media player,C,36,37866,否,"C, audio, ffmpeg, mplayer, mpv",NOASSERTION,2026-11-07
+5,rust-lang/rust,rust,Empowering everyone to build reliable and efficient software.,Rust,186,121431,否,"Rust, compiler, language",Apache-2.0,2026-11-07
+6,react/react,react,The library for web and native user interfaces.,JavaScript,244,252245,否,"JavaScript, declarative, frontend, library, react",MIT,2026-11-07
+7,angular/angular,angular,Deliver web apps with confidence 🚀,TypeScript,128,101349,否,"TypeScript, angular, javascript, pwa, web",MIT,2026-11-07
+8,symfony/symfony,symfony,The Symfony PHP framework,PHP,89,31421,否,"PHP, bundle, framework, hacktoberfest, php-framework",MIT,2026-11-07
+9,prometheus/prometheus,prometheus,The Prometheus monitoring system and time series database.,Go,140,67170,否,"Go, alerting, graphing, hacktoberfest, metrics",Apache-2.0,2026-11-07
+10,google/skills,skills,Agent Skills for Google products and technologies,Python,532,22811,是,"Python, google, googlecloud, skills",Apache-2.0,2026-11-07
+11,microsoft/vscode,vscode,Visual Studio Code,TypeScript,295,195012,否,"TypeScript, editor, electron, microsoft, visual-studio-code",MIT,2026-11-07
+12,nushell/nushell,nushell,A new type of shell,Rust,177,40972,否,"Rust, nushell, shell",MIT,2026-11-07
+13,etcd-io/etcd,etcd,Distributed reliable key-value store for the most critical data of a distributed system,Go,123,52607,否,"Go, cncf, consensus, database, distributed-database",Apache-2.0,2026-11-07
+14,openssl/openssl,openssl,General purpose TLS and crypto library,C,24,31279,否,"C, cryptography, decryption, encryption, openssl",Apache-2.0,2026-11-07
+15,mattpocock/skills,skills,Skills for Real Engineers. Straight from my .agents directory.,Shell,2058,316667,是,Shell,MIT,2026-11-07
+16,cloudflare/security-audit-skill,security-audit-skill,"A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",JavaScript,2524,63901,是,JavaScript,MIT,2026-11-07
+17,astral-sh/ruff,ruff,"An extremely fast Python linter and code formatter, written in Rust.",Rust,213,50678,否,"Rust, linter, pep8, python, python3",MIT,2026-11-07

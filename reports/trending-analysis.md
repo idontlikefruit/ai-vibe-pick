@@ -1,24 +1,26 @@
 # GitHub Trending 今日热榜产品分析
 
-> 采集：2026-11-06 ｜ 项目：15 ｜ AI 相关：13（87%）
+> 采集：2026-11-07 ｜ 项目：17 ｜ AI 相关：5（29%）
 
 | # | 项目 | 今日⭐ | 总⭐ | 语言 | AI | tags |
 | :--: | :--- | ---: | ---: | :--- | :--: | :--- |
-| 1 | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | +2,707 | 7,240 | Python | 是 | Python |
-| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | +2,053 | 315,154 | Shell | 是 | Shell |
-| 3 | [garrytan/gstack](https://github.com/garrytan/gstack) | +608 | 139,923 | TypeScript | 是 | TypeScript |
-| 4 | [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) | +242 | 17,499 | Python | 是 | Python, ai, ai-assistant, ai-tools, automation |
-| 5 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | +1,661 | 97,913 | Python | 是 | Python, ai, ai-scraping, automation, crawler |
-| 6 | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | +2,173 | 16,776 | Rust | 是 | Rust, accessibility, accessibility-api, ai-agents, automation |
-| 7 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | +546 | 11,491 | Rust | 是 | Rust, agents, claude-code, codex, developer-tools |
-| 8 | [lz4/lz4](https://github.com/lz4/lz4) | +16 | 12,359 | C | 否 | C, compression, lz4 |
-| 9 | [google/skills](https://github.com/google/skills) | +199 | 22,346 | Python | 是 | Python, google, googlecloud, skills |
-| 10 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | +181 | 45,846 | Rust | 是 | Rust |
-| 11 | [scenario-labs/skills](https://github.com/scenario-labs/skills) | +674 | 3,021 | Python | 是 | Python, 3d-models, agent-skills, ai-agents, ai-art |
-| 12 | [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) | +241 | 14,110 | JavaScript | 是 | JavaScript, agent, claude, gpt-image-2, rag |
-| 13 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | +214 | 55,871 | Python | 是 | Python |
-| 14 | [floci-io/floci](https://github.com/floci-io/floci) | +784 | 30,374 | Java | 是 | Java, aws, aws-emulation, devops, docker |
-| 15 | [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio) | +977 | 7,244 | C# | 否 | C# |
+| 1 | [zed-industries/zed](https://github.com/zed-industries/zed) | +292 | 93,589 | Rust | 否 | Rust, gpui, rust-lang, text-editor, zed |
+| 2 | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | +2,005 | 8,956 | Python | 是 | Python |
+| 3 | [rails/rails](https://github.com/rails/rails) | +152 | 59,019 | Ruby | 是 | Ruby, activejob, activerecord, framework, html |
+| 4 | [mpv-player/mpv](https://github.com/mpv-player/mpv) | +36 | 37,866 | C | 否 | C, audio, ffmpeg, mplayer, mpv |
+| 5 | [rust-lang/rust](https://github.com/rust-lang/rust) | +186 | 121,431 | Rust | 否 | Rust, compiler, language |
+| 6 | [react/react](https://github.com/react/react) | +244 | 252,245 | JavaScript | 否 | JavaScript, declarative, frontend, library, react |
+| 7 | [angular/angular](https://github.com/angular/angular) | +128 | 101,349 | TypeScript | 否 | TypeScript, angular, javascript, pwa, web |
+| 8 | [symfony/symfony](https://github.com/symfony/symfony) | +89 | 31,421 | PHP | 否 | PHP, bundle, framework, hacktoberfest, php-framework |
+| 9 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | +140 | 67,170 | Go | 否 | Go, alerting, graphing, hacktoberfest, metrics |
+| 10 | [google/skills](https://github.com/google/skills) | +532 | 22,811 | Python | 是 | Python, google, googlecloud, skills |
+| 11 | [microsoft/vscode](https://github.com/microsoft/vscode) | +295 | 195,012 | TypeScript | 否 | TypeScript, editor, electron, microsoft, visual-studio-code |
+| 12 | [nushell/nushell](https://github.com/nushell/nushell) | +177 | 40,972 | Rust | 否 | Rust, nushell, shell |
+| 13 | [etcd-io/etcd](https://github.com/etcd-io/etcd) | +123 | 52,607 | Go | 否 | Go, cncf, consensus, database, distributed-database |
+| 14 | [openssl/openssl](https://github.com/openssl/openssl) | +24 | 31,279 | C | 否 | C, cryptography, decryption, encryption, openssl |
+| 15 | [mattpocock/skills](https://github.com/mattpocock/skills) | +2,058 | 316,667 | Shell | 是 | Shell |
+| 16 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | +2,524 | 63,901 | JavaScript | 是 | JavaScript |
+| 17 | [astral-sh/ruff](https://github.com/astral-sh/ruff) | +213 | 50,678 | Rust | 否 | Rust, linter, pep8, python, python3 |
 
 ## 新热点
 
