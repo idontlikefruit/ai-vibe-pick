@@ -1,26 +1,24 @@
 # GitHub Trending 今日热榜产品分析
 
-> 采集：2026-11-07 ｜ 项目：17 ｜ AI 相关：5（29%）
+> 采集：2026-11-08 ｜ 项目：15 ｜ AI 相关：10（67%）
 
 | # | 项目 | 今日⭐ | 总⭐ | 语言 | AI | tags |
 | :--: | :--- | ---: | ---: | :--- | :--: | :--- |
-| 1 | [zed-industries/zed](https://github.com/zed-industries/zed) | +292 | 93,589 | Rust | 否 | Rust, gpui, rust-lang, text-editor, zed |
-| 2 | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | +2,005 | 8,956 | Python | 是 | Python |
-| 3 | [rails/rails](https://github.com/rails/rails) | +152 | 59,019 | Ruby | 是 | Ruby, activejob, activerecord, framework, html |
-| 4 | [mpv-player/mpv](https://github.com/mpv-player/mpv) | +36 | 37,866 | C | 否 | C, audio, ffmpeg, mplayer, mpv |
-| 5 | [rust-lang/rust](https://github.com/rust-lang/rust) | +186 | 121,431 | Rust | 否 | Rust, compiler, language |
-| 6 | [react/react](https://github.com/react/react) | +244 | 252,245 | JavaScript | 否 | JavaScript, declarative, frontend, library, react |
-| 7 | [angular/angular](https://github.com/angular/angular) | +128 | 101,349 | TypeScript | 否 | TypeScript, angular, javascript, pwa, web |
-| 8 | [symfony/symfony](https://github.com/symfony/symfony) | +89 | 31,421 | PHP | 否 | PHP, bundle, framework, hacktoberfest, php-framework |
-| 9 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | +140 | 67,170 | Go | 否 | Go, alerting, graphing, hacktoberfest, metrics |
-| 10 | [google/skills](https://github.com/google/skills) | +532 | 22,811 | Python | 是 | Python, google, googlecloud, skills |
-| 11 | [microsoft/vscode](https://github.com/microsoft/vscode) | +295 | 195,012 | TypeScript | 否 | TypeScript, editor, electron, microsoft, visual-studio-code |
-| 12 | [nushell/nushell](https://github.com/nushell/nushell) | +177 | 40,972 | Rust | 否 | Rust, nushell, shell |
-| 13 | [etcd-io/etcd](https://github.com/etcd-io/etcd) | +123 | 52,607 | Go | 否 | Go, cncf, consensus, database, distributed-database |
-| 14 | [openssl/openssl](https://github.com/openssl/openssl) | +24 | 31,279 | C | 否 | C, cryptography, decryption, encryption, openssl |
-| 15 | [mattpocock/skills](https://github.com/mattpocock/skills) | +2,058 | 316,667 | Shell | 是 | Shell |
-| 16 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | +2,524 | 63,901 | JavaScript | 是 | JavaScript |
-| 17 | [astral-sh/ruff](https://github.com/astral-sh/ruff) | +213 | 50,678 | Rust | 否 | Rust, linter, pep8, python, python3 |
+| 1 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | +180 | 46,789 | Rust | 是 | Rust |
+| 2 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | +2,088 | 65,645 | JavaScript | 是 | JavaScript |
+| 3 | [google/skills](https://github.com/google/skills) | +449 | 23,365 | Python | 是 | Python, google, googlecloud, skills |
+| 4 | [mattpocock/skills](https://github.com/mattpocock/skills) | +1,111 | 317,662 | Shell | 是 | Shell |
+| 5 | [anthropics/skills](https://github.com/anthropics/skills) | +386 | 188,753 | Python | 是 | Python, agent-skills |
+| 6 | [meta/astryx](https://github.com/meta/astryx) | +185 | 14,459 | TypeScript | 是 | TypeScript |
+| 7 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | +325 | 67,438 | Go | 否 | Go, alerting, graphing, hacktoberfest, metrics |
+| 8 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | +1,819 | 100,376 | Python | 是 | Python, cli, cti, cybersecurity, forensics |
+| 9 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | +1,986 | 16,915 | TypeScript | 是 | TypeScript, ai-agents, claude-code, codex, computer-use |
+| 10 | [astral-sh/ruff](https://github.com/astral-sh/ruff) | +350 | 50,965 | Rust | 否 | Rust, linter, pep8, python, python3 |
+| 11 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) | +181 | 98,447 | TypeScript | 是 | TypeScript, css, css-framework, functional-css, postcss |
+| 12 | [mbillow/localthings](https://github.com/mbillow/localthings) | +184 | 1,047 | Python | 否 | Python, coap-protocol, coap-server, custom-component, dtls |
+| 13 | [zed-industries/zed](https://github.com/zed-industries/zed) | +1,119 | 94,252 | Rust | 否 | Rust, gpui, rust-lang, text-editor, zed |
+| 14 | [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context) | +185 | 4,587 | TypeScript | 否 | TypeScript, dsh-plugin |
+| 15 | [dsx-ai-factory/nvke](https://github.com/dsx-ai-factory/nvke) | +125 | 542 | Go | 是 | Go, bare-metal, cluster-api, gpu, kubernetes |
 
 ## 新热点
 

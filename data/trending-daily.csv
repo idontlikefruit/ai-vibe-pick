@@ -1,18 +1,16 @@
 rank,full_name,name,description,language,stars_today,total_stars,ai_related,tags,license,collected_at
-1,zed-industries/zed,zed,"Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",Rust,292,93589,否,"Rust, gpui, rust-lang, text-editor, zed",NOASSERTION,2026-11-07
-2,NVIDIA/auto-ontology,auto-ontology,"Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",Python,2005,8956,是,Python,Apache-2.0,2026-11-07
-3,rails/rails,rails,Ruby on Rails,Ruby,152,59019,是,"Ruby, activejob, activerecord, framework, html",MIT,2026-11-07
-4,mpv-player/mpv,mpv,🎥 Command line media player,C,36,37866,否,"C, audio, ffmpeg, mplayer, mpv",NOASSERTION,2026-11-07
-5,rust-lang/rust,rust,Empowering everyone to build reliable and efficient software.,Rust,186,121431,否,"Rust, compiler, language",Apache-2.0,2026-11-07
-6,react/react,react,The library for web and native user interfaces.,JavaScript,244,252245,否,"JavaScript, declarative, frontend, library, react",MIT,2026-11-07
-7,angular/angular,angular,Deliver web apps with confidence 🚀,TypeScript,128,101349,否,"TypeScript, angular, javascript, pwa, web",MIT,2026-11-07
-8,symfony/symfony,symfony,The Symfony PHP framework,PHP,89,31421,否,"PHP, bundle, framework, hacktoberfest, php-framework",MIT,2026-11-07
-9,prometheus/prometheus,prometheus,The Prometheus monitoring system and time series database.,Go,140,67170,否,"Go, alerting, graphing, hacktoberfest, metrics",Apache-2.0,2026-11-07
-10,google/skills,skills,Agent Skills for Google products and technologies,Python,532,22811,是,"Python, google, googlecloud, skills",Apache-2.0,2026-11-07
-11,microsoft/vscode,vscode,Visual Studio Code,TypeScript,295,195012,否,"TypeScript, editor, electron, microsoft, visual-studio-code",MIT,2026-11-07
-12,nushell/nushell,nushell,A new type of shell,Rust,177,40972,否,"Rust, nushell, shell",MIT,2026-11-07
-13,etcd-io/etcd,etcd,Distributed reliable key-value store for the most critical data of a distributed system,Go,123,52607,否,"Go, cncf, consensus, database, distributed-database",Apache-2.0,2026-11-07
-14,openssl/openssl,openssl,General purpose TLS and crypto library,C,24,31279,否,"C, cryptography, decryption, encryption, openssl",Apache-2.0,2026-11-07
-15,mattpocock/skills,skills,Skills for Real Engineers. Straight from my .agents directory.,Shell,2058,316667,是,Shell,MIT,2026-11-07
-16,cloudflare/security-audit-skill,security-audit-skill,"A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",JavaScript,2524,63901,是,JavaScript,MIT,2026-11-07
-17,astral-sh/ruff,ruff,"An extremely fast Python linter and code formatter, written in Rust.",Rust,213,50678,否,"Rust, linter, pep8, python, python3",MIT,2026-11-07
+1,vercel-labs/agent-browser,agent-browser,Browser automation CLI for AI agents,Rust,180,46789,是,Rust,Apache-2.0,2026-11-08
+2,cloudflare/security-audit-skill,security-audit-skill,"A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",JavaScript,2088,65645,是,JavaScript,MIT,2026-11-08
+3,google/skills,skills,Agent Skills for Google products and technologies,Python,449,23365,是,"Python, google, googlecloud, skills",Apache-2.0,2026-11-08
+4,mattpocock/skills,skills,Skills for Real Engineers. Straight from my .agents directory.,Shell,1111,317662,是,Shell,MIT,2026-11-08
+5,anthropics/skills,skills,Public repository for Agent Skills,Python,386,188753,是,"Python, agent-skills",NOASSERTION,2026-11-08
+6,meta/astryx,astryx,An open source design system that's fully customizable and agent ready,TypeScript,185,14459,是,TypeScript,MIT,2026-11-08
+7,prometheus/prometheus,prometheus,The Prometheus monitoring system and time series database.,Go,325,67438,否,"Go, alerting, graphing, hacktoberfest, metrics",Apache-2.0,2026-11-08
+8,sherlock-project/sherlock,sherlock,Hunt down social media accounts by username across social networks,Python,1819,100376,是,"Python, cli, cti, cybersecurity, forensics",MIT,2026-11-08
+9,milind-soni/OpenMausBot,OpenMausBot,Open-source Grok Bot alternative with a virtual machine that bots can use,TypeScript,1986,16915,是,"TypeScript, ai-agents, claude-code, codex, computer-use",Apache-2.0,2026-11-08
+10,astral-sh/ruff,ruff,"An extremely fast Python linter and code formatter, written in Rust.",Rust,350,50965,否,"Rust, linter, pep8, python, python3",MIT,2026-11-08
+11,tailwindlabs/tailwindcss,tailwindcss,A utility-first CSS framework for rapid UI development.,TypeScript,181,98447,是,"TypeScript, css, css-framework, functional-css, postcss",MIT,2026-11-08
+12,mbillow/localthings,localthings,"Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",Python,184,1047,否,"Python, coap-protocol, coap-server, custom-component, dtls",MIT,2026-11-08
+13,zed-industries/zed,zed,"Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",Rust,1119,94252,否,"Rust, gpui, rust-lang, text-editor, zed",NOASSERTION,2026-11-08
+14,ranxianglei/billion-context,billion-context,"A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",TypeScript,185,4587,否,"TypeScript, dsh-plugin",NOASSERTION,2026-11-08
+15,dsx-ai-factory/nvke,nvke,NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.,Go,125,542,是,"Go, bare-metal, cluster-api, gpu, kubernetes",Apache-2.0,2026-11-08
