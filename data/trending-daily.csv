@@ -1,16 +1,10 @@
 rank,full_name,name,description,language,stars_today,total_stars,ai_related,tags,license,collected_at
-1,vercel-labs/agent-browser,agent-browser,Browser automation CLI for AI agents,Rust,180,46789,是,Rust,Apache-2.0,2026-11-08
-2,cloudflare/security-audit-skill,security-audit-skill,"A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",JavaScript,2088,65645,是,JavaScript,MIT,2026-11-08
-3,google/skills,skills,Agent Skills for Google products and technologies,Python,449,23365,是,"Python, google, googlecloud, skills",Apache-2.0,2026-11-08
-4,mattpocock/skills,skills,Skills for Real Engineers. Straight from my .agents directory.,Shell,1111,317662,是,Shell,MIT,2026-11-08
-5,anthropics/skills,skills,Public repository for Agent Skills,Python,386,188753,是,"Python, agent-skills",NOASSERTION,2026-11-08
-6,meta/astryx,astryx,An open source design system that's fully customizable and agent ready,TypeScript,185,14459,是,TypeScript,MIT,2026-11-08
-7,prometheus/prometheus,prometheus,The Prometheus monitoring system and time series database.,Go,325,67438,否,"Go, alerting, graphing, hacktoberfest, metrics",Apache-2.0,2026-11-08
-8,sherlock-project/sherlock,sherlock,Hunt down social media accounts by username across social networks,Python,1819,100376,是,"Python, cli, cti, cybersecurity, forensics",MIT,2026-11-08
-9,milind-soni/OpenMausBot,OpenMausBot,Open-source Grok Bot alternative with a virtual machine that bots can use,TypeScript,1986,16915,是,"TypeScript, ai-agents, claude-code, codex, computer-use",Apache-2.0,2026-11-08
-10,astral-sh/ruff,ruff,"An extremely fast Python linter and code formatter, written in Rust.",Rust,350,50965,否,"Rust, linter, pep8, python, python3",MIT,2026-11-08
-11,tailwindlabs/tailwindcss,tailwindcss,A utility-first CSS framework for rapid UI development.,TypeScript,181,98447,是,"TypeScript, css, css-framework, functional-css, postcss",MIT,2026-11-08
-12,mbillow/localthings,localthings,"Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",Python,184,1047,否,"Python, coap-protocol, coap-server, custom-component, dtls",MIT,2026-11-08
-13,zed-industries/zed,zed,"Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",Rust,1119,94252,否,"Rust, gpui, rust-lang, text-editor, zed",NOASSERTION,2026-11-08
-14,ranxianglei/billion-context,billion-context,"A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",TypeScript,185,4587,否,"TypeScript, dsh-plugin",NOASSERTION,2026-11-08
-15,dsx-ai-factory/nvke,nvke,NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.,Go,125,542,是,"Go, bare-metal, cluster-api, gpu, kubernetes",Apache-2.0,2026-11-08
+1,sherlock-project/sherlock,sherlock,Hunt down social media accounts by username across social networks,Python,2372,103363,是,"Python, cli, cti, cybersecurity, forensics",MIT,2026-11-09
+2,dsx-ai-factory/nvke,nvke,NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.,Go,345,828,是,"Go, bare-metal, cluster-api, gpu, kubernetes",Apache-2.0,2026-11-09
+3,milind-soni/OpenMausBot,OpenMausBot,Open-source Grok Bot alternative with a virtual machine that bots can use,TypeScript,1437,18199,是,"TypeScript, ai-agents, claude-code, codex, computer-use",Apache-2.0,2026-11-09
+4,anthropics/claude-quickstarts,claude-quickstarts,A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API,Python,28,19394,是,Python,MIT,2026-11-09
+5,vercel-labs/agent-browser,agent-browser,Browser automation CLI for AI agents,Rust,812,47552,是,Rust,Apache-2.0,2026-11-09
+6,meta/astryx,astryx,An open source design system that's fully customizable and agent ready,TypeScript,863,16607,是,TypeScript,MIT,2026-11-09
+7,anthropics/skills,skills,Public repository for Agent Skills,Python,793,189589,是,"Python, agent-skills",NOASSERTION,2026-11-09
+8,google-deepmind/mujoco,mujoco,Multi-Joint dynamics with Contact. A general purpose physics simulator.,C++,26,16382,否,"C++, mujoco, physics, robotics",Apache-2.0,2026-11-09
+9,ranxianglei/billion-context,billion-context,"A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",TypeScript,460,5111,否,"TypeScript, dsh-plugin",NOASSERTION,2026-11-09
