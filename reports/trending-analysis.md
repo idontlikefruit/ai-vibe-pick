@@ -1,18 +1,20 @@
 # GitHub Trending 今日热榜产品分析
 
-> 采集：2026-11-09 ｜ 项目：9 ｜ AI 相关：7（78%）
+> 采集：2026-11-10 ｜ 项目：11 ｜ AI 相关：10（91%）
 
 | # | 项目 | 今日⭐ | 总⭐ | 语言 | AI | tags |
 | :--: | :--- | ---: | ---: | :--- | :--: | :--- |
-| 1 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | +2,372 | 103,363 | Python | 是 | Python, cli, cti, cybersecurity, forensics |
-| 2 | [dsx-ai-factory/nvke](https://github.com/dsx-ai-factory/nvke) | +345 | 828 | Go | 是 | Go, bare-metal, cluster-api, gpu, kubernetes |
-| 3 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | +1,437 | 18,199 | TypeScript | 是 | TypeScript, ai-agents, claude-code, codex, computer-use |
-| 4 | [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | +28 | 19,394 | Python | 是 | Python |
-| 5 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | +812 | 47,552 | Rust | 是 | Rust |
-| 6 | [meta/astryx](https://github.com/meta/astryx) | +863 | 16,607 | TypeScript | 是 | TypeScript |
-| 7 | [anthropics/skills](https://github.com/anthropics/skills) | +793 | 189,589 | Python | 是 | Python, agent-skills |
-| 8 | [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) | +26 | 16,382 | C++ | 否 | C++, mujoco, physics, robotics |
-| 9 | [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context) | +460 | 5,111 | TypeScript | 否 | TypeScript, dsh-plugin |
+| 1 | [anthropics/skills](https://github.com/anthropics/skills) | +1,052 | 190,903 | Python | 是 | Python, agent-skills |
+| 2 | [meta/astryx](https://github.com/meta/astryx) | +3,324 | 19,908 | TypeScript | 是 | TypeScript |
+| 3 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | +4,294 | 106,942 | Python | 是 | Python, cli, cti, cybersecurity, forensics |
+| 4 | [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) | +579 | 16,888 | C++ | 否 | C++, mujoco, physics, robotics |
+| 5 | [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | +560 | 19,990 | Python | 是 | Python |
+| 6 | [garrytan/gbrain](https://github.com/garrytan/gbrain) | +215 | 32,118 | TypeScript | 是 | TypeScript |
+| 7 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | +914 | 48,432 | Rust | 是 | Rust |
+| 8 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | +245 | 103,414 | Rust | 是 | Rust, claude, claude-code, esp32, firmware |
+| 9 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | +505 | 68,801 | Python | 是 | Python, a-stock, ai-agent, aigc, llm |
+| 10 | [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | +31 | 5,929 | Python | 是 | Python, ai, claude, hacs, home-assistant |
+| 11 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | +1,589 | 19,626 | TypeScript | 是 | TypeScript, ai-agents, claude-code, codex, computer-use |
 
 ## 新热点
 
