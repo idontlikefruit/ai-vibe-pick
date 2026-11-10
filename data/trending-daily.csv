@@ -1,12 +1,13 @@
 rank,full_name,name,description,language,stars_today,total_stars,ai_related,tags,license,collected_at
-1,anthropics/skills,skills,Public repository for Agent Skills,Python,1052,190903,是,"Python, agent-skills",NOASSERTION,2026-11-10
-2,meta/astryx,astryx,An open source design system that's fully customizable and agent ready,TypeScript,3324,19908,是,TypeScript,MIT,2026-11-10
-3,sherlock-project/sherlock,sherlock,Hunt down social media accounts by username across social networks,Python,4294,106942,是,"Python, cli, cti, cybersecurity, forensics",MIT,2026-11-10
-4,google-deepmind/mujoco,mujoco,Multi-Joint dynamics with Contact. A general purpose physics simulator.,C++,579,16888,否,"C++, mujoco, physics, robotics",Apache-2.0,2026-11-10
-5,anthropics/claude-quickstarts,claude-quickstarts,A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API,Python,560,19990,是,Python,MIT,2026-11-10
-6,garrytan/gbrain,gbrain,Garry's Opinionated OpenClaw/Hermes Agent Brain,TypeScript,215,32118,是,TypeScript,MIT,2026-11-10
-7,vercel-labs/agent-browser,agent-browser,Browser automation CLI for AI agents,Rust,914,48432,是,Rust,Apache-2.0,2026-11-10
-8,ruvnet/RuView,RuView,"π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",Rust,245,103414,是,"Rust, claude, claude-code, esp32, firmware",MIT,2026-11-10
-9,ZhuLinsen/daily_stock_analysis,daily_stock_analysis,"LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",Python,505,68801,是,"Python, a-stock, ai-agent, aigc, llm",MIT,2026-11-10
-10,homeassistant-ai/ha-mcp,ha-mcp,"Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",Python,31,5929,是,"Python, ai, claude, hacs, home-assistant",MIT,2026-11-10
-11,milind-soni/OpenMausBot,OpenMausBot,Open-source Grok Bot alternative with a virtual machine that bots can use,TypeScript,1589,19626,是,"TypeScript, ai-agents, claude-code, codex, computer-use",Apache-2.0,2026-11-10
+1,meta/astryx,astryx,An open source design system that's fully customizable and agent ready,TypeScript,3111,22692,是,TypeScript,MIT,2026-11-11
+2,anthropics/skills,skills,Public repository for Agent Skills,Python,1676,192272,是,"Python, agent-skills",NOASSERTION,2026-11-11
+3,addyosmani/agent-skills,agent-skills,Production-grade engineering skills for AI coding agents.,JavaScript,465,115125,是,"JavaScript, agent-skills, antigravity, claude-code, codex",MIT,2026-11-11
+4,anthropics/claude-quickstarts,claude-quickstarts,A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API,Python,530,20472,是,Python,MIT,2026-11-11
+5,google-deepmind/mujoco,mujoco,Multi-Joint dynamics with Contact. A general purpose physics simulator.,C++,453,17333,否,"C++, mujoco, physics, robotics",Apache-2.0,2026-11-11
+6,we-promise/sure,sure,The personal finance app for everyone (by everyone),Ruby,184,11892,否,Ruby,AGPL-3.0,2026-11-11
+7,homeassistant-ai/ha-mcp,ha-mcp,"Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",Python,792,6610,是,"Python, ai, claude, hacs, home-assistant",MIT,2026-11-11
+8,vercel-labs/agent-browser,agent-browser,Browser automation CLI for AI agents,Rust,775,49171,是,Rust,Apache-2.0,2026-11-11
+9,sherlock-project/sherlock,sherlock,Hunt down social media accounts by username across social networks,Python,2387,108902,是,"Python, cli, cti, cybersecurity, forensics",MIT,2026-11-11
+10,tokio-rs/topcoat,topcoat,A batteries-included framework for building web apps,Rust,192,6779,否,Rust,MIT,2026-11-11
+11,ranxianglei/billion-context,billion-context,"A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",TypeScript,374,6282,否,"TypeScript, dsh-plugin",NOASSERTION,2026-11-11
+12,mattpocock/skills,skills,Skills for Real Engineers. Straight from my .agents directory.,Shell,1223,320872,是,Shell,MIT,2026-11-11

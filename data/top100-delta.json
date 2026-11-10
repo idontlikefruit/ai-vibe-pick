@@ -1,5 +1,9 @@
 {
-  "date": "2026-11-10",
-  "added": [],
-  "removed": []
+  "date": "2026-11-11",
+  "added": [
+    "stablyai/orca"
+  ],
+  "removed": [
+    "2dust/v2rayN"
+  ]
 }
