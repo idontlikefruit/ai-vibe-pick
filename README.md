@@ -9,7 +9,7 @@
 ![Top100](https://img.shields.io/badge/Top--100_AI-33-orange.svg)
 ![Stars](https://img.shields.io/github/stars/idontlikefruit/ai-vibe-pick?style=social)
 ![Last Commit](https://img.shields.io/github/last-commit/idontlikefruit/ai-vibe-pick)
-![Data](https://img.shields.io/badge/data%20as%20of-2026--11--11-brightgreen)
+![Data](https://img.shields.io/badge/data%20as%20of-2026--11--12-brightgreen)
 
 </div>
 
@@ -58,9 +58,9 @@
 
 ## 📊 全站历史总榜 Top-100 分析
 
-> 来源：[EvanLi/Github-Ranking · Top-100-stars](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Top-100-stars.md) ｜ 采集：2026-11-11 ｜ 数据：[`data/top-100-stars.csv`](data/top-100-stars.csv) · [`data/source-top-100-stars.md`](data/source-top-100-stars.md)
+> 来源：[EvanLi/Github-Ranking · Top-100-stars](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Top-100-stars.md) ｜ 采集：2026-11-12 ｜ 数据：[`data/top-100-stars.csv`](data/top-100-stars.csv) · [`data/source-top-100-stars.md`](data/source-top-100-stars.md)
 
-**一句话结论**：GitHub 全站历史 Star 总榜前 100 里，**33 个是 AI / Agent 生态项目**。本次新增 `stablyai/orca`；移出 `2dust/v2rayN`。
+**一句话结论**：GitHub 全站历史 Star 总榜前 100 里，**33 个是 AI / Agent 生态项目**。本次无新进入或移出。
 
 ### 类别分布（人工分类，共 100）
 
@@ -195,31 +195,28 @@
 
 ### 本次更新变化
 
-- **新进入 Top-100**：[`stablyai/orca`](https://github.com/stablyai/orca)
-- **移出 Top-100**：[`2dust/v2rayN`](https://github.com/2dust/v2rayN)
+- 本次 Top-100 名单无新进入或移出。
 
 ---
 
 ## 🔥 Trending 今日热榜产品分析
 
-> 来源：https://github.com/trending （全语言 daily）｜采集：2026-11-11 ｜ 数据：[`data/trending-daily.csv`](data/trending-daily.csv) · 完整分析：[`reports/trending-analysis.md`](reports/trending-analysis.md)
+> 来源：https://github.com/trending （全语言 daily）｜采集：2026-11-12 ｜ 数据：[`data/trending-daily.csv`](data/trending-daily.csv) · 完整分析：[`reports/trending-analysis.md`](reports/trending-analysis.md)
 
 | 项目 | ⭐ Stars | 今日 ⭐ | 主语言 | AI 相关 | 框架 tags | 简介 |
 | :--- | ---: | ---: | :--- | :---: | :--- | :--- |
-| [meta/astryx](https://github.com/meta/astryx) | 22,692 | +3,111 | TypeScript | 是 | TypeScript | An open source design system that's ful… |
-| [anthropics/skills](https://github.com/anthropics/skills) | 192,272 | +1,676 | Python | 是 | Python, agent-skills | Public repository for Agent Skills |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 115,125 | +465 | JavaScript | 是 | JavaScript, agent-skills, antigra… | Production-grade engineering skills for… |
-| [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | 20,472 | +530 | Python | 是 | Python | A collection of projects designed to he… |
-| [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) | 17,333 | +453 | C++ | 否 | C++, mujoco, physics, robotics | Multi-Joint dynamics with Contact. A ge… |
-| [we-promise/sure](https://github.com/we-promise/sure) | 11,892 | +184 | Ruby | 否 | Ruby | The personal finance app for everyone (… |
-| [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | 6,610 | +792 | Python | 是 | Python, ai, claude, hacs, home-as… | Configure and automate Home Assistant w… |
-| [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 49,171 | +775 | Rust | 是 | Rust | Browser automation CLI for AI agents |
-| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 108,902 | +2,387 | Python | 是 | Python, cli, cti, cybersecurity, … | Hunt down social media accounts by user… |
-| [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) | 6,779 | +192 | Rust | 否 | Rust | A batteries-included framework for buil… |
-| [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context) | 6,282 | +374 | TypeScript | 否 | TypeScript, dsh-plugin | A context-compression plugin for month-… |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 320,872 | +1,223 | Shell | 是 | Shell | Skills for Real Engineers. Straight fro… |
+| [meta/astryx](https://github.com/meta/astryx) | 24,895 | +2,842 | TypeScript | 是 | TypeScript | An open source design system that's ful… |
+| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 70,177 | +429 | Python | 是 | Python, a-stock, ai-agent, aigc, … | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，… |
+| [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | 1,717 | +133 | TypeScript | 否 | TypeScript | — |
+| [shadcn/improve](https://github.com/shadcn/improve) | 10,831 | +333 | 未标注 | 否 | 未标注 | Use your most capable model to audit yo… |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 115,905 | +788 | JavaScript | 是 | JavaScript, agent-skills, antigra… | Production-grade engineering skills for… |
+| [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 49,839 | +712 | Rust | 是 | Rust | Browser automation CLI for AI agents |
+| [we-promise/sure](https://github.com/we-promise/sure) | 12,918 | +1,079 | Ruby | 否 | Ruby | The personal finance app for everyone (… |
+| [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | 7,332 | +640 | Python | 是 | Python, ai, claude, hacs, home-as… | Configure and automate Home Assistant w… |
+| [openai/codex-security](https://github.com/openai/codex-security) | 11,690 | +20 | TypeScript | 是 | TypeScript, ai-security, applicat… | OpenAI's Codex Security CLI and TypeScr… |
+| [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) | 67,001 | +108 | Java | 否 | Java, algorithm, algorithm-challe… | All Algorithms implemented in Java |
 
-**产品分析**：今日热榜共 **12** 个项目，其中 AI 相关 **8 个（67%）**。新热点集中在：AI Agent 工程教程、代码知识图谱/MCP、异构 LLM 推理、Voice AI、Coding Agent、Computer Use 与 GenBI。
+**产品分析**：今日热榜共 **10** 个项目，其中 AI 相关 **6 个（60%）**。新热点集中在：AI Agent 工程教程、代码知识图谱/MCP、异构 LLM 推理、Voice AI、Coding Agent、Computer Use 与 GenBI。
 
 ---
 
@@ -236,7 +233,7 @@
 
 ## 📋 全部项目元数据（134 个）
 
-> 以 `full_name` 为主键 **upsert（更新或插入）** 合并三个来源：`projects.csv`(curated) + `top-100-stars.csv` + `trending-daily.csv` → 共 **134 个**，其中 AI 相关 63 个、Top-100 项目 100 个、今日 Trending 项目 12 个。
+> 以 `full_name` 为主键 **upsert（更新或插入）** 合并三个来源：`projects.csv`(curated) + `top-100-stars.csv` + `trending-daily.csv` → 共 **134 个**，其中 AI 相关 63 个、Top-100 项目 100 个、今日 Trending 项目 10 个。
 > 生成脚本：`python3 scripts/refresh_sources.py && python3 scripts/upsert_metadata.py && python3 scripts/generate_reports.py`（幂等，保留人工技术栈字段）。
 > 每个项目一张完整元数据卡片见 [`reports/all-projects-metadata.md`](reports/all-projects-metadata.md)；Top-100 单独的完整卡片见 [`reports/top-100-metadata.md`](reports/top-100-metadata.md)。
 
@@ -323,7 +320,7 @@ ai-vibe-pick/
 │   ├── top-100-stars.csv           # Top-100 结构化(含 category/ai_related/tags)
 │   ├── projects.csv                # 36 个 AI 项目技术选型
 │   ├── merged-ai-projects.csv      # 合并去重 56 个(含 tags/source/rank_top100)
-│   ├── trending-daily.csv         # Trending 今日热榜(12 个,含 ai_related/tags)
+│   ├── trending-daily.csv         # Trending 今日热榜(10 个,含 ai_related/tags)
 │   └── projects-metadata.csv      # ✅ 规范化元数据存储(134 个,upsert 生成)
 └── reports/
     ├── summary.md                 # 36 个 AI 项目技术选型统计
@@ -345,7 +342,7 @@ ai-vibe-pick/
 | [`reports/all-projects-metadata.md`](reports/all-projects-metadata.md) | **134 个项目完整元数据卡片**，每项一张 |
 | [`reports/top-100-metadata.md`](reports/top-100-metadata.md) | Top-100 完整元数据卡片（100 张） |
 | [`reports/merged-ai-projects.md`](reports/merged-ai-projects.md) | 合并 56 个总表（含技术栈 tags 列） |
-| [`data/trending-daily.csv`](data/trending-daily.csv) | Trending 今日热榜 12 个（今日新增/总 star/语言/AI相关/tags） |
+| [`data/trending-daily.csv`](data/trending-daily.csv) | Trending 今日热榜 10 个（今日新增/总 star/语言/AI相关/tags） |
 | [`reports/trending-analysis.md`](reports/trending-analysis.md) | Trending 产品分析（AI 浓度/Skills 生态/垂直 Agent） |
 | [`reports/summary.md`](reports/summary.md) | 36 个 AI 项目选型统计 + 分布图表 + 选型建议 |
 | [`data/top-100-stars.csv`](data/top-100-stars.csv) | 全站历史总榜 Top-100（rank/stars/forks/language/category/ai_related/tags） |

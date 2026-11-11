@@ -1,21 +1,19 @@
 # GitHub Trending 今日热榜产品分析
 
-> 采集：2026-11-11 ｜ 项目：12 ｜ AI 相关：8（67%）
+> 采集：2026-11-12 ｜ 项目：10 ｜ AI 相关：6（60%）
 
 | # | 项目 | 今日⭐ | 总⭐ | 语言 | AI | tags |
 | :--: | :--- | ---: | ---: | :--- | :--: | :--- |
-| 1 | [meta/astryx](https://github.com/meta/astryx) | +3,111 | 22,692 | TypeScript | 是 | TypeScript |
-| 2 | [anthropics/skills](https://github.com/anthropics/skills) | +1,676 | 192,272 | Python | 是 | Python, agent-skills |
-| 3 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | +465 | 115,125 | JavaScript | 是 | JavaScript, agent-skills, antigravity, claude-code, codex |
-| 4 | [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | +530 | 20,472 | Python | 是 | Python |
-| 5 | [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) | +453 | 17,333 | C++ | 否 | C++, mujoco, physics, robotics |
-| 6 | [we-promise/sure](https://github.com/we-promise/sure) | +184 | 11,892 | Ruby | 否 | Ruby |
-| 7 | [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | +792 | 6,610 | Python | 是 | Python, ai, claude, hacs, home-assistant |
-| 8 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | +775 | 49,171 | Rust | 是 | Rust |
-| 9 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | +2,387 | 108,902 | Python | 是 | Python, cli, cti, cybersecurity, forensics |
-| 10 | [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) | +192 | 6,779 | Rust | 否 | Rust |
-| 11 | [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context) | +374 | 6,282 | TypeScript | 否 | TypeScript, dsh-plugin |
-| 12 | [mattpocock/skills](https://github.com/mattpocock/skills) | +1,223 | 320,872 | Shell | 是 | Shell |
+| 1 | [meta/astryx](https://github.com/meta/astryx) | +2,842 | 24,895 | TypeScript | 是 | TypeScript |
+| 2 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | +429 | 70,177 | Python | 是 | Python, a-stock, ai-agent, aigc, llm |
+| 3 | [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | +133 | 1,717 | TypeScript | 否 | TypeScript |
+| 4 | [shadcn/improve](https://github.com/shadcn/improve) | +333 | 10,831 | 未标注 | 否 | 未标注 |
+| 5 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | +788 | 115,905 | JavaScript | 是 | JavaScript, agent-skills, antigravity, claude-code, codex |
+| 6 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | +712 | 49,839 | Rust | 是 | Rust |
+| 7 | [we-promise/sure](https://github.com/we-promise/sure) | +1,079 | 12,918 | Ruby | 否 | Ruby |
+| 8 | [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | +640 | 7,332 | Python | 是 | Python, ai, claude, hacs, home-assistant |
+| 9 | [openai/codex-security](https://github.com/openai/codex-security) | +20 | 11,690 | TypeScript | 是 | TypeScript, ai-security, application-security, cli, code-scanning |
+| 10 | [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) | +108 | 67,001 | Java | 否 | Java, algorithm, algorithm-challenges, algorithms, algorithms-datastructures |
 
 ## 新热点
 

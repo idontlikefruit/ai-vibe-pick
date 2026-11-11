@@ -1,13 +1,11 @@
 rank,full_name,name,description,language,stars_today,total_stars,ai_related,tags,license,collected_at
-1,meta/astryx,astryx,An open source design system that's fully customizable and agent ready,TypeScript,3111,22692,是,TypeScript,MIT,2026-11-11
-2,anthropics/skills,skills,Public repository for Agent Skills,Python,1676,192272,是,"Python, agent-skills",NOASSERTION,2026-11-11
-3,addyosmani/agent-skills,agent-skills,Production-grade engineering skills for AI coding agents.,JavaScript,465,115125,是,"JavaScript, agent-skills, antigravity, claude-code, codex",MIT,2026-11-11
-4,anthropics/claude-quickstarts,claude-quickstarts,A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API,Python,530,20472,是,Python,MIT,2026-11-11
-5,google-deepmind/mujoco,mujoco,Multi-Joint dynamics with Contact. A general purpose physics simulator.,C++,453,17333,否,"C++, mujoco, physics, robotics",Apache-2.0,2026-11-11
-6,we-promise/sure,sure,The personal finance app for everyone (by everyone),Ruby,184,11892,否,Ruby,AGPL-3.0,2026-11-11
-7,homeassistant-ai/ha-mcp,ha-mcp,"Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",Python,792,6610,是,"Python, ai, claude, hacs, home-assistant",MIT,2026-11-11
-8,vercel-labs/agent-browser,agent-browser,Browser automation CLI for AI agents,Rust,775,49171,是,Rust,Apache-2.0,2026-11-11
-9,sherlock-project/sherlock,sherlock,Hunt down social media accounts by username across social networks,Python,2387,108902,是,"Python, cli, cti, cybersecurity, forensics",MIT,2026-11-11
-10,tokio-rs/topcoat,topcoat,A batteries-included framework for building web apps,Rust,192,6779,否,Rust,MIT,2026-11-11
-11,ranxianglei/billion-context,billion-context,"A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",TypeScript,374,6282,否,"TypeScript, dsh-plugin",NOASSERTION,2026-11-11
-12,mattpocock/skills,skills,Skills for Real Engineers. Straight from my .agents directory.,Shell,1223,320872,是,Shell,MIT,2026-11-11
+1,meta/astryx,astryx,An open source design system that's fully customizable and agent ready,TypeScript,2842,24895,是,TypeScript,MIT,2026-11-12
+2,ZhuLinsen/daily_stock_analysis,daily_stock_analysis,"LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",Python,429,70177,是,"Python, a-stock, ai-agent, aigc, llm",MIT,2026-11-12
+3,GoogleChrome/modern-web-guidance-src,modern-web-guidance-src,,TypeScript,133,1717,否,TypeScript,Apache-2.0,2026-11-12
+4,shadcn/improve,improve,Use your most capable model to audit your codebase and write plans for cheaper models to execute.,未标注,333,10831,否,未标注,MIT,2026-11-12
+5,addyosmani/agent-skills,agent-skills,Production-grade engineering skills for AI coding agents.,JavaScript,788,115905,是,"JavaScript, agent-skills, antigravity, claude-code, codex",MIT,2026-11-12
+6,vercel-labs/agent-browser,agent-browser,Browser automation CLI for AI agents,Rust,712,49839,是,Rust,Apache-2.0,2026-11-12
+7,we-promise/sure,sure,The personal finance app for everyone (by everyone),Ruby,1079,12918,否,Ruby,AGPL-3.0,2026-11-12
+8,homeassistant-ai/ha-mcp,ha-mcp,"Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",Python,640,7332,是,"Python, ai, claude, hacs, home-assistant",MIT,2026-11-12
+9,openai/codex-security,codex-security,"OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",TypeScript,20,11690,是,"TypeScript, ai-security, application-security, cli, code-scanning",Apache-2.0,2026-11-12
+10,TheAlgorithms/Java,Java,All Algorithms implemented in Java,Java,108,67001,否,"Java, algorithm, algorithm-challenges, algorithms, algorithms-datastructures",MIT,2026-11-12
