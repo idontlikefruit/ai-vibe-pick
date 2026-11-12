@@ -1,11 +1,14 @@
 rank,full_name,name,description,language,stars_today,total_stars,ai_related,tags,license,collected_at
-1,meta/astryx,astryx,An open source design system that's fully customizable and agent ready,TypeScript,2842,24895,是,TypeScript,MIT,2026-11-12
-2,ZhuLinsen/daily_stock_analysis,daily_stock_analysis,"LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",Python,429,70177,是,"Python, a-stock, ai-agent, aigc, llm",MIT,2026-11-12
-3,GoogleChrome/modern-web-guidance-src,modern-web-guidance-src,,TypeScript,133,1717,否,TypeScript,Apache-2.0,2026-11-12
-4,shadcn/improve,improve,Use your most capable model to audit your codebase and write plans for cheaper models to execute.,未标注,333,10831,否,未标注,MIT,2026-11-12
-5,addyosmani/agent-skills,agent-skills,Production-grade engineering skills for AI coding agents.,JavaScript,788,115905,是,"JavaScript, agent-skills, antigravity, claude-code, codex",MIT,2026-11-12
-6,vercel-labs/agent-browser,agent-browser,Browser automation CLI for AI agents,Rust,712,49839,是,Rust,Apache-2.0,2026-11-12
-7,we-promise/sure,sure,The personal finance app for everyone (by everyone),Ruby,1079,12918,否,Ruby,AGPL-3.0,2026-11-12
-8,homeassistant-ai/ha-mcp,ha-mcp,"Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",Python,640,7332,是,"Python, ai, claude, hacs, home-assistant",MIT,2026-11-12
-9,openai/codex-security,codex-security,"OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",TypeScript,20,11690,是,"TypeScript, ai-security, application-security, cli, code-scanning",Apache-2.0,2026-11-12
-10,TheAlgorithms/Java,Java,All Algorithms implemented in Java,Java,108,67001,否,"Java, algorithm, algorithm-challenges, algorithms, algorithms-datastructures",MIT,2026-11-12
+1,GoogleChrome/modern-web-guidance-src,modern-web-guidance-src,Keep your coding agent up to date with the latest web best practices,TypeScript,799,2844,是,TypeScript,Apache-2.0,2026-11-13
+2,openai/codex-security,codex-security,"OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",TypeScript,663,12382,是,"TypeScript, ai-security, application-security, cli, code-scanning",Apache-2.0,2026-11-13
+3,nvm-sh/nvm,nvm,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.,Shell,107,96000,否,"Shell, bash, install, lts, node",MIT,2026-11-13
+4,pookjw/HermesEnabler,HermesEnabler,Enable Hermès Watch Faces on any Apple Watch devices,Objective-C,300,1516,否,Objective-C,MIT,2026-11-13
+5,we-promise/sure,sure,The personal finance app for everyone (by everyone),Ruby,974,13874,否,Ruby,AGPL-3.0,2026-11-13
+6,QwenLM/qwen-code,qwen-code,An open-source AI coding agent that lives in your terminal.,TypeScript,151,29781,是,"TypeScript, agentic, ai, ai-agent, ai-coding",Apache-2.0,2026-11-13
+7,ashhart/TensorFold,TensorFold,"LLM Inference Engine for Metal, CUDA and Vulkan.",Zig,94,1926,是,"Zig, ai, ai-tools, llm, llm-inference",Apache-2.0,2026-11-13
+8,nodejs/node,node,Node.js JavaScript runtime ✨🐢🚀✨,JavaScript,133,123588,否,"JavaScript, C++, 运行时",NOASSERTION,2026-11-13
+9,addyosmani/agent-skills,agent-skills,Production-grade engineering skills for AI coding agents.,JavaScript,812,116645,是,"JavaScript, agent-skills, antigravity, claude-code, codex",MIT,2026-11-13
+10,meta/astryx,astryx,An open source design system that's fully customizable and agent ready,TypeScript,1789,26469,是,TypeScript,MIT,2026-11-13
+11,CopilotKit/OpenBot,OpenBot,"Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",TypeScript,291,11569,是,"TypeScript, ag-ui, agent-governance, ai-agents, browser-automation",MIT,2026-11-13
+12,Alishahryar1/free-claude-code,free-claude-code,"Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",Python,461,69255,是,Python,NOASSERTION,2026-11-13
+13,ggml-org/llama.cpp,llama.cpp,LLM inference in C/C++,C++,287,134528,是,"C++, ggml",MIT,2026-11-13
