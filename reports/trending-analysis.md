@@ -1,22 +1,21 @@
 # GitHub Trending 今日热榜产品分析
 
-> 采集：2026-11-13 ｜ 项目：13 ｜ AI 相关：9（69%）
+> 采集：2026-11-14 ｜ 项目：12 ｜ AI 相关：9（75%）
 
 | # | 项目 | 今日⭐ | 总⭐ | 语言 | AI | tags |
 | :--: | :--- | ---: | ---: | :--- | :--: | :--- |
-| 1 | [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | +799 | 2,844 | TypeScript | 是 | TypeScript |
-| 2 | [openai/codex-security](https://github.com/openai/codex-security) | +663 | 12,382 | TypeScript | 是 | TypeScript, ai-security, application-security, cli, code-scanning |
-| 3 | [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | +107 | 96,000 | Shell | 否 | Shell, bash, install, lts, node |
-| 4 | [pookjw/HermesEnabler](https://github.com/pookjw/HermesEnabler) | +300 | 1,516 | Objective-C | 否 | Objective-C |
-| 5 | [we-promise/sure](https://github.com/we-promise/sure) | +974 | 13,874 | Ruby | 否 | Ruby |
-| 6 | [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | +151 | 29,781 | TypeScript | 是 | TypeScript, agentic, ai, ai-agent, ai-coding |
-| 7 | [ashhart/TensorFold](https://github.com/ashhart/TensorFold) | +94 | 1,926 | Zig | 是 | Zig, ai, ai-tools, llm, llm-inference |
-| 8 | [nodejs/node](https://github.com/nodejs/node) | +133 | 123,588 | JavaScript | 否 | JavaScript, C++, 运行时 |
-| 9 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | +812 | 116,645 | JavaScript | 是 | JavaScript, agent-skills, antigravity, claude-code, codex |
-| 10 | [meta/astryx](https://github.com/meta/astryx) | +1,789 | 26,469 | TypeScript | 是 | TypeScript |
-| 11 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | +291 | 11,569 | TypeScript | 是 | TypeScript, ag-ui, agent-governance, ai-agents, browser-automation |
-| 12 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | +461 | 69,255 | Python | 是 | Python |
-| 13 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | +287 | 134,528 | C++ | 是 | C++, ggml |
+| 1 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | +215 | 50,914 | Go | 是 | Go, AI, 代码审查 |
+| 2 | [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | +1,925 | 5,161 | TypeScript | 是 | TypeScript |
+| 3 | [openai/codex-security](https://github.com/openai/codex-security) | +751 | 13,317 | TypeScript | 是 | TypeScript, ai-security, application-security, cli, code-scanning |
+| 4 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | +256 | 71,946 | Python | 是 | Python, a-stock, ai-agent, aigc, llm |
+| 5 | [we-promise/sure](https://github.com/we-promise/sure) | +925 | 14,928 | Ruby | 否 | Ruby |
+| 6 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | +108 | 10,598 | TypeScript | 是 | TypeScript, agents, claude-code, code-review, codex |
+| 7 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | +71 | 93,983 | JavaScript | 否 | JavaScript, docker, monitor, monitoring, responsive |
+| 8 | [block/buzz](https://github.com/block/buzz) | +97 | 37,382 | Rust | 否 | Rust, 通信平台 |
+| 9 | [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | +69 | 4,347 | Python | 是 | Python |
+| 10 | [tailscale/tailcat](https://github.com/tailscale/tailcat) | +256 | 9,605 | Go | 是 | Go |
+| 11 | [Likely7/Veyra-NRVideo](https://github.com/Likely7/Veyra-NRVideo) | +256 | 1,752 | C++ | 是 | C++ |
+| 12 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | +67 | 55,759 | TypeScript | 是 | TypeScript, browser, chrome, chrome-devtools, debugging |
 
 ## 新热点
 
