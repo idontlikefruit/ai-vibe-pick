@@ -1,24 +1,21 @@
 # GitHub Trending 今日热榜产品分析
 
-> 采集：2026-11-15 ｜ 项目：15 ｜ AI 相关：13（87%）
+> 采集：2026-11-16 ｜ 项目：12 ｜ AI 相关：12（100%）
 
 | # | 项目 | 今日⭐ | 总⭐ | 语言 | AI | tags |
 | :--: | :--- | ---: | ---: | :--- | :--: | :--- |
-| 1 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | +412 | 11,094 | TypeScript | 是 | TypeScript, agents, claude-code, code-review, codex |
-| 2 | [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | +1,225 | 5,989 | TypeScript | 是 | TypeScript |
-| 3 | [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | +556 | 4,779 | Python | 是 | Python |
-| 4 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | +673 | 56,272 | TypeScript | 是 | TypeScript, browser, chrome, chrome-devtools, debugging |
-| 5 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | +897 | 51,404 | Go | 是 | Go, AI, 代码审查 |
-| 6 | [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | +116 | 30,316 | TypeScript | 是 | TypeScript, agentic, ai, ai-agent, ai-coding |
-| 7 | [dream-num/univer](https://github.com/dream-num/univer) | +495 | 24,462 | TypeScript | 是 | TypeScript, board, collaboration, doc, docx |
-| 8 | [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | +9 | 17,346 | TypeScript | 是 | TypeScript, ag-ui-protocol, agent-frontend, agent-ui, agentic-workflow |
-| 9 | [ashhart/TensorFold](https://github.com/ashhart/TensorFold) | +53 | 2,154 | Zig | 是 | Zig, ai, ai-tools, llm, llm-inference |
-| 10 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | +227 | 120,049 | Go | 是 | Go, ai, anthropic, caveman, claude |
-| 11 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | +432 | 94,219 | JavaScript | 否 | JavaScript, docker, monitor, monitoring, responsive |
-| 12 | [we-promise/sure](https://github.com/we-promise/sure) | +659 | 15,277 | Ruby | 否 | Ruby |
-| 13 | [Tencent/LoopForge](https://github.com/Tencent/LoopForge) | +101 | 884 | Go | 是 | Go, agent-orchestration, agentic-workflow, ai-agents, ai-coding |
-| 14 | [Likely7/Veyra-NRVideo](https://github.com/Likely7/Veyra-NRVideo) | +423 | 2,214 | C++ | 是 | C++ |
-| 15 | [martin-olivier/airgorah](https://github.com/martin-olivier/airgorah) | +269 | 5,832 | Rust | 是 | Rust, gui, kali, linux-app, security |
+| 1 | [dream-num/univer](https://github.com/dream-num/univer) | +1,041 | 25,585 | TypeScript | 是 | TypeScript, board, collaboration, doc, docx |
+| 2 | [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | +393 | 17,823 | TypeScript | 是 | TypeScript, ag-ui-protocol, agent-frontend, agent-ui, agentic-workflow |
+| 3 | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | +248 | 9,269 | TypeScript | 是 | TypeScript |
+| 4 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | +860 | 11,814 | TypeScript | 是 | TypeScript, agents, claude-code, code-review, codex |
+| 5 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | +718 | 56,889 | TypeScript | 是 | TypeScript, browser, chrome, chrome-devtools, debugging |
+| 6 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | +688 | 52,032 | Go | 是 | Go, AI, 代码审查 |
+| 7 | [Tencent/LoopForge](https://github.com/Tencent/LoopForge) | +484 | 1,447 | Go | 是 | Go, agent-orchestration, agentic-workflow, ai-agents, ai-coding |
+| 8 | [ggml-org/ggml](https://github.com/ggml-org/ggml) | +53 | 15,895 | C++ | 是 | C++, machine-learning |
+| 9 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | +221 | 6,389 | Python | 是 | Python, ai-security, anthropic, application-security, bug-bounty |
+| 10 | [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | +1,220 | 7,115 | TypeScript | 是 | TypeScript |
+| 11 | [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | +707 | 5,507 | Python | 是 | Python |
+| 12 | [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) | +205 | 1,640 | Python | 是 | Python, agent-evaluation, agent-plugins, agent-security, agent-skills |
 
 ## 新热点
 
