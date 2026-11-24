@@ -1,5 +1,9 @@
 {
-  "date": "2026-11-18",
-  "added": [],
-  "removed": []
+  "date": "2026-11-24",
+  "added": [
+    "JuliusBrussee/caveman"
+  ],
+  "removed": [
+    "browser-use/browser-use"
+  ]
 }
