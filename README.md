@@ -9,7 +9,7 @@
 ![Top100](https://img.shields.io/badge/Top--100_AI-33-orange.svg)
 ![Stars](https://img.shields.io/github/stars/idontlikefruit/ai-vibe-pick?style=social)
 ![Last Commit](https://img.shields.io/github/last-commit/idontlikefruit/ai-vibe-pick)
-![Data](https://img.shields.io/badge/data%20as%20of-2026--11--25-brightgreen)
+![Data](https://img.shields.io/badge/data%20as%20of-2026--11--26-brightgreen)
 
 </div>
 
@@ -58,7 +58,7 @@
 
 ## 📊 全站历史总榜 Top-100 分析
 
-> 来源：[EvanLi/Github-Ranking · Top-100-stars](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Top-100-stars.md) ｜ 采集：2026-11-25 ｜ 数据：[`data/top-100-stars.csv`](data/top-100-stars.csv) · [`data/source-top-100-stars.md`](data/source-top-100-stars.md)
+> 来源：[EvanLi/Github-Ranking · Top-100-stars](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Top-100-stars.md) ｜ 采集：2026-11-26 ｜ 数据：[`data/top-100-stars.csv`](data/top-100-stars.csv) · [`data/source-top-100-stars.md`](data/source-top-100-stars.md)
 
 **一句话结论**：GitHub 全站历史 Star 总榜前 100 里，**33 个是 AI / Agent 生态项目**。本次无新进入或移出。
 
@@ -201,26 +201,26 @@
 
 ## 🔥 Trending 今日热榜产品分析
 
-> 来源：https://github.com/trending （全语言 daily）｜采集：2026-11-25 ｜ 数据：[`data/trending-daily.csv`](data/trending-daily.csv) · 完整分析：[`reports/trending-analysis.md`](reports/trending-analysis.md)
+> 来源：https://github.com/trending （全语言 daily）｜采集：2026-11-26 ｜ 数据：[`data/trending-daily.csv`](data/trending-daily.csv) · 完整分析：[`reports/trending-analysis.md`](reports/trending-analysis.md)
 
 | 项目 | ⭐ Stars | 今日 ⭐ | 主语言 | AI 相关 | 框架 tags | 简介 |
 | :--- | ---: | ---: | :--- | :---: | :--- | :--- |
-| [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | 22,041 | +1,826 | Python | 是 | Python, ai-security, anthropic, a… | A Claude Code skill bundle for bug hunt… |
-| [obra/superpowers](https://github.com/obra/superpowers) | 326,124 | +1,003 | Shell | 是 | Shell, ai, brainstorming, coding,… | An agentic skills framework & software … |
-| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 65,201 | +1,074 | Python | 是 | Python | "CLI-Anything: Making ALL Software Agen… |
-| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 70,613 | +727 | Python | 是 | Python, artificial-intelligence, … | 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64… |
-| [cursor/plugins](https://github.com/cursor/plugins) | 19,364 | +360 | TypeScript | 否 | TypeScript | Cursor plugin specification and officia… |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 209,335 | +991 | TypeScript | 是 | TypeScript, ai, ai-agents, ai-cra… | Knowledge infrastructure to make your a… |
-| [nginx/nginx](https://github.com/nginx/nginx) | 33,285 | +158 | C | 是 | C, content-cache, http, http2, ht… | The official NGINX Open Source reposito… |
-| [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) | 12,543 | +185 | C++ | 是 | C++, ai, computer-vision, deep-le… | OpenVINO™ is an open source toolkit for… |
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 72,436 | +802 | HTML | 是 | HTML, agent-skills, claude-code, … | Editorial diagram design for Claude Cod… |
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 74,610 | +703 | Python | 是 | Python, agent-skills, artificial-… | AI agent skill that researches any topi… |
-| [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | 12,792 | +403 | TypeScript | 是 | TypeScript | A library of Agent Skills designed to w… |
-| [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) | 6,124 | +928 | Shell | 是 | Shell, accessibility, ai-agents, … | Avoid common App Store and Google Play … |
-| [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) | 15,314 | +398 | Python | 是 | Python, alerting, ci-cd, cli, dat… | The open-source agent for CI/CD reliabi… |
-| [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | 78,166 | +584 | TypeScript | 是 | TypeScript, app, crdt, editor, el… | There can be more than Notion and Miro.… |
-| [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) | 17,755 | +1,092 | Python | 否 | Python, async, asyncio, bittorent… | The only downloader you need. 下载器的集大成者。 |
-| [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) | 15,772 | +980 | Python | 是 | Python, ai-agent, ai-video-editor… | AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访… |
+| [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | 22,944 | +1,644 | Python | 是 | Python, ai-security, anthropic, a… | A Claude Code skill bundle for bug hunt… |
+| [obra/superpowers](https://github.com/obra/superpowers) | 326,587 | +902 | Shell | 是 | Shell, ai, brainstorming, coding,… | An agentic skills framework & software … |
+| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 65,645 | +1,094 | Python | 是 | Python | "CLI-Anything: Making ALL Software Agen… |
+| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 70,918 | +828 | Python | 是 | Python, artificial-intelligence, … | 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64… |
+| [cursor/plugins](https://github.com/cursor/plugins) | 19,522 | +408 | TypeScript | 否 | TypeScript | Cursor plugin specification and officia… |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 210,000 | +1,131 | TypeScript | 是 | TypeScript, ai, ai-agents, ai-cra… | Knowledge infrastructure to make your a… |
+| [nginx/nginx](https://github.com/nginx/nginx) | 33,363 | +174 | C | 是 | C, content-cache, http, http2, ht… | The official NGINX Open Source reposito… |
+| [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) | 12,648 | +188 | C++ | 是 | C++, ai, computer-vision, deep-le… | OpenVINO™ is an open source toolkit for… |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 72,993 | +1,133 | HTML | 是 | HTML, agent-skills, claude-code, … | Editorial diagram design for Claude Cod… |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 75,074 | +950 | Python | 是 | Python, agent-skills, artificial-… | AI agent skill that researches any topi… |
+| [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | 12,965 | +352 | TypeScript | 是 | TypeScript | A library of Agent Skills designed to w… |
+| [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) | 6,456 | +853 | Shell | 是 | Shell, accessibility, ai-agents, … | Avoid common App Store and Google Play … |
+| [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) | 15,504 | +343 | Python | 是 | Python, alerting, ci-cd, cli, dat… | The open-source agent for CI/CD reliabi… |
+| [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | 78,468 | +578 | TypeScript | 是 | TypeScript, app, crdt, editor, el… | There can be more than Notion and Miro.… |
+| [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) | 18,207 | +950 | Python | 否 | Python, async, asyncio, bittorent… | The only downloader you need. 下载器的集大成者。 |
+| [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) | 16,125 | +868 | Python | 是 | Python, ai-agent, ai-video-editor… | AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访… |
 
 **产品分析**：今日热榜共 **16** 个项目，其中 AI 相关 **14 个（88%）**。新热点集中在：AI Agent 工程教程、代码知识图谱/MCP、异构 LLM 推理、Voice AI、Coding Agent、Computer Use 与 GenBI。
 

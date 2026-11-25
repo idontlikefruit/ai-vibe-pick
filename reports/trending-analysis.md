@@ -1,25 +1,25 @@
 # GitHub Trending 今日热榜产品分析
 
-> 采集：2026-11-25 ｜ 项目：16 ｜ AI 相关：14（88%）
+> 采集：2026-11-26 ｜ 项目：16 ｜ AI 相关：14（88%）
 
 | # | 项目 | 今日⭐ | 总⭐ | 语言 | AI | tags |
 | :--: | :--- | ---: | ---: | :--- | :--: | :--- |
-| 1 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | +1,826 | 22,041 | Python | 是 | Python, ai-security, anthropic, application-security, bug-bounty |
-| 2 | [obra/superpowers](https://github.com/obra/superpowers) | +1,003 | 326,124 | Shell | 是 | Shell, ai, brainstorming, coding, obra |
-| 3 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | +1,074 | 65,201 | Python | 是 | Python |
-| 4 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | +727 | 70,613 | Python | 是 | Python, artificial-intelligence, large-language-model |
-| 5 | [cursor/plugins](https://github.com/cursor/plugins) | +360 | 19,364 | TypeScript | 否 | TypeScript |
-| 6 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | +991 | 209,335 | TypeScript | 是 | TypeScript, ai, ai-agents, ai-crawler, ai-scraping |
-| 7 | [nginx/nginx](https://github.com/nginx/nginx) | +158 | 33,285 | C | 是 | C, content-cache, http, http2, http3 |
-| 8 | [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) | +185 | 12,543 | C++ | 是 | C++, ai, computer-vision, deep-learning, deploy-ai |
-| 9 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | +802 | 72,436 | HTML | 是 | HTML, agent-skills, claude-code, codex, data-visualization |
-| 10 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | +703 | 74,610 | Python | 是 | Python, agent-skills, artificial-intelligence, automation, bot |
-| 11 | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | +403 | 12,792 | TypeScript | 是 | TypeScript |
-| 12 | [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) | +928 | 6,124 | Shell | 是 | Shell, accessibility, ai-agents, android, app-review-guidelines |
-| 13 | [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) | +398 | 15,314 | Python | 是 | Python, alerting, ci-cd, cli, datadog |
-| 14 | [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | +584 | 78,166 | TypeScript | 是 | TypeScript, app, crdt, editor, electron |
-| 15 | [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) | +1,092 | 17,755 | Python | 否 | Python, async, asyncio, bittorent, bt |
-| 16 | [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) | +980 | 15,772 | Python | 是 | Python, ai-agent, ai-video-editor, content-repurposing, desktop-app |
+| 1 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | +1,644 | 22,944 | Python | 是 | Python, ai-security, anthropic, application-security, bug-bounty |
+| 2 | [obra/superpowers](https://github.com/obra/superpowers) | +902 | 326,587 | Shell | 是 | Shell, ai, brainstorming, coding, obra |
+| 3 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | +1,094 | 65,645 | Python | 是 | Python |
+| 4 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | +828 | 70,918 | Python | 是 | Python, artificial-intelligence, large-language-model |
+| 5 | [cursor/plugins](https://github.com/cursor/plugins) | +408 | 19,522 | TypeScript | 否 | TypeScript |
+| 6 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | +1,131 | 210,000 | TypeScript | 是 | TypeScript, ai, ai-agents, ai-crawler, ai-scraping |
+| 7 | [nginx/nginx](https://github.com/nginx/nginx) | +174 | 33,363 | C | 是 | C, content-cache, http, http2, http3 |
+| 8 | [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) | +188 | 12,648 | C++ | 是 | C++, ai, computer-vision, deep-learning, deploy-ai |
+| 9 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | +1,133 | 72,993 | HTML | 是 | HTML, agent-skills, claude-code, codex, data-visualization |
+| 10 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | +950 | 75,074 | Python | 是 | Python, agent-skills, artificial-intelligence, automation, bot |
+| 11 | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | +352 | 12,965 | TypeScript | 是 | TypeScript |
+| 12 | [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) | +853 | 6,456 | Shell | 是 | Shell, accessibility, ai-agents, android, app-review-guidelines |
+| 13 | [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) | +343 | 15,504 | Python | 是 | Python, alerting, ci-cd, cli, datadog |
+| 14 | [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | +578 | 78,468 | TypeScript | 是 | TypeScript, app, crdt, editor, electron |
+| 15 | [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) | +950 | 18,207 | Python | 否 | Python, async, asyncio, bittorent, bt |
+| 16 | [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) | +868 | 16,125 | Python | 是 | Python, ai-agent, ai-video-editor, content-repurposing, desktop-app |
 
 ## 新热点
 
